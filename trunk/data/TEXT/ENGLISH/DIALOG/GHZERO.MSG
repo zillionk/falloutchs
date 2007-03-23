@@ -1,0 +1,4 @@
+# {100}{}{You see a ghoul guard.}
+# {101}{}{I'm on duty. If you want to see Set, you gotta do it inside.}
+{100}{}{你看到一个僵尸警卫。}
+{101}{}{我在工作。你要是想见赛特就去里面找他吧。}

@@ -1,0 +1,8 @@
+#{100}{}{You see Dogmeat.}
+#{101}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
+#{102}{}{[Sniff. Sniff.] Grrrr! Snarl!}
+#{103}{}{[Sniff. Sniff] Woof!}
+{100}{}{Äã¿´µ½ÁË¹·Èâ¡£}
+{101}{}{à»£¡à»à»£¡à»£¡à»£¡à»£¡à»£¡à»£¡à»£¡}
+{102}{}{¡¾ÎÅÎÅ¡£ÎÅÎÅ¡£¡¿ ö·ÑÀµÄÏÅÈËÉù£¡ ö·ÑÀÍþÐ²Éù£¡}
+{103}{}{¡¾ÎÅÎÅ¡£ÎÅÎÅ¡£¡¿ ÍôÍô£¡}
