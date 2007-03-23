@@ -1,0 +1,12 @@
+# {100}{}{This computer contains a great amount of information preserved from before the Great War.}
+# {101}{}{You use the Vault computer teaching system.}
+# {102}{}{You spend some time on the Vault computer teaching system but learn nothing of importance. The outside world is your teacher now.}
+# {103}{}{You spend some time researching some important information.}
+# {104}{}{You spend some time on the interweb doing nothing of importance.}
+# {105}{}{You fiddle with the computer a bit, but it takes some scientific skill to actually get anything useful out of the terminal.}
+{100}{}{这台计算机里有大量关于第一次世界大战的加密数据。}
+{101}{}{你使用了这个计算机教学系统。}
+{102}{}{你用了些时间去学习这台避难所计算机系统中的教学资料，但是发现没什么重要信息，现在外面的世界才是你真正的老师。}
+{103}{}{你用了些时间去研究那些重要的数据。}
+{104}{}{你在ＩｎｔｅｒＷｅｂ上用了很多时间，但什么什么重要信息也没找到。}
+{105}{}{你使用了计算机，但是以你的科学技能还不能在这终端上找出什么有价值的信息。}
