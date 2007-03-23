@@ -1,0 +1,242 @@
+# {100}{}{You see a caravan driver.}
+# {101}{}{Hi, if you're looking for a job on one of our caravans, you should talk to the Master Merchant.  She's in that building to the east.}
+# {102}{}{I'm sorry, but you need to talk to the Master Merchant.}
+# {103}{}{Good, you got the okay.  I knew it wouldn't be a problem.  She's so swamped lately, ever since
+# Daren Hightower started hiding in his office.  Strange man. We leave just about every five days. That's
+# the 1st, 5th, 10th, 15th, 20th, and the 25th. We currently only go to Junktown and the LA Boneyard.}
+# {104}{}{So what's the pay?}
+# {105}{}{Um.}
+# {106}{}{Our pay's 200 hubbucks. It's not that great, but we go out often and our routes aren't too dangerous and yes, like everyone else, that is for each way, but of course you don't have to go both ways. }
+# {107}{}{We leave today.  Are you interested?}
+# {108}{}{We leave on }
+# {109}{}{Empty}
+# {110}{}{}
+# {111}{}{. Are you interested?}
+# {112}{}{I'll still give you a job, even though… never mind.  Are you interested?}
+# {113}{}{Sure. }
+# {114}{}{No.}
+# {115}{}{Maybe.}
+# {116}{}{Yaya.}
+# {117}{}{Tae?}
+# {118}{}{Oh, okay.  Not a problem.  Just let me know if you change your mind.}
+# {119}{}{I wish you would make up your mind.}
+# {120}{}{Well, just stop by if you decide to work for us.  That's the 1st, 5th, and so on. Bye.}
+# {121}{}{I'm sorry, but I can't hire you unless you can communicate clearly with the rest of the crew.}
+# {122}{}{Please come back when you are feeling better.}
+# {123}{}{Uh, are you all right?  I think you need to get something to eat, but don't go to Bob's.}
+# {124}{}{I said get lost!}
+# {125}{}{I'm quite disappointed in you… stealing!  Now why did you do that?}
+# {126}{}{Cuz I'm a mean green moth'a from outer space, and I'm… ‘bad'!}
+# {127}{}{I didn't want to, but I'm starving and I have kids to feed.}
+# {128}{}{I'll carve your heart out with a spoon! }
+# {129}{}{(Surrender)}
+# {130}{}{(Attack)}
+# {131}{}{I tried to help you, but I guess some people are beyond help.  Sorry, to say this but we're going to
+# have to do this the violent way.}
+# {132}{}{I understand, but that doesn't justify it.  I'm still going to have to ask you to leave.  We can't
+# hire people who can't control their own temptations.}
+# {133}{}{Do you really expect me to fall for that crap?  Guards!}
+# {134}{}{I'm sorry, but sometimes a little cell time can heal a person.  Guards!  Try ‘not' to kill
+# her. Will you surrender to my guards?}
+# {135}{}{I'll see you in hell!}
+# {136}{}{Yes.  I'm sorry.}
+# {137}{}{What? Are you going to get into another fight?}
+# {138}{}{I'm sorry but you must leave immediately or I will be forced to call the police!}
+# {139}{}{Guards! Police!}
+# {140}{}{I think you should leave..}
+# {141}{}{Sorry, but I'm not allowed to hire you.}
+# {142}{}{Please, you're making this difficult on me.}
+# {143}{}{Please leave.}
+# {144}{}{Intriguing, but you're not my type.}
+# {145}{}{Outstanding! The pay will be 200 hubbucks. Which route would you prefer?}
+# {146}{}{Fabulous.  Please come by on }
+# {147}{}{1st}
+# {148}{}{5th}
+# {149}{}{10th}
+# {150}{}{15th}
+# {151}{}{20th}
+# {152}{}{25th}
+# {153}{}{.  You'll leave then.  As always it will pay 200 hubbucks.}
+# {154}{}{Okay.}
+# {155}{}{Sorry, can't wait.}
+# {156}{}{It's a tragedy.  We lost the whole caravan, but you survived?  That shouldn't have happened. I don't
+# know what happened out there, but we can't hire you anymore. I'm sorry.}
+# {157}{}{Junktown}
+# {158}{}{LA Boneyard }
+# {159}{}{Um, not right now. Maybe another time.}
+# {160}{}{Outstanding, I'll get the rest of the crew.}
+# {161}{}{Great.}
+# {162}{}{Off you go.  Good luck!}
+# {163}{}{Try to avoid trouble, don't go looking for it.}
+# {164}{}{Be careful, I don't like the looks of the Boneyard.  It's creepy.}
+# {165}{}{That's good. Those black walkways are really strange, but they're great to travel on.}
+# {166}{}{I think there are some gangs down there.  I'd be very careful who you talk to.}
+# {167}{}{Great.  Junktown's a decent place.}
+# {168}{}{Oh, say 'hi' to that… Kill.. again?  I forget his name, but he's a decent fellow.  I wonder how
+# he's doing.}
+# {169}{}{Interesting place.  I hear they have some evil doctor that animates the dead, or something.}
+# {170}{}{Why on earth did you leave that last caravan?  Nothing terrible happened to it, but something could
+# have.}
+# {171}{}{Can I have another chance?}
+# {172}{}{Nothing.}
+# {173}{}{I don't give a crap!}
+# {174}{}{Ig wa neeka rooola?}
+# {175}{}{Lig.}
+# {176}{}{I'm sorry, you've failed me again. You don't seem to be very responsible, and that isn't a very good
+# combination for our line of work.}
+# {177}{}{Why should I?}
+# {178}{}{You shouldn't.}
+# {179}{}{Because I'm going to put a hole through your head if you don't.}
+# {180}{}{I had better things to do, than hang around some dumb caravan.}
+# {181}{}{I didn't know I wasn't allowed to leave. Everything seemed okay.}
+# {182}{}{I see… you where on drugs.  Well, live that life if you wish it.}
+# {183}{}{I'm sorry you feel that way.}
+# {184}{}{I'm surprised you've never done a caravan before, but I guess no harm came of it… so, sure.
+# I'll give you one more chance.}
+# {185}{}{You did a fine job!  Would you like another caravan?}
+# {186}{}{Sure.}
+# {187}{}{No.}
+# {188}{}{Maybe.}
+# {189}{}{Eeek!}
+# {190}{}{Lub.}
+# {191}{}{Ready to go?  We're leaving today.}
+# {192}{}{Yes.}
+# {193}{}{No!}
+# {194}{}{Ack!}
+# {195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated until you leave with the caravan, right?}
+# {196}{}{You're a little early. The next caravan run isn't until }
+# {197}{}{1st}
+# {198}{}{5th}
+# {199}{}{10th}
+# {200}{}{15th}
+# {201}{}{20th}
+# {202}{}{25th}
+# {203}{}{. Come back then if you would still like the job. }
+# {204}{}{January }
+# {205}{}{February }
+# {206}{}{March }
+# {207}{}{April }
+# {208}{}{May }
+# {209}{}{June }
+# {210}{}{July }
+# {211}{}{August }
+# {212}{}{September }
+# {213}{}{October }
+# {214}{}{November }
+# {215}{}{December }
+{100}{}{Äã¿´µ½¸öÉÌ¶Ó³µ·ò¡£}
+{101}{}{ÄãºÃ£¬Èç¹ûÄãÔÚÎÒÃÇÆäÖĞÖ®Ò»µÄÉÌ¶ÓÕÒ¹¤×÷µÄ»°£¬Ó¦¸ÃºÍÉÌ¶ÓÖ÷¹ÜÌ¸£¬ËıÔÚ¶«ÃæµÄÎİÀï¡£}
+{102}{}{±§Ç¸£¬ÄãÒªºÍÉÌ¶ÓÖ÷¹ÜËµ¡£}
+{103}{}{ºÃ£¬Äã»¹ºÃ¡£ÎÒÖªµÀÕâ²»ÊÇ¸öÎÊÌâ¡£×Ô´Ó´ïÂ×¡¤º£ÍĞ¿ªÊ¼²ØÔÚËûµÄ°ì¹«ÊÒÀï£¬Ëı¾ÍÃ¦µÄ²»¿É¿ª½»¡£Ææ¹ÖµÄÄĞÈË¡£ÎÒÃÇÃ¿¸ôÎåÌìÀë¿ª¡£Ò»ÈÕ£¬ÎåÈÕ£¬Ê®ÈÕ£¬Ê®ÎåÈÕ£¬¶şÊ®ÈÕ£¬¶şÊ®ÎåÌß¡£ÎÒÃÇÏÖÔÚÖ»È¥åÈ¿ËÕòºÍ¿İ¹ÇÖ®µØ¡£}
+{104}{}{ÄÇÃ´£¬¼ÛÇ®ÔõÃ´Ëã£¿}
+{105}{}{àÅ¡£}
+{106}{}{±¨³êÊÇ£²£°£°¸öÆ¿¸Ç¡£²»ÊÇºÜ¶à£¬µ«ÊÇÎÒÃÇ»î¶à¶øÇÒÎÒÃÇ¹¤×÷Ã»ÓĞÎ£ÏÕ¡£¾ÍÏñÄ³ÈËËµÄã²»ÄÜÁ½Í·¶¼Õ¼ºÃ´¦¡£}
+{107}{}{ÎÒÃÇ½ñÌì¾Í³ö·¢£¬ÄãÓĞĞËÈ¤Âğ£¿}
+{108}{}{ÎÒÃÇ×ß}
+{109}{}{¿ÕµÄ}
+{110}{}{}
+{111}{}{¡£Äã¸ĞĞËÈ¤Âğ£¿}
+{112}{}{²»¹ÜÔõÃ´Ñù£¬ÎÒÈÔÈ»¸øÄã¹¤×÷£¬²»Òª½éÒâ¡£ÄãÓĞĞËÈ¤Âğ£¿}
+{113}{}{µ±È»¡£}
+{114}{}{²»¡£}
+{115}{}{¿ÉÄÜ¡£}
+{116}{}{Ñ½Ñ½¡£}
+{117}{}{ß×£¿}
+{118}{}{Å¶£¬ºÃ°É¡£Ã»ÎÊÌâ¡£Èç¹ûÄã¸Ä±äÖ÷Òâ£¬¸æËßÎÒ¡£}
+{119}{}{ÎÒÏ£ÍûÄãÄÜ¾ö¶¨¡£}
+{120}{}{ºÃ°É£¬µ±Äã¾ö¶¨ÎªÎÒÃÇ¸É»îÊ±¹ıÀ´¡£Ò»ÈÕ¡¢ÎåÈÕµÈµÈ¡£ÔÙ¼û£¡}
+{121}{}{±§Ç¸£¬µ«ÊÇÎÒ²»ÄÜ¹ÍÓ¶Äã³ı·ÇÄãÄÜÇå³şµØÓë¶ÓÔ±¹µÍ¨¡£}
+{122}{}{µ±ÄãºÃµãµÄÊ±ºòÔÙÀ´¡£}
+{123}{}{¶î£¬Äã»¹ºÃ°É£¿ÎÒÈÏÎªÄãĞèÒª³ÔĞ©¶«Î÷£¬µ«ÊÇ²»ÒªÈ¥±«²ªÄÇÀï¡£}
+{124}{}{ÎÒËµ¹ıÃÔÂ·ÁË£¡}
+{125}{}{ÎÒ¶ÔÄãºÜÊ§Íû£¿Íµ¶«Î÷£¡ÄãÎªÊ²Ã´ÄÇÑù×ö£¿}
+{126}{}{ÎÒÊÇÀ´×ÔÍâ²ã¿Õ¼äµÄ·É¶ê£¬²¢ÇÒÎÒÒÑ¾­ËÀÀ²£¡}
+{127}{}{ÎÒ²»Ïë×ö£¬µ«ÊÇÎÒºÃ¶ö£¬¶øÇÒÎÒÓĞĞ¡º¢ÒªÎ¹¡£}
+{128}{}{ÎÒ½«ÓÃÒ»¸öÉ××ÓÍÚ³öÄãµÄĞÄ£¡}
+{129}{}{¡¾Í¶½µ¡¿}
+{130}{}{¡¾¹¥»÷¡¿}
+{131}{}{ÎÒÏë°ïÄã£¬µ«ÊÇÕâ³¬³öÁËÎÒµÄÄÜÁ¦¡£±§Ç¸ÕâÑùËµ£¬µ«ÊÇÎÒÃÇ±ØĞëÓÃ±©Á¦·½·¨½â¾öÕâÊÂ¡£}
+{132}{}{ÎÒÃ÷°×£¬µ«ÊÇÄÇ²»ÄÜÖ¤Ã÷Ê²Ã´£¬ÎÒ±ØĞëÈÃÄãÀë¿ª¡£ÎÒÃÇ²»¹ÍÄÇĞ©ÎŞ·¨×Ô¿ØµÄÈË¡£}
+{133}{}{ÄãÕæµÄÈÏÎªÄÇĞ©·Ï»°ÄÜÆ­¹ıÎÒ£¿¾¯ÎÀ£¡}
+{134}{}{±§Ç¸£¬µ«ÊÇÓĞÊ±ºòÒ»Ğ¡¶ÎÊ±¼ä¿ÉÒÔÖÎÓúÒ»¸öÈË¡£¾¯ÎÀ»á¸ÉµôÄã¡£Äã»áÏòÎÒµÄ¾¯ÎÀÍ¶½µÂğ£¿}
+{135}{}{ÎÒ½«ÔÚµØÓü¼ûµ½Äã¡£}
+{136}{}{ÊÇµÄ£¬±§Ç¸¡£}
+{137}{}{Ê²Ã´£¿ÄãÏëÔÙ¸ÉÒ»ÕÌ£¿}
+{138}{}{±§Ç¸Äã±ØĞëÂíÉÏÀë¿ª»òÕßÎÒÇë¾¯²ìÇ¿ÖÆ´øÄã×ß£¡}
+{139}{}{¾¯ÎÀ£¡¾¯²ì£¡}
+{140}{}{ÎÒÈÏÎªÄã¸ÃÀë¿ª¡£}
+{141}{}{±§Ç¸£¬ÎÒ²»¹ÍÓ¶Äã¡£}
+{142}{}{Çë°É¡£ÄãÔÚ¸øÎÒÖÆÔìÂé·³¡£}
+{143}{}{ÇëÀë¿ª¡£}
+{144}{}{ÓĞµãºÃÆæ£¬µ«ÊÇÄã²»ÊÇÎÒĞèÒªµÄÀàĞÍ¡£}
+{145}{}{Î´Íê³ÉµÄ£¡±¨³êÊÇ£²£°£°¸öÆ¿¸Ç¡£ÄãÏ²»¶ÄÇÌõÂ·Ïß£¿}
+{146}{}{ºÃ¼«ÁË¡£ÇëÔÙÀ´¡£}
+{147}{}{£±ÈÕ}
+{148}{}{£µÈÕ}
+{149}{}{£±£°ÈÕ}
+{150}{}{£±£µÈÕ}
+{151}{}{£²£°ÈÕ}
+{152}{}{£²£µÈÕ}
+{153}{}{¡£ÄãÏÖÔÚ¿ÉÒÔÀë¿ªÁË¡£Í¨³£ÎÒÃÇ»á¸¶£²£°£°¸öÆ¿¸Ç¡£}
+{154}{}{ºÃ°É¡£}
+{155}{}{±§Ç¸£¬²»ÄÜµÈ¡£}
+{156}{}{ÕâÕæÊÇÒ»¸ö±¯¾ç¡£ÎÒÃÇËğÊ§ÁËÕû¸öÉÌ¶Ó£¬µ«ÊÇÄãÒ»¸öÈËÉú»¹ÁË£¿ÄÇ²»¸Ã·¢Éú£¬ÎÒ²»ÖªµÀÄÇ¶ù·¢ÉúÁËÊ²Ã´£¬µ«ÊÇÎÒÃÇ²»»áÔÙ¹ÍÄãÁË¡£±§Ç¸¡£}
+{157}{}{¡¾åÈ¿ËÕò¡¿}
+{158}{}{¡¾¿İ¹ÇÖ®µØ¡¿}
+{159}{}{àÅ£¬²»ÊÇÏÖÔÚ£¬»òĞíÊÇÆäËûÊ±¼ä¡£}
+{160}{}{Î´¸¶ÇåÕÊ¿î£¬ÎÒ½«µÃµ½Ê£ÓàµÄ¡£}
+{161}{}{ºÜºÃ¡£}
+{162}{}{Äã×ß°É¡£ºÃÔË£¡}
+{163}{}{¾¡Á¿±ÜÃâÈÎºÎÂé·³¡£}
+{164}{}{Ğ¡ĞÄ£¬ÎÒ²»Ï²»¶¿İ¹ÇÖ®µØ£¬ËüÁîÈËÃ«¹Çã¤È»¡£}
+{165}{}{ºÜºÃ¡£ÄÇĞ©ºÚÉ«µÄ¹ıµÀÕæÆæ¹Ö£¬µ«ÊÇºÜºÃ×ß¡£.}
+{166}{}{ÎÒÈÏÎªÄÇ¶ùÓĞĞ©×éÖ¯¡£ÎÒ½«»á·Ç³£Ğ¡ĞÄºÍÄãË­Ëµ»°µÄÈË¡£}
+{167}{}{Ì«°ôÁË¡£åÈ¿ËÕòÊÇ¸öºÃµØ·½¡£}
+{168}{}{Å¶£¬¶ÔÄÇ¸öËµÄãºÃ£¿É±......ÔÙ´Î£¿ÎÒÍüÁËËûµÄÃû×Ö£¬µ«ÊÇËûÊÇÒ»¸öÏàµ±ºÃµÄÈË¡£ÎÒÏëÖªµÀËûÏÖÔÚÔõÃ´Ñù¡£}
+{169}{}{ÓĞÈ¤µÄµØ·½¡£ÎÒÌıËµËûÃÇÓĞĞ©Ğ°¶ñµÄÒ½Éúµ¼ÖÂËÀÍö»òÆäËûÊÂÇé¡£}
+{170}{}{¾¿¾¹ÎªÊ²Ã´ÄãÀë¿ªÁË×îºóµÄÉÌ¶Ó£¿Ã»ÓĞ¿ÉÅÂµÄÊÂÇé·¢Éú¡£}
+{171}{}{¿ÉÒÔÔÙ¸øÎÒÒ»´Î»ú»á£¿}
+{172}{}{Ã»ÊÂ¡£}
+{173}{}{ÎÒ²»½²ºú»°£¡}
+{174}{}{ß×£®£®ÍÛ£¬£¬£¬Ñ½£¿}
+{175}{}{ÏĞ¹ä¡£}
+{176}{}{±§Ç¸£¬ÄãÓÖÊ§°ÜÁË¡£ÄãÃ»ÓĞÔğÈÎ¸Ğ£¬¶øÇÒÕâ¶ÔÎÒÃÇµÄ¹¤×÷²»ºÃ¡£}
+{177}{}{ÎªÊ²Ã´ÎÒÓ¦¸Ã£¿}
+{178}{}{Äã²»Ó¦¸Ã¡£}
+{179}{}{Èç¹ûÄã²»¸É£¬ÎÒÔÚÄãµÄÍ·ÉÏ¿ª¸ö¶´¡£}
+{180}{}{ÎÒÓĞ±ÈÉÌ¶Ó»¤ÎÀ¸üºÃµÄ»îÈ¥×ö¡£}
+{181}{}{ÎÒÏëÎÒÔÊĞí±»Àë¿ª£¬Ã¿¼şÊÂÇé¾Í¶¼»áºÜºÃ¡£}
+{182}{}{ÎÒÃ÷°×£¿ÄãÄÄÀïÔÚÒ©Îï¡£ºÃ°É£¬Èç¹ûÄãÔ¸ÒâÔÚÄÇ¶ùÉú»î°É¡£}
+{183}{}{±§Ç¸ÄãÄÇÑù¸Ğ¾õ¡£}
+{184}{}{ÎÒºÜ¾ªÑÈ£¬ÄãÒÔÇ°´ÓÎ´ÔÚÉÌ¶ÓÀï¸É¹ı£¬µ«ÎÒ¾õµÃÄÇ²»ÊÇÎÊÌâ£¬ËùÒÔÎÒ´òËãÔÙ¸øÄãÒ»¸ö»ú»á¡£}
+{185}{}{Õâ»îÄã¸ÉµÄ²»´í£¬ÄãÏëÒªÁíÍâÒ»¸öÉÌ¶ÓÂğ£¿}
+{186}{}{¿Ï¶¨¡£}
+{187}{}{²»¡£}
+{188}{}{¿ÉÄÜ¡£}
+{189}{}{ß×Ñ½£¡}
+{190}{}{À²À²¡£}
+{191}{}{×¼±¸ºÃ×ßÁËÂğ£¿ÎÒÃÇ½ñÌìÀë¿ª¡£}
+{192}{}{ÊÇ¡£}
+{193}{}{²»£¡}
+{194}{}{°¡°¡£¡}
+{195}{}{ÁíÍâÎÒ½«°ÑËü¸øÆäËûÈË£¬²»Òªµ£ĞÄËü¡£ÄãÓĞÒåÎñÖ±µ½ÄãºÍÉÌ¶ÓÒ»ÆğÀë¿ª£¬¶ÔÂğ£¿}
+{196}{}{ÄãÀ´ÔçÁË£¬ÏÂÒ»¸öÉÌ¶Ó»¹Ã»¿ªÊ¼¡£}
+{197}{}{£±ÈÕ}
+{198}{}{£µÈÕ}
+{199}{}{£±£°ÈÕ}
+{200}{}{£±£µÈÕ}
+{201}{}{£²£°ÈÕ}
+{202}{}{£²£µÈÕ}
+{203}{}{¡£Èç¹ûÄãÈÔÈ»Ï²»¶Õâ¸ö¹¤×÷¾Í»ØÀ´ÕÒÎÒÃÇ¡£}
+{204}{}{Ò»ÔÂ}
+{205}{}{¶şÔÂ}
+{206}{}{ÈıÔÂ}
+{207}{}{ËÄÔÂ}
+{208}{}{ÎåÔÂ}
+{209}{}{ÁùÔÂ}
+{210}{}{ÆßÔÂ}
+{211}{}{°ËÔÂ}
+{212}{}{¾ÅÔÂ}
+{213}{}{Ê®ÔÂ}
+{214}{}{Ê®Ò»ÔÂ}
+{215}{}{Ê®¶şÔÂ}
