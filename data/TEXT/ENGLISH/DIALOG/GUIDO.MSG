@@ -1,0 +1,16 @@
+#{100}{}{You see Guido.}
+{100}{}{你看见盖多。}
+#{101}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
+{101}{}{我说你就来硬的，很快就能让人服服贴贴的。}
+#{102}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
+{102}{}{管他娘的出其不意。我们不是艺术家，我们是职业派。呃，利昂，有些家伙想和我们谈谈。介于他们的行为，我们是不是应该杀了他们？}
+#{103}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
+{103}{}{我说你就来硬的，很快就能让人服服贴贴的。}
+#{104}{}{I ain't paid to talk.}
+{104}{}{谈话是免费的。}
+#{105}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
+{105}{}管他娘的出其不意。我们不是艺术家，我们是职业派。呃，利昂，有些家伙想和我们谈谈。介于他们的行为，我们是不是应该杀了他们？}
+#{106}{}{I say you just use brute force. It don't take that much to bust a knee cap.}
+{106}{}{我说你就来硬的，很快就能让人服服贴贴的。}
+#{107}{}{Who cares about shock value? We ain't artists, we're professionals. Uh, Leone, someone's trying to talk to us. Aren't we supposed to kill them if they do that?}
+{107}{}{管他娘的出其不意。我们不是艺术家，我们是职业派。呃，利昂，有些家伙想和我们谈谈。介于他们的行为，我们是不是应该杀了他们？}

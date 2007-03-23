@@ -1,0 +1,8 @@
+# {100}{}{You see Garret. He is watching you closely.}
+# {101}{}{Fix the water pump now or die.}
+# {102}{}{Good job!}
+# {103}{}{Get back here and fix this water pump!}
+{100}{}{你看到盖瑞特。他正密切的注视着你。}
+{101}{}{现在修好这水泵要不就死。}
+{102}{}{干得漂亮。}
+{103}{}{回来！修好这个水泵！}
