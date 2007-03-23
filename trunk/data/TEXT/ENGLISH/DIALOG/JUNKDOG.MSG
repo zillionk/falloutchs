@@ -5,10 +5,10 @@
 # {104}{}{You gain 100 experience points for helping Phil solve his canine conundrum.}
 # {105}{}{It seems that you have made a friend of this dog.}
 # {106}{}{The dog seems to think you are his owner.}
-{100}{}{你看到一条狗，它好像一直根着你。}
+{100}{}{你看到一条狗，它好像一直在跟着你。}
 {101}{}{你看到一条狗。}
 {102}{}{喔～～呜～～}
 {103}{}{呜呜！}
 {104}{}{你得到１００经验值，因为你帮菲尔找到他丢失的狗。}
-{105}{}{看起来这条狗和你已经成为很好的朋友了。}
+{105}{}{看起来你和这条狗已经成为很好的朋友了。}
 {106}{}{这狗把你当成它的主人。}
