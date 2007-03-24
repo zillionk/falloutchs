@@ -160,7 +160,7 @@
 {154}{}{Ａｌｐｈａ　Ｄｅｌｔａ　２８７　Ｆｏｘｔｒｏｔ}
 
 #{155}{}{[Attempt to hack the computer]}
-{155}{}{［尝试入侵计算机］}
+{155}{}{【尝试入侵计算机】}
 
 #{156}{}{Invalid authorization code. Command?}
 {156}{}{无效授权代码。命令？}
