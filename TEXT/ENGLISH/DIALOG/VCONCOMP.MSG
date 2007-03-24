@@ -1,0 +1,261 @@
+#{100}{}{You see the Vats Control Computer.}
+{100}{}{你看到病毒槽控制计算机}
+
+#{101}{}{Access denied.}
+{101}{}{拒绝访问。}
+
+#{102}{}{Access granted. Command?}
+{102}{}{允许访问。命令？}
+
+#{103}{}{Display security codes.}
+{103}{}{显示安全，密码。}
+
+#{104}{}{Search logs.}
+{104}{}{搜索日志。}
+
+#{105}{}{Uplink to medical computers.}
+{105}{}{连入医学计算机。}
+
+#{106}{}{Set base to alert status.}
+{106}{}{设置基地为警戒状态。}
+
+{107}{}{１７６５２-１０２８-１２８５３６２}
+{108}{}{６７２０９-５５７４-７８０５５６４}
+{109}{}{５５６５８-８６７８-１２５１５３３}
+{110}{}{３１９１４-１０４１-１２５１５１４}
+{111}{}{５３４７８-２５６５-７７６３９２９}
+{112}{}{４４３０９-３６７４-１２５４７３０}
+
+#{113}{}{[Attempt to hack the firewall to get more data] Display security code
+#encryption table.}
+{113}{}{【尝试入侵防火墙来得到更多数据】显示安全密码表。} 
+
+#{114}{}{Executing 17652-1028-1285362}
+{114}{}{执行 １７６５２-１０２８-１２８５３６２}
+
+#{115}{}{Executing 67209-5574-7805564}
+{115}{}{执行 ６７２０９-５５７４-７８０５５６４}
+
+#{116}{}{Executing 55658-8678-1251533}
+{116}{}{执行 ５５６５８-８６７８-１２５１５３３}
+
+#{117}{}{Executing 31914-1041-1251514}
+{117}{}{执行 ３１９１４-１０４１-１２５１５１４}
+
+#{118}{}{Executing 53478-2565-7763929}
+{118}{}{执行 ５３４７８-２５６５-７７６３９２９}
+
+#{119}{}{Executing 44309-3674-1254730}
+{119}{}{执行 ４４３０９-３６７４-１２５４７３０}
+
+#{120}{}{[You have successfully hacked into the encryption table.] Command?}
+{120}{}{【你成功破解了加密表】命令？}
+
+#{121}{}{17652-1028-1285362 initiate 1 minute silent self destruct sequence}
+{121}{}{１７６５２-１０２８-１２８５３６２ 初始化 １ 分钟无声自毁序列}
+
+#{122}{}{67209-5574-7805564 initiate 30 second self destruct sequence and
+#set base to alert}
+{122}{}{６７２０９-５５７４-７８０５５６４ 初始化 ３０ 秒自毁序列并设置基地为警报状态}
+
+#{123}{}{55658-8678-1251533 set base to alert status}
+{123}{}{５５６５８-８６７８-１２５１５３３ 设置基地为警报状态}
+
+#{124}{}{31914-1041-1251514 initiate 3 minute silent self-destruct sequence}
+{124}{}{３１９１４-１０４１-１２５１５１４ 初始化 ３ 分钟无声自毁序列}
+
+#{125}{}{53478-2565-7763929 initiate 3 minute self-destruct sequence and set base
+#to alert}
+{125}{}{５３４７８-２５６５-７７６３９２９ 初始化 ３ 分钟自毁序列并设置基地为警报状态}
+
+#{126}{}{44309-3674-1254730 immediate self-destruct}
+{126}{}{４４３０９-３６７４-１２５４７３０ 立即自毁}
+
+#{127}{}{Invalid command. End input session.}
+{127}{}{无效命令。终止输入会话。}
+
+#{128}{}{Specify log you would like to review.}
+{128}{}{指定你要浏览的日志。}
+
+#{129}{}{Grey}
+{129}{}{格雷}
+
+#{130}{}{Boyarsky}
+{130}{}{波亚斯基}
+
+#{131}{}{Maxson}
+{131}{}{马克松}
+
+#{132}{}{Anderson}
+{132}{}{安德森}
+
+#{133}{}{Download log of Richard Grey?}
+{133}{}{下载理查德·格雷的日志？}
+
+#{134}{}{Yes.}
+{134}{}{是。}
+
+#{135}{}{Return to main menu.}
+{135}{}{返回到主菜单。}
+
+#{136}{}{Download log of Capt. Maxson?}
+{136}{}{下载马克松上尉的日志？}
+
+#{137}{}{Yes.}
+{137}{}{是。}
+
+#{138}{}{Return to main menu.}
+{138}{}{返回到主菜单。}
+
+#{139}{}{Unexpected end of line. Bad data encountered. Command?}
+{139}{}{传输意外结束。遇到损坏数据。命令？}
+
+#{140}{}{Command?}
+{140}{}{命令？}
+
+#{141}{}{Uplink successful. What is your command?}
+{141}{}{连入成功。你的命令是？}
+
+#{142}{}{What is the current status of the patients?}
+{142}{}{患者的当前情况？}
+
+#{143}{}{Current status on patients as follows: FEV batch #23872-A consists of four
+#male units and two female units. All individuals suffering from FEV exposure.
+#Vital signs are within normal parameters. FEV process on all subjects is
+#approxiamtely 50% complete. Expect full FEV transformation within 12 hours.}
+{143}{}{患者当前情况如下：ＦＥＶ病毒批次＃２３８７２－Ａ有四名男性单元和两名女性单元。所有个体受到ＦＥＶ病毒的感染。生命体征在正常范围内。每个对象体内ＦＥＶ病毒进程大约５０％。预计１２小时内ＦＥＶ病毒转化全部完成。}
+
+#{144}{}{I think something is happening to one of the patients. Is there anything
+#I can do?}
+{144}{}{我想其中有一个患者出了些问题。我可以做什么？}
+
+#{145}{}{Patient suffering arrhythmia. Display patient status logs.}
+{145}{}{患者心率失常。显示患者情况日志。}
+
+#{146}{}{Available options are:}
+{146}{}{可用选项：}
+
+#{147}{}{Status report on individual patients.}
+{147}{}{单例患者情况报告。}
+
+#{148}{}{Shut down life support systems.}
+{148}{}{关闭生命维持系统。}
+
+#{149}{}{Increase dosage of original DNA strands of subjects to 100%.}
+{149}{}{增大对象的原始ＤＮＡ链比例至１００％}
+
+#{150}{}{Log off.}
+{150}{}{退出登录}
+
+#{151}{}{Please enter authorization code.}
+{151}{}{请输入授权代码。}
+
+#{152}{}{Authorization 3578X287A.}
+{152}{}{授权 ３５７８Ｘ２８７Ａ。}
+
+#{153}{}{Z876342BCD}
+{153}{}{Ｚ８７６３４２ＢＣＤ}
+
+#{154}{}{Alpha Delta 287 Foxtrot}
+{154}{}{Ａｌｐｈａ　Ｄｅｌｔａ　２８７　Ｆｏｘｔｒｏｔ}
+
+#{155}{}{[Attempt to hack the computer]}
+{155}{}{［尝试入侵计算机］}
+
+#{156}{}{Invalid authorization code. Command?}
+{156}{}{无效授权代码。命令？}
+
+#{157}{}{Authorization code accepted. Please stand by. Accessing data.
+#Ready to process request.}
+{157}{}{授权代码有效。请稍候。访问数据中。准备处理请求。}
+
+#{158}{}{Terminate life support systems on FEV batch #23872-A.}
+{158}{}{终止ＦＥＶ病毒批次＃２３８７２－Ａ的生命维持系统。}
+
+#{159}{}{Increase original DNA strand dosage to 100% on all subjects.}
+{159}{}{增大所有对象的原始ＤＮＡ链比例至１００％}
+
+#{160}{}{Access granted. Which patient file would you like to examine?}
+{160}{}{允许访问。你想检查哪位患者的档案？}
+
+#{161}{}{Patient file #23869.}
+{161}{}{患者档案 ＃２３８６９。}
+
+#{162}{}{Patient file #23870.}
+{162}{}{患者档案 ＃２３８７０。}
+
+#{163}{}{Patient file #23871.}
+{163}{}{患者档案 ＃２３８７１。}
+
+#{164}{}{Patient file #23872.}
+{164}{}{患者档案 ＃２３８７２。}
+
+#{165}{}{Patient file #23869. Subject: Male. Age 25. Radiation count: 40. FEV exposure:
+#50%. Original DNA strands remaining: 50%. Vital signs are high but within normal
+#parameters.}
+{165}{}{患者档案 ＃２３８６９。对象：男。年龄２５。辐射计数：４０。FEV病毒感染：５０％。原始ＤＮＡ链残留：５０％。生命体征较高但在正常范围内。}
+
+#{166}{}{I would like to examine another patient file.}
+{166}{}{我要检查其他患者档案。}
+
+#{167}{}{Patient file #23870. Subject: Male. Age 23. Radiation count: 15. FEV
+#exposure: 60%. Original DNA strands remaining: 40%. Vital signs are within
+#normal parameters.}
+{167}{}{患者档案 ＃２３８７０。对象：男。年龄２３。辐射计数：１５。FEV病毒感染：６０％。原始ＤＮＡ链残留：４０％。生命体征在正常范围内。}
+
+#{168}{}{Patient file #23781. Subject: Female. Age 20. Radiation count: 10. FEV
+#exposure: 55%. Original DNA strands remaining: 45%. Vital signs are within normal
+#parameters.}
+{168}{}{患者档案 ＃２３８７１。对象：女。年龄２０。辐射计数：１０。FEV病毒感染：５５％。原始ＤＮＡ链残留：４５％。生命体征在正常范围内。}
+
+#{169}{}{Patient file #23782. Subject: Male. Age 26. Radiation count: 35. FEV
+#exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above
+#normal but within acceptable parameters.}
+{169}{}{患者档案 ＃２３８７２。对象：女。年龄２６。辐射计数：３５。FEV病毒感染：６０％。原始ＤＮＡ链残留：４０％。生命体征较低但在正常范围内。}
+
+#{170}{}{Are you sure you wish to terminate the life support systems on FEV batch
+##23872-A?}
+{170}{}{你确定你想要终止ＦＥＶ病毒批次＃２３８７２－Ａ的生命维持系统吗？}
+
+#{171}{}{FEV batch #23872-A terminated. Command?}
+{171}{}{ＦＥＶ病毒批次＃２３８７２－Ａ已终止。命令？}
+
+#{172}{}{Yes.}
+{172}{}{是。}
+
+#{173}{}{No.}
+{173}{}{不。}
+
+#{174}{}{Are you sure you wish to increase the dosage? Auto-correction will be
+#disabled if you do this.}
+{174}{}{你确定你想要增大比例吗？如果这样，自动校正将被禁止。}
+
+#{175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has
+#been disabled.}
+{175}{}{增大所有对象的原始ＤＮＡ链比例至１００％。警告：自动校正已被禁止。}
+
+#{176}{}{You manage to get an interface screen out of the vats control computer.}
+{176}{}{你想办法从病毒槽控制计算机上获取一个控制界面。}
+
+#{177}{}{You try to use the computer, but are unable to get any useful information
+#out of it.}
+{177}{}{你试着使用这台计算机，但是没能得到任何有用的信息。}
+
+#{178}{}{You try to use the computer, but the system is too complex for you to
+#understand easily. You'll have to keep trying.}
+{178}{}{你试着使用这台计算机，但这个系统对你来说太复杂了，难以理解。你需要不断尝试。}
+
+#{179}{}{The explosion destroys the vat control system. Without regulation,
+#it will certainly cycle out of control in minutes.}
+{179}{}{爆炸破坏了病毒槽控制系统。它经常毫无规律的在几分钟内连续失去控制。}
+
+#{180}{}{You slide the security card across the terminal's reader. The terminal
+#clicks and whirrs, and an unencrypted screen comes up.}
+{180}{}{你把安全卡插入了终端的读取器里。终端发出滴答和呼呼的声音，并且出现了一个未加密的屏幕。}
+
+#{181}{}{[Exit system]}
+{181}{}{【退出系统】}
+
+#{200}{}{You notice that the maintenance panel is removed, exposing the fragile
+#computer components.}
+{200}{}{你发现保护面板已经没有了，易碎的计算机元件暴露在外。}

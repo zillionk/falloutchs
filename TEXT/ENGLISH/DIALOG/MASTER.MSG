@@ -1,0 +1,257 @@
+#{100}{}{You see the Master of the Super Mutants.}
+{100}{}{你看到超级变种人之主。}
+#{101}{Mast00}{So, what shall it be?  Do you join the Unity or do you die here? Join! Die! Join! Die!}
+{101}{Mast00}{那么，你打算怎么办？是加入我们还是在此成为历史？加入！死去！加入！死去！}
+#{102}{}{I can't win.  I'll join you.}
+{102}{}{我不可能打败你。我会加入你的。}
+#{103}{}{If you can prove to me that your Unity is the best course for humanity, then I will help you.}
+{103}{}{如果你能向我证明你的组织对人类来说是最好的归宿，那么我就加入你。}
+#{104}{}{How about you die, then I leave?}
+{104}{}{我把你打烂然后离开如何？}
+#{105}{}{Oh, there will be death today, but not mine.  I've got a plan.}
+{105}{}{哦，今天这里会有人死去，不过不是我。我已经胸有成竹。}
+#{106}{}{Ugh. Lee.}
+{106}{}{恶。心。}
+#{107}{Mast01}{Excellent. Your talents will be useful. But first, you must tell me everything about your Vault.}
+{107}{Mast01}{很好。你的才干会派上大用场。不过首先，你必须告诉我关于你的避难所的一切事情。}
+#{108}{}{Why?}
+{108}{}{为什么？}
+#{109}{}{OK.  I'll tell you everything you want to know.}
+{109}{}{好吧。我会告诉你任何你想知道的事情。}
+#{110}{Mast02}{I will conquer it and turn all those pure strain humans into mutants. They will give me the army I need to bring peace to the entire wasteland.}
+{110}{Mast02}{我将会征服它，然后把里边所有死脑筋的人类都变成变种人。他们会成为我把和平带给整个废土世界所需要的军队。}
+#{111}{}{Sorry, I don't like that plan much.}
+{111}{}{抱歉，我不太喜欢这个计划。}
+#{112}{}{Sounds reasonable. Let's do it.}
+{112}{}{听起来很不错。让我们干吧。}
+#{113}{Mast03}{So be it. You've dug your own grave. Grave! Grave!}
+{113}{Mast03}{那就这样吧。你这是自掘坟墓。坟墓！坟墓！}
+#{114}{Mast04}{I don't have to prove anything to you! Prove.}
+{114}{Mast04}{我不需要向你证明任何事情！证明。}
+#{115}{}{Your ego demands you tell me. All villains have this strange
+ urge to explain everything.}
+{115}{}{你的自负驱使你告诉我。所有的坏人都有这种想要解释一切的强烈冲动。}
+#{116}{}{I can't know you represent the best future, unless you prove it to me.}
+{116}{}{我不能理解你描绘的最理想的未来，除非你证明给我看。}
+#{117}{Mast05}{Very demanding for one in your tenuous position. But I can respect your needs.}
+{117}{Mast05}{处于你渺小地位上的过分要求。不过我会尊重你的要求。}
+#{118}{}{So tell me.}
+{118}{}{那就告诉我。}
+#{119}{Mast06}{The Unity will bring about the master race. Master! Master! One able to survive, or even thrive, in the wasteland. As long as there are differences, we will tear ourselves apart fighting each other. We need one race. Race! Race! One goal. Goal! Goal! One people . . . to move forward to our destiny. Destiny.}
+{119}{Mast06}{组织会产生master族。Master! Master!  唯一能在废土生存，甚至壮大的种族。只要还有异己存在，我们就会殊死战斗。我们需要唯一的种族。种族！种族！唯一的目标。目标！目标！独自向命运迈进。命运。}
+#{120}{}{That race being the mutants, of course.}
+{120}{}{那个种族理所当然会是变种人。}
+#{121}{}{I hope we won't end up looking like you.}
+{121}{}{我希望我们不会让像你这副尊荣的灭绝。}
+#{122}{Mast07}{Of course. Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants.}
+{122}{Mast07}{当然。变种人全副武装准备管理这个世界。还能有谁？僵尸。别开玩笑了。人类。他们带给我们核浩劫。这将是变种人的时代。变种人。}
+#{123}{}{You mean to change all the others into mutants, as well.}
+{123}{}{你的意思是也把其他人变成变种人。}
+#{124}{}{You're such a bigot.}
+{124}{}{你真疯狂。}
+#{125}{}{What about those who oppose you?}
+{125}{}{反对你的人怎么办？}
+#{126}{Mast08}{All that resist, yes. All those that are required for the Unity as well. The remainder will be allowed to live out their days, but under Unity control and protection. But none shall breed, for they will be the last of their race.}
+{126}{Mast08}{所有反抗者，是的。他们也是组织所需要的。他们将会被准许度过余生，但会在组织的控制和保护下。但是他们不能生育后代，所以他们将会是其种族的最后一代。}
+#{127}{}{You've got a problem with your master plan.}
+{127}{}{你的主宰计划有个问题。}
+#{128}{}{Sounds like you've got it under control.  I'll join up.}
+{128}{}{听起来一切都在你掌握之中。我会加入你。}
+#{129}{}{I think you are, all of you are, nuts and I need to stop you now.}
+{129}{}{我认为你，所有你们这些人都是疯狗，我必须现在就阻止你。}
+#{130}{Mast09}{And what is that?}
+{130}{Mast09}{是什么？}
+#{131}{}{You didn't take into account me! I'm stopping you right here, right now!}
+{131}{}{你没有考虑到我的存在！我正要在此阻止你，就是现在！}
+#{132}{}{You can't possibly take on the entire world.}
+{132}{}{你不可能征服全世界。}
+#{133}{}{I happen to know that your mutants are sterile.}
+{133}{}{我听说你的变种人是不育的。}
+#{134}{Mast10}{I'm not after the world, yet. When I turn your fellow vault-dwellers into mutants, my forces will be too strong for any to stand against! But don't worry, you won't care. Care! Care!}
+{134}{Mast10}{我还没有被世界所遗弃。当我把你的避难所同胞变成变种人的时候，我的军队将所向披靡！但是不用担心，你不会看到那天了。不会！不会！}
+#{135}{Mast11}{Preposterous! The FEV-2 virus doesn't destroy the reproductive organs of those it mutates.}
+{135}{Mast11}{荒谬！FEV-2型病毒并未破坏那些生殖器变异者的生殖器。}
+#{136}{}{Perhaps the virus didn't sterilize people once, but it does now.}
+{136}{}{或许病毒以前不会让人绝育，但是现在它会。}
+#{137}{}{Have you talked to any of your mutants about this?}
+{137}{}{你问过你手下的变种人这个问题么？}
+#{138}{}{Maybe it's all that extra radiation.}
+{138}{}{或许辐射真的严重到那种程度。}
+#{139}{Mast12}{Do you have proof?}
+{139}{Mast12}{你有证据么？}
+#{140}{}{Of course, I do! Here it is . . .}
+{140}{}{当然有！给……}
+#{141}{}{Take my word for it, it happens.}
+{141}{}{相信我，是真的。}
+#{142}{}{Ask your own mutants.}
+{142}{}{问问你手下的变种人。}
+#{143}{Mast13}{This proves nothing! You will pay for your insolence. Pay!}
+{143}{Mast13}{这不能说明任何问题！你将为你的傲慢付出代价！付出代价！}
+#{144}{}{I must digest this information. One moment.}
+{144}{}{我必须研究一下这信息。稍后。}
+#{145}{Mast14}{I must digest this information. One moment . . . I understand now. You made a clever forgery. You made this up to fool me. Fool! Me!}
+{145}{Mast14}{我必须研究一下这信息。稍后……现在我明白了。你做了个精巧的伪造品。你编造这个来愚弄我！愚弄！我！}
+{146}{}{什么？我不明白，我认为它是正确的！}
+#{146}{}{What!? I don't understand, I thought it was correct!}
+#{147}{}{You're lying! You're denying the facts in front of you!}
+{147}{}{你在撒谎！你还在事实面前狡辩！}
+#{148}{Mast16}{You will pay for what you have done! Pay! Done.}
+{148}{Mast16}{你会为你做的付出代价！付出！代价！}
+#{149}{Mast17}{But it cannot be. This would mean that all my work has been for nothing. Everything that I have tried to . . . a failure!  It can't be. Be. Be. Be.}
+{149}{Mast17}{但这不可能。这意味着我所做的一切都付诸东流。我曾经尝试的一切……失败者！这不可能。不！不！不！}
+#{150}{}{Sorry, this isn't an option for you. Your race will die out after this generation.}
+{150}{}{不好意思，这不是选择题。你的种族将会在这一代之后灭亡。}
+#{151}{}{Maybe there is something that can be done. Perhaps you need more test subjects.}
+{151}{}{或许可以做点什么。比如你需要更多的试验品。}
+#{152}{Mast18}{Yes. More subjects. I think I shall start with you. Do! Do!}
+{152}{Mast18}{是的。更多的试验品。我想我应该从你开始。从你！从你！}
+#{153}{Mast19}{I . . . don't think that I can continue. Continue? To have done the things I have done in the name of progress and healing. It was madness. I can see that now. Madness. Madness? There is no hope. Leave now, leave while you still have hope . . .}
+{153}{Mast19}{我……不认为我还能继续下去。继续？为了以进步和恢复的名义结束我所做的这些。这太疯狂了。我现在明白了。疯狂。疯狂？我没希望了。你马上离开，离开，你还有希望……}
+#{154}{Mast20}{I believe I shall. Don't move.}
+{154}{Mast20}{我想我应该。不准动。}
+#{155}{Mast21}{My scientists assure me that nothing is wrong.
+ What do you say to that? Say! Say!}
+{155}{Mast21}{我的科学家向我保证没有任何问题。你对此怎么解释？解释！解释！}
+#{156}{}{Did you think to ask a female mutant?}
+{156}{}{你考虑过询问个女变种人么？}
+#{157}{}{Ask one of your Lieutenants.}
+{157}{}{问问你其中一个副官。}
+#{158}{}{They're afraid of you. You think they'll tell you the truth?}
+{158}{}{他们惧怕你。你认为他们会告诉你实情？}
+#{159}{Mast22}{One moment. He cannot be reached. He must be dead and I can guess who killed him. Killed! Kill!}
+{159}{Mast22}{稍等。我无法感应到他。他肯定是死了，而且我知道是谁杀了他。被杀！杀！}
+#{160}{Mast23}{He denies everything. And he says he knows who started
+ this rumor . . .}
+{160}{Mast23}{他不承认这一切。并且他说他知道谁散布了这个流言……} 
+#{161}{Mast24}{I think I know who the liar is. Liar!}
+{161}{Mast24}{我想我知道谁是骗子。骗子！}
+#{162}{Mast25}{Reasonable. One moment. Are you sure? What about the other females?
+ It cannot be. Be.}
+{162}{Mast25}{有道理。等等。你确定？其他女性呢？这不可能。不可能。}
+#{163}{}{Sorry, your race is doomed.}
+{163}{}{抱歉，你的种族注定会灭亡。}
+#{164}{}{Excuse me while I gloat . . . Told ya so!}
+{164}{}{原谅我用事实无情地打击了你！}
+#{165}{Mast26}{Without any proof, I'm afraid I can't believe you. Now, you will join my army as a mutant or you will die! Die! Join!}
+{165}{Mast26}{没有任何证据，我恐怕不能相信你。现在，你或者变成变种人加入我的军队，或者毁灭！毁灭！加入！}
+#{166}{}{Better dead than like you.}
+{166}{}{死也比变成你这副尊荣强。}
+#{167}{}{It means giving up everything I know, but I'll join.}
+{167}{}{虽然我知道这意味着放弃一切，不过我会加入。}
+#{168}{Mast27}{Your humor will not save you now. Do you accept my offer, or not? Not!
+ Accept!}
+{168}{Mast27}{这次你的幽默救不了你。你是接受我的提议还是拒绝？拒绝！接受！}
+#{169}{}{Not.}
+{169}{}{你去死。}
+#{170}{}{OK, it's better than dying . . .}
+{170}{}{哦，好死不如赖活着……}
+#{171}{Mast28}{Radiation has no effect on us. The FEV virus makes us immune. Your argument is weak, and so are you.}
+{171}{Mast28}{辐射在我们身上无效。FEV病毒让我们免疫辐射。你的论据是苍白无力的，你也一样。}
+#{172}{Mast29}{Oh, I think you are wrong. But just to be sure, I will order this matter researched. After I have taken care of you. Care. Care!}
+{172}{Mast29}{喔，我认为你一派胡言。不过为了确认，我会下令调查这件事。在我处理掉你之后。处理！处理！}
+#{173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
+{173}{Mast30}{我唯一的顾虑就是你。那么，你是要加入我们还是拒绝？}
+{174}{}{你去做梦吧。}
+#{174}{}{Not.}
+#{175}{}{Sure.}
+{175}{}{我加入。}
+#{176}{Mast31}{They will be punished for their insolence.}
+{176}{Mast31}{他们将为他们的傲慢付出代价。}
+#{177}{}{You mean to kill them all?}
+{177}{}{你是说把他们全宰了？}
+#{178}{}{Then I must stop you now!}
+{178}{}{那么我必须立刻阻止你！}
+#{179}{Mast32}{Of course not. Most will be offered a chance to become a mutant. Those who deny this opportunity will be sterilized and let go. Those that resist will be executed.}
+{179}{Mast32}{当然不是。大部分会获得一个变成变种人的机会。拒绝变异的会被绝育，然后释放。反抗绝育的则会被处死。}
+#{180}{}{You are one sick puppy. Time to put you down.}
+{180}{}{你是个变态的禽兽。你的死期到了。}
+#{181}{}{Hmm, I'm not big on being executed . . . I'm joining.}
+{181}{}{啊，我还不想死……我加入。}
+#{182}{Mast33}{We are all biased, are we not?  We each care more about our individual communities than other people. We haven't changed, and I'll tell you something else . . .}
+{182}{Mast33}{我们都很有特点，不是么？我们都比其他人关心更关心各自的群体。我们都还没变，我会告诉你点其他的事情……}
+#{183}{}{What's that?}
+{183}{}{什么？}
+#{184}{Mast34}{We won't change. Not unless we are of one people. One. One. One. One race. One. One. One. The Unity will allow us to move beyond these petty concerns and deal with the major problems at hand.  You want to be a part of that, don't you? Part. Don't.}
+{184}{Mast34}{我们不会改变。除非我们合而为一。为一。为一。为一。一个种族。一个。一个。一个。融合会使我们略过那些小的厉害冲突，解决眼前的大问题。}
+#{185}{}{You've convinced me. I'll join the Unity.}
+{185}{}{你说的对。我加入。}
+#{186}{}{I want a part of you . . . your head!}
+{186}{}{我想把……把你的脑袋拆下来！}
+#{187}{Mast35}{Of course! The mutants will survive! The mutants will rebuild this world! And only as a mutant, will you be allowed to live! Live. Die!}
+{187}{Mast35}{当然！变种人会存活下来！变种人会重建这个世界！你只有做为变种人才被允许存在！存在！毁灭！}
+#{188}{}{Live!}
+{188}{}{我愿意变成变种人！}
+#{189}{}{Die!}
+{189}{}{去死！}
+#{190}{}{All you care about is your mutants and their Unity.}
+{190}{}{你所关心的全部就是你的变种人和其组织。}
+#{191}{Mast36}{I am no villain. You have no idea what I, or the Unity is about.}
+{191}{Mast36}{我不是个坏人。你不了解我或者组织是什么。}
+#{192}{}{Then tell me what you are about.}
+{192}{}{那告诉我你是怎样的。}
+#{193}{}{You are a villain. You're just denying your inner feelings.}
+{193}{}{你是个坏人。你仅仅实在否认你内心的感受。}
+#{194}{Mast37}{I don't have to prove myself to you. Using your logic, that must, prove I am not a villain. It would be a hopeless cause to explain it to you. }
+{194}{Mast37}{我无须向你证明我自己，用你的脑子想想，那肯定能证明我不是个坏人。向你解释这件事是白费功夫。}
+#{195}{Mast38}{Oh? Please, what sort of plan might that be?}
+{195}{Mast38}{哦？请问，那会是怎样的计划呢？}
+#{196}{}{I'm going to set off a nuclear device in this Vault. It will explode shortly, taking you all to hell!}
+{196}{}{我打算发射这个掩体里的核弹。它马上就会爆炸，把你们全送去见阎王！}
+#{197}{}{I'll kill you and that'll make it difficult for you to continue, right?}
+{197}{}{我要宰了你，这样你就很难继续下去了，对么？}
+#{198}{}{I convinced the Brotherhood of Steel to invade this place if I was captured and not set free.  They will be here any moment.}
+{198}{}{我说服钢铁兄弟会，假如我被俘并且没被释放，就攻打这里。他们可能随时到达。}
+#{199}{Mast39}{You might be telling the truth. It doesn't matter, but I will let you go for now.}
+{199}{Mast39}{你可能在说真话。无所谓，但我会暂时放你走。}
+#{200}{Mast40}{You are lying. It will be the last lie that you tell. }
+{200}{Mast40}{你在撒谎。这将是你说得最后一个谎话。}
+#{201}{Mast41}{One moment while I check out your story. You might be telling the truth. Guards! Take this human to the reactor core. Deal with the problem before it's too late.}
+{201}{Mast41}{在我效验你的故事之前先等下。你可能在说真话。警卫！把这头人类带到反应堆内核。在事态还没变得太严重以前。}
+#{202}{Mast42}{I doubt even the FEV will help you. Why am I talking? It's unlikely you even understand . . .}
+{202}{Mast42}{我怀疑FEV病毒是否能拯救你。为什么我要和你说话？你甚至可能无法理解……}
+#{203}{Mast43}{You must be joking. }
+{203}{Mast43}{你一定在开玩笑。}
+#{204}{Mast44}{My patience is almost at an end with you. Now, will you join the Unity or not? Join. Not!}
+{204}{Mast44}{我快对你失去耐心了。现在，你是加入组织还是拒绝？加入。拒绝！}
+#{205}{}{Yes.}
+{205}{}{加入。}
+#{206}{}{No.}
+{206}{}{不加入。}
+#{207}{Mast45}{Fine. Then you can die here and now!}
+{207}{Mast45}{很好。那么你可以立刻死在这里！}
+#{208}{Mast46}{You have disarmed the device. Excellent. Tell me, is there anything you wanted to say before I kill you?}
+{208}{Mast46}{你已经将装置复原了。很好。告诉我，在你临死前还有什么遗言么？}
+#{209}{}{Yes, can I join up with you now?}
+{209}{}{是的，我现在能加入你们么？}
+#{210}{}{Even dead, I'll still look better than you.}
+{210}{}{就算死了，我也会比你长得好看。}
+#{211}{Mast47}{No. No. No. No.}
+{211}{Mast47}{不能。不能。不能。不能。}
+#{212}{Mast200}{I am the Master. I don't have to answer to you.}
+{212}{Mast200}{我是主宰。我不需要回答你。}
+#{213}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
+{213}{Mast201}{我在这不是要回答你的问题的。你在这是要回答我的。}
+#{214}{Mast202}{Once I have the location of your vault, I will fulfill my destiny! Destiny! Destiny! Destiny!}
+{214}{Mast202}{一旦我找到你的避难所的位置，我将会完成我的计划！计划！计划！计划！}
+#{215}{Mast203}{You think you can destroy me!? Destroy! Me?}
+{215}{Mast203}{你认为你能消灭我！？消灭！我？}
+#{300}{}{Duh!}
+{300}{}{咄!}
+
+# Master Tell-Me-Abouts generic response
+#{980}{Mast200}{I am the Master. I don't have to answer to you.}
+{980}{Mast200}{我是主宰。我不需要回答你。}
+
+#
+# Master Tell-Me-Abouts
+#
+
+# {1000}{}{组织}
+{1000}{}{Unity}
+# {1001}{}{主宰}
+{1001}{}{Master}
+
+#{1100}{Mast200}{I am the Master. I don't have to answer to you.}
+{1100}{Mast200}{我是主宰。我不需要回答你。}
+#{1101}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
+{1101}{Mast201}{我在这不是要回答你的问题的。你在这是要回答我的。}
