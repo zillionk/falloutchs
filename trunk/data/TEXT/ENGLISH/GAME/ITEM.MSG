@@ -11,8 +11,8 @@
 # {8}{}{You pass the Geiger counter over your body. The rem counter reads: %d}
 # {9}{}{This item can only be used from the interface bar.}
 # {10}{}{Nothing happens.}
-{1}{}{你得到%d %s}
-{2}{}{你失去%d %s}
+{1}{}{你得到%d %s。}
+{2}{}{你失去%d %s。}
 {3}{}{你感觉好多了。}
 {4}{}{过量使用药物使你心脏病发作了。}
 {5}{}{%s 已经没有能量了。}
