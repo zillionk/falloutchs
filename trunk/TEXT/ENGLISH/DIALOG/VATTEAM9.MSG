@@ -1,0 +1,2 @@
+#{100}{}{You see a soldier of the Nightkin.}
+{100}{}{你看见隐形人战士。}

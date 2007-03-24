@@ -1,0 +1,24 @@
+#{100}{}{You see a scout for the Nightkin.}
+{100}{}{你看见一个隐形人侦察兵。}
+#{101}{}{What have we here? A normal. I think you will come with me.}
+{101}{}{我们这儿有什么？一个正常人。我认为你会和我走的。}
+#{102}{}{Nu.}
+{102}{}{不干。}
+#{103}{}{Okay.}
+{103}{}{好吧。}
+#{104}{}{Why should I?}
+{104}{}{我为什么该跟你走？}
+#{105}{}{Think again!}
+{105}{}{再想想！}
+#{106}{}{It is really quite simple. If you come with me, I can help you.}
+{106}{}{真的很简单。如果你和我走，我能帮助你。}
+#{107}{}{Ok. I will go with you.}
+{107}{}{好。我会和你走。}
+#{108}{}{Just point me to the leader instead.}
+{108}{}{就带我去顶替的首领那。}
+#{109}{}{No way!}
+{109}{}{决不！}
+#{110}{}{With the quickest of haste. Look for Uthern. He will set you straight.}
+{110}{}{万分紧急。找找阿德姆。他会带你直走。}
+#{111}{}{Uthern wants to see you. Seems he's heard of you.}
+{111}{}{阿德姆想见你。看来他已经听说你了。}
