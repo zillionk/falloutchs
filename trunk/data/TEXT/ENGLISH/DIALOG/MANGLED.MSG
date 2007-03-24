@@ -1,4 +1,0 @@
-# {100}{}{You notice bloody tracks leading to the bodies.}
-# {101}{}{It looks like some of the animals dragged the bodies here.}
-{100}{}{你注意到血正从这身体上流淌着。}
-{101}{}{好像是某种动物把他拖到这里的。}

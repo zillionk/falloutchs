@@ -1,2 +1,0 @@
-# {100}{}{It looks as though the automated security system is armed.}
-{100}{}{看起来自动安全系统已经启动了。}

@@ -1,2 +1,0 @@
-#{100}{}{You see a Sergeant of the Nightkin.}
-{100}{}{你看见隐形人警卫。}
