@@ -1,3 +1,0 @@
-#{100}{}{This is no time to sit down! Get moving!}
-
-{100}{}{没时间坐下歇懒，给我开路！}

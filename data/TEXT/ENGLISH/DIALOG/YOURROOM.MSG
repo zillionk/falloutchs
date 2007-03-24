@@ -1,3 +1,0 @@
-# {100}{}{This door leads to your room. You have lived your entire life in this room, until now. Your fellow Vault citizens have told you that they will leave this room empty in your honor.}
-{100}{}{这扇门通往你的房间。直到现在你已经在这间房间里住了一生。你的同伴避难所的市民告诉你在你的荣誉下他们将让这房间空的。}
- 

@@ -1,2 +1,0 @@
-#{100}{}{This is a REALLY good lock.}
-{100}{}{这真是一个好锁啊。}

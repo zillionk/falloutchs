@@ -1,2 +1,0 @@
-# {100}{}{This area has been previously looted. There is a large amount of damage to the delicate equipment.}
-{100}{}{这个地方曾经被掠夺过，你看到那里有很多被破坏的设备。}
