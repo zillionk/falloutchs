@@ -29,17 +29,17 @@
 #{114}{}{Good bye.}
 {114}{}{再见！}
 #{115}{}{No...I never even heard of one of those. One of our head scribes may know. Maybe you can ask one of them. That is if you join us.}
-{115}{}{不！我从未听说过这些事，我们的某个主书记官也许知道，如果你加入我们的话，你可以去问问他们。}
+{115}{}{不！我从未听说过这些事，我们某个资深的研究员也许知道，如果你加入我们的话，你可以去问问他们。}
 #{116}{}{Join? How do I join?}
 {116}{}{加入？我如何加入？}
 #{118}{}{You guys don't know jack.}
-{118}{}{你们这些家伙一点也不严肃。}
+{118}{}{你们这些家伙真不厚道。}
 #{119}{}{Sacrifice puppies!!! Where the hell did you hear that one? Don't believe everything you hear in the wastes they're all a bunch of pathetic lunatics.}
-{119}{}{拿小动物献祭!!!你究竟是从哪儿听说这些的？不要相信任何你从废土上听到的任何事，那儿的人全是一群可悲的疯子。}
+{119}{}{拿小动物献祭！！！你究竟是从哪儿听说这些的？不要相信任何你从废土上听到的任何事，那儿的人全是一群可悲的疯子。}
 #{120}{}{Actually I thought it would have been kinda cool.}
 {120}{}{事实上我觉得这个挺酷！}
 #{121}{}{Sorry to have upset you.}
-{121}{}{抱歉使你感到烦心了。}
+{121}{}{抱歉错怪了你。}
 #{122}{}{Everyone is a lunatic outside the Brotherhood of Steel?}
 {122}{}{兄弟会以外的人都是疯子？}
 #{123}{}{The only way to know anything more about us, is to join us. My friend Cabbot can help you with that.}
@@ -51,7 +51,7 @@
 #{127}{}{What is the Brotherhood of Steel all about anyway?}
 {127}{}{总之，兄弟会究竟是做什么的？}
 #{128}{}{That's OK...It's just people don't even try to understand what we're all about.}
-{128}{}{简而言之，这仅仅是人们不去试着了解我们究竟是做什么的。}
+{128}{}{简单的说，这仅仅是人们不去试着了解我们到底是干什么的。}
 #{129}{}{What's there to understand?}
 {129}{}{那儿有什么要了解的？}
 #{130}{}{Well?... I think you guys just might be a little kookie myself.}
@@ -97,17 +97,17 @@
 #{153}{}{I can't believe it. They're sending her down there?}
 {153}{}{我不敢相信，他们要让她下到那儿去？}
 #{154}{}{So you took the Famous Glow Quest. (Laughs)}
-{154}{}{这么说你接受了著名的死亡谷任务。(奸笑)}
+{154}{}{这么说你接受了那闪光之地的任务。【大笑】}
 #{155}{}{No... I'm going to the Ancient Order.}
 {155}{}{不...我要去古老的建筑。}
 #{156}{}{The Glow, what's that?}
-{156}{}{死亡谷，那是什么？}
+{156}{}{闪光之地，那是什么？}
 #{157}{}{It's none of your business what I am doing.}
 {157}{}{我做什么不关你的事。}
 #{158}{}{Yeah, I did. Bye.}
 {158}{}{是的，我做了，再见！}
 #{159}{}{Glow, Ancient Order it's the same thing. It's still not a good place to visit.}
-{159}{}{死亡谷、古老的建筑是一回事。那可不是个观光的好地方。}
+{159}{}{闪光之地、古老的建筑是一回事。那可不是个观光的好地方。}
 #{160}{}{Why do you say that?}
 {160}{}{你为何这么说？}
 #{161}{}{How hard could it be. All I have to do is go get something and bring it back. It's the old send the new guy on a quest thing.}
@@ -117,7 +117,7 @@
 #{163}{}{What's so special about this place.}
 {163}{}{这地方有什么特别的吗？}
 #{164}{}{The Glow, as it is known to topsiders, was supposedly a place where some of the most advanced weapons of that time were developed. At least that's what it says in the ancient writings. Now as fasr as any of us can tell it's a big crater filled with Rads. I think the Elders send Brotherhood wanabes down there just to get rid of them.}
- {164}{}{死亡谷，就像上层居民所知道的那样，可能有以前那个发达年代所制造的大部分先进武器，至少在一些古老的记录里是这么说的。而现在我们所知道的就是它是一个充满辐射的大弹坑，我认为长老们把某个兄弟会成员派到那去仅仅是为了除掉他。}
+ {164}{}{闪光之地，就像废土上的居民所知道的那样，可能有以前那个发达年代所制造的大部分先进武器，至少在一些古老的记录里是这么说的。而现在我们所知道的就是它是一个充满辐射的大弹坑，我认为长老们把某个兄弟会成员派到那去仅仅是为了除掉他。}
 #{165}{}{Others? There was others before me.}
 {165}{}{其它人？在我之前还有其它人。}
 #{166}{}{I'm going to the Ancient Order. Where's that located.}
@@ -125,31 +125,31 @@
 #{167}{}{Your right. It's not any of my business.}
 {167}{}{你说的对，这不关我的事。}
 #{168}{}{Well? To start it's a good 10 days travel to the Southeast from here. And then there's the radiation. There's a reason none of us have ever gone to the "Ancient Order". If you don't have Rad-X you'll be cooked before you even know what hit you.}
-{168}{}{好吧，从这儿往东南方向走大概有１０天的路程，并且那儿充斥着辐射，这也是没人去过”古老建筑“的原因。如果你没有抗辐射药Ｘ的话，在你知道被什么击中之前就会变成北京烤鸭！}
+{168}{}{好吧，从这儿往东南方向走大概有１０天的路程，并且那儿充斥着辐射，这也是没人去过“古老建筑”的原因。如果你没有抗辐射药Ｘ的话，在你知道被什么击中之前就会变成烤蜥蜴了！}
 #{170}{}{Let me get this straight...}
 {170}{}{我得把这个弄明白．．．}
 #{171}{}{Most topsiders think that it is just a big Radioactive hole. Thus the name became the Glow or some even call it the Hot Spot. We in the Brotherhood know the truth. According to the ancient writings this place was the source of all our technology. And who knows what may still be there.}
-{171}{}{大部分上层居民认为那儿仅仅是一个充满辐射的大坑，因此才称它为死亡谷，有些人甚至称它为火辣的地区。我们兄弟会的人才知道真相，通过古老的记录可知这个地方是我们所有技术知识的源泉，天知道那儿还有什么！}
+{171}{}{大部分废土上的居民认为那儿仅仅是一个充满辐射的大坑，因此才称它为闪光之地，有些人甚至称它为火辣的地区。我们兄弟会的人才知道真相，通过古老的记录可知这个地方是我们所有技术知识的源泉，天知道那儿还有什么！}
 #{173}{}{Let me get this straight...}
 {173}{}{我得把这个弄明白．．．}
 #{174}{}{Others have tried. We never heard from them again.}
 {174}{}{有些人曾去尝试过，可我们以后再也没见过他们。}
 #{175}{}{Hell, you've almost talked me out of even wanting to join the Brotherhood.}
-{175}{}{该死，你还曾经劝我别加入兄弟会。}
+{175}{}{该死，你刚才差点说服我加入兄弟会。}
 #{176}{}{They were weak. I'll be seen' you around.}
 {176}{}{他们很差劲，我们会再见面的。}
 #{177}{}{What should I watch for when I go down there.}
 {177}{}{当我下去的时候我该注意些什么？}
 #{179}{}{The Glow and the Ancient Order are one in the same.}
-{179}{}{死亡谷和古老的建筑是一回事。}
+{179}{}{闪光之地和古老的建筑是一回事。}
 #{180}{}{What is the Glow?}
-{180}{}{死亡谷是什么？}
+{180}{}{闪光之地是什么？}
 #{181}{}{Don't get me wrong the Brotherhood is a great place to join. It's by far the safest place to live in the wastes. No place else will you find better weapons and armor. We serve technology and technology serves us.}
 {181}{}{别误会我的意思，兄弟会是一个值得加入的伟大的地方，到目前为止它是废土上最安全的居住之地，你不会在其它地方找到比这儿更好的武器和装甲，我们服务于科技，而科技也服务于我们。}
 #{182}{}{Sounds good, I'll be going on my way.}
-{182}{}{听起来不错，我马上就去}
+{182}{}{听起来不错，我马上就去。}
 #{183}{}{What can you tell me about the Glow.}
-{183}{}{关于死亡谷你能告诉我些什么。}
+{183}{}{关于闪光之地你能告诉我些什么。}
 #{184}{}{It doesn't sound like it is worth the trouble.}
 {184}{}{看起来不值得冒这个险。}
 #{185}{}{What?...}
@@ -159,9 +159,9 @@
 #{187}{}{Where is the Ancient Order, and the dangers are...?}
 {187}{}{古老的建筑在哪儿？危险是．．．？}
 #{189}{}{Most topsiders think that it is just a big Radioactive hole. Thus the name became the Glow or some even call it the Hot Spot. We in the Brotherhood know the truth. According to the ancient writings this place was the source of all our technology. And who knows what may still be there.}
-{189}{}{大部分上层居民认为那儿仅仅是一个充满辐射的大坑，因此才称它为死亡谷，有些人甚至称它为火辣的地区。而我们兄弟会的人知道真相，通过古老的记录可知这个地方是我们所有技术知识的源泉，天知道那儿还有什么！}
+{189}{}{大部分上层居民认为那儿仅仅是一个充满辐射的大坑，因此才称它为闪光之地，有些人甚至称它为火辣的地区。而我们兄弟会的人知道真相，通过古老的记录可知这个地方是我们所有技术知识的源泉，天知道那儿还有什么！}
 #{190}{}{Got another question for you.}
-{190}{}{我还有个问题。}
+{190}{}{我还有个问题问你。}
 #{191}{}{Can I help you?}
 {191}{}{要我帮忙吗？}
 #{192}{}{Nevermind. Bye.}
@@ -179,10 +179,10 @@
 #{198}{}{Well, if you see anything let me know. I'd like to get to the bottom of this soon myself.}
 {198}{}{那么，如果你知道什么请告诉我，我不久就要独自下到它的底部去了。}
 #{199}{}{Not really, but I suspect it's foul play... but then again, there are a lot of strange and dangerous creatures out there in the wastelands. It could simply be some creature, or more likely a herd or band of them. I hope that helps. Good day.}
-{199}{}{其实不是这样，我猜这是不公平的竞赛...但是再一次地，废土上有很多陌生并且危险的生物，可能仅仅是一些生物，或者是牧群，或是二者的结合。我希望这有些用，祝你愉快！}
+{199}{}{其实不是这样，我猜这是不公平的竞赛．．．但是再一次地，废土上有很多陌生并且危险的生物，可能仅仅是一些生物，或者是牧群，或是二者的结合。我希望这有些用，祝你愉快！}
 
 #{201}{}{Thanks for your time. Bye.}
-{201}{}{谢谢你，再见！}
+{201}{}{谢谢你，占用了你的时间，再见！}
 #{202}{}{OK, thanks. Bye.}
 {202}{}{好的，多谢，再见！}
 #{203}{}{Thanks for the info. Bye.}
@@ -190,7 +190,7 @@
 #{204}{}{Thanks, Bye.}
 {204}{}{谢了，再见！}
 #{205}{}{Ok... Thanks for the info.}
-{205}{}{好吧...谢谢你的消息。}
+{205}{}{好吧．．．谢谢你的消息。}
 #{206}{}{I Thank you for the warning. Bye.}
 {206}{}{感谢你的忠告，再见！}
 #{207}{}{Thank you. Bye.}
@@ -207,4 +207,4 @@
 #{211}{}{Swallow these like this. (Darrel motions taking the pills and rubs his tummy). Mmmmm yummm.}
 {211}{}{像这样吞下去。【达雷尔拿着药丸比着手势，还揉着他的肚子】阿呜阿呜阿呜．．．}
 #{212}{}{Wait, wait, Not yet! (Darrel stops you from taking the pills) Wait until you get to the Glow.}
-{212}{}{等等，不是现在，【达雷尔阻止你吞下药丸】等你到了死亡谷再吃！}
+{212}{}{等等，不是现在，【达雷尔阻止你吞下药丸】等你到了闪光之地再吃！}
