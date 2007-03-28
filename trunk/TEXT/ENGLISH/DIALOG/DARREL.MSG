@@ -33,7 +33,7 @@
 #{116}{}{Join? How do I join?}
 {116}{}{加入？我如何加入？}
 #{118}{}{You guys don't know jack.}
-{118}{}{你们这些家伙到底是兄弟会还是整人会啊。}
+{118}{}{你们这些家伙什么也不知道。}
 #{119}{}{Sacrifice puppies!!! Where the hell did you hear that one? Don't believe everything you hear in the wastes they're all a bunch of pathetic lunatics.}
 {119}{}{拿小动物献祭！！！你究竟是从哪儿听说这些的？不要相信任何你从废土上听到的任何事，那儿的人全是一群可悲的疯子。}
 #{120}{}{Actually I thought it would have been kinda cool.}
@@ -135,7 +135,7 @@
 #{174}{}{Others have tried. We never heard from them again.}
 {174}{}{有些人曾去尝试过，可我们以后再也没见过他们。}
 #{175}{}{Hell, you've almost talked me out of even wanting to join the Brotherhood.}
-{175}{}{该死，刚才你还想说服我加入兄弟会。}
+{175}{}{该死，你们到底是兄弟会还是整人会？刚才你差点说服我加入兄弟会。}
 #{176}{}{They were weak. I'll be seen' you around.}
 {176}{}{他们很差劲，我们会再见面的。}
 #{177}{}{What should I watch for when I go down there.}
@@ -189,7 +189,7 @@
 #{204}{}{Thanks, Bye.}
 {204}{}{谢了，再见！}
 #{205}{}{Ok... Thanks for the info.}
-{205}{}{好吧...谢谢你的消息。}
+{205}{}{好吧．．．谢谢你的消息。}
 #{206}{}{I Thank you for the warning. Bye.}
 {206}{}{感谢你的忠告，再见！}
 #{207}{}{Thank you. Bye.}
