@@ -3,15 +3,15 @@
 #
 # Defined in game.h
 #
-{0}{}{Are you sure you want to quit?}
-{1}{}{Demo version}
-{2}{}{Default character will be used.}
-{3}{}{Saved screenshot.}
-{4}{}{Quick load game successfully loaded.}
-{5}{}{Quick save game successfully saved.}
-{6}{}{Demo time limit exceeded.}
-{7}{}{Pipboy not available in combat!}
-{8}{}{Error saving screenshot.}
+{0}{}{你确定要退出吗？}
+{1}{}{演示版}
+{2}{}{使用默认角色属性。}
+{3}{}{屏幕已经保存。}
+{4}{}{快速读取成功。}
+{5}{}{快速存档成功。}
+{6}{}{超过演示版规定时限。}
+{7}{}{哔哔小子没法在战斗中使用。}
+{8}{}{屏幕保存错误。}
 #{9}{}{INTRO}
 {9}{}{开场动画}
 #{10}{}{NEW GAME}
@@ -22,7 +22,7 @@
 {12}{}{制作小组}
 #{13}{}{EXIT}
 {13}{}{离开游戏}
-{14}{}{Copyright(c) 1997 Interplay Productions.  All rights reserved.}
+{14}{}{Interplay公司1997年出品。版权所有。}
 #{15}{}{Action Points}
 #{16}{}{Hit Points}
 #{17}{}{The motion sensor option is not installed.}
