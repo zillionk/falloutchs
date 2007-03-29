@@ -167,7 +167,7 @@
 {207}{}{在每一个等级中，你的战斗顺序点数都会＋２，因此你在一个战斗之中几乎都可以比你的敌人先移动。}
 {208}{}{在每一个等级中，你都会得到＋１的治疗速率。这是在普通速率上面另外加上去的点数，因此，你自我疗伤的速度会更加的快。}
 {209}{}{你在战斗中将可更容易的使出特别攻击。这能力的每一级都会增加５％的特别攻击使出机会。}
-{210}{}{当你拥有这项能力，你夜晚与地道中时可以看得更清楚。这能力的每一级会将画面的阴暗度减少１０％。}
+{210}{}{当你拥有这项能力后，在夜晚与地道中你可以看得更清楚。这能力的每一级会将画面的阴暗度减少１０％。}
 
 #{211}{}{You command attention by just walking into a room.  The initial reaction of another person is improved by 10% for each level of this Perk.}
 #{212}{}{You are better able to avoid radiation, and the bad effects radiation causes.  Each level of this Perk will improve your Radiation Resistance by 10%.}
