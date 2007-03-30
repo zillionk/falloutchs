@@ -1,0 +1,2 @@
+# {100}{}{You see something in the darkness under the bed.}
+{100}{}{你在那黑暗的床下看到一些东西。}
