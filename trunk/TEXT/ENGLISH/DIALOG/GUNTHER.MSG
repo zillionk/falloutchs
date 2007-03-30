@@ -1,0 +1,51 @@
+#{100}{}{You see Gunther.}
+#{101}{}{You see a stern man in his thirties.}
+#{102}{}{Welcome to my humble house.  What can I do for you?}
+#{103}{}{Could you tell me a little about the Hub?}
+#{104}{}{Where can I find some ammo and weapons around here?}
+#{105}{}{What do you do around here?}
+#{106}{}{Who's the law around here?}
+#{107}{}{Sure, what else would you like to know?}
+#{108}{}{It is a sprawling city, the largest I have seen in my life.  The center of the town lies to the south, with the other areas branching off in each direction from there.}
+#{109}{}{Where can I find supplies?}
+#{110}{}{If I was looking for a job, where would be a good place to start?}
+#{111}{}{Can I ask you another question?}
+#{112}{}{Thanks for the info.  Goodbye.}
+#{113}{}{I get everything that I need from Mitch down by the Maltese Falcon.  Just head on south from here.}
+#{114}{}{I occasionaly do a stint on one of the caravans that head out from here.  If you're looking for that kind of work, just talk to one of the trading houses. 'm partial to the Far Go Traders, but I've worked with all of them.}
+#{115}{}{Well, I buy most of my stuff from Beth over in the Weapon Store.  Got a pretty good selection.}
+#{116}{}{What would I do if I was looking for something a little more 'exotic'.}
+#{117}{}{Will mentioning your name help with the price?}
+#{118}{}{I've heard there is some guy over in Old Town that deals in stuff with a little more punch.}
+#{119}{}{Probably not, she's sweet on her bodyguard Sid.  But, you might want to try Butch, he runs the Far Go Traders - which owns her store.}
+#{120}{}{I get by.  I hire on with the caravans when I'm a little short on cash, and work for the farmers down south a bit.}
+#{121}{}{Well, you probably passed Deputy Fry on your way down here.  His boss is Sheriff Greene, and you'll find him in the Police Station most of the time.}
+#{122}{}{Coookkiieee!}
+#{123}{}{I'm sorry, but you're not making any sense.  Maybe Dr. Thorndyke with the Children can help you.}
+
+{100}{}{你看到了高特。}
+{101}{}{你考到了一个神态严厉的中年男子。}
+{102}{}{欢迎来到我的陋室。我能为你做些什么？}
+{103}{}{我想知道一些哈勃城的事情。}
+{104}{}{我能在哪里找到武器装备？}
+{105}{}{你是这里干什么的？}
+{106}{}{这里谁是领导者？}
+{107}{}{当然，你还想知道什么？}
+{108}{}{这是一个大型的城市, 也是我见过的最大的城市。城市的中心位于南部，其他的部分伸向城市的四面八方。}
+{109}{}{我能在哪里找到乐子？}
+{110}{}{如果我只是想找个工作，哪里比较适合我？}
+{111}{}{我想知道一些别的事情。}
+{112}{}{谢谢你，再见。}
+{113}{}{马耳他之鹰会带来我从米奇那儿弄到的所有必需品，从这里向南走，你会找到它。}
+{114}{}{我偶而会为商队做事。如果你是为了那样的工作，只用去找那些商管。虽然我为他们全部工作，但我还是建议你去找长途商人。}
+{115}{}{我的大部分东西在贝斯的武器店里买到的。那是一个很好的去处。}
+{116}{}{我能到哪里找到一些特别的“刺激”呢？}
+{117}{}{提你的名字会便宜点么？}
+{118}{}{我已经听说有一些家伙在旧城区附近交易一些特别的东西。}
+{119}{}{可能不行，他对他的保镖希德情爱有加。但是你可以去找布齐, 他帮她跑长途商船。}
+{120}{}{我活了下来。没钱的时候我就跟商队或者和些农民去南方去。}
+{121}{}{你来这里的路上可能没看到福瑞代表，他老板是格瑞警官，你应该可以在警局找到他。}
+{122}{}{啊．．．啊．．．【结巴】！}
+{123}{}{没办法，我不知道你在说什么，索恩戴克医生应该能帮你。}
+
+
