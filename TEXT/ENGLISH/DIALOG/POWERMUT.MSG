@@ -1,0 +1,4 @@
+# {100}{}{No one go in room.}
+# {101}{}{You see a mutant with a phenominally small cranium.}
+{100}{}{没人进入这房间。}
+{101}{}{你看到一个变种人和一个非常小的头颅。}

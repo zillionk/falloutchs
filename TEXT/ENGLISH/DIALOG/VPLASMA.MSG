@@ -1,0 +1,10 @@
+# {100}{}{Plasma rips from the northern wall!}
+# {101}{}{You notice a small trip plate at your feet.}
+# {102}{}{ Your knowledge of traps leads you to believe that this is a trigger of some kind.}
+# {103}{}{You carefully sever the pressure springs on the trip plate.}
+# {104}{}{You're not quite sure how to prevent the plate from triggering.}
+{100}{}{北侧的墙内射出电浆！}
+{101}{}{你发现一个机关的引线在你的脚下。}
+{102}{}{你发现那是一个绊索式机关。}
+{103}{}{你小心的解除了陷阱的绊索。}
+{104}{}{你没有完全把这个陷阱的绊索拆除。}

@@ -1,0 +1,14 @@
+# {100}{}{You see a hapless prisoner.}
+# {101}{}{These people are crazy here. Help me get out of here!}
+# {102}{}{No way!}
+# {103}{}{Die!}
+# {104}{}{Okay.}
+# {105}{}{Oh, thank you. Thank you. Good bye!}
+# {106}{}{But . . .}
+{100}{}{你看到一个倒霉的犯人。}
+{101}{}{这个人疯狂的叫嚷着，帮我离开这里吧！}
+{102}{}{没门！}
+{103}{}{死去！}
+{104}{}{好的。}
+{105}{}{喔，谢谢，谢谢，再见！}
+{106}{}{可是．．．}

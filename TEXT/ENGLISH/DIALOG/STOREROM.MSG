@@ -1,0 +1,2 @@
+# {100}{}{This room looks particularly ransacked.}
+{100}{}{这个房间显然被贼光顾过。}
