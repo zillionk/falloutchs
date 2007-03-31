@@ -1,0 +1,633 @@
+#{100}{}{You see Set, the Leader of Necropolis.}
+{100}{}{你看见赛特，活死人镇的头目。}
+#{101}{Set00}{There'd better be a killer reason for standin' in my
+# shadow. Does 'next on the menu' ring a bell for ya . . .
+# normie.}
+{101}{Set00}{你站在我的地盘上最好能给我一个不杀你的理由。否则你就是我菜单菜单上的一道美味．．．光皮肤的小子。}
+#{102}{}{Oh, killer it is, no doubt. Obviously I've found the
+# head, uh, man.}
+{102}{}{哦，杀死，毫无疑问的。显然我已经找到了老大了，呃，头儿。}
+#{103}{}{Whoa, what happened to your face?}
+{103}{}{呼啊，你的脸怎么弄的？}
+#{104}{}{Wow, you're pretty smart for a ghoul.}
+{104}{}{哇，作为一个食尸鬼你还挺聪明的嘛。}
+#{105}{}{Nuh-uh?}
+{105}{}{呐嗯？}
+#{106}{Set01}{Simple time. I'm Set. I'm in charge. Get it?}
+{106}{Set01}{长话短说。我是赛特。我是管事的。了解吗？}
+#{107}{}{According to my info you're just a second rate minion.}
+{107}{}{根据我的信息你只是一个二等奴才。}
+#{108}{}{Got it. }
+{108}{}{了解。}
+#{109}{}{Anything else I should know?}
+{109}{}{还有什么我该知道的吗？}
+#{110}{Set01a}{Good.}
+{110}{Set01a}{好。}
+#{111}{}{What can I do for you?}
+{111}{}{我能为你做些什么？}
+#{112}{Set02}{What is that? Sucking up? Listen, walker, I don't do
+# the deal with norms, so blowing smoke up the tail
+# ain't going to get you head seat at the table.}
+{112}{Set02}{这算什么？奉承？听着，过路人，我不与正常人做生意，所以吹嘘拍马并不会让你如愿以偿。}
+#{113}{}{The smoke will be coming out a lotta holes when I'm
+# through.}
+{113}{}{当我厌倦时，我会在你身上吹出许多洞眼。}
+#{114}{}{My apologies. I wanted to make a good impression.}
+{114}{}{我很抱歉。我是想留个好印象。}
+#{115}{}{Didn't mean nothin'.}
+{115}{}{不意味任何事。}
+#{116}{Set03}{[Groan] I'm gonna to eat you up and be singing that 'Happy Tummy'
+# song. I got that happy tummy . . .}
+{116}{Set03}{【哼哼声】我要边吃你边唱着那“好胃口”歌。我有那好胃口。。。。。。}
+#{117}{Set04}{Fact-time, bitch? I'm gonna enjoy squeezing you.}
+{117}{Set04}{真实时间，贱人？我会享受着榨干你的。}
+#{118}{}{Whatever's in your holster better be bigger than your
+# mouth . . . Unlikely as that is.}
+{118}{}{你手枪套里的玩意儿最好比你的嘴大……不太可能貌似。}
+#{119}{}{Squeeze this...}
+{119}{}{榨干这……}
+#{120}{}{Nuh-uh?}
+{120}{}{呐嗯？}
+#{121}{Set05}{Well. I see some potential here . . . heh . . . I have playmates
+# for you, my sparkling normie. Punish the mutants at the water shed for me.
+# Yeah, yeah, can do . . . yes?}
+{121}{Set05}{好。我看出这儿有些苗头……吓……我有玩伴给你，我才华横溢的正常人儿。帮我惩罚一下
+水处理房中的变种人。是的，是的，能完成……对吗？}
+#{122}{}{Uh, OK.}
+{122}{}{嗯，行。}
+#{123}{}{Nuh-uh.}
+{123}{}{呐嗯？}
+#{124}{Set06}{Excellent. Teach those mutants the last lesson, then
+# amble back . . . Hmm. If I say to my ghouls to hold
+# off you, the muties might hear and know. So I tell you what,
+# it's favor-time. I keep shut. Got it?}
+{124}{Set06}{好极了。教那些变种人最后一课，再漫步回来……哼。如果我向我的食尸鬼们指明不靠近你，
+那些变种儿可能会听见并知道怎么回事。所以我告诉你干什么，这次我罩你。我保持沉默。明白吗？}
+#{125}{}{Got it.}
+{125}{}{明白。}
+#{126}{}{What about the ghouls?}
+{126}{}{食尸鬼怎么办？}
+#{127}{}{Duh, ok!}
+{127}{}{切，好！}
+#{128}{}{Huh?}
+{128}{}{哈？}
+#{129}{Set07}{Avoid my ghouls, if you like your skin on. Any of mine that can't
+# stop a normie deserve last rest. Get by as you need.}
+{129}{Set07}{避开我的食尸鬼们，如果你想你的皮肤还在身上。我的任何一个食尸鬼都不能
+放下该让一个正常人儿去长眠的念头。如果需要的话就混过去。}
+#{130}{Set08}{You eat my time! Cease to be, one way or the other!}
+{130}{Set08}{你浪费我的时间！就此打住，无论怎样！}
+#{131}{Set09}{You have no idea whose shadow you stomp.}
+{131}{Set09}{你根本不知道你践踏的是谁的地盘。}
+#{132}{}{A second-rate minion. I know your boss. Not happy.}
+{132}{}{一个二等奴才。我认识你的老板。他不高兴呢。}
+#{133}{}{Neither do you.}
+{133}{}{你也不。}
+#{134}{}{Sorry, I have an odd sense of humor.}
+{134}{}{对不起，我的幽默感很独特。}
+#{135}{Set10}{You walk for him? You're his sneak, straight? Here to skin me?
+# Oh, I swear, you'll tombstone too.}
+{135}{Set10}{你为他跑腿？你是他的探子，直说吧？到这儿来剥我的皮？
+哦，我发誓，你身上也会压上墓碑。}
+#{136}{}{Whoa, Don't misinterpret. I'm not his. I'm here to help.}
+{136}{}{哇啊，不要误会。我不是他手下的。我到这儿来帮忙的。}
+#{137}{}{Try it spaghetti face.}
+{137}{}{试试啊意大利面条脸。}
+#{138}{Set10a}{It didn't sound it.}
+{138}{Set10a}{这不合理。}
+#{139}{}{I understand. He's my problem, too. Talk to me.}
+{139}{}{我明白。他也是我的问题。和我谈谈。}
+#{140}{Set11}{The Necropolis was mine. Not an all-things-great,
+# but a straight-place for my kind. Then the Master
+# showed. He could've fragged me good, but it was easy
+# for him to just stand some muties and keep an eye on.}
+{140}{Set11}{活死人镇是我的。不是一个十全十美的地方，但至少对我这类人算整洁的地方了。
+然后主教出现了。他本可以把我撕成碎片，但对他来说很容易安插一些变种人并密切注意我。}
+#{141}{}{What can I do, and what will you do for me?}
+{141}{}{我能做什么，而你又会为我做什么？}
+#{142}{}{Sounds a bit out of my league. I'm outta this.}
+{142}{}{听上去有点超出我的范畴。我不想牵扯进去。}
+#{143}{Set12}{The Mutants at the water shed need dirt-naps. Makes
+# my shadow grow. You slice 'em and rewards run to
+# you. Info, too.}
+{143}{Set12}{在水处理房那的变种人须要清除了。扩展我的地盘。你做掉他们，奖赏就有了。你要的信息也有了。}
+#{144}{}{Done.}
+{144}{}{好了。}
+#{145}{}{Too much trouble. See ya around.}
+{145}{}{太多麻烦了。再见。}
+#{146}{Set13}{You want employ, walker? Show me you can scuffle.
+# Take down the mutants at the water shed. Show 'em
+# the bad time and you're good.}
+{145}{Set13}{你想受雇，过路人？向我证明你能打斗。拿下水处理房那边的变种人。让他们领教一下坏时光，
+然后你就算合格了。}
+#{147}{}{I'm on it.}
+{147}{}{我着手去办。}
+#{148}{}{No way, spaghetti face.}
+{148}{}{没门，意大利面条脸。}
+#{149}{Set14}{No. More questions? }
+{149}{Set14}{不。还有问题？}
+#{150}{}{Ahhh, guess not. What can I do for you?}
+{150}{}{啊啊，估计不。我能为你做什么？}
+#{151}{}{Yeah. Do find it difficult to floss?}
+{151}{}{是啊。发觉真的很难剔干净？}
+#{152}{Set15}{So funny my face hurts. Try again, and my Elites will
+# juice you. Got it?}
+{152}{Set15}{如此有趣我的脸都疼了。再试一次，我的精英卫兵会挤出你的汁来。明白吗？}
+#{153}{}{Got it.}
+{153}{}{明白。}
+#{154}{}{I'm still a little unclear . . .}
+{154}{}{我还是有点不明白……}
+#{155}{}{Your face hurts alright.}
+{155}{}{你的脸的确痛。}
+#{156}{Set16}{My name's Set. Yours is World-a-hurt. Take a deal, I
+# change your handle. Listening?}
+{156}{Set16}{我名叫赛特。你的名字无关紧要。做个交易，我改变你的头衔。想听听吗？}
+#{157}{}{Sure. Beats bleeding all over your floor.}
+{157}{}{当然。胜过躺在你的地板上流血。}
+#{158}{}{Naww. Bring on the goons.}
+{158}{}{不干。带上你的偻偻们放马过来。}
+#{159}{}{Uh-huh.}
+{159}{}{呃－哼。}
+#{160}{}{Nuh-uh!}
+{160}{}{嗯－呃！}
+#{161}{Set17}{Stride to the water shed, dirt-nap the mutants there.
+# Do it, you continue a walker. Don't, you rest.}
+{161}{Set17}{迈着大步去水处理房，清除那儿的变种人。干，你仍是一个过路人。不干，你就长眠。}
+#{162}{}{You sound a little scared by these guys, want to
+# talk about it?}
+{162}{}{你听上去有点被这些家伙吓到了，想谈谈这事吗？}
+#{163}{}{I'm easy. Deal.}
+{163}{}{我很随和。成交。}
+#{164}{}{You look funny, and you talk funny.}
+{164}{}{你看上去很滑稽，你说话也很滑稽。}
+#{165}{Set18}{Well done. You've earned my sight, walker. Follow
+# Garret for your reward. Now. I'm busy.}
+{165}{Set18}{做的好。你已经赢得了我的注意，过路人。跟着伽略特去领赏。现在，我很忙。}
+#{166}{}{OK. Thanks.}
+{166}{}{好。谢谢。}
+#{167}{}{That's it! Thanks, now get out?}
+{167}{}{那是！谢谢，现在出去？}
+#{168}{}{Mom?}
+{168}{}{呒？}
+#{169}{Set19}{Look before you squeak. You'll enjoy. Be a shame to
+# anger me, now . . . that I'm happy.}
+{169}{Set19}{三思你的吱吱声。你会喜欢的。惹恼我会很可惜，现在……幸好我挺高兴。}
+#{170}{}{I apologize for my outburst, but I'm a little concerned
+# here.}
+{170}{}{抱歉我失态了，但是我有点担心这儿。}
+#{171}{}{Sorry, no problem.}
+{171}{}{对不起，没问题。}
+#{172}{}{Hey, I'm not settling for left-overs}
+{172}{}{嘿，我可不满足于残羹剩饭。}
+#{173}{Set20}{[Groan] Yeah, yeah. Follow Garret, and be showing your pearly whites too.
+# And don't fret, I keep a straight-word. The Master runs the twist.}
+{173}{Set20}{【抱怨】是啊，是啊。跟着伽略特，也去展示一下你皓白的牙齿。别不满，我直言。
+主教掌管着一切。}
+#{174}{}{The Master?}
+{174}{}{主教？}
+#{175}{}{Ok, thanks.}
+{175}{}{好的，谢谢。}
+#{176}{Set21}{You don't watch your back, you'll wear his knife, he'll wear your
+# skin. His mutants shadow the wasteland, especially south of here.}
+{176}{Set21}{你不当心自己背后的话，你会磨损他的刀，他会磨损你的皮。他的变种人控制了废土，
+特别是这里南边。}
+#{177}{}{If the Master is so strong, who can challenge him?}
+{177}{}{如果主教如此强大，谁能挑战他？}
+#{178}{}{He doesn't scare me.}
+{178}{}{他不害怕我。}
+#{179}{Set21a}{He should.}
+{179}{Set21a}{他应该。}
+#{180}{Set22}{Children of the Cathedral, cids of the Hub, even
+# us Ghouls. No one can push his shadow now. But our
+# light will be brighter next time. Ho-ho, yes.}
+{180}{Set22}{大教堂的孩子们，哈勃城的首领们，甚至我们食尸鬼。现在没人能动摇他的黑暗势力。
+但下一次我们的力量之光会更亮。吼－吼，是的。}
+#{181}{}{Good luck.}
+{181}{}{好运。}
+#{182}{Set23}{Follow Garret and get out.}
+{182}{Set23}{跟着伽略特出去。}
+#{183}{}{Right.}
+{183}{}{好。}
+#{184}{}{Frag off.}
+{184}{}{去死。}
+#{185}{Set24}{You can be left-overs. Leave now, without your
+# reward, or you're on the table tonight.}
+{185}{Set24}{你可能就是残羹剩饭。现在离开，别想你的奖励了，或者你会在今晚的餐桌上。}
+#{186}{}{If that's the way you want it.}
+{186}{}{如果那就是你想它的方法。}
+#{187}{}{Frag off.}
+{187}{}{去死。}
+#{188}{Set25}{No word runs to my ear about the water shed
+# mutants ceasing to breathe. Major to my plans. Tell
+# me it's a problem buried.}
+{188}{Set25}{我没听到关于水处理房那的变种人停止呼吸的风声。对我的计划很严重。告诉我它是个被掩藏的问题。}
+#{189}{}{Oh, yeah. No big deal, everything's been taken care of.
+# Trust me.}
+{哦，是啊。没什么大不了的，每件事都被搞掂了。相信我。}
+#{190}{}{Nope, still working on it.}
+{190}{}{非也，仍然在忙它。}
+#{191}{}{Nuh-uh.}
+{191}{}{嗯－呃。}
+#{192}{Set26}{Ahhh, filling. Follow Garret to your reward. }
+{192}{Set26}{啊啊，#filling#。跟着伽略特去领赏。}
+#{193}{Set27}{You steal my time with your lies. Leave my
+# shadow before . . . die. Die! Just die! }
+{193}{Set27}{你用你的谎言浪费我的时间。离开我的地盘在……死之前。去死！你该去死！}
+#{194}{Set28}{Walk now. Deal with the mutants, and then
+# return. Not before.}
+{194}{Set28}{现在走。处理变种人，再回来。不是先前。}
+#{195}{Set29}{Caught by mine, huh? I gave you the straight
+# on them. Now you pay. No credit.}
+{195}{Set29}{被我的人逮住了，哼？我给你从他们身边走过的通行证。现在你该还了。没有赊账。}
+#{196}{Set30}{I am Set. Why do you tread my shadow?}
+{196}{Set30}{我是赛特。为什么你踩上我的地盘？}
+#{197}{}{I am the bringer of death. Fall to your knees and beg
+# for mercy.}
+{197}{}{我是带来死亡的人。跪下祈求宽恕。}
+#{198}{}{I am the bringer of death. Fall to your knees and beg
+# for mercy . . . Or give me a sandwich, I'm pretty hungry.}
+{198}{}{我是带来死亡的人。跪下祈求宽恕……或者给我一个三明治，我相当饿。}
+#{199}{}{I'm here to see the boss. That you?}
+{199}{}{我来这儿见老板。那就是你？}
+#{200}{}{Whoa, major case of acne!}
+{200}{}{哇，粉刺的严重案例！}
+#{201}{}{Uhh, ahdunno.}
+{201}{}{呃，啊吨喏。}
+#{202}{Set31}{Normies. If you caused the trembles in me,
+# would my gates be this open?}
+{202}{Set31}{正常人儿。如果你引起我的焦虑，我的门还会这样开着吗？}
+#{203}{}{I've killed ghouls. I've killed mutants. I've killed
+# things that you couldn't even imagine. Nobody gets in
+# my way.}
+{203}{}{我杀过食尸鬼。我杀过变种人。我杀过你甚至无法想象的东西。没人能挡我的道。}
+#{204}{}{How about a face lift . . . It'll look good on my wall.}
+{204}{}{顺搭一张脸怎么样……它在我的墙上会看上去不错。}
+#{205}{Set32}{You topped those at the watershed. I find that
+# filling. For that, I'll give words. Then we walk
+# opposite.}
+{205}{Set32}{你结束水处理房那的家伙。我觉得那够了。为此，我会传话。然后我们各奔东西。}
+#{206}{}{Why don't we just 'walk opposite' now?}
+{206}{}{为什么我们不现在就各奔东西？}
+#{207}{}{Works for me.}
+{207}{}{为我工作。}
+#{208}{Set33}{A warn. The South makes a big dog whimper and
+# tuck tail. If ideas dance in your skull, I make
+# big dogs play dead. On the other, you clean-wiped
+# the shed. Garret will walk you to gratitude.}
+{208}{Set33}{一个警告。南部地区会迫使大人物夹起尾巴呜咽。如果坏点子在你脑袋里迸发，我迫使大人物装死。
+或者，你扫清那平房。伽略特会送你去领赏。}
+#{209}{Set34}{Laughter comes hard here. You clean-wiped the
+# shed?}
+{209}{Set34}{这里很难看到笑容。你扫除了那平房了？}
+#{210}{}{That's the fact.}
+{210}{}{那是事实。}
+#{211}{}{Oh, no. Wasn't me.}
+{211}{}{哦，不。不是我。}
+#{212}{Set35}{My wrong, your loss. Work grows, you should walk
+# now.}
+{212}{Set35}{我的过失，你的损失。工作增加了，你现在该走了。}
+#{213}{Set36}{Ah, yes. No tracks in the sand. Good. Filling. Walk
+# with Garret to gratitude.}
+{213}{Set36}{啊，是的。不留痕迹。好的。Filling.跟着伽略特去领赏。}
+#{214}{Set38}{I cast the shadow. If that's the lot, remove yourself. }
+{214}{Set38}{我丢了领地。如果那就是全部，除掉你自己。}
+#{215}{}{I'm here to collect the bounty for some mutants.}
+{215}{}{我来这儿是为一些变种人领取奖金。}
+#{216}{}{Thanks, I think I will be going.}
+{216}{}{谢了，我认为我会走的。}
+#{217}{}{It'd be faster if I removed you.}
+{217}{}{如果我除掉你大概会快些。}
+#{218}{Set39}{Workable. Follow Garret to gratitude, then walk
+# another path.}
+{218}{Set39}{有能力。跟着伽略特去领赏，然后走另一条路。}
+#{219}{Set40}{Reasons for aggressions? Walk and mine will stand.
+# Talk and mine will move.}
+{219}{Set40}{侵略的理由？走开，我的人会站着。说话，我的人会动手。}
+#{220}{}{Sorry, bad attempt at humor.}
+{220}{}{对不起，搞笑的糟糕尝试。}
+#{221}{}{'Bout time. Getting bored waiting for your face to clear up.}
+{221}{}{差不多了。开始厌倦等你的脸放晴。}
+#{222}{Set41}{Ahh, the thinker-normie. You killed those at the
+# shed, yes? Came for reward?}
+{222}{Set41}{啊，有创见的正常人儿。你杀了平房那儿的家伙了，是吗?来领赏的？}
+#{223}{}{Uh-huh}
+{223}{}{呃－哼}
+#{224}{}{Nuh-uh, me came kick ugly-butt.}
+{224}{}{嗯－哼，在下是来踢丑屁屁的。}
+#{225}{Set42a}{Now is bad. Walk. }
+{225}{Set42a}{不是现在。走开。}
+#{226}{}{I deserve some information.}
+{226}{}{我应得些信息。}
+#{227}{}{How about I walk on your face?}
+{227}{}{我在你脸上走怎么样？}
+#{228}{}{Got it.}
+{228}{}{明白。}
+#{229}{}{Nuh-uh?}
+{229}{}{嗯－呃？}
+#{230}{Set43}{Fine. Fast. What?}
+{230}{Set43}{好。快。什么？}
+#{231}{}{You wouldn't do the mutants yourself. I ask myself
+# why? Answer, someone has you scared. Why?}
+{231}{}{你不会亲自做掉变种人。我寻思为什么？答案，有些人令你害怕。为什么？}
+#{232}{}{Why'd you need me to kill the mutants? Why not use
+# your ghouls?}
+{232}{}{为什么你需要我去杀变种人？为什么不利用你的食尸鬼？}
+#{233}{}{How in the hell can you call all this crap a reward?}
+{233}{}{活见鬼的你怎么能把所有这些废物称作奖赏？}
+#{234}{Set44}{I don't tremble. Use the tools of the time. You're
+# used, you're rewarded, you're walking.}
+{234}{Set44}{我不焦虑。使用现成的工具。你被利用，你被奖励，你该走开了。}
+#{235}{}{You're bluffing.}
+{235}{}{你在故弄玄虚。}
+#{236}{}{If you say so.}
+{236}{}{如你所说。}
+#{237}{}{I think that's a threat!}
+{237}{}{我认为那是个威胁！}
+#{238}{Set45}{You don't even read the lines. Unless Necropolis
+# is forever your home to be, walk. I have no time for a
+# foolish blood-bag.}
+{238}{Set45}{你连状况都没搞清。除非你想活死人镇成为你永远的归宿，走开。我没时间耽搁在一个愚蠢的
+储血袋上。}
+#{239}{}{How 'bout your own body-bag?}
+{239}{}{你自己的尸袋又怎么样呢？}
+#{240}{}{Got it.}
+{240}{}{明白。}
+#{241}{}{Bite me.}
+{241}{}{咬我啊。}
+#{242}{Set45a}{With pleasure . . .}
+{242}{Set45a}{很荣幸……}
+#{243}{Set46}{No bluff, no twist. The Master does not tremble
+# me. Walk. Your welcome has.}
+{243}{Set46}{没有故弄玄虚，没有拐弯抹角。主教不能动摇我。走开。你不再受欢迎。}
+#{244}{}{Thanks for your time.}
+{244}{}{感谢你花时间。}
+#{245}{}{Think smokin' you will bring back my welcome?
+# Works for me.}
+{245}{}{料想熏黑你会让我再受欢迎？为我工作。}
+#{246}{Set47}{Why send a ghoul for a child's work?
+# Leave me.}
+{246}{Set47}{为什么派一个食尸鬼去做一个孩子都能胜任的工作？离开我。}
+#{247}{Set48}{I'm weary. You're gone.}
+{247}{Set48}{我厌烦了。你死了。}
+#{248}{Set49}{Sow and weep! I want you dead! Dead!}
+{248}{Set49}{纵情哭泣！我要你死！死！}
+#{249}{Set50}{I spy your twist and it causes one of us pain.
+# Short-list choice: Remove the mutants or die.}
+{249}{Set50}{我发现你拐弯抹角，这令我们中一个不舒服。简单的最后选择：除掉变种人或死。}
+#{250}{}{I'll get right to it.}
+{250}{}{我会让这事走向正轨。}
+#{251}{}{It's a bigger list. #3 is: What if I twist off
+# your head instead?}
+{251}{}{还有个选项。＃3是：如果我扭断你的头作为替代会怎么样？}
+#{252}{Set51}{Still in my shadow? Why do normie tongues waggle
+# and take the movement from their bones? Clear-time, walk now.}
+{252}{Set51}{仍在我地盘上？为什么正常人儿的舌头靠它们的骨头来移动翻飞？清理时间，现在走开。}
+#{253}{Set52}{Your presence means?}
+{253}{Set52}{你的出现意味着？}
+#{254}{}{Not much, just spreading the news that the Master
+# is dead.}
+{254}{}{没什么，就是传达个消息：主教死了。}
+#{255}{}{Ran out of butt to kick and thought of your face.}
+{255}{}{没屁屁用来踢了，考虑用你的脸。}
+#{256}{}{Huh. Master go boom.}
+{256}{}{哼。主教更强了。}
+#{257}{Set52a}{You mean dead?}
+{257}{Set52a}{你的意思是死了？}
+#{258}{}{Uh-huh.}
+{258}{}{呃－哼。}
+#{259}{Set53}{Warm. Filling. Your needs are my desires. Name
+# them.}
+{259}{Set53}{温暖。充实。你的需要就是我的渴望。尽管开口。}
+#{260}{}{Need some info on the Vats.}
+{260}{}{需要些Vats的信息。}
+#{261}{}{I could use some more weapons and equipment.}
+{261}{}{我能使用更多的武器和装备。}
+#{262}{}{No Thanks.}
+{262}{}{不用了，谢了。}
+#{263}{}{Need stuff.}
+{263}{}{需要材料物资。}
+#{264}{}{Naww.}
+{264}{}{呶。}
+#{265}{Set54}{Some of mine slipped the bonds. Worked that
+# mutant task.}
+{265}{Set54}{我的一些人摆脱了监禁。做那个变种人任务。}
+#{266}{}{What did they say?}
+{266}{}{他们说什么？}
+#{267}{}{Mutants, huh? I'll probably need more guns.}
+{267}{}{变种人，哼？我可能需要更多的枪支。}
+#{268}{Set55}{Big northwest, far from life. Busy with guards
+# and tricky steering. If that's your path, walk it tight with my thoughts.}
+{268}{Set55}{大西北，远离生命。要应付卫兵和难操纵的方向盘。如果那是你的路线，走的时候紧记我的看法。}
+#{269}{Set56}{Garret will pass what's available.}
+{269}{Set56}{伽略特会递上可用的东西。}
+#{270}{Set57}{You. Vanished our water processor chip. Exchanged
+# it . . . for your life!}
+{270}{Set57}{你。毁坏了我们的水处理芯片。交换它……用你的命！}
+#{271}{}{We both need working chips. Apparently there is only
+# one. Is there another method we haven't thought about?}
+{271}{}{我们都需要工作的芯片。显然只有一个。有没有其它我们还没想到的方法？}
+#{272}{}{I needed the chip to save my own vault. Sorry.}
+{272}{}{我需要芯片来拯救我自己的避难所。抱歉。}
+#{273}{}{Will sorry do?}
+{273}{}{以为抱歉就行？}
+#{274}{}{Want it back?}
+{274}{}{想要回来？}
+#{275}{}{Uhh?}
+{275}{}{嗯？}
+#{276}{Set58}{A path, perhaps. An alternate pump exists, but not
+# its actions. None of mine can breathe that life.}
+{276}{Set58}{一个途径，也许。存在一个备用泵，但不一定还能工作。我手下可没人能把那当成精神支柱。}
+#{277}{}{Perhaps I should take a look at the pump.}
+{277}{}{也许我应该看一眼水泵。}
+#{278}{}{Too bad. Guess you're going thirsty.}
+{278}{}{太糟糕了。猜你要口渴了。}
+#{279}{Set59}{Garret will walk you. Revive the pump, keep the
+# chip.}
+{279}{Set59}{伽略特会带你去。恢复水泵，留下芯片。}
+#{280}{}{Thanks.}
+{280}{}{谢了。}
+#{281}{Set60}{I'll drink from you warm, then take from you cold.}
+{281}{Set60}{我会喝你温热的血，然后从你冰冷的尸体上拿回东西。}
+#{282}{}{I don't have it on me.}
+{282}{}{我可没有那东西在身上。}
+#{283}{}{How 'bout eating dirt instead.}
+{283}{}{吃我的屎作为替代怎么样。}
+#{284}{Set61}{Then die before mine!}
+{284}{Set61}{那么在我的人面前去死！}
+#{285}{Set62}{Ideas will not matter to you again.}
+{285}{Set62}{思想不会再次打搅你了。}
+#{286}{}{I take it that's a 'no?'}
+{286}{}{我理解为那是一个“不”？}
+#{287}{Set63}{Your price is to belong to Necropolis forever.}
+{287}{Set63}{你的代价是永远属于活死人镇。}
+#{288}{}{Kind of expensive. How 'bout I remove you from office
+# instead?}
+{288}{}{有点儿昂贵。我把你从办公室中除去作为替代怎么样？}
+#{289}{}{Nuh-uh!}
+{289}{}{嗯－呃！}
+#{290}{Set64}{For the chip, you may walk.}
+{290}{Set64}{为了芯片，你能走了。}
+#{291}{}{Gotcha! I don't have it anymore!}
+{291}{}{明白了！我不再拥有它了！}
+#{292}{}{OK, here it is.}
+{292}{}{好了，给。}
+#{293}{}{I'd rather see you dead.}
+{293}{}{我宁愿看你死。}
+#{294}{Set65}{[Set passes the water chip to a ghoul, who runs
+# off with it.]  If your shadow touches Necropolis again, it will
+# merge forever.}
+{294}{Set65}{【赛特把水处理芯片递给一个食尸鬼，他拿着它跑掉了。】如果你的影子再碰到活死人镇，
+它会永远和活死人镇融为一体。}
+#{295}{Set200}{As said . . .}
+{295}{Set200}{依照说……}
+#{296}{Set201}{Stated before . . .}
+{296}{Set201}{之前声名……}
+#{297}{Set202}{Don't do the deal with normies.}
+{297}{Set202}{不要与正常人儿做生意。}
+#{298}{Set203}{Natter to Garret. My time flies.}
+{298}{Set203}{去和伽略特唠叨。我的光阴飞逝。}
+#{299}{Set204}{Is your head empty?}
+{299}{Set204}{你的脑袋是空的吗？}
+#{300}{Set205}{Yours is the only benefit. This exchange lacks.}
+{300}{Set205}{只有你得益。这交易不行。}
+#{301}{Set206}{Thoughts not in my possession}
+{301}{Set206}{不是的想法。}
+#{302}{Set207}{The time is wrong. Evening is proper for your shadow.}
+{302}{Set207}{时间不对。你的影子该在晚上出现。}
+#{303}{Set208}{Guards! Seize the norm!}
+{303}{Set208}{卫兵！捉住那正常人！}
+#{304}{Set209}{Guards, end this annoyance!}
+{304}{Set209}{卫兵，结束这麻烦事！}
+#{305}{Set300}{His meaning has no place here. None.}
+{305}{Set300}{他的意图在这儿行不通。不。}
+#{306}{Set301}{The future. Survival anywhere. We surpass the norms.}
+{306}{Set301}{未来。在任何地方活下来。我们优于正常人。}
+#{307}{Set302}{An error of the world. A blot on my sight. I hate every facet.}
+{307}{Set302}{一个世界性的错误。我视野上的一个污点。我恨所有方面。}
+#{308}{Set303}{Where your shadow lies. My home. My rule. A place where strength
+# grows.}
+{308}{Set303}{我的影子位于的地方。我的家。我的规矩。一个力量成长的地方。}
+#{309}{Set304}{The beginning. World to ashes, ashes to growth. Our life.}
+{309}{Set304}{开端。世界成为灰烬，灰烬开始增长。我们的生活。}
+#{310}{Set305}{Misguided ideals. Nothing to my sight, nothing at all.}
+{310}{Set305}{误入歧途的理想。以我的眼界来说不值一提，根本不值一提。}
+#{311}{Set306}{Many of yours. Some useful, but too many twists.}
+{311}{Set306}{你们中的许多。一些有用，但是太多拐弯抹角。}
+#{312}{Set307}{Relics. We surpass, they don't know. Their sight is narrow, only what
+# they believe.}
+{312}{Set307}{遗迹。我们凌驾他们，他们不知道。他们的眼界狭窄，只看到他们相信的东西。}
+#{313}{Set308}{Center of the Necropolis water supply. Poisoned by presence of
+# mutants. Makes me empty to think on it.}
+{313}{Set308}{活死人镇的水供应中心。被变种人的出现所污染。让我穷于考虑这事。}
+#{314}{Set309}{Provides what is needed.}
+{314}{Set309}{提供所需要的东西。}
+#{315}{Set310}{Beneath my thoughts.}
+{315}{Set310}{与我的思想不相称。}
+#{316}{Set311}{Not in my thoughts.}
+{316}{Set311}{不在我的想法之内。}
+
+
+
+#
+# Set Tell-Me-Abouts
+#
+#{970}{Set01}{Simple time. I'm Set. I'm in charge. Get it?}
+{970}{Set01}{长话短说。我是赛特。我是管事的。了解吗？}
+#{980}{Set206}{Thoughts not in my possession}
+{980}{Set206}{不是我的想法}
+#{981}{Set310}{Beneath my thoughts.}
+{981}{Set310}{与我的思想不相称。}
+#{982}{Set311}{Not in my thoughts.}
+{982}{Set311}{不在我的想法之内。}
+
+#{1000}{}{Master}
+{1000}{}{主教}
+#{1001}{}{Ghouls}
+{1001}{}{食尸鬼}
+#{1002}{}{Mutants}
+{1002}{}{变种人}
+#{1003}{}{Necropolis}
+{1003}{}{活死人镇}
+#{1004}{}{War}
+{1004}{}{战争}
+#{1005}{}{Unity}
+{1005}{}{统一体}
+#{1006}{}{Hub}
+{1006}{}{哈勃镇}
+#{1007}{}{Brotherhood}
+{1007}{}{兄弟会}
+#{1008}{}{Shed}
+{1008}{}{平房}
+#{1009}{}{Cathedral}
+{1009}{}{大教堂}
+#{1010}{}{Chip}
+{1010}{}{芯片}
+#{1011}{}{Hall}
+{1011}{}{大厅}
+#{1012}{}{Children}
+{1012}{}{孩子}
+#{1013}{}{Garret}
+{1013}{}{伽略特}
+#{1014}{}{Set}
+{1014}{}{赛特}
+#{1015}{}{Muties}
+{1015}{}{变种人}
+#{1016}{}{Brotherhood of Steel}
+{1016}{}{钢铁兄弟会}
+#{1017}{}{Water Shed}
+{1017}{}{水处理房}
+#{1018}{}{Children of the Cathedral}
+{1018}{}{大教堂的孩子}
+#{1019}{}{Children}
+{1019}{}{孩子}
+#{1020}{}{Watershed}
+{1020}{}{水处理房}
+#{1021}{}{Water}
+{1021}{}{水}
+
+#{1100}{Set300}{His meaning has no place here. None.}
+{1100}{Set300}{他的意图在这儿行不通。不。}
+#{1101}{Set301}{The future. Survival anywhere. We surpass the norms.}
+{1101}{Set301}{未来。在任何地方活下来。我们优于正常人。}
+#{1102}{Set302}{An error to the world. A blot on my sight. I hate every facet.}
+{1102}{Set302}{一个世界性的错误。我视野上的一个污点。我恨所有方面。}
+#{1103}{Set303}{Where your shadow lies. My home. My rule. A place where strength grows.}
+{1103}{Set303}{我的影子位于的地方。我的家。我的规矩。一个力量成长的地方。}
+#{1104}{Set304}{The beginning. World to ashes, ashes to growth. Our life.}
+{1104}{Set304}{开端。世界成为灰烬，灰烬开始增长。我们的生活。}
+#{1105}{Set305}{Misguided ideals. Nothing to my sight, nothing at all.}
+{1105}{Set305}{误入歧途的理想。以我的眼界来说不值一提，根本不值一提。}
+#{1106}{Set306}{Many of yours. Some useful, but too many twists.}
+{1106}{Set306}{你们中的许多。一些有用，但是太多拐弯抹角。}
+#{1107}{Set307}{Relics. We surpass, they don't know. Their sight is narrow, only what
+# they believe.}
+{1107}{Set307}{遗迹。我们凌驾他们，他们不知道。他们的眼界狭窄，只看到他们相信的东西。}
+#{1108}{Set309}{Provides what is needed.}
+{1108}{Set309}{提供所需的东西。}
+#{1109}{Set310}{Beneath my thoughts.}
+{1109}{Set310}{与我的思想不相称。}
+#{1110}{Set311}{Not in my thoughts.}
+{1110}{Set311}{不在我的想法之内。}
+#{1111}{Set204}{Is your head empty?}
+{1111}{Set204}{你的脑袋是空的吗？}
+#{1112}{Set310}{Beneath my thoughts.}
+{1112}{Set310}{与我的思想不相称。}
+#{1113}{Set204}{Is your head empty?}
+{1113}{Set204}{你的脑袋是空的吗？}
+#{1114}{Set01}{Simple time. I'm Set. I'm in charge. Get it?}
+{1114}{Set01}{长话短说。我是赛特。我是管事的。了解吗？}
+#{1115}{Set302}{An error to the world. A blot on my sight. I hate every facet.}
+{1115}{Set302}{一个世界性的错误。我视野上的一个污点。我恨所有方面。}
+#{1116}{Set307}{Relics. We surpass, they don't know. Their sight is narrow, only what
+# they believe.}
+{1116}{Set307}{遗迹。我们凌驾他们，他们不知道。他们的眼界狭窄，只看到他们相信的东西。}
+#{1117}{Set309}{Provides what is needed.}
+{1117}{Set309}{提供所需的东西。}
+#{1118}{Set310}{Beneath my thoughts.}
+{1118}{Set310}{与我的思想不相称。}
+#{1119}{Set310}{Beneath my thoughts.}
+{1119}{Set310}{与我的思想不相称。}
+#{1120}{Set309}{Provides what is needed.}
+{1120}{Set309}{提供所需的东西。}
+#{1121}{Set309}{Provides what is needed.}
+{1121}{Set309}{提供所需的东西。}
