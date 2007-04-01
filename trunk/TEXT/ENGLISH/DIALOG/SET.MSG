@@ -3,10 +3,10 @@
 #{101}{Set00}{There'd better be a killer reason for standin' in my
 # shadow. Does 'next on the menu' ring a bell for ya . . .
 # normie.}
-{101}{Set00}{你站在我的地盘上最好能给我一个不杀你的理由。否则你就是我菜单菜单上的一道美味．．．光皮肤的小子。}
+{101}{Set00}{你站在我的地盘上最好能给我一个不杀你的理由。否则你会成为菜单上的一道美味．．．光皮肤的小子。}
 #{102}{}{Oh, killer it is, no doubt. Obviously I've found the
 # head, uh, man.}
-{102}{}{哦，杀死，毫无疑问的。显然我已经找到了老大了，呃，头儿。}
+{102}{}{哦，杀死，毫无疑问，显然我已经找到了老大了，呃，头儿。}
 #{103}{}{Whoa, what happened to your face?}
 {103}{}{呼啊，你的脸怎么弄的？}
 #{104}{}{Wow, you're pretty smart for a ghoul.}
@@ -51,8 +51,7 @@
 #{121}{Set05}{Well. I see some potential here . . . heh . . . I have playmates
 # for you, my sparkling normie. Punish the mutants at the water shed for me.
 # Yeah, yeah, can do . . . yes?}
-{121}{Set05}{好。我看出这儿有些苗头……吓……我有玩伴给你，我才华横溢的正常人儿。帮我惩罚一下
-水处理房中的变种人。是的，是的，能完成……对吗？}
+{121}{Set05}{好。我看出这儿有些苗头……吓……我有玩伴给你，我才华横溢的正常人儿。帮我惩罚一下水处理房中的变种人。是的，是的，能完成……对吗？}
 #{122}{}{Uh, OK.}
 {122}{}{嗯，行。}
 #{123}{}{Nuh-uh.}
@@ -61,8 +60,7 @@
 # amble back . . . Hmm. If I say to my ghouls to hold
 # off you, the muties might hear and know. So I tell you what,
 # it's favor-time. I keep shut. Got it?}
-{124}{Set06}{好极了。教那些变种人最后一课，再漫步回来……哼。如果我向我的食尸鬼们指明不靠近你，
-那些变种儿可能会听见并知道怎么回事。所以我告诉你干什么，这次我罩你。我保持沉默。明白吗？}
+{124}{Set06}{好极了。教那些变种人最后一课，再漫步回来……哼。如果我向我的食尸鬼们指明不靠近你，那些变种儿可能会听见并知道怎么回事。所以我告诉你干什么，这次我罩你。我保持沉默。明白吗？}
 #{125}{}{Got it.}
 {125}{}{明白。}
 #{126}{}{What about the ghouls?}
@@ -73,8 +71,7 @@
 {128}{}{哈？}
 #{129}{Set07}{Avoid my ghouls, if you like your skin on. Any of mine that can't
 # stop a normie deserve last rest. Get by as you need.}
-{129}{Set07}{避开我的食尸鬼们，如果你想你的皮肤还在身上。我的任何一个食尸鬼都不能
-放下该让一个正常人儿去长眠的念头。如果需要的话就混过去。}
+{129}{Set07}{避开我的食尸鬼们，如果你想你的皮肤还在身上。我的任何一个食尸鬼都不能放下该让一个正常人儿去长眠的念头。如果需要的话就混过去。}
 #{130}{Set08}{You eat my time! Cease to be, one way or the other!}
 {130}{Set08}{你浪费我的时间！就此打住，无论怎样！}
 #{131}{Set09}{You have no idea whose shadow you stomp.}
@@ -87,8 +84,7 @@
 {134}{}{对不起，我的幽默感很独特。}
 #{135}{Set10}{You walk for him? You're his sneak, straight? Here to skin me?
 # Oh, I swear, you'll tombstone too.}
-{135}{Set10}{你为他跑腿？你是他的探子，直说吧？到这儿来剥我的皮？
-哦，我发誓，你身上也会压上墓碑。}
+{135}{Set10}{你为他跑腿？你是他的探子，直说吧？到这儿来剥我的皮？哦，我发誓，你身上也会压上墓碑。}
 #{136}{}{Whoa, Don't misinterpret. I'm not his. I'm here to help.}
 {136}{}{哇啊，不要误会。我不是他手下的。我到这儿来帮忙的。}
 #{137}{}{Try it spaghetti face.}
@@ -101,8 +97,7 @@
 # but a straight-place for my kind. Then the Master
 # showed. He could've fragged me good, but it was easy
 # for him to just stand some muties and keep an eye on.}
-{140}{Set11}{活死人镇是我的。不是一个十全十美的地方，但至少对我这类人算整洁的地方了。
-然后主教出现了。他本可以把我撕成碎片，但对他来说很容易安插一些变种人并密切注意我。}
+{140}{Set11}{活死人镇是我的。不是一个十全十美的地方，但至少对我这类人算整洁的地方了。然后主教出现了。他本可以把我撕成碎片，但对他来说很容易安插一些变种人并密切注意我。}
 #{141}{}{What can I do, and what will you do for me?}
 {141}{}{我能做什么，而你又会为我做什么？}
 #{142}{}{Sounds a bit out of my league. I'm outta this.}
@@ -118,8 +113,7 @@
 #{146}{Set13}{You want employ, walker? Show me you can scuffle.
 # Take down the mutants at the water shed. Show 'em
 # the bad time and you're good.}
-{145}{Set13}{你想受雇，过路人？向我证明你能打斗。拿下水处理房那边的变种人。让他们领教一下坏时光，
-然后你就算合格了。}
+{145}{Set13}{你想受雇，过路人？向我证明你能打斗。拿下水处理房那边的变种人。让他们领教一下坏时光，然后你就算合格了。}
 #{147}{}{I'm on it.}
 {147}{}{我着手去办。}
 #{148}{}{No way, spaghetti face.}
@@ -181,16 +175,14 @@
 {172}{}{嘿，我可不满足于残羹剩饭。}
 #{173}{Set20}{[Groan] Yeah, yeah. Follow Garret, and be showing your pearly whites too.
 # And don't fret, I keep a straight-word. The Master runs the twist.}
-{173}{Set20}{【抱怨】是啊，是啊。跟着伽略特，也去展示一下你皓白的牙齿。别不满，我直言。
-主教掌管着一切。}
+{173}{Set20}{【抱怨】是啊，是啊。跟着伽略特，也去展示一下你皓白的牙齿。别不满，我直言。主教掌管着一切。}
 #{174}{}{The Master?}
 {174}{}{主教？}
 #{175}{}{Ok, thanks.}
 {175}{}{好的，谢谢。}
 #{176}{Set21}{You don't watch your back, you'll wear his knife, he'll wear your
 # skin. His mutants shadow the wasteland, especially south of here.}
-{176}{Set21}{你不当心自己背后的话，你会磨损他的刀，他会磨损你的皮。他的变种人控制了废土，
-特别是这里南边。}
+{176}{Set21}{你不当心自己背后的话，你会磨损他的刀，他会磨损你的皮。他的变种人控制了废土，特别是这里南边。}
 #{177}{}{If the Master is so strong, who can challenge him?}
 {177}{}{如果主教如此强大，谁能挑战他？}
 #{178}{}{He doesn't scare me.}
@@ -200,8 +192,7 @@
 #{180}{Set22}{Children of the Cathedral, cids of the Hub, even
 # us Ghouls. No one can push his shadow now. But our
 # light will be brighter next time. Ho-ho, yes.}
-{180}{Set22}{大教堂的孩子们，哈勃城的首领们，甚至我们食尸鬼。现在没人能动摇他的黑暗势力。
-但下一次我们的力量之光会更亮。吼－吼，是的。}
+{180}{Set22}{大教堂的孩子们，哈勃城的首领们，甚至我们食尸鬼。现在没人能动摇他的黑暗势力。但下一次我们的力量之光会更亮。吼－吼，是的。}
 #{181}{}{Good luck.}
 {181}{}{好运。}
 #{182}{Set23}{Follow Garret and get out.}
@@ -274,8 +265,7 @@
 # tuck tail. If ideas dance in your skull, I make
 # big dogs play dead. On the other, you clean-wiped
 # the shed. Garret will walk you to gratitude.}
-{208}{Set33}{一个警告。南部地区会迫使大人物夹起尾巴呜咽。如果坏点子在你脑袋里迸发，我迫使大人物装死。
-或者，你扫清那平房。伽略特会送你去领赏。}
+{208}{Set33}{一个警告。南部地区会迫使大人物夹起尾巴呜咽。如果坏点子在你脑袋里迸发，我迫使大人物装死。或者，你扫清那平房。伽略特会送你去领赏。}
 #{209}{Set34}{Laughter comes hard here. You clean-wiped the
 # shed?}
 {209}{Set34}{这里很难看到笑容。你扫除了那平房了？}
@@ -288,7 +278,7 @@
 {212}{Set35}{我的过失，你的损失。工作增加了，你现在该走了。}
 #{213}{Set36}{Ah, yes. No tracks in the sand. Good. Filling. Walk
 # with Garret to gratitude.}
-{213}{Set36}{啊，是的。不留痕迹。好的。Filling.跟着伽略特去领赏。}
+{213}{Set36}{啊，是的。不留痕迹。好的。跟着伽略特去领赏。}
 #{214}{Set38}{I cast the shadow. If that's the lot, remove yourself. }
 {214}{Set38}{我丢了领地。如果那就是全部，除掉你自己。}
 #{215}{}{I'm here to collect the bounty for some mutants.}
@@ -346,8 +336,7 @@
 #{238}{Set45}{You don't even read the lines. Unless Necropolis
 # is forever your home to be, walk. I have no time for a
 # foolish blood-bag.}
-{238}{Set45}{你连状况都没搞清。除非你想活死人镇成为你永远的归宿，走开。我没时间耽搁在一个愚蠢的
-储血袋上。}
+{238}{Set45}{你连状况都没搞清。除非你想活死人镇成为你永远的归宿，走开。我没时间耽搁在一个愚蠢的储血袋上。}
 #{239}{}{How 'bout your own body-bag?}
 {239}{}{你自己的尸袋又怎么样呢？}
 #{240}{}{Got it.}
@@ -378,7 +367,7 @@
 {250}{}{我会让这事走向正轨。}
 #{251}{}{It's a bigger list. #3 is: What if I twist off
 # your head instead?}
-{251}{}{还有个选项。＃3是：如果我扭断你的头作为替代会怎么样？}
+{251}{}{还有个选项。３是：如果我扭断你的头作为替代会怎么样？}
 #{252}{Set51}{Still in my shadow? Why do normie tongues waggle
 # and take the movement from their bones? Clear-time, walk now.}
 {252}{Set51}{仍在我地盘上？为什么正常人儿的舌头靠它们的骨头来移动翻飞？清理时间，现在走开。}
@@ -399,7 +388,7 @@
 # them.}
 {259}{Set53}{温暖。充实。你的需要就是我的渴望。尽管开口。}
 #{260}{}{Need some info on the Vats.}
-{260}{}{需要些Vats的信息。}
+{260}{}{需要些病毒槽的信息。}
 #{261}{}{I could use some more weapons and equipment.}
 {261}{}{我能使用更多的武器和装备。}
 #{262}{}{No Thanks.}
@@ -476,8 +465,7 @@
 #{294}{Set65}{[Set passes the water chip to a ghoul, who runs
 # off with it.]  If your shadow touches Necropolis again, it will
 # merge forever.}
-{294}{Set65}{【赛特把水处理芯片递给一个食尸鬼，他拿着它跑掉了。】如果你的影子再碰到活死人镇，
-它会永远和活死人镇融为一体。}
+{294}{Set65}{【赛特把水处理芯片递给一个僵尸，他拿着它跑掉了。】如果你的影子再碰到活死人镇，它会永远和活死人镇融为一体。}
 #{295}{Set200}{As said . . .}
 {295}{Set200}{依照说……}
 #{296}{Set201}{Stated before . . .}
@@ -540,50 +528,50 @@
 #{982}{Set311}{Not in my thoughts.}
 {982}{Set311}{不在我的想法之内。}
 
-#{1000}{}{Master}
-{1000}{}{主教}
-#{1001}{}{Ghouls}
-{1001}{}{食尸鬼}
-#{1002}{}{Mutants}
-{1002}{}{变种人}
-#{1003}{}{Necropolis}
-{1003}{}{活死人镇}
-#{1004}{}{War}
-{1004}{}{战争}
-#{1005}{}{Unity}
-{1005}{}{统一体}
-#{1006}{}{Hub}
-{1006}{}{哈勃镇}
-#{1007}{}{Brotherhood}
-{1007}{}{兄弟会}
-#{1008}{}{Shed}
-{1008}{}{平房}
-#{1009}{}{Cathedral}
-{1009}{}{大教堂}
-#{1010}{}{Chip}
-{1010}{}{芯片}
-#{1011}{}{Hall}
-{1011}{}{大厅}
-#{1012}{}{Children}
-{1012}{}{孩子}
-#{1013}{}{Garret}
-{1013}{}{伽略特}
-#{1014}{}{Set}
-{1014}{}{赛特}
-#{1015}{}{Muties}
-{1015}{}{变种人}
-#{1016}{}{Brotherhood of Steel}
-{1016}{}{钢铁兄弟会}
-#{1017}{}{Water Shed}
-{1017}{}{水处理房}
-#{1018}{}{Children of the Cathedral}
-{1018}{}{大教堂的孩子}
-#{1019}{}{Children}
-{1019}{}{孩子}
-#{1020}{}{Watershed}
-{1020}{}{水处理房}
-#{1021}{}{Water}
-{1021}{}{水}
+{1000}{}{Master}
+# {1000}{}{主教}
+{1001}{}{Ghouls}
+# {1001}{}{食尸鬼}
+{1002}{}{Mutants}
+# {1002}{}{变种人}
+{1003}{}{Necropolis}
+# {1003}{}{活死人镇}
+{1004}{}{War}
+# {1004}{}{战争}
+{1005}{}{Unity}
+# {1005}{}{统一体}
+{1006}{}{Hub}
+# {1006}{}{哈勃镇}
+{1007}{}{Brotherhood}
+# {1007}{}{兄弟会}
+{1008}{}{Shed}
+# {1008}{}{平房}
+{1009}{}{Cathedral}
+# {1009}{}{大教堂}
+{1010}{}{Chip}
+# {1010}{}{芯片}
+{1011}{}{Hall}
+# {1011}{}{大厅}
+{1012}{}{Children}
+# {1012}{}{孩子}
+{1013}{}{Garret}
+# {1013}{}{伽略特}
+{1014}{}{Set}
+# {1014}{}{赛特}
+{1015}{}{Muties}
+# {1015}{}{变种人}
+{1016}{}{Brotherhood of Steel}
+# {1016}{}{钢铁兄弟会}
+{1017}{}{Water Shed}
+# {1017}{}{水处理房}
+{1018}{}{Children of the Cathedral}
+# {1018}{}{大教堂的孩子}
+{1019}{}{Children}
+# {1019}{}{孩子}
+{1020}{}{Watershed}
+# {1020}{}{水处理房}
+{1021}{}{Water}
+# {1021}{}{水}
 
 #{1100}{Set300}{His meaning has no place here. None.}
 {1100}{Set300}{他的意图在这儿行不通。不。}
