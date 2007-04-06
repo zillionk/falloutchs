@@ -2,7 +2,7 @@
 {100}{}{你看见一位钢铁兄弟会的元老。}
 
 #{101}{}{Greetings Initiate. I need to speak with you. (He motions for you to come closer.)}
-{101}{}{你好新兵。我需要与你谈谈。【他靠近你】}
+{101}{}{你好新兵。我需要与你谈谈。【他靠近你。】}
 
 #{102}{}{About what?}
 {102}{}{关于什么？}
@@ -225,7 +225,7 @@
 
 #{164}{}{Obviously we made a mistake. Elders, I am sorry for wasting your time. Would someone
 # please remove this mental abomination?}
-{164}{}{我们明显地犯了一个错误。元老，我为浪费你的时间而道歉。有人能弥补这个失败的阴影吗？}
+{164}{}{元老，显然我们犯了一个错误。有人能弥补这个过失吗？}
 
 #{165}{}{I am too busy planning a defensive strategy.}
 {165}{}{我正在忙于计划一个防御战略。}
