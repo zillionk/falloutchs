@@ -1,0 +1,3 @@
+#{100}{}{This looks like a control panel for a force field.}
+
+{100}{}{它看起来像力场控制面板。}
