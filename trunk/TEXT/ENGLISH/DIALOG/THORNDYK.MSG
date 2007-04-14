@@ -1,0 +1,344 @@
+#{100}{}{You see Thorndyke.}
+{100}{}{Äã¿´µ½ÁËË÷¶÷´÷¿Ë¡£}
+
+#{101}{}{I do not use my skills to heal my enemies. Get out of here.}
+{101}{}{ÎÒ¾ø²»»áÓÃÎÒµÄ¼¼ÄÜÀ´¾ÈÖÎµĞÈË¡£¹ö³öÕâÀï¡£}
+
+#{102}{}{I have heard about you. You are a ruthless killer. I will not heal one who has harmed so many. Get out of here.}
+{102}{}{ÎÒÌıËµ¹ıÄã¡£ÄãÊÇ¸öÀäÑªµÄÉ±ÊÖ¡£ÎÒ¾ø²»»áÎªÒ»¸öÉËº¦ÁËÄÇÃ´¶àÈËµÄ¼Ò»ïÖÎÁÆ¡£¹ö³öÕâÀï¡£}
+ 
+#{103}{}{Sir, I am a healer. You have no need for my services.}
+{103}{}{ÏÈÉú£¬ÎÒÊÇ¸öÒ½Õß¡£Äã²»ĞèÒªÎÒµÄ·şÎñ¡£}
+
+#{104}{}{Madam, I am a healer. You have no need for my services.}
+{104}{}{Å®Ê¿£¬ÎÒÊÇ¸öÒ½Õß¡£Äã²»ĞèÒªÎÒµÄ·şÎñ¡£}
+
+#{105}{}{Tell me about your work.}
+{105}{}{ÏòÎÒ½éÉÜÏÂÄãµÄ¹¤×÷°É¡£}
+
+#{106}{}{What's this place about?}
+{106}{}{ÕâµØ·½ÊÇ¸ÉÊ²Ã´µÄ£¿}
+
+#{107}{}{How much do you charge for your services?}
+{107}{}{ÄãµÄ·şÎñĞèÒª»¨µôÎÒ¶àÉÙÇ®£¿}
+
+#{108}{}{Maybe later…}
+{108}{}{»òĞíÒÔºó°É¡£}
+
+#{109}{}{You know, I could help drum up some business. I'm very good at hurting people!}
+{109}{}{ÄãÖªµÀ£¬ÎÒ¿ÉÒÔ°ïÄãÕĞÀ¿Ò»Ğ©ÉúÒâ¡£ÎÒ¶ÔÈÃÈËÊÜÉË¿ÉÊÇºÜÔÚĞĞ£¡}
+
+#{110}{}{Huh?}
+{110}{}{°¡¹ş£¿}
+
+#{111}{}{Sir, I have already given you medication. I dare not administer a second dose now.}
+{111}{}{ÏÈÉú£¬ÎÒÒÑ¾­ÖÎÁÆ¹ıÄãÁË¡£ÎÒÏë²»ĞèÒªÔÙÀ´Ò»ÕëÁË¡£}
+
+#{112}{}{Madam, I have already given you medication. I dare not administer a second dose now.}
+{112}{}{Å®Ê¿£¬ÎÒÒÑ¾­ÖÎÁÆ¹ıÄãÁË¡£ÎÒÏë²»ĞèÒªÔÙÀ´Ò»ÕëÁË¡£}
+
+#{113}{}{Tell me about your work.}
+{113}{}{ÏòÎÒ½éÉÜÏÂÄãµÄ¹¤×÷°É¡£}
+
+#{114}{}{What's this place about?}
+{114}{}{ÕâµØ·½ÊÇ¸ÉÊ²Ã´µÄ£¿}
+
+#{115}{}{That's pretty sad medication. Maybe you should find something stronger?}
+{115}{}{ÕâÖÎÁÆ»¹ÕæÊÇÔã¸â¡£»òĞíÄãÓ¦¸ÃÓÃµãĞ§Á¦¸üÇ¿Ğ©µÄ£¿}
+
+#{116}{}{Sorry to bother you, Doc.}
+{116}{}{±§Ç¸´ò½ÁÄã£¬Ò½Éú¡£}
+
+#{117}{}{You know, I could help drum up some business. I'm very good at hurting people!}
+{117}{}{ÄãÖªµÀ£¬ÎÒ¿ÉÒÔ°ïÄãÕĞÀ¿Ò»Ğ©ÉúÒâ¡£ÎÒ¶ÔÈÃÈËÊÜÉË¿ÉÊÇºÜÔÚĞĞ£¡}
+
+#{118}{}{Huh?}
+{118}{}{°¡¹ş£¿}
+
+#{119}{}{Sir, you are injured. I can treat you if you wish. I am a healer.}
+{119}{}{ÏÈÉú£¬ÄãÊÜÉËÁË¡£Èç¹ûÄãÔ¸ÒâµÄ»°ÎÒ¿ÉÒÔ°ïÖúÄã¡£ÎÒÊÇ¸öÒ½Õß¡£}
+
+#{120}{}{Madam, you are injured. I can treat you if you wish. I am a healer.}
+{120}{}{Å®Ê¿£¬ÄãÊÜÉËÁË¡£Èç¹ûÄãÔ¸ÒâµÄ»°ÎÒ¿ÉÒÔ°ïÖúÄã¡£ÎÒÊÇ¸öÒ½Õß¡£}
+
+#{121}{}{Tell me about your work.}
+{121}{}{ÏòÎÒ½éÉÜÏÂÄãµÄ¹¤×÷°É¡£}
+
+#{122}{}{What's this place about?}
+{122}{}{ÕâµØ·½ÊÇ¸ÉÊ²Ã´µÄ£¿}
+
+#{123}{}{How much?}
+{123}{}{¶àÉÙÇ®£¿}
+
+#{124}{}{Go ahead.}
+{124}{}{Çë°É¡£}
+
+#{125}{}{No thanks.}
+{125}{}{²»£¬Ğ»ÁË¡£}
+
+#{126}{}{I hate doctors!}
+{126}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{127}{}{Oooo! Owwwww!}
+{127}{}{Å¶Å¶Å¶£¡ÎØÍÛÍÛÍÛ£¡}
+
+#{128}{}{Rarrrr!!!}
+{128}{}{°¡°¡°¡°¡°¡£¡£¡£¡}
+
+#{129}{}{Sir, you are seriously injured. I strongly recommend that you permit me to treat you. I am a healer.}
+{129}{}{ÏÈÉú£¬ÄãµÄÉËÊÆºÜÑÏÖØ¡£ÎÒÇ¿ÁÒ½¨ÒéÄãÔÊĞíÎÒÀ´ÓèÒÔÖÎÁÆ¡£ÎÒÊÇ¸öÒ½Õß¡£}
+
+#{130}{}{Madam, you are seriously injured. I strongly recommend that you permit me to treat you. I am a healer.}
+{130}{}{Å®Ê¿£¬ÄãµÄÉËÊÆºÜÑÏÖØ¡£ÎÒÇ¿ÁÒ½¨ÒéÄãÔÊĞíÎÒÀ´ÓèÒÔÖÎÁÆ¡£ÎÒÊÇ¸öÒ½Õß¡£}
+
+#{131}{}{Tell me about your work.}
+{131}{}{ÏòÎÒ½éÉÜÏÂÄãµÄ¹¤×÷°É¡£}
+
+#{132}{}{What's this place about?}
+{132}{}{ÕâµØ·½ÊÇ¸ÉÊ²Ã´µÄ£¿}
+
+#{133}{}{How much?}
+{133}{}{¶àÉÙÇ®£¿}
+
+#{134}{}{No thanks.}
+{134}{}{²»£¬Ğ»ÁË¡£}
+
+#{135}{}{I hate doctors!}
+{135}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{136}{}{Oooo! Owwwww!}
+{136}{}{Å¶Å¶Å¶£¡ÎØÍÛÍÛÍÛ£¡}
+
+#{137}{}{Rarrrr!!!}
+{137}{}{°¡°¡°¡°¡°¡£¡£¡£¡}
+
+#{138}{}{The Holy Flame commands that I heal people. Its wisdom is incontrovertible, so I obey. I have already learned much about the world beyond the Cathedral.}
+{138}{}{Ê¥ÑæºÅÁîÎÒÒ½ÖÎÖÚÉú¡£ËüµÄÖÇ»ÛÎŞ¿ÉÖÊÒÉ£¬¹ÊÎÒ×ñ´ÓÎŞ¶ş¡£¶ÔÓÚ´ó½ÌÌÃÖ®ÍâµÄÊÀ½ç£¬ÎÒÒÑÈ»Ñ§µ½ÁËĞí¶à¡£}
+ 
+#{139}{}{Tell me about the Cathedral.}
+{139}{}{¸æËßÎÒ¹ØÓÚ´ó½ÌÌÃµÄÊÂÇé¡£}
+
+#{140}{}{What have you learned?}
+{140}{}{ÄãÑ§µ½ÁËÊ²Ã´£¿}
+
+#{141}{}{What's this place about?}
+{141}{}{ÄÇµØ·½ÊÇ¸ÉÊ²Ã´µÄ£¿}
+
+#{142}{}{Sorry to bother you, Doc.}
+{142}{}{±§Ç¸´ò½ÁÄã£¬Ò½Éú¡£}
+
+#{143}{}{That must be some flame!}
+{143}{}{ÄÇ¶ùÒ»¶¨ÓĞ»ğÑæ°É£¡}
+
+#{144}{}{Sir, forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please, excuse me.}
+{144}{}{±§Ç¸£¬ÏÈÉú£¬µ«ÎÒÎŞĞÄ³¤Ì¸¡£Ò»¶¨ÓĞÆäËûÈËÄÜÈÃÄú¾õµÃ±ÈºÍÎÒÌ¸»°¸üÓĞ½ÌÒæ¡£ÇÒÈİÎÒ¸æÍË¡£}
+ 
+#{145}{}{Madam, forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please, excuse me.}
+{145}{}{±§Ç¸£¬Å®Ê¿£¬µ«ÎÒÎŞĞÄ³¤Ì¸¡£Ò»¶¨ÓĞÆäËûÈËÄÜÈÃÄú¾õµÃ±ÈºÍÎÒÌ¸»°¸üÓĞ½ÌÒæ¡£ÇÒÈİÎÒ¸æÍË¡£}
+ 
+#{146}{}{For me, sir, it is a place to practice the gift of healing. For others, it is a place where stray souls may be gathered and put on a productive path. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
+{146}{}{¶ÔÓÚÎÒÀ´Ëµ£¬ÏÈÉú£¬ÄÇÊÇ¸öÑİÁ·ÖÎÁÆÌì¸³µÄµØ·½¡£¶ÔÓÚÆäËûÈËÀ´Ëµ£¬ÄÇÊÇ¸öÆ¯²´Áé»êÄÜ¹»¾Û¼¯Ò»´¦×ßÉÏ½¨ÉèÖ®Í¾µÄËùÔÚ¡£±§Ç¸£¬µ«ÎÒÎŞĞÄ³¤Ì¸¡£Ò»¶¨ÓĞÆäËûÈËÄÜÈÃÄú¾õµÃ±ÈºÍÎÒÌ¸»°¸üÓĞ½ÌÒæ¡£ÇÒÈİÎÒ¸æÍË¡£}
+ 
+#{147}{}{For me, madam, it is a place to practice the gift of healing. For others, it is a place where stray souls may be gathered and put on a productive path. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
+{147}{}{¶ÔÓÚÎÒÀ´Ëµ£¬Å®Ê¿£¬ÄÇÊÇ¸öÑİÁ·ÖÎÁÆÌì¸³µÄµØ·½¡£¶ÔÓÚÆäËûÈËÀ´Ëµ£¬ÄÇÊÇ¸öÆ¯²´Áé»êÄÜ¹»¾Û¼¯Ò»´¦×ßÉÏ½¨ÉèÖ®Í¾µÄËùÔÚ¡£±§Ç¸£¬µ«ÎÒÎŞĞÄ³¤Ì¸¡£Ò»¶¨ÓĞÆäËûÈËÄÜÈÃÄú¾õµÃ±ÈºÍÎÒÌ¸»°¸üÓĞ½ÌÒæ¡£ÇÒÈİÎÒ¸æÍË¡£}
+ 
+#{148}{}{There were a few wise ones among the ancients who believed virtue is its own reward. That is my belief as well. Perhaps if more people shared this opinion, there would have been no need for the Holy Flame. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
+{148}{}{ÏÈÈËÖĞÓĞÒ»Ğ©ÖÇÕßÈÏÎªÃÀµÂ¾ÍÊÇËü¶Ô×ÔÉíµÄ½±ÉÍ¡£ÎÒÒ²Èç´Ë¼áĞÅ¡£Èç¹ûÓĞ¸ü¶àÈËÕâÃ´ÏëµÄ»°£¬»òĞí¾Í²»ÔÙĞèÒªÊ¥ÑæÁË°É£¿±§Ç¸£¬µ«ÎÒÎŞĞÄ³¤Ì¸¡£Ò»¶¨ÓĞÆäËûÈËÄÜÈÃÄú¾õµÃ±ÈºÍÎÒÌ¸»°¸üÓĞ½ÌÒæ¡£ÇÒÈİÎÒ¸æÍË¡£}
+ 
+#{149}{}{Farewell. Should you need me, I will be here. I do hope that you will never need to meet me again.}
+{149}{}{ÔÙ¼ûÁË¡£ÎŞÂÛºÎÊ±ÄúĞèÒªÎÒ£¬ÎÒ¾ÍÔÚÕâÀï¡£ÎÒÒóÇĞÏ£ÍûÄúÔÙÒ²²»ÓÃÀ´ÕÒÎÒ¡£}
+
+#{150}{}{This is a service, not a business. And your talent is not one which I would brag about. Now please excuse me.}
+{150}{}{ÕâÊÇÖÖ·şÎñ£¬¶ø²»ÊÇÒ»±ÊÉúÒâ¡£²¢ÇÒÄãµÄÌì¸³²¢ĞèÒªÎÒ´µĞê¡£ÈİÎÒ¸æÍËÁË¡£}
+ 
+#{151}{}{Alas, your injuries may be beyond my ability to cure. It is said that the Holy Flame can guide those who are cursed with idiocy and lead them to redemption; I shall pray for you.}
+{151}{}{°¦£¬ÒÔÎÒµÄÖÎÁÆÄÜÁ¦»òĞíÒÑ¾­ÎŞ·¨ÖÎºÃÄãµÄÉËÊÆÁË¡£¾İËµÊ¥ÑæÄÜ¹»Ö¸ÒıÄÇĞ©±»×çÖäµÄ°×³ÕÃÇÒÔ¾ÈÊêÖ®µÀ£»ÎÒ»áÎªÄãÆíµ»µÄ¡£}
+ 
+#{152}{}{You are injured. Save the casual conversation for later… Please let me heal you…}
+{152}{}{ÄãÊÜÉËÁË¡£ÏĞÑÔËéÓïÒÔºóÔÙËµ£¿ÈÃÎÒ¸øÄãÖÎÁÆ°É¡£}
+
+#{153}{}{Not much for bedside manner, are you Doc?}
+{153}{}{Ò»µãÒ½Éú¶Ô²¡ÈËµÄÓ¦ÓĞÌ¬¶È¶¼Ã»ÓĞ£¬ÄãÕæµÄÊÇ¸öÒ½ÉúÂğ£¿}
+
+#{154}{}{I'd really like to know about this.}
+{154}{}{ÎÒÕæµÄÏëÖªµÀÕâÊÂ¡£}
+
+#{155}{}{How much do you charge?}
+{155}{}{Äã¿ª¸ö¼Û°É£¿}
+
+#{156}{}{Go ahead.}
+{156}{}{Çë°É¡£}
+
+#{157}{}{No thanks.}
+{157}{}{²»£¬Ğ»ÁË¡£}
+
+#{158}{}{I hate doctors!}
+{158}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{159}{}{I am a healer, not a moneylender. The Cathedral sees to my needs, so I might see to the needs of others. Now, let me see to your injury, shall we?}
+{159}{}{ÎÒÊÇ¸öÒ½Õß£¬²»ÊÇ¸ö·Å¸ßÀû´ûµÄ¡£´ó½ÌÌÃÕÕ¹ËÎÒµÄĞèÇó£¬Òò´ËÎÒµ±ÕÕ¹ËËûÈËµÄĞèÇó¡£ÏÖÔÚ£¬ÈÃÎÒ¿´¿´ÄãµÄÉËÊÆÈçºÎ£¿}
+ 
+#{160}{}{Go ahead.}
+{160}{}{Çë°É¡£}
+
+#{161}{}{Very good.}
+{161}{}{ºÜºÃ¡£}
+
+#{162}{}{Forget it.  If you were any more of a quack, you'd be swimming in a pond.}
+{162}{}{ÍüÁËËü°É¡£Èç¹ûÄã»¹¼ÌĞøÆ­ÈËµÄ»°£¬Äã¾ÍÒªÔÚ³ØÌÁÀïÓÎÓ¾ÁË¡£}
+
+#{163}{}{I hate doctors!}
+{163}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{164}{}{I recommend a few days of bedrest, not that anyone ever takes my advice. Now, get out of here.}
+{164}{}{ÎÒ½¨ÒéÎÔ´²ĞİÏ¢¼¸Ìì£¬²»¹ı´ÓÃ»ÓĞÈËÌıÎÒµÄÒâ¼û¡£ÏÖÔÚ£¬Àë¿ª°É¡£}
+ 
+#{165}{}{Your choice. I will be here if you change your mind.}
+{165}{}{Äã×ÔÕÒµÄ¡£Èç¹ûÄã¸Ä±äĞÄÒâµÄ»°£¬ÎÒ¾ÍÔÚÕâÀï¡£}
+
+#{166}{}{[Smiles.] Terrible people. I sympathize entirely. [Smile fades] I will be here if you change your mind. You are excused.}
+{166}{}{¡¾Ğ¦¡¿Ôã¸âµÄÈËÃÇ¡£ÎÒ·Ç³£Í¬Çé¡£¡¾Ğ¦ÈİÏûÊ§¡¿Èç¹ûÄã¸Ä±äĞÄÒâµÄ»°£¬ÎÒ¾ÍÔÚÕâÀï¡£ÄãÒÑ±»¿íË¡ÁË¡£}
+ 
+#{167}{}{I'll take that as a yes. Please don't kill me . . .}
+{167}{}{ÎÒ¾Í°ÑÕâÊÓ×÷Í¬ÒâÁË¡£Çë±ğÉ±ÎÒ¡­¡­}
+
+#{168}{}{OWWWWWW!! [SNARL!]}
+{168}{}{Å¶à¸à¸à¸à¸£¡£¡¡¾ºğ½Ğ£¡¡¿}
+
+#{169}{}{Poor creature. A beast with your low intellect would be a challenge even for the healing powers of the Holy Flame. Get out of here…}
+{169}{}{¿ÉÁ¯µÄÉúÎï¡£ÈçÄãÕâ°ãµÄ´À±¿Ò°ÊŞ¼´Ê¹¶ÔÊ¥ÑæµÄÒ½ÁÆÁ¦Á¿¶¼»áÊÇ¸öÌôÕ½¡£¹ö³öÕâÀï°É¡£}
+ 
+#{170}{}{I'll take that as a "no". You are excus... uh… You go now. Go!}
+{170}{}{ÎÒ¾Í°ÑÕâÊÓ×÷¡°¾Ü¾ø¡±ÁË¡£ÄãÒÑ±»¿í¡­¡­ßÀ£¿Äã¿ì×ß°É¡£×ß£¡}
+
+#{171}{}{It's a very beautiful place, although a little overcrowded these days. It's far to the south of us. We faithful gather to praise our master, the Holy Flame, and to pray for peace and Unity. Now, if that will be all…}
+{171}{}{ÊÇ¸ö·Ç³£ÃÀÀöµÄµØ·½£¬¾¡¹ÜÕâ¶ÎÊ±¼äÓĞµãÓµ¼·¡£Î»ÓÚ¾àÀëÎÒÃÇÒ£Ô¶µÄÄÏ·½¡£ÎÒÃÇÕâĞ©ò¯³ÏµÄÈË¾Û¼¯ÔÚÒ»ÆğÔŞÃÀÎÒÃÇµÄÖ÷£¬Ê¥Ñæ£¬²¢ÇÒÎªÁËºÍÆ½ºÍ¡°Unity¡±¶øÆíµ»¡£¾ÍÕâÃ´¶à¡£}
+ 
+#{172}{}{Tell me about peace and Unity…}
+{172}{}{¸æËßÎÒ¹ØÓÚºÍÆ½Óë¡° Unity¡±µÄÊÂ¡£}
+
+#{173}{}{Where exactly is this place?}
+{173}{}{ÄÇµØ·½µ½µ×ÔÚÄÄ¶ù£¿}
+
+#{174}{}{So what's causing the overcrowding?}
+{174}{}{ÄÇÃ´Ê²Ã´µ¼ÖÂÓµ¼·µÄ£¿}
+
+#{175}{}{I hate doctors!}
+{175}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{176}{}{I have learned we are a spiteful, violent and stupid species, unworthy of the Holy Flame. I have seen greed and evil everywhere. And unless we do something drastic, we shall be burned by Holy Flame again…}
+{176}{}{ÎÒÒÑ¾­Ñ§µ½£¬ÎÒÃÇÊÇ¸ö¶ñÒâ£¬±©Á¦ºÍÓŞ±¿µÄÖÖ×å£¬Åä²»ÉÏÊ¥Ñæ¡£ÎÒÔÚÄÄÀï¶¼ÄÜ¿´µ½Ì°À·ÓëĞ°¶ñ¡£³ı·ÇÎÒÃÇ¼¤ÁÒĞĞ¶¯£¬²»È»»á±»Ê¥ÑæÔÙ´Î·ÙÉÕ¡£}
+ 
+#{177}{}{Tell me more about the Holy Flame . . .}
+{177}{}{¸æËßÎÒ¸ü¶à¹ØÓÚÊ¥ÑæµÄÊÂÇé¡­¡­}
+
+#{178}{}{Your religion bites the Bone, pal!}
+{178}{}{È¥ÄãµÄ×Ú½Ì°É£¬»ï¼Æ£¡}
+
+#{179}{}{How many religions have promised that people will burn?}
+{179}{}{¾¿¾¹ÓĞ¶àÉÙ×Ú½Ì³ĞÅµ¹ıÈËÃÇ»á±»·ÙÉÕ£¿}
+
+#{180}{}{Define "drastic" for me.}
+{180}{}{½âÊÍÏÂ¡°¼¤ÁÒ¡±ÊÇÊ²Ã´ÒâË¼¡£}
+
+#{181}{}{I hate doctors!}
+{181}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{182}{}{It is indeed, but there are others here who can expound on its glories far more eloquently than I. Good-bye.}
+{182}{}{È·ÊµÊÇÕâÑù£¬µ«ÊÇ±ğÈË¿Ï¶¨ÄÜ¸üÎªĞÛ±çµØ½âÊÍËüµÄ¹âÈÙ¡£ÔÙ¼û¡£}
+ 
+#{183}{}{You are breaking my concentration! Do you wish to be healed or not?}
+{183}{}{ÄãÔÚ´ò¶ÏÎÒµÄ×¢ÒâÁ¦¼¯ÖĞ£¡Äãµ½µ×Ïë²»Ïë±»ÖÎºÃ£¿}
+
+#{184}{}{What are you getting so upset about?}
+{184}{}{Ê²Ã´°ÑÄã¸ãµÄÕâÃ´ĞÄ·³£¿}
+
+#{185}{}{You don't look like you have much concentration to begin with!}
+{185}{}{Ê×ÏÈÄã¿´ÉÏÈ¥¾Í²»Ì«ÏñÓĞ¼¯ÖĞ×¢ÒâÁ¦µÄÑù×Ó£¡}
+
+#{186}{}{Go ahead.}
+{186}{}{Çë°É¡£}
+
+#{187}{}{No thanks.}
+{187}{}{²»£¬Ğ»ÁË¡£}
+
+#{188}{}{I hate doctors!}
+{188}{}{ÎÒÌÖÑáÒ½Éú£¡}
+
+#{189}{}{Peace is, as ever, forged by war and hardship, as is unity. Alas, my gifts will be needed in the days to come.}
+{189}{}{¾ÍÈçÍ¬¹ıÍùÒ»Ñù£¬Ö»ÓĞÕ½ÕùºÍ¼èĞÁ²ÅÄÜÖıÔìºÍÆ½£¬Ç¡ËÆ¡°unity¡±Ò»°ã¡£°¦£¬ÔÚ½«À´µÄÈÕ×ÓÀïÎÒµÄÌì¸³»áÅÉÉÏÓÃ³¡µÄ¡£}
+ 
+#{190}{}{Tell me about the war?}
+{190}{}{¸æËßÎÒ¹ØÓÚÕ½ÕùµÄÊÂÇé£¿}
+
+#{191}{}{Is Unity worth the price?}
+{191}{}{ÎªÁË¡°Unity¡±£¬ÖµÃ´£¿}
+
+#{192}{}{Why does everyone think war is the answer to peace?}
+{192}{}{ÎªÊ²Ã´ËùÓĞÈË¶¼ÈÏÎªÕ½ÕùÊÇ¶ÔºÍÆ½µÄ»ØÓ¦£¿}
+
+#{193}{}{Let me get this right. You're serving a religion that's planning death and destruction, and you don't have a problem with this? You're an idiot!}
+{193}{}{ÈÃÎÒ°ÑÕâ¸ãÇå³ş¡£ÄãÔÚÎªÒ»¸ö¼Æ»®×ÅÕ½ÕùºÍÆÆ»µµÄ×Ú½Ì·şÎñ£¬²¢ÇÒÄã¶Ô´Ë²¢ÎŞÖÊÒÉ£¿ÄãÕæÊÇ¸öÉµ¹Ï£¡}
+ 
+#{194}{}{The old world was filled with evil and decadence. The Holy Flame destroyed it. We can either fear the Holy Flame, or worship it and attempt to understand it. The Children have chosen understanding. Although we do not wish to see the Holy Flame unleashed again.}
+{194}{}{¾ÉÊÀ½ç³äÂú×ÅÍÇ·ÏºÍĞ°¶ñ¡£Ê¥Ñæ½«ËüÆÆ»µÁË¡£ÎÒÃÇ¿ÉÒÔ¶Ô´ËĞÄ»³¿Ö¾å£¬Ò²¿ÉÒÔ±¨ÒÔ×ğ¾´µÄÌ¬¶È²¢ÊÔ×Å¶ÔÆäÓĞËùÁË½â¡£½ÌÌÃÖ®×ÓÃÇÑ¡ÔñÁËÈ¥ÁË½â¡£¾¡¹ÜÎÒÃÇ²¢²»Ï£ÍûÊ¥ÑæÔÙ´ÎÊÍ·Å¡£}
+ 
+#{195}{}{How do you know what the old world was like?}
+{195}{}{ÄãÔõÃ´ÖªµÀ¹ıÈ¥µÄÊÀ½çÊÇ¸öÊ²Ã´Ñù×Ó£¿}
+
+#{196}{}{Worship? The Bomb? What's so great about a bomb?}
+{196}{}{³ç°İ£¿Õ¨µ¯£¿Õ¨µ¯ÓĞÔõÃ´Î°´óÂğ£¿}
+
+#{197}{}{If the Holy Flame is so great, why don't you want to see it all the time?}
+{197}{}{Èç¹ûÊ¥ÑæÕæµÄÓĞÕâÃ´Î°´ó£¬ÎªÊ²Ã´Äã²»Ô¸ÒâÒ»Ö±¼ûµ½Ëü£¿}
+
+#{198}{}{Let me get this straight. In order to understand something, you have to worship it?}
+{198}{}{ÈÃÎÒ¿ªÃÅ¼ûÉ½µÄËµ°É¡£ÎªÁËÁË½âÄ³ÊÂ£¬Äã²»µÃ²»ÏÈ³ç°İËü£¿}
+ 
+#{199}{}{You people are nuts!}
+{199}{}{ÄãÃÇÕâĞ©¼Ò»ïÕæÊÇÁîÈË·Ñ½â£¡}
+
+#{200}{}{When I ask someone to do something, I do not expect to be ignored. If you choose to ignore my wishes, I can ignore your injuries. Good-bye.}
+{200}{}{µ±ÎÒÏëÈÃÄ³ÈË×öÄ³ÊÂµÄÊ±ºò£¬¿É²»Ï£Íû±»ºöÂÔ¡£Èç¹ûÄãÑ¡ÔñºöÂÔÎÒµÄÒâÔ¸£¬ÎÒÒ²¿ÉÒÔºöÂÔÄãµÄÉËÊÆ¡£ÔÙ¼û¡£}
+ 
+#{201}{}{Who the Hell do you think you are? Get out of my sight, you little thug!}
+{201}{}{ÄãËûÂèÒÔÎªÄãÊÇË­£¿¹ö³öÎÒµÄÊÓÏß£¬ÄãÕâĞ¡±©Í½£¡}
+
+#{202}{}{You've pried enough information from me for one day. Good bye, sir.}
+{202}{}{Äã½ñÌì´ÓÎÒÕâÀïÊÕ¼¯×ã¹»¶àµÄÏûÏ¢ÁË¡£ÔÙ¼û£¬ÏÈÉú¡£}
+
+#{203}{}{You've pried enough information from me for one day. Good bye, madam.}
+{203}{}{Äã½ñÌì´ÓÎÒÕâÀïÊÕ¼¯×ã¹»¶àµÄÏûÏ¢ÁË¡£ÔÙ¼û£¬Å®Ê¿¡£}
+
+#{204}{}{The Holy Flame is a metaphor for the death of the old world and the beginning of the new. It is the power of life and death. What is more worthy of worship than that?}
+{204}{}{Ê¥ÑæÊÇ¶Ô¾ÉÊÀ½çÖÕ½á£¬ĞÂÊÀ½ç¿ª¶ËµÄÒ»ÖÖÒşÓ÷¡£ÄÇÊÇÕÆ¿ØÉúÓëËÀµÄÁ¦Á¿¡£»¹ÓĞÊ²Ã´±ÈÕâ¸üÖµµÃ³ç°İµÄ£¿}
+ 
+#{205}{}{My gun has the power of life and death, but you don't see a screwball cult worshipping that!}
+{205}{}{ÎÒµÄÇ¹Ò²ÓĞÕÆ¿ØÉúÓëËÀµÄÁ¦Á¿£¬µ«ÊÇÄã´ÓÃ»¼û¹ıÓĞÄÄÈº·¢·èµÄ»ìÇòĞÅÍ½³ç°İÄÇ¸öµÄ£¡}
+
+#{206}{}{Maybe you're right. I'll have to think about it.}
+{206}{}{»òĞíÄãÊÇ¶ÔµÄ¡£ÎÒ»áºÃºÃÏëÏëµÄ¡£}
+
+#{207}{}{Uh, well there's food, and sex, and a big gun… I can think of lots of things I'd rather worship!}
+{207}{}{ßÀ£¬ºÃ°É£¬Ê³Îï£¬Å®ÈË£¬»òÕßÒ»Ö§´óÇ¹£¿ÎÒÄÜÏë³öĞí¶à±ÈÕâ¸üÖµµÃ³ç°İµÄ£¡}
+
+#{208}{}{You don't get out much, do you?}
+{208}{}{ÄãÃ»ÍÚ³ö¶àÉÙÏûÏ¢À´£¬²»ÊÇÃ´£¿}
+
+#{209}{}{You're not very convincing, Doc.}
+{209}{}{ÄãµÄ»°²¢²»Ê®·ÖÁîÈËĞÅ·ş£¬Ò½Éú¡£}
+
+#{210}{}{This debate has become tiresome. Please leave me.}
+{210}{}{ÌÖÂÛ¿ªÊ¼±äµÃÎŞÁÄÁË¡£ÇëÀë¿ª°É¡£}
+
+#{211}{}{I still remember your insults, sir. You can rot in the Glow before I treat you.}
+{211}{}{ÎÒÒÀÈ»Ã»ÓĞÍü¼ÇÄã¶ÔÎÒµÄÎêÈè£¬ÏÈÉú¡£ÔÚÎÒµÄÖÎÁÆÖ®Ç°£¬ÔÚÉÁ¹âÖ®µØÀï¸¯ÀÃ°É¡£}
+
+#{212}{}{I still remember your insults, madam. You can rot in the Glow before I treat you.}
+{212}{}{ÎÒÒÀÈ»Ã»ÓĞÍü¼ÇÄã¶ÔÎÒµÄÎêÈè£¬Å®Ê¿¡£ÔÚÎÒµÄÖÎÁÆÖ®Ç°£¬ÔÚÉÁ¹âÖ®µØÀï¸¯ÀÃ°É¡£}
+
+#{213}{}{Mother Jain wishes that no one speaks with you. Good bye.}
+{213}{}{¸ß¼¶ÄÁÊ¦¼ò¶÷²»Ï£ÍûÈÎºÎÈËºÍÄãËµ»°¡£ÔÙ¼û¡£}
+
+#{214}{}{Idiot. Can't you see he needs rest?}
+{214}{}{°×³Õ¡£ÄÑµÀÄã¿´²»³öËûĞèÒªĞİÏ¢Âğ£¿}
