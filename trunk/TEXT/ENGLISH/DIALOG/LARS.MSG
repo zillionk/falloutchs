@@ -1,0 +1,196 @@
+#{100}{}{You see a heavily muscled, scarred man with a mustache.}
+#{101}{}{You see Lars, the sergeant of the Junktown guards.}
+#{102}{}{He bears the scars of previous wounds, and looks like an old hand.}
+#{103}{}{He has scars from knife and bullet injuries. His corded muscles show
+# a man hardened by adversity.}
+#{104}{}{You know, it's not wise to try to steal from the guards here in Junktown,
+# punk!}
+#{105}{}{Can I help you, stranger?}
+#{106}{}{So, what's there to do around here?}
+#{107}{}{Can you give me the big picture on Junktown?}
+#{108}{}{Who're you?}
+#{109}{}{Eergh.}
+#{110}{}{If you're in charge of the guards here, I think I have some information
+# for you.}
+#{111}{}{Hey! You! We know about you, you monster!}
+#{112}{}{Plenty, so long as you stay on our good side. We got Killian Darkwaters'
+# store, where you can do some trading. And there's Gizmo's Casino, if you're a
+#gambler. Or if you just want a drink, you can head on over to the Skum Pitt.
+#Just don't get too rowdy.}
+#{113}{}{Hey, I like a rowdy time!}
+#{114}{}{Well, you'd best keep yourself under control. We're a free town but we
+# don't tolerate stepping on other people's toes. Don't cause any problems and
+# you won't give cause for me and my men to come down on you.}
+#{115}{}{What a stick in the mud!}
+#{116}{}{Look, buddy, my job here is to keep the peace, and if I have to break a
+# few heads to do it, then a few people are going to be hurting. So just watch it.}
+#{117}{}{Me and my men here work for Killian Darkwater. We keep some order in this
+# town, dealing with all of the murderers, thieves, and other scumbags who come in
+# from the desert. If you want my advice, you'll also stay away from Gizmo. That
+# fathead runs a crooked operation, but we just haven't been able to prove anything.
+# He and his lackeys, the Skulz, are going to take the fall sometime soon, if
+# Killian has anything to say about it.}
+#{118}{}{What a bummer. No fun here at all.}
+#{119}{}{Good to know that someone's keeping the peace around here. Thanks.}
+#{120}{}{So, what keeps you lawboys from just busting Gizmo and the Skulz?}
+#{121}{}{Hey, it's our job. But it's good to know that someone appreciates it.
+# Thanks.}
+#{122}{}{Got to do it all proper like. We know that Gizmo runs a rigged operation
+# and all, but we need hard evidence to bring him down. Same with the Skulz; they
+# rough someone up, we bring one or two of 'em in, but nothing changes. We just
+# don't have any direct evidence tying them to any of the killings or muggings.}
+#{123}{}{Maybe I can help you with that.}
+#{124}{}{Well, good luck.}
+#{125}{}{Hell, if you think you can get some dirt on either of them, we'd appreciate
+# the help. Killian's the one to talk to if you want to talk about Gizmo. But if you
+# can get some info on the Skulz, just come back to me and me and the boys will
+# take care of them.}
+#{126}{}{Thanks. Watch your back.}
+#{127}{}{I'm the head of the guards here in Junktown. Name's Lars. For that matter,
+# who are you, stranger?}
+#{128}{}{I'm }
+#{129}{}{.}
+#{130}{}{Buzz off, I don't have to tell you anything.}
+#{131}{}{Welcome to Junktown, }
+#{132}{}{. What can I help you with?}
+#{133}{}{Can you fill me in on Junktown?}
+#{134}{}{Just lookin' for something to do. Got any suggestions?}
+#{135}{}{Good day, traveler. Do you need something?}
+#{136}{}{What?}
+#{137}{}{I'm looking for a little work.}
+#{138}{}{Just stopping by to say hello.}
+#{139}{}{I have testimony about the illegal activities that the Skulz
+# were involved in.}
+#{140}{}{Yes, I'm in charge of the guards here. What do you have for me?}
+#{141}{}{Nothing, just checking.}
+#{142}{}{I have some testimony from Sherry that the Skulz are involved in some
+# illegal activities.}
+#{143}{}{So, you have some info on the Skulz, eh? What can you tell me?}
+#{144}{}{They're involved in some muggings and killings here.}
+#{145}{}{I've convinced one of them, Sherry, to testify that they were involved
+# in criminal activity.}
+#{146}{}{That's great and all, but I can't just jail them all on one person's
+# say-so. I need hard evidence or inside testimony.}
+#{147}{}{I'll see what I can do.}
+#{148}{}{I've got testimony from Sherry, a former gang member.}
+#{149}{}{Excellent. I'll pick her up for a few questions, and I'm sure that I'll
+# get all the information that I need to put them away.}
+#{150}{}{Look, this isn't a game. People are getting hurt here. If you find some
+# real evidence, come back, but otherwise, don't waste my time!}
+#{151}{}{If you're not averse to a little skullduggery, I need someone to get some
+# hard evidence on the Skulz, proving that they're involved in illegal
+# activities here. Or you can talk to Killian; he might have some work for you.}
+#{152}{}{Thanks for your assistance. Junktown's a little safer now, because of
+# your help.}
+#{153}{}{Move along there, fella.}
+#{154}{}{You gain 300 experience points for taking a risky turn against the Skulz.}
+#{155}{}{You ready to help take down Gizmo?}
+#{156}{}{You bet. Let's nail that tub.}
+#{157}{}{No, I changed my mind.}
+#{158}{}{All right, let's do it.}
+#{159}{}{Well, you'd best wait here so you don't get caught in the crossfire.}
+#{160}{}{Killian sent me to help run Gizmo out of town.}
+#{161}{}{Killian sent me. We're going to take Gizmo down.}
+#{162}{}{Thanks for all your help. Here's 500 caps. You're always welcome in
+# Junktown, friend.}
+#{163}{}{What? Hmm. We'll see about that. I'll send some men over to ambush them
+# when they try it. You gonna be there?}
+#{164}{}{No thanks, I've done my good deed for the day.}
+#{165}{}{Yes.}
+#{166}{}{The Skulz are planning on killing Neal!}
+#{167}{}{Lars's men quickly eliminate the Skulz.}
+#{168}{}{Looks like Lars might still be alive, but he's definitely out of the fight.}
+#{169}{}{Wanderer, you just screwed up. We needed evidence so that we could take
+# down Gizmo all nice and legal-like. Look, off the record, I'm happy to have that
+# fat fuck out of the picture, but we can't condone murder. You better leave
+# Junktown and never come back.}
+#{170}{}{We don't like your kind here. You've got about fifteen seconds before I
+# blow your head off.}
+#{171}{}{Hello again! What can I do for you?}
+#{172}{}{Uh-huh.}
+#{173}{}{Nuh-uh.}
+#{174}{}{You gain 500 experience points for assisting in the elimination of the
+# Skulz gang.}
+#
+#{1000}{}{Gizmo}
+#{1100}{}{He runs the casino. He's a crook.}
+
+{100}{}{你看到一名留着胡子的健硕男人，身上布满了伤疤。}
+{101}{}{你看到拉尔斯，迦克镇的守卫长。}
+{102}{}{多年的战斗留给了他条条伤疤，也证明了他的经验与荣誉。}
+{103}{}{他身上有很多刀疤与枪痕。不幸的生活磨练了他的体格与意志。}
+{104}{}{杂碎！我会让你知道从迦克镇守卫这里偷东西是相当蠢的行为。}
+{105}{}{需要帮忙吗，陌生人？}
+{106}{}{这得周围都是些什么？}
+{107}{}{你能给我一张迦克镇的大地图吗？}
+{108}{}{你是谁？}
+{109}{}{呃。}
+{110}{}{如果你是这的警卫，我有些消息要告诉你。}
+{111}{}{嘿！你！我们知道你，你这个混蛋。}
+{112}{}{如果你加入我们，会有很多地方可玩。你可以在基利安的商店补给，也可以在吉斯莫的赌场玩两手。如果你只是想喝一杯，可以去找萨姆·匹特。只是……别惹麻烦。}
+{113}{}{嘿，我就喜欢惹事！}
+{114}{}{你最好克制一下自己的情绪。这是一个自由平等的小镇，我们不会允许任何践踏他人尊严的事情发生。别给我们惹麻烦否则我和我的手下不会放过你的。}
+{115}{}{你可真死板！}
+{116}{}{你好，朋友。我的工作是维护这里的平静，如果我非得动手，就难免会有误伤。所以我一般避免这样。}
+{117}{}{我和我的手下为基利安工作，负责维护这里的秩序，对付诸如杀手，小偷还有那些沙漠里来的杂种们。如果你想听听我的建议，你最好和吉斯莫保持距离。那个肥头大耳的家伙可不是什么好人，只是我们还没有找到证据罢了。如果基利安镇长找到了确切的证据，我们很快就会把他和他的斯库兹帮一网打尽。}
+{118}{}{除了闲逛，这没有一件意思的事情可做。}
+{119}{}{有人维护这儿的宁静是很令人振奋的。感谢你。}
+{120}{}{你们是治安官，为什么不将吉斯莫和斯库兹帮统统抓起来？}
+{121}{}{呵呵，那是我们的工作。不过能有人理解我们总是好的。谢谢。}
+{122}{}{执法需守法。尽管我们知道吉斯莫在幕后操作这一切，但是我们没有确切的证据。斯库兹帮也是一样;他们经常暗中施暴，尽管我们也抓过一两个人，但并没有什么改观。我们还是缺少他们参与暗杀的直接证据。}
+{123}{}{也许我能帮得上忙。}
+{124}{}{也许，祝你好运。}
+{125}{}{该死，如果你能找到些他们的罪证，我们感激不尽。如果你想了解吉斯莫，最好是去问问基利安。假如你找到些关于斯库兹帮的内幕消息，你只需要来告诉我，我和我的手下会去好好教训他们的。}
+{126}{}{谢谢。多加小心。}
+{127}{}{我是拉尔斯，迦克镇守卫部队的头儿。你是谁，陌生人？}
+{128}{}{是我}
+{129}{}{。}
+{130}{}{闭嘴，我没必要告诉你什么。}
+{131}{}{欢迎来到迦克镇，}
+{132}{}{.需要帮忙吗？}
+{133}{}{你能帮我找份工作吗？}
+{134}{}{只是想找份工作。需要建议吗？}
+{135}{}{好天气，旅行者。需要什么吗？}
+{136}{}{什么？}
+{137}{}{我想打个短工。}
+{138}{}{我只想打个招呼。}
+{139}{}{我能证明斯库兹帮参与了这儿发生的暗杀事件。}
+{140}{}{是的，我负责这儿的安全。有什么事吗？}
+{141}{}{没什么，例行检查。}
+{142}{}{我有一些雪莉提供的关于斯库兹帮参与暗杀事件的证词。}
+{143}{}{这么说，你有一些斯库兹帮的内幕消息是吗？能跟我说说吗？}
+{144}{}{他们参与了这儿发生的的几次暗杀事件。}
+{145}{}{雪莉是他们中间我唯一相信的人。也许她能证实斯库兹帮参与了暗杀事件。}
+{146}{}{我当然会的，但是仅仅指控是不够的。我需要找一些实实在在的证据。}
+{147}{}{我会去找的。}
+{148}{}{我从一名叫雪莉的帮会成员那里得到了些证据。}
+{149}{}{太棒了！我会和她谈谈，以便收集所有的证据将那些人渣绳之以法。}
+{150}{}{你听着，我们不是在做游戏。这儿的人民在饱受摧残。如果你真的找到了证据，就回来找我。如果没有，就别来浪费我的时间！}
+{151}{}{如果你不介意使些小手段我希望你打入斯库兹帮内部，去找出他们参与暗杀事件的证据。如果你不屑于此，也可以去找镇长基利安聊聊；他也许能给你找些其他的工作。}
+{152}{}{在你的帮助下迦克镇终于恢复了平静，我们都很感谢你。}
+{153}{}{滚一边儿去，小子。}
+{154}{}{由于你决定冒险去对抗斯库兹帮，你获得了３００经验。}
+{155}{}{你打算帮我们去抓吉斯莫吗？}
+{156}{}{来吧。我们去干死那只猪。}
+{157}{}{不，我改变想法了。}
+{158}{}{好的，我们干吧。}
+{159}{}{听我说，你最好留在这免得在交火中挂掉。}
+{160}{}{是基利安派我来帮你们赶走吉斯莫的。}
+{161}{}{是基利安派我来的。他打算将吉斯莫绳之以法。}
+{162}{}{感谢你的帮助。这是５００个瓶盖。迦克镇永远欢迎你，朋友。}
+{163}{}{是吗？恩。得去看看，我打算带些人埋伏在周围。你想去吗？}
+{164}{}{别客气，这都是我应该做的。}
+{165}{}{是的。}
+{166}{}{斯库兹帮打算谋杀尼尔。}
+{167}{}{拉尔斯的手下很快剪除了斯库兹帮。}
+{168}{}{看起来拉尔斯还活着，但很明显他已经不想再插手此事。}
+{169}{}{流浪汉，你把这事搞砸了。我们需要证据才能合法的拘捕吉斯莫。好了，不谈这些事情。我很高兴那个死胖子从这里消失了，但是我们不能宽恕谋杀行为。你最好永远地离开这儿。}
+{170}{}{这里没有仁慈。在我打烂你的头前你还有１５秒可活。}
+{171}{}{再一次问候您！我能为您做些什么吗？}
+{172}{}{恩哈。}
+{173}{}{欧吧。}
+{174}{}{由于你的帮助消灭了斯库兹帮一伙，你获得了５００经验。}
+
+{1000}{}{Gizmo}
+{1100}{}{他在经营赌场。这个骗子。}
+
