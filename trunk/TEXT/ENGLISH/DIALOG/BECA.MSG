@@ -23,12 +23,12 @@
 #{112}{}{These are sleeping quarters。 Now get out of here before I kick your butt。}
 {112}{}{这是睡觉得地方。现在趁我还没有踢你老二前滚出去。}
 #{113}{}{Try it。}
-{113}{}{试试这个。}
+{113}{}{你敢。}
 #{114}{}{Sorry about that。 Goodbye。}
-{114}{}{抱歉,再见。}
+{114}{}{抱歉，再见。}
 #{115}{}{Can I crash here?}
 {115}{}{我能在这里休息么?}
 #{116}{}{No。 These are for real Blades, not some wuss。}
 {116}{}{不行。这里是提供给利刃帮成员的,而不是弱者。}
 #{117}{}{Hey, homie！ Wazzup? Crash here if you need a safe place。}
-{117}{}{嘿,亲爱的！怎么啦?如果你需要一个安全的地方那就在这里躺下休息吧。}
+{117}{}{嘿,亲爱的！怎么啦？如果你需要一个安全的地方那就在这里躺下休息吧。}
