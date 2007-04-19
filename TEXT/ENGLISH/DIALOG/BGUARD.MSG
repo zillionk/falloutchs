@@ -1,7 +1,7 @@
 #{100}{}{You see a guard。}
 {100}{}{你看见一个卫兵。}
 #{101}{}{I work for the Barterman。}
-{101}{}{我为巴特萌工作。}
+{101}{}{我为商人工作。}
 #{102}{}{Got any donuts?}
 {102}{}{买点东西？}
 #{103}{}{If you break it, you buy it!}
@@ -9,8 +9,8 @@
 #{104}{}{Shoplifters will be killed!}
 {104}{}{小偷将会被杀！}
 #{105}{}{Are you gonna buy something? Perhaps in this century?}
-{105}{}{你打算买点东西么?至少在这个世纪里？}
+{105}{}{你想不想买东西啊？是不是要下个世纪才下得了决心？}
 #{106}{}{Can't fight Rad Scorpions without this stuff。}
-{106}{}{对抗红蝎子不能没有这东西。}
+{106}{}{对抗辐射蝎不能没有这东西。}
 #{107}{}{I work for the Barterman。}
 {107}{}{我为商人工作。}
