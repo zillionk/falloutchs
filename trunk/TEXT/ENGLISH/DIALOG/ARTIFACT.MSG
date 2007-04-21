@@ -1,0 +1,21 @@
+{100}{}{很奇怪。你想这可能就是钢铁兄弟会派你来获取的东西。}
+{101}{}{哔哔小子显示：系统已有该文件，放弃下载。}
+{102}{}{哔哔小子显示：正在从磁盘下载资料。}
+{103}{}{你看见索菲娅给你的。}
+{104}{}{你看见马克松给你的一个磁碟。}
+{105}{}{你看见来自军事基地的一个奇怪磁盘。}
+{106}{}{你看见一个奇怪的全息磁盘。}
+{107}{}{你看见一个避难所定位磁盘。}
+
+
+
+
+# {100}{}{This seems strange. You think it may be what the 钢铁兄弟会
+# sent you to retrieve.}
+# {101}{}{哔哔小子 displays: File Found on System. Aborting download.}
+# {102}{}{哔哔小子 displays: Downloading data from Disk.}
+# {103}{}{You see a disk 索菲娅 gave you.}
+# {104}{}{You see a disk Maxson gave you.}
+# {105}{}{You see a strange disk from the 军事基地.}
+# {106}{}{You see a strange holodisk.}
+# {107}{}{You see a 避难所 Location Disk.}
