@@ -172,7 +172,7 @@ Jim Dodds
 Matt Murakami
 Steve McLafferty
 
-@子版本测试员s
+@子版本测试员
 Adam Chaney
 Dennis Presnell
 Savina Greene
@@ -282,7 +282,7 @@ Julie Morgavi
 Hollywood Recording Services
 Hollywood, CA
 
-@语音总指挥
+@语音指挥
 Jamie Thomason
 
 
@@ -345,8 +345,8 @@ David Warner
 Frank Welker
 @马克松
 
-@其他配音演员
-【MAX】－大狗
+@其他语音工作者
+【MAX】大狗
 
 
 
