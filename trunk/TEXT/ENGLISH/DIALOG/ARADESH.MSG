@@ -533,7 +533,7 @@
 #{255}{Ara_53}{A wonderful woman. She just celebrated her sixtieth
 # birthday! She spends much time with Razlo, talking his
 # ear off with her veritable treasure trove of stories.}
-{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当成宝了。)
+{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当成宝了。}
 
 #{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
