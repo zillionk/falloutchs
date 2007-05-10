@@ -35,7 +35,7 @@
 #{117}{}{Who's giving you orders?}
 {117}{}{谁给你的命令？}
 #{118}{}{Ok, thanks. I'll be leaving now.}
-{118}{}{OK，谢谢。我现在就离开。}
+{118}{}{ＯＫ，谢谢。我现在就走。}
 #{119}{Harry_04}{Lou tell me watch place. Not let no one in. Not
 #normals most. Take normals to the Lou. Hey...}
 {119}{Harry_04}{福叫我看着这个地方。不让进去。尤其是正常人类。并且把正常人类带给福。嗨嗨．．．}
@@ -52,13 +52,13 @@
 #{125}{Harry_07}{Harry think he beat your head now.}
 {125}{Harry_07}{哈里觉得哈里现在想打你的头。}
 #{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? [Mumbling]}
-{126}{Harry_08}{哦哦哦．．．哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？［喃喃自语］}
+{126}{Harry_08}{哦哦哦．．．哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？【喃喃自语】}
 #{127}{}{I'm a new race of super mutant.}
 {127}{}{我是新品种的超级变种人。}
 #{128}{}{I'm a highly advanced robot.}
 {128}{}{我是非常先进的机器人。}
 #{129}{}{Alright, I am a normal.}
-{129}{}[好吧，我是正常人类。}
+{129}{}{好吧，我是正常人类。}
 #{130}{Harry_09}{No! Harry know you not. Not like you!}
 {130}{Harry_09}{不！哈里不认识你。不喜欢你！}
 #{131}{Harry_10}{Oh, ok. Harry think what to do.}
@@ -115,7 +115,7 @@
 #{156}{}{Wait, wait! You don't understand.}
 {156}{}{等等，等等！你不明白。}
 #{157}{}{I'll kill you with my bare hands.}
-{157}{}{我将用我的手杀了你。}
+{157}{}{我将徒手杀了你。}
 #{158}{Harry_24}{Not have to. Harry follow orders. Take to the Lou.}
 {158}{Harry_24}{不要这样，哈里执行命令，拿这个给福。}
 #{159}{Harry_25}{Harry not think so, but you can try. Let go, guys.}
@@ -143,11 +143,11 @@
 #{170}{Harry202}{You kill Gary!}
 {170}{Harry202}{你杀了加里！}
 #{171}{Harry203}{You kill my brother, Barry!}
-{171}{Harry203}你杀了我的兄弟，巴里！}
+{171}{Harry203}{你杀了我的兄弟，巴里！}
 #{172}{Harry204}{You kill Terry!}
 {172}{Harry204}{你杀了泰里！}
 #{173}{Harry205}{You kill Sally! He did have lousy name. But not reason to kill him!}
-{173}{Harry205}{你杀了萨利！他名字是恶心了点。但不能因为这就杀了他吧！}
+{173}{Harry205}{你杀了萨利！他的名声差了点，但不能因为这就杀了他吧！}
 #{174}{Harry26}{Not bother me. Leave alone!}
 {174}{Harry26}{不要打扰我。走开！}
 #{175}{Harry207}{Uhhh...Not know.}
@@ -165,7 +165,7 @@
 #{181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
 {181}{Harry305}{靠。不知道为什么福想要正常人。他们都是混蛋！}
 #{182}{Harry306}{Here, dummy. [Sigh] You stupid?}
-{182}{Harry306}{这里，蠢货。［叹息］你白痴啊？}
+{182}{Harry306}{这里，蠢货。【叹息】你白痴啊？}
 #{183}{Harry307}{The U' U' U' Un, I don't know.}
 {183}{Harry307}{这这这，我不知道。}
 #{184}{Harry308}{Nice for little guys. Harry hurt once and they make better.
@@ -189,8 +189,6 @@
 {192}{}{好，带我去见你的头儿。}
 #{193}{}{The mutant ignores you.}
 {193}{}{变种人不理睬你。}
-
-
 
 #
 # Harry Tell-Me-Abouts

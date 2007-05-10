@@ -75,7 +75,7 @@
 
 #{122}{}{Current applications are: Facility Maintenance v2.1, Movement
 # v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
-{122}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，心脏ｖ１．０，传感器＇７６。}
+{122}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６。}
 
 #{123}{}{Terminate Movement.}
 {123}{}{终止运转。}
@@ -87,7 +87,7 @@
 {125}{}{终止有害物控制。}
 
 #{126}{}{Terminate Hearts.}
-{126}{}{终止心脏。}
+{126}{}{终止红心大战。}
 
 #{127}{}{Thanks. End input.}
 {127}{}{谢谢。结束。}
@@ -106,7 +106,7 @@
 {131}{}{修改有害活体控制。}
 
 #{132}{}{Play Hearts.}
-{132}{}{启动心脏。}
+{132}{}{启动红心大战。}
 
 #{133}{}{Thanks. End input.}
 {133}{}{谢谢。结束操作。}
@@ -156,16 +156,16 @@
 {146}{}{未经认可的有害活体。}
 
 #{147}{}{Application Hearts running. User Wins. [Click!] Thank you for the game.}
-{147}{}{心脏正在运行。玩家胜利。【叮叮！】感谢您玩本游戏。}
+{147}{}{红心大战正在运行。玩家胜利。【叮叮！】感谢您玩本游戏。}
 
 #{148}{}{Application Hearts running. This terminal wins. [Click!] Thank you
 # for the game.}
-{148}{}{心脏正在运行。系统胜利。【叮叮！】感谢您玩本游戏。}
+{148}{}{红心大战正在运行。系统胜利。【叮叮！】感谢您玩本游戏。}
 
 #{149}{}{Program parameter changed. Current applications are: Facility
 # Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control
 # v1.4, Hearts v1.0 and Sensors '76.}
-{149}{}{程序参数改变。当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，心脏ｖ１．０，传感器＇７６}
+{149}{}{程序参数改变。当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６}
 
 #{150}{}{Adjust parameters on Movement.}
 {150}{}{调整运转系统参数。}
@@ -177,7 +177,7 @@
 {152}{}{修改有害活体控制。}
 
 #{153}{}{Play Hearts.}
-{153}{}{启动心脏。}
+{153}{}{启动红心大战。}
 
 #{154}{}{Thanks. End input.}
 {154}{}{谢谢。结束输入。}
@@ -185,7 +185,7 @@
 #{155}{}{Current applications are: Facility Maintenance v2.1, Movement
 # v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and
 # Sensors '76.}
-{155}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，心脏ｖ１．０，传感器＇７６}
+{155}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６}
 
 #{156}{}{Adjust parameters on Movement.}
 {156}{}{调整运转系统参数。}
@@ -197,7 +197,7 @@
 {158}{}{修改有害物控制。}
 
 #{159}{}{Play Hearts.}
-{159}{}{启动心脏。}
+{159}{}{启动红心大战。}
 
 #{160}{}{Thanks. End input.}
 {160}{}{谢谢。结束。}

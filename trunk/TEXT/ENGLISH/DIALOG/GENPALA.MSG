@@ -1,10 +1,42 @@
-# {100}{}{Die, you dog!}
-# {101}{}{My defeat shall be avenged!}
-# {102}{}{Hail, Initiate! I hope your patrols have fared well.}
-# {103}{}{Hold! If you have not spoken with our Captain yet, do so and then go!}
-# {104}{}{Hold! I recognize you and I do not trust you. I give you fair warning: if you make trouble for us, you will be shot dead. Now move!}
-{100}{}{死吧，你这条狗！}
-{101}{}{我会报仇的！}
-{102}{}{很好新兵！我祝你巡逻顺利。}
-{103}{}{立正！如果你还没有和我们的指挥官谈话，那么现在就去做吧。}
-{104}{}{立正！我认识你但我不信任你。我给你个忠告：如果你给我们找麻烦，我就射死你，现在走吧！}
+# {100}{}{You see a Paladin.}
+# {101}{}{Sorry, can't talk, Initiate.}
+# {102}{}{Good day.}
+# {103}{}{Did you know you could survive for weeks without water in a suit
+# of powered armor?}
+# {104}{}{Don't you just love a good fight?}
+# {105}{}{I really like the new laser rifles, but the old laser pistols
+# are my favorite.}
+# {106}{}{The night perimeter patrols are very dangerous. I wouldn't wander
+# too far at night if I were you.}
+# {107}{}{Be careful, it's a deadly world out there.}
+# {108}{}{I think my armor has a spot on it!}
+# {109}{}{The Brotherhood is great. I haven't had any experience
+# outside of it, but it couldn't possibly get better than this.}
+# {110}{}{Good day, Initiate.}
+# {111}{}{If you need anything, you should talk to Vree.}
+# {112}{}{Vree's right over there if you need to talk to someone.}
+# {113}{}{I've got to find time between the patrols and training to keep up
+# with my studies. I think I'm getting a little rusty.}
+# {114}{}{You've got to keep your mind and body in top condition at all times,
+# Initiate.}
+# {115}{}{Being a Paladin isn't just combat, my son.}
+# {116}{}{Being a Paladin isn't just combat, my lady.}
+
+
+{100}{}{你看见一个兄弟会的战士}
+{101}{}{对不起，我是个新人，不能与外人谈话。}
+{102}{}{天气不错啊。}
+{103}{}{你知道么，穿上了能量装甲的话，就是不喝水，活几个礼拜也是没问题的。}
+{104}{}{你觉不觉得酣畅淋漓的战斗是种享受？}
+{105}{}{我确实喜欢这把镭射步枪，但是我的最爱还是原来的镭射手枪。}
+{106}{}{晚上时候巡逻区以外都是很危险的，因此我建议你最好老实呆着。}
+{107}{}{小心点，外边很危险。}
+{108}{}{我的护甲好像脏了。}
+{109}{}{兄弟会真是太棒了，尽管我从没去过别的地方，也知道没有哪里比这更好。}
+{110}{}{天气真好，小兄弟。}
+{111}{}{有什么需要就去找弗蕾。}
+{112}{}{你要是想要聊天的话弗蕾就在那等着呢。}
+{113}{}{每天巡逻培训之余我还要找时间自学，我快累扁了。}
+{114}{}{你要时刻保证自己处于最佳状态，新人。}
+{115}{}{骑士并不单纯意味着去战斗，我的小伙子。}
+{116}{}{骑士并不单纯意味着去战斗，我的好姑娘。}
