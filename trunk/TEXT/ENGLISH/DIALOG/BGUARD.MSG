@@ -1,16 +1,16 @@
-#{100}{}{You see a guard。}
-{100}{}{你看见一个卫兵。}
-#{101}{}{I work for the Barterman。}
+#{100}{}{You see a guard.}
+{100}{}{你看见一个守卫。}
+#{101}{}{I work for the Barterman.}
 {101}{}{我为商人工作。}
 #{102}{}{Got any donuts?}
-{102}{}{买点东西？}
+{102}{}{来点炸圈饼？}
 #{103}{}{If you break it, you buy it!}
-{103}{}{如果你把它搞坏了你就得买下它！}
+{103}{}{如果你把它弄坏了，你就得买下来！}
 #{104}{}{Shoplifters will be killed!}
-{104}{}{小偷将会被杀！}
+{104}{}{谁在店里偷东西就得死！}
 #{105}{}{Are you gonna buy something? Perhaps in this century?}
-{105}{}{你想不想买东西啊？是不是要下个世纪才下得了决心？}
-#{106}{}{Can't fight Rad Scorpions without this stuff。}
-{106}{}{对抗辐射蝎不能没有这东西。}
-#{107}{}{I work for the Barterman。}
+{105}{}{你要买东西？你还要磨蹭多久？}
+#{106}{}{Can't fight Rad Scorpions without this stuff.}
+{106}{}{没这个玩意你就打不了蝎子。}
+#{107}{}{I work for the Barterman.}
 {107}{}{我为商人工作。}

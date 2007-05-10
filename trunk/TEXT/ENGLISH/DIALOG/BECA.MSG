@@ -1,34 +1,34 @@
-#{100}{}{You see Jade。}
-{100}{}{你看见贾德。}
-#{101}{}{You see Beca。}
-{101}{}{你看见比格。}
+#{100}{}{You see Jade.}
+{100}{}{你看见杰德.}
+#{101}{}{You see 比格.}
+{101}{}{你看见比格.}
 {102}{}{}
 {103}{}{}
-#{104}{}{You see a member of the Blades。}
-{104}{}{你看见一个利刃帮成员。}
-#{105}{}{You see a member of the Blades。}
-{105}{}{你看见一个利刃帮成员。}
-#{106}{}{You think that might be Books。}
-{106}{}{你思索了下认为那可能是“书”。}
-#{107}{}{You think that might be Scars。}
-{107}{}{你思索了下认为那可能是“刀疤”。}
-#{108}{}{You think that might be Gunner。}
-{108}{}{你思索了下觉得那应该是“枪客”。}
-#{109}{}{You think that might be Twitch。}
-{109}{}{你思索了下觉得那应该是“抽风”。}
-#{110}{}{You think that might be Hammer。}
-{110}{}{你思索了下觉得那应该是“铁锤”。}
-#{111}{}{You think that might be Razor。}
-{111}{}{你思索了下觉得那应该是“剃刀”。}
-#{112}{}{These are sleeping quarters。 Now get out of here before I kick your butt。}
-{112}{}{这是睡觉得地方。现在趁我还没有踢你老二前滚出去。}
-#{113}{}{Try it。}
-{113}{}{你敢。}
-#{114}{}{Sorry about that。 Goodbye。}
-{114}{}{抱歉，再见。}
+#{104}{}{You see a member of the 利刃帮s.}
+{104}{}{你看见一个利刃帮的成员。}
+#{105}{}{You see a member of the 利刃帮s.}
+{105}{}{你看见一个利刃帮的成员。}
+#{106}{}{You think that might be Books.}
+{106}{}{你认为那可能是书.}
+#{107}{}{You think that might be Scars.}
+{107}{}{你认为那可能被冻起来了.}
+#{108}{}{You think that might be Gunner.}
+{108}{}{你认为那可能是枪手.}
+#{109}{}{You think that might be Twitch.}
+{109}{}{你认为那可能是抽搐了一下.}
+#{110}{}{You think that might be Hammer.}
+{110}{}{你认为那可能是锤子.}
+#{111}{}{You think that might be Razor.}
+{111}{}{你认为那可能是剃刀.}
+#{112}{}{These are sleeping quarters. Now get out of here before I kick your butt.}
+{112}{}{这里是睡觉的地方。现在，在我踢你屁股前滚出去。}
+#{113}{}{Try it.}
+{113}{}{试试看。}
+#{114}{}{Sorry about that. Goodbye.}
+{114}{}{对不起，再见。}
 #{115}{}{Can I crash here?}
-{115}{}{我能在这里休息么?}
-#{116}{}{No。 These are for real Blades, not some wuss。}
-{116}{}{不行。这里是提供给利刃帮成员的,而不是弱者。}
-#{117}{}{Hey, homie！ Wazzup? Crash here if you need a safe place。}
-{117}{}{嘿,亲爱的！怎么啦？如果你需要一个安全的地方那就在这里躺下休息吧。}
+{115}{}{我能在这里睡觉吗？}
+#{116}{}{No. These are for real 利刃帮s, not some wuss.}
+{116}{}{不行。这些是给真正的利刃帮用的，而不是给什么垃圾用的。}
+#{117}{}{Hey, homie! Wazzup? Crash here if you need a safe place.}
+{117}{}{嘿，舒服吧！醒了？如果你需要一个安全的地方睡觉，就来这里。}
