@@ -20,12 +20,12 @@
 # much hope after all. Excuse me while I cry.}
 #{118}{}{Ugg!}
 #{119}{}{Please find it before my baby dies of thirst.}
-#{120}{}{[Done]}
+#{120}{}{【Done】}
 #{121}{}{You've got to find it! Don't let us die like this!}
-#{122}{}{[Done]}
+#{122}{}{【Done】}
 #{123}{}{Keep trying. I believe in you. I know you will do everything
 # you can to save us.}
-#{124}{}{[Done]}
+#{124}{}{【Done】}
 #{125}{}{I am afraid of what is happening. Someone has been stealing
 # water and now everyone is on edge.}
 #{126}{}{Who would do such a thing?}
@@ -55,18 +55,18 @@
 {110}{}{你看到丝黛西。}
 {111}{}{你看到苏珊。}
 {112}{}{你好，}
-{113}{}{你找到净水芯片了吗？}
-{114}{}{．．．还没找到。}
+{113}{}{。你找到净水芯片了吗？}
+{114}{}{……还没找到。}
 {115}{}{我的天哪。你在做什么？}
 {116}{}{哦!}
-{117}{}{噢．．．你不明白。很抱歉我失态了，但是我现在真的很绝望。}
+{117}{}{噢……你不明白。很抱歉我失态了，但是我现在真的很绝望。}
 {118}{}{呃!}
 {119}{}{求求你在我孩子渴死前找到它。}
-{120}{}{【完成】}
+{120}{}{【确定】}
 {121}{}{你会找到它的！别让我们就这样渴死！}
-{122}{}{【完成】}
+{122}{}{【确定】}
 {123}{}{加油。我相信你，不论发生什么你都会赶回来救我们的。}
-{124}{}{【完成】}
+{124}{}{【确定】}
 {125}{}{现在的情况很不好。已经有人开始偷水了，避难所的秩序也在崩溃的边缘。}
 {126}{}{谁会去做这样的事情？}
 {127}{}{发生了什么？}

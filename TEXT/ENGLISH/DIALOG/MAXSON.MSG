@@ -202,8 +202,6 @@
 # {274}{Gen_85}{Ha! You forget. I used to teach this stuff.}
 # {275}{Gen_86}{Contrary to opinion, we don't want soldiers will no brains whatsoever.}
 # {276}{Gen_87}{Well, I suggest you talk to my assistant, Mathia, about that.}
-
-
 # {300}{}{Maybe you can tell me? Everyone here seems to be on edge. It's like
  # you are getting ready to go to war, but no one knows with who.}
 # {301}{}{Do you have any clues as to what's behind the disappearance of the caravans?}
@@ -281,14 +279,14 @@
 # {355}{Gen_6}{They may or may not be good scouts, but don't question
  # the truthfulness of my men. We can revoke your Initiate status at any time.}
 # {356}{Gen_6}{They may or may not be good scouts, but don't question
- # the truthfulness of my men. We can revoke your Initiate status at any time.}
+# the truthfulness of my men. We can revoke your Initiate status at any time.}
 # {357}{Gen_15n}{Goodbye, Initiate.}
 # {358}{Gen_15n}{Goodbye, Initiate.}
 # {359}{Gen_30}{Ahh . . . Hello again, Initiate. Are things going well? }
 # {360}{Gen_30}{Ahh . . . Hello again, Initiate. Are things going well? }
 
 # {400}{}{I've been to the Mutant base in the north. Let's just say they are no longer a
- # threat.}
+# threat.}
 
 
 # General Maxson Tell-Me-Abouts generic responses
@@ -346,8 +344,8 @@
 # {1107}{Gen_59}{Well you see there's four of them and that's about all they can ever agree on. They can't even agree if they want to piss, much less pick a pot to piss in.}
 # {1108}{Gen_60}{Well that's what you are. Initiates train and learn to become knights or scribes.}
 # {1109}{Gen_61}{Well, Scribes copy down the weapon specs. We've got information all the way back to
- # my granddad. Sometimes a scribe comes up with a new idea for a weapon. Hehehe. Doesn't happen too often.
- # They all answer to Vree.}
+# my granddad. Sometimes a scribe comes up with a new idea for a weapon. Hehehe. Doesn't happen too often.
+# They all answer to Vree.}
 # {1110}{Gen_62}{The Knights make the weapons. And when he's good enough, a Knight can advance to become a Paladin and then an Elder and so forth. Right now Rhombus is the head of the Knights.}
 # {1111}{Gen_63}{Paladins are in charge of all security and outside activities. I remember tradin' with the Hub, goin' on scouting missions for the Elders. Ah man, those ware a good times.}
 # {1112}{Gen_64}{The Hub's down to the southeast. They trade us food and things for the weapons we make here. Now if you're ever down there, you talk to Butch Harris.}
@@ -372,6 +370,7 @@
 # {1131}{Gen_71}{Well that was when my granddad, Roger Maxson, led his soldiers here and started the Brotherhood. He never mentioned where they came from, but it  doesn't really matter, 'cause...well, this is our home now.}
 # {1132}{Gen_65}{Butch is the head of the Far Go Traders. He's a little slimy, but he's not a total waste. Unlike those Water Merchants. Bunch of damn vultures, all of 'em.}
 # {1133}{Gen_81a}{Hell if I know.}
+
 {100}{}{你看到马克松将军。}
 {101}{}{钢铁兄弟会到底是什么组织？}
 {102}{}{我打赌你知道钢铁兄弟会的许多过去的事。}
@@ -385,7 +384,7 @@
 {110}{}{哦，好吧。}
 {111}{}{这个简单，你为什么不找点事情做？}
 {112}{Gen_2a}{传统来说，很难改变我们的行为模式。现在，如果长老们获取到一些有用的信息，他们将会抛弃传保守观念并采取一些措施。}
-{113}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有20年了。}
+{113}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有２０年了。}
 {114}{}{为什么是我？}
 {115}{}{我受宠若惊。现在问一些问题怎么样？}
 {116}{Gen_4}{因为我们需要做一些事情。一小股军队和几个哈勃城的商队消失了，我们的侦察兵不能胜任这项任务。因此，长老们实际上做了一些事情，并且做了正确的决定外来者可能会提供一些有用的东西。我们希望你就是那个外来者。}
@@ -442,7 +441,7 @@
 {167}{}{今天是个散步的好天气。}
 {168}{Gen_19}{你的选择。希望你能和他住在一起。}
 {169}{Gen_20}{什么？这就是我们并且我们居住的东西。这是个理想。正如你于我們花费较多的时间，希望您能理解。}
-{170}{}{耶， 但是你实际上做什么？}
+{170}{}{耶，但是你实际上做什么？}
 {171}{}{关于这个我不太肯定。}
 {172}{Gen_21}{我们主要的目的是为了生存。副官们抄写这武器的旧式图纸并设计出新的武器，士从他们那里制造枪。大多数的枪都来自我们。}
 {173}{}{你和哈勃城贸易枪支？}
@@ -496,7 +495,7 @@
 {221}{Gen_42}{嗯，这个计划还可以，让我去说服那些长老。我不敢保证成功，但我劲力。}
 {222}{Gen_43}{现在，出去。我还有事情要做。}
 {223}{Gen_44}{你在那里得到的荣誉和忠诚。}
-{224}{}{效忠于我，要么接受500个瓶盖，要么滚蛋。}
+{224}{}{效忠于我，要么接受５００个瓶盖，要么滚蛋。}
 {225}{}{哦，耶，好吧，我会告诉你的。他打算征服所有的人和事。}
 {226}{Gen_44a}{我接受，我们需要的信息来保命。}
 {227}{}{相当的简单。他把人类变成变种人，他拥有先进的武器。他打算征服任何事情。}
@@ -514,11 +513,11 @@
 {239}{Gen_53}{哦，即使他想当一名副官，但他是一个好孩子。}
 {240}{Gen_54}{弗蕾是文书的主管。她经常在图书馆里，她爱聊天。}
 {241}{Gen_55}{我们把武器的说明书和历史保存在那里。}
-{242}{Gen_56}{Rhombo来者很长一段时间了他有点死板，但绝对是一个好的士兵。}
+{242}{Gen_56}{兰博来这里很长一段时间了，他有点死板，但绝对是一个好的士兵。}
 {243}{Gen_58}{呵呵。一个好的、英俊的、正直的男人。高级长老的职责是在长老会议上斡旋。你看，两年前我就在说这个事情。如果我当时知道这个．．．}
 {244}{Gen_59}{你看，他们有四个，他们无法达成的所有共识。他们总是合不来。}
 {245}{Gen_60}{这就是你在这，新加入者训练并且学习成为骑士或者文书。}
-{246}{Gen_61}{嗯，书记抄下武器的说明书。我们用很多途径得到的信息已经反馈给了我的爷爷。有时副官可以为一个武器提出一个新的主意。呵呵，并不经常出现。他们总是问弗蕾。}
+{246}{Gen_61}{嗯，研究员抄下武器的说明书。我们用很多途径得到的信息已经反馈给了我的爷爷。有时副官可以为一个武器提出一个新的主意。呵呵，并不经常出现。他们总是问弗蕾。}
 {247}{Gen_62}{骑士制造武器。如果他够棒的话，一个骑士可以晋级为圣骑士、长老等等。现在隆伯斯是骑士的头。}
 {248}{Gen_63}{圣骑士们掌管所有的保卫和外事活动。我记的与哈勃城贸易，为长老们做侦察活动。作为一个男人，那曾经是美好的时光。}
 {249}{Gen_64}{哈勃城在下面的东南处。他们用食物和东西交换我们在这制造的枪。如果你从未到过那里，你可以和布奇.哈里斯谈谈。}
@@ -554,8 +553,8 @@
 {300}{}{也许你可以告诉我？每个人在这里似乎十分紧张。看上去你好像已经准备好了战争，但是没人知道是跟谁。}
 {301}{}{你有没有关于商队失踪的线索？}
 {302}{}{我将对北面区域进行侦察，并汇报我发现了什么。}
-{303}{}{500个瓶盖，我将检查一下那里发生了什么。}
-{304}{}{1000个瓶盖，我将检查北面发生了什么。}
+{303}{}{５００个瓶盖，我将检查一下那里发生了什么。}
+{304}{}{１０００个瓶盖，我将检查北面发生了什么。}
 {305}{}{我不肯定我现在想介入。}
 {306}{}{我能得到一些好的武器么？}
 {307}{}{首先问一些问题。}
@@ -567,7 +566,7 @@
 {313}{}{去啊。去废了它，看我介意不。}
 {314}{}{抱歉，我现在去那里太危险。}
 {315}{}{好吧，我去，但是我能先拿一些好的武器吗？}
-{316}{}{好吧，1000个瓶盖我就干。}
+{316}{}{好吧，１０００个瓶盖我就干。}
 {317}{}{接受或者离开。}
 {318}{}{不要介意。}
 {319}{}{好吧，好吧，我免费干。}
@@ -604,8 +603,8 @@
 {350}{}{谢谢。}
 {351}{}{你应得到的。}
 {352}{}{ 侦察北面区域得到的经验点数。}
-{353}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有20年了。}
-{354}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有20年了。}
+{353}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有２０年了。}
+{354}{Gen_3}{新加入者不出生在这儿。你是很长，很长时间以来第一个加入我们的外人。嗯，大约差不多有２０年了。}
 {355}{Gen_6}{他们也许不是好的侦察兵，但是不要质疑我士兵的忠诚。我们可以随时吊销你的会籍。}
 {356}{Gen_6}{他们也许不是好的侦察兵，但是不要质疑我士兵的忠诚。我们可以随时吊销你的会籍。}
 {357}{Gen_15n}{再见，新加入者。}
@@ -613,7 +612,7 @@
 {359}{Gen_30}{啊．．．你好，新加入者，事情进展如何？}
 {360}{Gen_30}{啊．．．你好，新加入者，事情进展如何？}
 
-{400}{}{我已经去过北面变种人的基地了。.我正想说他们不再会是个威胁。}
+{400}{}{我已经去过北面变种人的基地了。我正想说他们不再会是个威胁。}
 
 # General Maxson Tell-Me-Abouts generic responses
 {980}{Gen_79}{哦，我不知道那个的任何事情。}
@@ -699,11 +698,11 @@
 {1102}{Gen_53}{哦，即使他想当一名副官，但他是一个好孩子。}
 {1103}{Gen_54}{弗蕾是文书的主管。她经常在图书馆里，她爱聊天。}
 {1104}{Gen_55}{我们把武器的说明书和历史保存在那里。}
-{1105}{Gen_56}{Rhombo来者很长一段时间了他有点死板，但绝对是一个好的士兵。}
+{1105}{Gen_56}{兰博来很长一段时间了，他有点死板，但绝对是一个好的士兵。}
 {1106}{Gen_58}{呵呵。一个好的、英俊的、正直的男人。高级长老的职责是在长老会议上斡旋。你看，两年前我在说这个事情。如果我当时知道这个．．．}
-{1107}{Gen_59}{W你看，他们有四个，那是他们能达成的所有共识。他们尿不到一个壶里去。}
+{1107}{Gen_59}{你看，他们有四个，那是他们能达成的所有共识。他们尿不到一个壶里去。}
 {1108}{Gen_60}{这就是你在这，新加入者训练并且学习成为骑士或者文书。}
-{1109}{Gen_61}{嗯，书记抄下武器的说明书。我们用很多途径得到的信息已经反馈给了我的爷爷。有时副官可以为一个武器提出一个新的主意。呵呵，并不经常出现。他们总是问弗蕾。}
+{1109}{Gen_61}{嗯，研究员抄下武器的说明书。我们用很多途径得到的信息已经反馈给了我的爷爷。有时副官可以为一个武器提出一个新的主意。呵呵，并不经常出现。他们总是问弗蕾。}
 {1110}{Gen_62}{骑士制造武器。如果他够棒的话，一个骑士可以晋级为圣骑士、长老等等。现在隆伯斯是骑士的头。}
 {1111}{Gen_63}{圣骑士们掌管所有的保卫和外事活动。. 我记的与哈勃城贸易，为长老们做侦察活动。作为一个男人，那曾经是美好的时光。}
 {1112}{Gen_64}{哈勃城在下面的东南处。他们用食物和东西交换我们在这制造的枪。如果你从未到过那里，你可以和布奇.哈里斯谈谈。}
@@ -720,11 +719,11 @@
 {1123}{Gen_76}{嗯，没有什么要说得，虽然他们是内城区人们的麻烦，但我从未遇见过他们。}
 {1124}{Gen_77}{在废车场有一个殖民地。很久很久以前，当我为长老们做侦察兵的时候我去过那里。}
 {1125}{Gen_78}{哦，另一个愚蠢的谣言，一些人说它是一个巨齿怪兽，另一些人说它是一个吸血鬼。}
-{1126}{Gen_65}布奇是商队的的头。他有一点令人讨谈，但他不是一个废物。布奇跟所有的供水商不同，他一点也不贪。}
+{1126}{Gen_65}{布奇是商队的的头。他有一点令人讨谈，但他不是一个废物。布奇跟所有的供水商不同，他一点也不贪。}
 {1127}{Gen_70}{罗杰.马克松，嗯，他在远征的时候领导我们，白手起家创建兄弟会。不错的领袖。}
 {1128}{Gen_75}{我知道得不多。就像内城区和大教堂教徒一样，他们有一股组织在这附近活动。并不多，相当的荒凉。}
 {1129}{Gen_75}{我知道得不多。就像内城区和大教堂教徒一样，他们有一股组织在这附近活动。并不多，相当的荒凉。}
 {1130}{Gen_80}{那是什么？我不认为我曾经听说它。}
 {1131}{Gen_71}{当我爷爷的年代，罗杰.马克松领导我们的士兵，并创建了兄弟会。他从未提起他们来自哪里，但这无关紧要，现在这里是我们的家。}
-{1132}{Gen_65}布奇是商队的的头。他有一点令人讨谈，但他不是一个废物。布奇跟所有的供水商不同，他一点也不贪。}
+{1132}{Gen_65}{布奇是商队的的头。他有一点令人讨谈，但他不是一个废物。布奇跟所有的供水商不同，他一点也不贪。}
 {1133}{Gen_81a}{如果我知道我就下地狱。}

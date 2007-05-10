@@ -1,12 +1,12 @@
 #{100}{}{You see Harold.}
-{100}{}{你看到哈罗德}
+{100}{}{你看到哈罗德。}
 #{101}{HROLD0}{
 #Spare change, old friend, old pal?  Can you help a poor mutant down on his luck? [Cough]}
 {101}{HROLD0}{给点钱吧，老朋友，老熟人？你能给我这个僵尸带来好运吗？【咳嗽】}
 #{102}{}{Yeah, here's $25. Good luck to you.}
-{102}{}{好吧，这里是２５＄。祝你好运。}
+{102}{}{好吧，这里是２５个瓶盖。祝你好运。}
 #{103}{}{How about $5.}
-{103}{}{５＄如何。}
+{103}{}{５个瓶盖如何。}
 #{104}{}{Sorry, don't have any money on me.}
 {104}{}{抱歉，我没有钱。}
 #{105}{}{Keep away from me!}
@@ -279,7 +279,7 @@
 #Oh, hey, it's you again.}
 {218}{HROLD41}{哦，嗨，你又来了。}
 #{219}{}{Here's $20, if you need it.}
-{219}{}{这是２０＄，如果你需要的话。}
+{219}{}{这是２０个瓶盖，如果你需要的话。}
 #{220}{}{Hi.}
 {220}{}{嗨。}
 #{221}{}{Uhh?}
