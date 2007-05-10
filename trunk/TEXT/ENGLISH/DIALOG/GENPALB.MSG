@@ -1,0 +1,133 @@
+# {100}{}{Die, you dog!}
+# {101}{}{My defeat shall be avenged!}
+# {102}{}{Hold, initiate! What do you have to report?}
+# {103}{}{All quiet on the western front.}
+# {104}{}{Rad Scorpions and intolerable heat. Uh . . . sir.}
+# {105}{}{Actually, I wanted to know if you had heard anything.}
+# {106}{}{Nothing to report, sir!}
+# {107}{}{Ruh?}
+# {108}{}{Hold! I recognize you -- you've visited the Brotherhood. Some may trust you,
+# but I do not. State your business!}
+# {109}{}{My business is my own, just as yours belongs to you.}
+# {110}{}{I wanted to see a friendly face.}
+# {111}{}{Wandering the wastes, trying to survive.}
+# {112}{}{I'm killing desert vermin. Do you disapprove?}
+# {113}{}{I will only state it to the head of your order. Take me to the Brotherhood.}
+# {114}{}{Biz?}
+# {115}{}{Hold! I recognize you and I do not trust you. I give you fair warning:
+# if you make trouble for us, you will be shot dead. Now move!}
+# {116}{}{Hold! Who goes there! State your name and your business!}
+# TRANSLATION NOTES
+# The player-character's name is inserted after line 117, and then has
+# line 118, 119, 120, or 121 appended.
+# {117}{}{I am }
+# {118}{}{ and I seek a water chip for my Vault. Can you help me?}
+# {119}{}{ and I'm trying to find the source of mutant attacks.}
+# {120}{}{ and that's none of your business!}
+# {121}{}{ and I'm looking for adventure.}
+# {122}{}{Up yours, soldier boy.}
+# {123}{}{Runk!}
+# {124}{}{Halt! These lands belong to the Brotherhood of Steel. Leave now, or we
+# will shoot you as a trespasser.}
+# {125}{}{Very good. Carry on, Initiate.}
+# {126}{}{I see. Carry on, Initiate.}
+# {127}{}{There are reports of large mutant humans attacking travelers, so we're
+# increasing our vigilance. Keep a close eye on the area and retreat to the
+# compound if necessary. Initiate, dismissed!}
+# {128}{}{These are troubled times, Initiate! Mutants are on the march, attacking
+# caravans! We need information, and we need it now! Nothing to report is not
+# good enough!}
+# {129}{}{Get your sorry ass out of here, and bring us back some useful intelligence!
+# Initiate, dismissed!}
+# {130}{}{Oh yes, I heard about you. Not much of an IQ, but a helluva fighter.
+# Too bad.}
+# {131}{}{This is our land, and here, your business is our business. I repeat,
+# state your business.}
+# {132}{}{I seek a water chip for my Vault. Can you help me?}
+# {133}{}{I am trying to find the source of mutant attacks.}
+# {134}{}{This may be your land, but I am not your slave.}
+# {135}{}{I've been wandering the wastes for a long time. I wanted to know if
+# you have news.}
+# {136}{}{A friendly face? It won't be mine. I would recommend leaving.}
+# {137}{}{As are we all. As long as you do not act against the Brotherhood, you
+# will not be harmed, but tread carefully.}
+# {138}{}{It depends on whether or not you consider us vermin. If you attack our
+# enemies, you will be permitted to travel in our territory. If you offend us,
+# you will die. Consider yourself warned.}
+# {139}{}{That's a reasonable request. Fall in.}
+# {140}{}{Water chip? I hope you're not serious! You'd be better off struggling
+# on the surface than enslaving yourself to a single piece of machinery.}
+# {141}{}{As are we. The most common theory is that they come from the Glow, but
+# I doubt even mutants could survive there for long. If you find out
+# something, let us know.}
+# {142}{}{How dare you accuse me of such a thing! The Brotherhood of Steel has
+# never forced anyuone to serve us against their will. That goes against everything
+# we believe in. Get out of my sight!}
+# {143}{}{We found a wrecked caravan about a day's journey to the west. We found
+# one survivor - poor girl. She claimed they were attacked by mutant humans
+# with incredible strength.}
+# {144}{}{We've heard enough reports that we're . . . concerned. I would walk
+# cautiously, if I were you.}
+# {145}{}{I'm going to have to teach you some manners, boy. This should make
+# for some light entertainment.}
+# {146}{}{I'm going to have to teach you some manners, girl. This should make
+# for some light entertainment.}
+# {147}{}{Your mind is completely gone. Poor creature.}
+# {148}{}{Stop wasting my time, fool!}
+# {149}{}{What do you want?}
+# {150}{}{Nothing.}
+# {151}{}{Then I suggest you leave.}
+
+{100}{}{死吧！你这个狗杂种！}
+{101}{}{我会回来报仇的！}
+{102}{}{立正，新来的，你要报告什么？}
+{103}{}{西墙前保持安静！}
+{104}{}{变种蝎正在猛烈的进攻，长官！}
+{105}{}{我想知道你听见了什么。}
+{106}{}{没什么，长官。}
+{107}{}{嗯？}
+{108}{}{站住！小子，我认出你来了——你去过兄弟会。会有人被你迷惑，但是不是我，快供出你此行的目的！}
+{109}{}{目标是我自己，就好像你的目标是你自己。}
+{110}{}{我想看到一张友善的笑脸。}
+{111}{}{到处乱晃的废物，想想怎么自保吧。}
+{112}{}{我去清缴沙虫，你不愿意？}
+{113}{}{这事我只会和你的长官说，快带我去兄弟会。}
+{114}{}{生意上的事？}
+{115}{}{嘿，小子，我认得你这个靠不住的家伙，给你个建议：别惹事，不然我们就把你打成筛子，现在滚吧！}
+{116}{}{谁在那？给我站住，报上你的姓名和职务！}
+
+{117}{}{我是}
+{118}{}{我在为我所在的避难所寻找一枚纯水芯片，你能帮帮我么？}
+{119}{}{我正在试着找出超级变种人攻击的根源。}
+{120}{}{与你无关！}
+{121}{}{我要的就是刺激！}
+{122}{}{闭嘴，你这个新兵蛋子。}
+{123}{}{别磨磨蹭蹭的！}
+{124}{}{嘿，这是兄弟会的地盘，不赶紧滚的话我就马上把你打成筛子。}
+{125}{}{很好，继续吧，新人。}
+{126}{}{我知道，继续吧，新人。}
+{127}{}{有很多变种人袭击过往客商的报告，因此我有必要提醒你提高警惕。时刻保持警惕，并在必要时可选择撤退。切记啊，新人！}
+{128}{}{有麻烦了，孩子！变种人四处出击，袭击旅行客商。我们需要请了解最新战况，现在！没有情报就是最坏的情报！}
+{129}{}{把你的狗屁抱歉收起来，我们需要建设性的意见，记住了，你这个新人！}
+{130}{}{哦，是的，我听说过你。不过很不幸，不是说你足智多谋，而是说你是个猛张飞，嘿嘿。}
+{131}{}{这是我们的地盘,这里，你的事情就是我们的事情，我再问一次,你来这是干什么的？}
+{132}{}{我在为我的避难所寻找净水芯片，能帮帮忙么？}
+{133}{}{我在寻找变种人出袭的原因。}
+{134}{}{虽然这是你的地盘，但这可不意味我什么都要听你的。}
+{135}{}{我花了很多时间四处寻找废土，想从你这打听点情报。}
+{136}{}{友善点的表情？我不会的，反正马上就要离开了。}
+{137}{}{兄弟会面对任何人的态度都是：人不犯我，我不犯人，不过你最好处处小心。}
+{138}{}{这取决于你的立场。如果敢帮我们去做掉几个敌人，那么就获得了我们管辖区的通行权。如果敢和我们作对，就等着扑街吧，何去何从，好好想想吧。}
+{139}{}{合理的要求，我们成交。}
+{140}{}{净水晶片？希望你没开玩笑，不放弃的话就只能把它当成你的终身事业了。}
+{141}{}{大家都知道是辐射造就了变种人，不过谁也不清楚他们能在那种环境下活多久。如果你有什么了解，不妨和我们说说。}
+{142}{}{你居然敢为了这种事情来麻烦我！兄弟会从不强迫他人违背意愿为我们服务，这与我们的信念相违背，别再让我看见你。}
+{143}{}{详细一天路程处发现一名遇害商人。还有一名可怜的女孩幸存。她说袭击者是一群全副武装的变种人。}
+{144}{}{我听够了这种我们在被关照的报告，现在只能劝你行动的时候处处小心。}
+{145}{}{我打算教导你一些礼节，孩子。这对某些娱乐活动大有帮助。}
+{146}{}{我打算教导你一些礼节，孩子。这对某些娱乐活动大有帮助。}
+{147}{}{可怜的家伙，你迷失了。}
+{148}{}{别再烦我了，白痴！}
+{149}{}{想要什么？}
+{150}{}{没什么。}
+{151}{}{那你最好离开。}
