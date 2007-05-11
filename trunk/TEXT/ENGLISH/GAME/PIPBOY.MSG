@@ -1489,11 +1489,11 @@
 # {11032}{}{War Department, these orders will have precendence over}
 # {11033}{}{any previously established orders.}
 # {11034}{}{**END-PAR**}
-{11030}{}{Operative 5: Until such time as consistant and }
-{11031}{}{authorized communication can be established with the }
-{11032}{}{War Department, these orders will have precendence over}
-{11033}{}{any previously established orders.}
-{11034}{}{**END-PAR**}
+{11030}{}{制度５：只有确保在时间上的完全一致，才能}
+{11031}{}{被准许授权和国防部建立通信联系，本次命令}
+{11032}{}{和以往的命令相比，具有绝对的优先权。}
+{11033}{}{**END-PAR**}
+{11034}{}{}
 # -
 # {11035}{}{Captain Maxson}
 # {11036}{}{24 Oct 2077}
