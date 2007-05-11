@@ -1412,7 +1412,7 @@
 # {820}{}{Slot Machine}                                   # Hslots.int
 {791}{}{你的室友}                                  # RD1.int
 {792}{}{钢铁兄弟会新兵}                  # GenInit.int
-{793}{}{寇依特}                                         # Coyote.int
+{793}{}{野狼}                                         # Coyote.int
 {794}{}{超级变种人森迪}                             # Smone.int
 {795}{}{超级变种人警卫}                             # SMTwo.int
 {796}{}{沙尔夫·格瑞}                                 # Justin.int
