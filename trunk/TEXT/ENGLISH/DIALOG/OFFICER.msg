@@ -61,7 +61,7 @@
 
 #{117}{}{The Overseer has not authorized me to open the armory and
 # get you more weapons. I'm sorry, but I can't help you. }
-{117}{}{管理者没授权，所以我不能打开军械库给你更多武器。我很抱歉，我帮不了你。}
+{117}{}{所长没授权，所以我不能打开军械库给你更多武器。我很抱歉，我帮不了你。}
 
 #{118}{}{Please! I really need them!}
 {118}{}{求你了！我真的需要它们！}
@@ -90,7 +90,7 @@
 {125}{}{有时候，生活就是不公平的。但我们的法律很公平。祝你愉快。}
 
 #{126}{}{The Overseer, myself and my security team. That's it.}
-{126}{}{管理者，我自己以及我的执法小队。就这些。}
+{126}{}{所长，我自己以及我的执法小队。就这些。}
 
 #{127}{}{It sounds like only people with need have access.}
 {127}{}{听起来像是只有需要它的人才有使用权。}
@@ -140,7 +140,7 @@
 {141}{}{我不喜欢你这种蛊惑民心的人。你该感到羞耻。}
 
 #{142}{}{Yeah, well, same to you, muttonhead.}
-{142}{}{是啊，没错，和你一样，猪头。} }
+{142}{}{是啊，没错，和你一样，猪头。} 
 
 #{143}{}{Don't you think you're being a little harsh?}
 {143}{}{你不觉得你有些太苛刻了吗？}
@@ -198,9 +198,8 @@
 #{159}{}{Halt! You're not permitted in there!}
 {159}{}{站住！你没有进入那里的许可！}
 
-
-# {1000}{}{Overseer}
-{1000}{}{管理者}
+# {1000}{}{管理者}
+{1000}{}{Overseer}
 
 #{1100}{}{He is the supreme authority of the Vault. The Vault answers to his
 # decisions.}
