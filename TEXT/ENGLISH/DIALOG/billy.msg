@@ -62,6 +62,7 @@
 {131}{}{停下来！}
 #{132}{}{Dangerous? No, not really. They can give you a really nasty bite, but they're pretty cool. They fart and burp a lot. I don't know why.}
 {132}{}{危险？不，其实没什么危险。它们会给你来上一大口，不过它们挺酷的。它们经常又放屁又打嗝，我也不知道为什么。}
+{133}{}{那这根矛用来干什么？}
 #{134}{}{Okay, thanks.}
 {134}{}{好了，谢谢。}
 #{135}{}{Oh, they can be awfully stubborn when I want them to do something.  I just gently stick them to get them to move around . . .  plus I don't want to get too close; they sometimes kick. }
@@ -72,7 +73,7 @@
 #{137}{}{He's just trying to help. Work hard and I'm sure he'll be nicer.}
 {137}{}{他只是想帮忙。努力工作后我想他会更好的。}
 #{138}{}{Here kid, take 50 bucks and get away from this jerk.}
-{138}{}{这里，孩子，拿上50块钱，离开这个笨蛋。}
+{138}{}{这里，孩子，拿上５０个瓶盖，离开这个笨蛋。}
 #{139}{}{Okay.}
 {139}{}{好吧。}
 #{140}{}{Aaaaaarg!}
@@ -102,7 +103,7 @@
 #{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, ma'am!}
 {152}{}{哇！下半辈子我可以靠这个过了！太感谢了，女士！}
 #{153}{}{WOW! Thanks . . . Well? . . . You're just trying to get me in trouble again!}
-{153}{}{哇！谢 . . . 嗯？. . . 你是想再给我惹上麻烦！}
+{153}{}{哇！谢. . .嗯？. . .你是想再给我惹上麻烦！}
 #{154}{}{Please don't talk to me, Dan is really mad.}
 {154}{}{请别跟我说话，丹真的很愤怒。}
 #{155}{}{Don't worry. I had a talk with him, he'll try to be nicer to you.}
