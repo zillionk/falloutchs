@@ -1,162 +1,105 @@
-#{100}{}{You see the Overseer.}
-{100}{}{你看见管理者。}
-
-#{101}{}{Ahh, you're here. Good. Well, only good that you're here. We've got
-# a problem. A big one. The controller chip for our water purification system has
-# given up the ghost. We can't make another one and the process is too complicated
-# for a work-around system.
-# Simply put, we're running out of drinking water. No water, no Vault.
-# Now we both know we've had our differences as you've grown up. You've got the
-# wanderlust in you - desires for things the Vault just can't satisfy. And you know
-# I think this just might be the last safe place anywhere so I'm always worried
-# about those who want to take off on adventures. Hey, if everyone left, I'd be out
-# of a job!
-# Seriously, this is crucial to our survival. And frankly, I think you're the only
-# hope we have.
-# You need to go find us another controller chip.}
+{100}{}{你看见所长。}
 {101}{}{啊，你在这里。呃，唯一的好事是你在这里。我们出了麻烦。大麻烦。我们净水系统中的控制芯片坏了。再造一个出来也不太可能，而其他处理办法又太过复杂。简单地说，我们快没饮用水了。没有水，就没有避难所。我们俩都明白我们之间有分歧，你骨子里头有一股不羁的野性－－自从你长大后就一直渴望出去旅行。而你要知道，我想这里是世上最后一个安全的地方了。所以我总是担心那些想出去冒险的人。嘿，如果人都走光了，我可就没用了！严肃点讲，这是我们继续生存的关键。老实说，我想你大概是我们唯一的希望。你必须去找另一个控制芯片来。}
-
 #{102}{Over_0a}{There's a picture on your PIP to help you identify it.}
 {102}{Over_0a}{你的哔哔小子上有张帮你鉴别它的图。}
-
 #{103}{Over_1}{You have three months to retrieve the chip before the vault runs out
 # of water.}
 {103}{Over_1}{你只有三个月的时间取回晶片，不然避难所就会断水。}
-
 #{104}{}{One month . . . two . . . four . . . five . . . six . . .}
 {104}{}{一个月．．．二．．．四．．．五．．．六．．．}
-
 #{105}{Over_2}{You have two months, maybe less, before the vault runs out of water.
 # We need that chip!}
 {105}{Over_2}{你还有两个月，也许更少，避难所的水就要用完了。我们急需那芯片！}
-
 #{106}{Over_3}{We estimate we have four to five months before the vault runs out of
 # water. We need that chip!}
 {106}{Over_3}{我们估计大约还有四到五个月避难所的水会被用完。我们要那芯片！}
-
 #{107}{Over_4}{Here's some equipment you'll probably need.}
 {107}{Over_4}{这儿有些装备你大概用得上。}
-
 #{108}{Over_4a}{If we didn't have to do this, I'd never ask. And if you don't do this,
 # I don't know who else can. Help us. You're our only . . . chance, I guess.}
 {108}{Over_4a}{我不感想象如果我们失败会怎样。如果连你也作不到，我不知道还有其他谁能干。救救我们。我想，你是唯一．．．的机会。}
-
 #{109}{Over_5}{If you need help, come back here. Obviously, we'll do whatever we
 # can. But we don't have a lot of time.  Be safe, find that chip, and get back here.}
 {109}{Over_5}{如果你有困难，就回来。我们会尽一切努力提供帮助。但我们的时间不多。地找到那芯片，然后安全的带回来。}
-
 #{110}{Over_6}{We marked your map with the location of another Vault. Not a bad
 # place to start, I think. Then again, what the heck do I know
 # about the outside? I . . . look. Y' You know you're important to me and
 # to . . . I-I really . . . just be safe, OK?}
 {110}{Over_6}{我们在你的地图上标出了另一个避难所的位置。我想，先去那儿试试不算坏主意吧。再说一次，我不知道外头多可怕？我．．．瞧，你，你清楚的，你对我很重要所以．．．我，我真的．．．就小心点，好吗？}
-
 #{111}{Over_7}{You're back! And in one piece! How goes the search?}
 {111}{Over_7}{你回来了！而且和刚走时一样！太不可思议了！有什么发现没？}
-
 #{112}{}{Not good, but I noticed the radiation count is low. Why don't we just move the people out of the vault?}
 {112}{}{不太乐观，不过我发现放射线强度低了很多。我们为什么不把大家迁出避难所呢？}
-
 #{113}{}{I haven't found the chip yet. Can't we just make a replacement?}
 {113}{}{我还没找到那芯片。我们干脆再造一块新的如何？}
-
 #{114}{}{Nothing yet.}
 {114}{}{还没有。}
-
 #{115}{}{Nuh.}
 {115}{}{没。}
-
 #{116}{Over_8}{Look, I know it's got to be tough. But we're counting on you. And
 # we're running out of time. Please! Keep trying!}
 {116}{Over_8}{看，我知道这会很难。但我们全都指望你了。而且时间所剩不多。求你！继续找下去！}
-
 #{117}{Over_9}{Ahh, you never did listen to me. We don't have the necessary parts
 # anymore. We've used up all the supplies required.}
 {117}{Over_9}{啊，你的耳朵显然没听我说话。那些关键的零件早就没了。我们已经用完了所有的补给。}
-
 #{118}{}{Oh, ok. Thanks.}
 {118}{}{哦，好。谢谢。}
-
 #{119}{Over_10}{We've debated this before. You ought to know now, after being out
 # there! You think the rest of us could survive that?
 # Besides, I'd be out of a job! I'm management! It's not like I know how to
 # do anything useful!}
 {119}{Over_10}{我们之前已经争论过了。如今你已经去过了野外，你应当明白！你认为我们这些人能在那样的环境下活命？再说，我会丢了工作！我做的是管理！而这并不是我想要的结果！}
-
 #{120}{}{We agree on that.}
 {120}{}{这一点上我们没分歧。}
-
 #{121}{Over_12}{Well, do you have the chip?}
 {121}{Over_12}{好，你弄到芯片了？}
-
 #{122}{}{Not yet. Sorry.}
 {122}{}{还没。抱歉。}
-
 #{123}{}{I still say we just pack everybody up and move out of here.}
 {123}{}{我还是坚持应该召集大家搬出这里。}
-
 #{124}{}{No, but I have a lot of other things to tell you!}
 {124}{}{不，但我还有很多事要告诉你！}
-
 #{125}{}{Nuh.}
 {125}{}{没。}
-
 #{126}{Over_13}{[The Overseer sighs.] Don't be sorry. I know you're trying your best and that means a lot.
 # But you can't give up now.}
-{126}{Over_13}{}{【管理者叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
-
+{126}{Over_13}{【管理者叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
 #{127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the
 # option. Most of these people, including me, won't survive out there.}
 {127}{Over_14}{现在不是为那问题争论的时候。搞到那芯片，给我们选择的余地。这里的大多数人，包括我，不能在外头生存下来。}
-
 #{128}{}{OK, I'll go see if I can find it.}
 {128}{}{好吧，我去看看我能不能找到。}
-
 #{129}{Over_16}{We have no time, no options. I know it's a lot of responsibility
 # for you, but we have no choice. We need the chip now.}
 {129}{Over_16}{我们没时间了。我知道这对你来说压力很大，但我们别无选择。我们现在就需要那芯片。}
-
 #{130}{Over_19a}{Please tell me you've found the chip.}
 {130}{Over_19a}{求求你，告诉我，说你找到了那芯片。}
-
 #{131}{}{No, but I've seen some amazing things!}
 {131}{}{没有，但我看到了令人惊奇的东西！}
-
 #{132}{}{Sorry, haven't been able to track it down yet.}
 {132}{}{抱歉，还没能打探到它的下落。}
-
 #{133}{}{Nope.}
 {133}{}{没。}
-
 #{134}{}{Nuh-uh.}
 {134}{}{啊噢。}
-
 #{135}{Over_20}{Well, keep looking. Time's growing short.}
 {135}{Over_20}{好吧，继续找。时间不多了。}
-
 #{136}{Over_21}{We don't have time for this! We need the chip. Time's running out. [Sigh]}
 {136}{Over_21}{我们没时间谈这个！我们急需那芯片。时间越来越少。【叹气】}
-
 #{137}{Over_22}{Is there some problem, do you need more equipment?  Is there anything
 # we can do to help?}
 {137}{Over_22}{有什么难题么？要不要更多装备？有什么我们能帮忙的？}
-
 #{138}{}{Nope, just going to take some time.  It's a big world out there.}
 {138}{}{不用，只是要花些时间。那外面的世界可真大。}
-
 #{139}{}{I could use some more stuff.}
 {139}{}{我还需要些东西。}
-
 #{140}{}{Yeah, you could get off your fannies and help.}
 {140}{}{是啊，把你那成天不动的大屁股从椅子上挪下来大概还能帮上忙。}
-
 #{141}{Over_23}{Do your best. Remember, we're all counting on you.}
 {141}{Over_23}{你尽力而为吧。要记得，我们全都靠你了。}
-
 #{142}{Over_24}{Here, take the last of our ammo and portable healing supplies.
 # We're in trouble. Hurry!}
 {142}{Over_24}{拿着，最后一些弹药和随身急救补给品。我们可有麻烦了。赶快！}
-
 #{143}{Over_25}{Do what? With who? Anyone else would be less qualified and have less
 # supplies. It'd be suicide.}
 {143}{Over_25}{做什么？和谁？随便什么人都更没用，补给品也不够。那简直是自杀。}
@@ -432,10 +375,10 @@
 {223}{Over_66}{必须阻止他。否则，他会重建他的变种人帝国，而且肯定会反击我们。在主教死之前避难所不可能安全。}
 
 #{224}{Over_68}{Is the mutant leader . . . taken care of?}
-{224}{Over_68}{变种人的头目．．．处置了没有？} }
+{224}{Over_68}{变种人的头目．．．处置了没有？} 
 
 #{225}{}{No.}
-{225}{}{没有．}
+{225}{}{没有。}
 
 #{226}{}{He will be . . . soon.}
 {226}{}{他会被．．．很快．}
@@ -612,12 +555,9 @@
 #{980}{Over_100}{I don't know anything about that.}
 {980}{Over_100}{我对那个一无所知。}
 
-
 #
 # Overseer Tell-Me-Abouts
 #
-
-
 {1000}{}{Water}
 {1001}{}{Vault}
 {1002}{}{War}
