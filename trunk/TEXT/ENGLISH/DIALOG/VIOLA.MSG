@@ -195,37 +195,36 @@
 #{294}{}{There was Deacon Olivier; no, she's gone now_ and Father Pinochet_ no, he's no longer available. I hesitate to mention Lasher, but he's the only one left now. Well, I'm sure you'll find a way. Good luck.}
 #{295}{}{Death is never a service, even when it's a necessity. Good bye sir.}
 #{296}{}{Death is never a service, even when it's a necessity. Good bye miss.}
-#{297}{}{That is something I've wondered myself. But such criticism is not warranted,
- I'm certain. Perhaps you should speak to the children.}
+#{297}{}{That is something I've wondered myself. But such criticism is not warranted, I'm certain. Perhaps you should speak to the children.}
 #{298}{}{[done]}
 #{299}{}{Me go.}
 
-#{300}{}{We have taken initiates in sooner, but the Church is performing some
- major Crusades, and I think we're being more selective than usual about recruits.
- But faith will persevere, and patience is a virtue. Good luck, my friend.}
-#{301}{}{We have taken initiates in sooner, but the Church is performing some
- major Crusades, and I think we're being more selective than usual about recruits.
- But faith will persevere, and patience is a virtue. Good luck, my friend.}
-#{302}{}{I know of no plans to invoke the Holy Flame again. The Sacred Fire was
- sacred only because it gives us a chance to purge the world of imperfection.
- It is our actions that will make the flame Holy. We must take the evils of the
- world and make them tools for Good. Just as your weapons defend your life,
- our actions defend the world. Farewell, friend.}
-#{303}{}{I know of no plans to invoke the Holy Flame again. The Sacred Fire was
- sacred only because it gives us a chance to purge the world of imperfection.
- It is our actions that will make the flame Holy. We must take the evils of the
- world and make them tools for Good. Just as your weapons defend your life,
- our actions defend the world. Farewell, friend.}
-#{304}{}{We perform many services for people. Healing the sick, feeding the hungry,
- teaching the young. I am quite proud of them. If you corner Father Morpheus,
- he may be able to tell you how to get involved with our hospices. Farewell, friend.}
-#{305}{}{We perform many services for people. Healing the sick, feeding the hungry,
- teaching the young. I am quite proud of them. If you corner Father Morpheus,
- he may be able to tell you how to get involved with our hospices. Farewell, friend.}
-#{306}{}{If you corner Father Morpheus, he may be able to tell you how to get
- involved with our hospices. Farewell, friend.}
-#{307}{}{If you corner Father Morpheus, he may be able to tell you how to get
- involved with our hospices. Farewell, friend.}
+# {300}{}{We have taken initiates in sooner, but the Church is performing some
+ # major Crusades, and I think we're being more selective than usual about recruits.
+ # But faith will persevere, and patience is a virtue. Good luck, my friend.}
+# {301}{}{We have taken initiates in sooner, but the Church is performing some
+ # major Crusades, and I think we're being more selective than usual about recruits.
+ # But faith will persevere, and patience is a virtue. Good luck, my friend.}
+# {302}{}{I know of no plans to invoke the Holy Flame again. The Sacred Fire was
+ # sacred only because it gives us a chance to purge the world of imperfection.
+ # It is our actions that will make the flame Holy. We must take the evils of the
+ # world and make them tools for Good. Just as your weapons defend your life,
+ # our actions defend the world. Farewell, friend.}
+# {303}{}{I know of no plans to invoke the Holy Flame again. The Sacred Fire was
+ # sacred only because it gives us a chance to purge the world of imperfection.
+ # It is our actions that will make the flame Holy. We must take the evils of the
+ # world and make them tools for Good. Just as your weapons defend your life,
+ # our actions defend the world. Farewell, friend.}
+# {304}{}{We perform many services for people. Healing the sick, feeding the hungry,
+ # teaching the young. I am quite proud of them. If you corner Father Morpheus,
+ # he may be able to tell you how to get involved with our hospices. Farewell, friend.}
+# {305}{}{We perform many services for people. Healing the sick, feeding the hungry,
+ # teaching the young. I am quite proud of them. If you corner Father Morpheus,
+ # he may be able to tell you how to get involved with our hospices. Farewell, friend.}
+# {306}{}{If you corner Father Morpheus, he may be able to tell you how to get
+ # involved with our hospices. Farewell, friend.}
+# {307}{}{If you corner Father Morpheus, he may be able to tell you how to get
+ # involved with our hospices. Farewell, friend.}
 
 
 
@@ -276,7 +275,7 @@
 {144}{}{我的名声被过分渲染了，大教堂难道只会以谣言来判断一个人吗？}
 {145}{}{变态杀人狂？谁？我？}
 {146}{}{宝贝儿，我可不变态。我只是有患有狂躁症，如果你不回答我的问题我就犯病给你看!}
-{147}{}{我是不会屈服于你的淫威的， 我什么都不告诉你。}
+{147}{}{我是不会屈服于你的淫威的，我什么都不告诉你。}
 {148}{}{好把，那就让我们忘记彼此所说的把。}
 {149}{}{赞美主教无法挽救我的生活。勇往直前把，我没理由阻止你。}
 {150}{}{大教堂是净土，不允许毒品和酒精。}
@@ -293,7 +292,7 @@
 {161}{}{这里不是娱乐场所，这里的作用是启迪和开导。最重要的是，它可以正确选择世界的命运。你看看周围。}
 {162}{}{好的！当然！没错！回见！}
 {163}{}{我明白，我也有那么做的倾向，当我没什么可说的时候，回见！}
-{164}{}{人只要有了圣光的精神就别无它求，正如他们所说，你应该知道如何去做_}
+{164}{}{人只要有了圣光的精神就别无它求，正如他们所说，你应该知道如何去做。}
 {165}{}{楼上的隐形人会很乐意给你放放血的。}
 {166}{}{主教的作为属于天灾，因为他是这里唯一有机会统一世界的人。}
 {167}{}{没人告诉过你统一是被夸大了的谎言吗？}
@@ -330,14 +329,14 @@
 {198}{}{只有一种选择和我有关系，那就是你还能活多长。}
 {199}{}{也许我是你的话会更聪明，我会全力协助主教取得这个世界的政权！加入我们的行列！让我们一起改变世界！我只希望你能好好想想！这就是我所有的请求。}
 {200}{}{任何地方总会有那么些游手好闲的人，我们需要这些人，但是我们更需要精英，至少我认为你应该是一个非常不错的战士，考虑一下，你对我们的事业可能是非常有用的。加入我们。我希望你好好想一下我所说的！}
-{201}{}{也许我们能在防卫建立之前击溃他们。也许我们能迅速地统一所有的避难所，还有城市。 最终形成一个完美统一的世界，除非他们有机会联合在一起反抗我们。 恩，仔细考虑下吧！}
+{201}{}{也许我们能在防卫建立之前击溃他们。也许我们能迅速地统一所有的避难所，还有城市。最终形成一个完美统一的世界，除非他们有机会联合在一起反抗我们。恩，仔细考虑下吧！}
 {202}{}{我做过本土考察，钢铁兄弟会和启示录想各自为政，他们都必须被消灭掉，而哈伯城那些人认为他们能买下整个世界－多么愚蠢的一群人！只有主教才有这个力量。仔细考虑下吧！}
 {203}{}{等你的好消息，我希望你能做出正确的决定。}
 {204}{}{不，不是的。那是唯一能拯救我们的机会，这就是我为什么和这些人在一起的原因。没有更好的办法！考虑下吧！}
 {205}{}{你可要给我想清楚了。如果你继续反对我们，你就会死。你见过我们的军队，你知道还有更多的军队会陆续到达。很多很多！你阻止不了我们！但是如果你加入我们，你可以拯救生命。想想看吧！}
 {206}{}{我不会。如果我见到和我喜欢的人，我会以我的立场去帮助他们。不过本地人没有机会，都要死，除非他们改变自己的信仰。加入我们。考虑下吧！}
 {207}{}{世界绝对不会因此而停止战争，如果我们都团结起来会形成一个强大的包围圈，最终有些人会从我们这得到启示。在世界统一之前加入我们！考虑下吧！}
-{208}{}{那只不过是懦弱藉口。不能解决根本问题，如果生活环境很差，我们就应该试着改变它。否则我们对不起自己，也对不起我们的后代。 你认为这个世界会因为我们而停止战争吗？ 想想看吧！}
+{208}{}{那只不过是懦弱藉口。不能解决根本问题，如果生活环境很差，我们就应该试着改变它。否则我们对不起自己，也对不起我们的后代。你认为这个世界会因为我们而停止战争吗？想想看吧！}
 {209}{}{也许像这种有计划的屠杀可以拯救人类。如果人人都为主教的梦想工作，也许这世界将会变得更好。也许我们能找到少流血的方法。想想看吧!}
 {210}{}{很好。如果你继续这样，你就会死。我想我应该事先警告你一下。}
 {211}{}{你可以杀我。除非我死，不然我的观点最终会被证实。你选择吧。}
@@ -348,7 +347,7 @@
 {216}{}{你疯了！那样只会导致出现另外一个“启示录”的。}
 {217}{}{为什么主教是我们最好的领导人？}
 {218}{}{我不是一个哲学家，女士。我只是一个杀人狂。}
-{219}{}{因为你是聪明勇敢的人，是对我们很有帮助的人。 是的，我们做的有些事是很可怕。但是我们的出发点是好的，对于人类的生存是必需的。不要去帮助“启示录”预言派。 他们不会给你答案的！}
+{219}{}{因为你是聪明勇敢的人，是对我们很有帮助的人。是的，我们做的有些事是很可怕。但是我们的出发点是好的，对于人类的生存是必需的。不要去帮助“启示录”预言派。他们不会给你答案的！}
 {220}{}{你这个邪教徒似乎有点儿聪明了过头了。}
 {221}{}{你想要每个人都像这个房间中的那些人一样？那可是比死忘还可怕的事情！}
 {222}{}{我会考虑的。}
@@ -356,9 +355,9 @@
 {224}{}{为什么主教是我们最好的领导人？}
 {225}{}{我不是一个哲学家，女士。我只是一个杀人狂。}
 {226}{}{我们全都是游戏的一部分。我们的一些人像雄蜂一样做着愚昧无知的工作。我们的一些人是思想家。我们的一些人是凶手。只要你想要，这里就有你的位置。好好想想吧！}
-{227}{}{我们有很多计划。 首先用圣火净化这个肮脏的世界。然后主教带领我们努力征服世界，统一世界。 在统一之后我们将迎来和平。和平的时代是我们所有人的梦想。}
+{227}{}{我们有很多计划。首先用圣火净化这个肮脏的世界。然后主教带领我们努力征服世界，统一世界。在统一之后我们将迎来和平。和平的时代是我们所有人的梦想。}
 {228}{}{为什么非要死那么多人才能换来和平？}
-{229}{}{听起来令人愉快。 赞美主教！}
+{229}{}{听起来令人愉快。赞美主教！}
 {230}{}{这不是预示罪恶的火吗？}
 {231}{}{对我来说都是放屁。}
 {232}{}{我确信你有神经病。得神经病是好事啊，它能把我们从不愉快的心情中解脱出来，并阻止我们做蠢事。再见。}
@@ -381,7 +380,7 @@
 {249}{}{你正在计划杀哪些怪物和土匪？}
 {250}{}{如果我保持倾听，我就能用圣火做任何事情吗？}
 {251}{}{抱歉小姐，我不相信你说的每个字。}
-{252}{}{多神奇啊！赞美主教！ 赞美圣火！}
+{252}{}{多神奇啊！赞美主教！赞美圣火！}
 {253}{}{和平，爱还有统一，当然。我们还需要别的吗？你要为自己的将来去追寻这些。再见。}
 {254}{}{你应该在这里祷告几个星期，或者做做义务服务。}
 {255}{}{我在其他的地方留意过你们的人……}
@@ -389,7 +388,7 @@
 {257}{}{几个星期！那也太久了。}
 {258}{}{哪个长辈最好接触？}
 {259}{}{服务工作？如同为你杀敌？}
-{260}{}{我深表歉意， 你至少应该真诚地为你的罪行寻求哪怕一丝救赎。我多少能帮帮你。}
+{260}{}{我深表歉意，你至少应该真诚地为你的罪行寻求哪怕一丝救赎。我多少能帮帮你。}
 {261}{}{我对大教堂的一切都很感兴趣。}
 {262}{}{怎么才能入会？}
 {263}{}{谁是主教？}
@@ -402,10 +401,10 @@
 {270}{}{我们不应该以表面现象去判断一个人。我只知道主教的目标是高尚的。至于其他人怎么说，你去问他们。}
 {271}{}{也许。主教的理想是如此野心勃勃和光辉灿烂，我认为主教会宽恕我对他的一点点怀疑。如果我让你气馁了，我道歉。我会指引你去寻求自已的灵魂。再见。}
 {272}{}{当然是主教！为什么不是？我们做过许多事，即使有一些事我们无法为之自傲，但是我们从未欺骗过谁。教主的和平与统一的梦想才是真的。再见。}
-{273}{}{明确的告诉你“我不知道”。 再见先生。}
-{274}{}{明确的告诉你“我不知道”。 再见小姐。}
-{275}{}{欢迎你，先生。 愿主教祝福你。}
-{276}{}{欢迎你，小姐。 愿主教祝福你。}
+{273}{}{明确的告诉你“我不知道”。再见先生。}
+{274}{}{明确的告诉你“我不知道”。再见小姐。}
+{275}{}{欢迎你，先生。愿主教祝福你。}
+{276}{}{欢迎你，小姐。愿主教祝福你。}
 {277}{}{他是个聪明的人，很受主教信赖。能告诉你的就这么多了。愿主教祝福你。再见。}
 {278}{}{他教育我们是非常的严厉。还有别的吗?}
 {279}{}{墨菲斯？他是个好人吗？}
@@ -434,7 +433,7 @@
 {301}{}{我们一定要先下手为强，大教堂的战争是正义的, 而且我们正在召集比往常更多的新兵。我们有信心坚持到底。祝你好运，我的朋友。}
 {302}{}{圣火是不可阻挡的，它是那么的伟大，它赐予了我们清除这个不完整世界的机会。我们为圣火而战。我们一定要让邪恶在这世界上消失，正如武器可以用来保护自已的生命，所以我们要用战斗来保卫整个世界。再会，朋友。}
 {303}{}{圣火是不可阻挡的，它是那么的伟大，它赐予了我们清除这个不完整世界的机会。我们为圣火而战。我们一定要让邪恶在这世界上消失，正如武器可以用来保护自已的生命，所以我们要用战斗来保卫整个世界。再会，朋友。}
-{304}{}{我们为人们提供多项服务。痊愈伤者，发送食物给饥饿的人，教给年轻人知识。我们相当引以为豪。如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。 再会，朋友。}
-{305}{}{我们为人们提供多项服务。痊愈伤者，发送食物给饥饿的人，教给年轻人知识。我们相当引以为豪。如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。 再会，朋友。}
-{306}{}{如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。 再会，朋友。}
-{307}{}{如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。 再会，朋友。}
+{304}{}{我们为人们提供多项服务。痊愈伤者，发送食物给饥饿的人，教给年轻人知识。我们相当引以为豪。如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。再会，朋友。}
+{305}{}{我们为人们提供多项服务。痊愈伤者，发送食物给饥饿的人，教给年轻人知识。我们相当引以为豪。如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。再会，朋友。}
+{306}{}{如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。再会，朋友。}
+{307}{}{如果你能见到睡梦之神墨菲斯，他能够告诉你我们的收容所是如何运行的。再会，朋友。}
