@@ -1,18 +1,18 @@
 #{100}{}{You see Tandi.}
 {100}{}{你看到坦蒂。}
 #{101}{}{What else is around these parts?}
-{101}{}{这附近还有什么？}
+{101}{}{这附近还有别的什么吗？}
 #{102}{}{What's going on around here?}
-{102}{}{这儿有什么？}
+{102}{}{这附近发生了什么事？}
 #{103}{}{Have you heard any stories from down south?}
 {103}{}{你听说过南方的一些事吗？}
 #{104}{}{How do you like it here?}
-{104}{}{你喜欢那里的东西吗？}
+{104}{}{你喜欢这里吗？}
 #{105}{}{Well, that's about it. Thanks for your time.}
-{105}{}{哦，这就是南边的事啊。谢谢你。}
+{105}{}{很好，谢谢你。}
 #{106}{TAND_1}{Hi!  I heard there was a traveller in town, but I was
  #kinda skeptical until I saw you.  My name's Tandi, what's yours?}
-{106}{}{你好！我听说镇里来了个旅行者，不过在我没见到他之前还是有点不敢相信。我的名字叫坦蒂，你呢？}
+{106}{}{你好！我听说小镇里来了个旅行者，不过直到在我见到你之前我还有点不太相信。我的名字叫坦蒂，你呢？}
 #{107}{}{My name is }
 {107}{}{我的名字叫}
 #{108}{}{.}
@@ -24,38 +24,38 @@
 #{111}{}{Uhhh?}
 {111}{}{嗯？}
 #{112}{tand_2}{Well..how do you like our little town?  Bored yet?}
-{112}{tand_2}{好吧．．．你喜欢我们的小镇吗？最近无聊吗？}
+{112}{tand_2}{好的...你觉得我们的小镇怎么样？有意思吗？}
 #{113}{}{It's okay. Can I ask you a few questions, though?}
 {113}{}{那好吧。我还可以问你一些问题吗？}
 #{114}{}{Hell, yes. There's nothing to do here but watch the Brahma mate.}
-{114}{}{好，是的。这儿除了看双头牛交配以外就什么也没有了。}
+{114}{}{该死，是的。这儿除了看双头牛交配以外就没什么好做的了。}
 #{115}{}{I guess it's okay.}
 {115}{}{我猜它是对的。}
 #{116}{}{Well, yes. It is a bit boring.}
-{116}{}{嗯，是的。它有点让人讨厌。}
+{116}{}{嗯，是的。就是有一点无聊。}
 #{117}{TAND_3}{ Sure, I guess.  I've never been out of here, so I don't know
  #what help I can be.  So, what'cha need?}
 {117}{TAND_3}{好啊，我想想。我从没有离开过这里，所以我不知道有什么可以帮忙的。那么，需要我做什么呢？}
 #{118}{TAND_4}{Yeah.  Well you don't
  #live here.  There's nothing interesting to do, and believe you me, Brahma
  #Tipping gets old real fast.}
-{118}{TAND_4}{耶。你不在这儿生活。相信我，这里没什么好玩的，双头牛老的很快。}
+{118}{TAND_4}{是啊。幸好你不在这儿生活。相信我，这里没什么好玩的，双头牛老的很快。}
 #{119}{}{If you're so bored, why don't you leave?}
 {119}{}{如果你很无聊，为什么不离开呢？}
 #{120}{}{Well, I'm sure you're exaggerating.}
 {120}{}{我确定你在吹牛。}
 #{121}{}{It seems nice and safe here.}
-{121}{}{看起来它在这里很安全。}
+{121}{}{看起来这里很不错很安全。}
 # {122}{TAND_5}{Me, leave?  I wish.  I don't know
 # enough to leave alone and no one else wants to go, and worst of all, my father
 # says he would have a heart attack if something happened to me! }
-{122}{TAND_5}{我，离开？我很想。可我不知道怎样一个人离开，并且没有其他人要离开。最糟糕的是，我爸爸说如果我出了什么事他会很伤心的！}
+{122}{TAND_5}{我，离开？我很想离开。可我不知道怎样一个人离开，而且连个伴都没有。最糟糕的是，我爸爸说如果我出了什么事他会很伤心的！}
 #{123}{}{Tough situation. Can I ask you a few questions, though?}
 {123}{}{我还可以问你一些问题吗？}
 #{124}{}{Shoot, I have to go. Good luck.}
-{124}{}{等等，我要走了。祝你好运。}
+{124}{}{我要走了。祝你好运。}
 #{125}{TAND_6}{Uh...I have to stand over here now. }
-{125}{TAND_6}{嗯．．．我现在要呆在这里。}
+{125}{TAND_6}{嗯．．．我现在不得不呆在这里。}
 #{126}{TAND_12}{You live here all your life and see how you like it!  Anything
 # else you want to know?}
 {126}{TAND_12}{你在这里生活了一辈子，看看你都喜欢些什么！还有什么你想要知道的？}
@@ -81,27 +81,27 @@
  # Then there's some weird place below that called the City of Death.  Oh, oh
  # yeah there's this other place...Oh, shoot, what was that?  Oh, yeah, the
  # Hub.}
-{134}{TAND_15}{迦克镇在南方，但我不知道有多远。然后下面是些奇怪的地方叫晒骨场。哦，哦，这里是另一个地方．．．哦，等等，那是什么？哦，是了，是哈勃城。}
+{134}{TAND_15}{迦克镇在南方，但我不知道有多远。然后下面这些奇怪的地方叫晒骨场。哦，哦，这里是另一个地方．．．哦，等等，那是什么？哦，对了，是哈勃城。}
 # {135}{tand_15a}{There's a bunch of cities down south.  But since you're such a
  # great traveler, I'm sure you know that already.}
-{135}{tand_15a}{南方有好几个城市。你已经是一个好旅行者的话，我相信你早就知道了。}
+{135}{tand_15a}{南方有好几个城市。凭你这么一个出色的旅行者，我相信你早就知道了。}
 # {136}{}{Thanks.}
 {136}{}{谢谢。}
 # {137}{TAND_16}{No problem. Anything else?}
-{137}{TAND_16}{没有问题。还有什么？}
+{137}{TAND_16}{没问题。还有别的吗？}
 # {300}{tand_16a}{Yeah, whatever.}
-{300}{tand_16a}{是的，无论如何。}
+{300}{tand_16a}{是的，无论什么。}
 # {138}{TAND_20}{We got Rad
  # Scorpions!  I mean, I know it's not a good thing, but no one's died from the
  # stings.  And it's the closest thing to excitement we've got here!}
-{138}{TAND_20}{我们得到了大蝎子！我想，它不是个好东西，但是没有人会被它蛰死了。这正是是吸引我们到这里来的事情！}
+{138}{TAND_20}{我们在抓大蝎子！我知道它不是什么好东西，但是没有人因为它们而死亡。抓他们很刺激，这正是吸引我们到这里来的原因！}
 # {139}{TAND_21}{Nothing much, since you whomped those Rad Scorpions. Gee, I
  # wish I could have seen that.}
-{139}{TAND_21}{自从你杀光了那些大蝎子后就不多了。快，我想我看到了。}
+{139}{TAND_21}{非常少，自从你击溃了那些大蝎子后就不多了。前进！我希望看看你是如何收拾那些辐射蝎的。}
 # {140}{TAND_22}{Same as always.  Bo-ring.}
-{140}{TAND_22}{像以前一样。令人讨厌。}
+{140}{TAND_22}{跟往常一样。无——聊。}
 # {142}{tand_23b}{Just stuff.}
-{142}{tand_23b}{恰好没有。}
+{142}{tand_23b}{废话。}
 # {141}{tand_23g}{The weirdest story I've heard is about the Death Claw.}
 {141}{tand_23g}{我听到的最精彩的故事是关于死亡爪的。}
 # {143}{}{Thanks.}
@@ -110,19 +110,19 @@
 {144}{}{死亡爪？}
 # {145}{TAND_24}{It's okay, I guess.  I mean, it is home and all, but it's so
  # boring!  You know, I want to see the world.}
-{145}{TAND_24}{我想，那好吧。我的意思是，它是家，是所有一切，但令人讨厌！你知道，我想到外面的世界闯荡。}
+{145}{TAND_24}{我想，那好吧。我的意思是，它是家，是所有一切，但太无聊啦！我想到外面的世界闯荡。}
 # {146}{}{If you're so bored, why don't you leave?}
 {146}{}{如果你很无聊，为什么不离开呢？}
 # {147}{}{Well, I'm sure it's not that bad.}
 {147}{}{好的，我确定它不是想象中的那么遭。}
 # {148}{}{It seems nice and safe here.}
-{148}{}{看起来它在这里很安全。}
+{148}{}{这里看起来很安全很不错。}
 # {150}{tand_27f}{Listen...uh...but I...uh...I-I like guys, okay?  Whew!  Uh,
  # excuse me, I got stuff to do.}
 {150}{tand_27f}{听着．．．唔．．．但我．．．唔．．．我．．我喜欢大家，吆！唔，原谅我，我太忙了。}
 # {149}{tand_27m}{I'm not that kind of girl,
  # mister. Go find a Brahma or something.}
-{149}{tand_27m}{我不是那种女孩，先生。去找个双头牛或者其他东西。}
+{149}{tand_27m}{我不是那种女孩，先生。去找个双头牛或者其他什么东西吧。}
 # {151}{TAND_28}{Well, thanks for talking.
  # We don't get many strangers here, so it's always good to talk to new people.
  # Well, see ya! }
@@ -131,7 +131,7 @@
 {152}{}{再见。}
 # {153}{TAND_29}{Uh, listen.  I have to go take care of the
  # Brahmas.  It was, uh, nice talking to ya. }
-{153}{TAND_29}{唔，听着。我需要照料双头牛。它就是，唔，年轻人很好的谈伴。}
+{153}{TAND_29}{唔，听着。我要去照顾那些双头牛。唔，很高兴和你谈话。}
 # {154}{tand_30a}{Hello again!  What
  # can I help you with now?}
 {154}{tand_30a}{再次欢迎！有什么能帮你的吗？}
