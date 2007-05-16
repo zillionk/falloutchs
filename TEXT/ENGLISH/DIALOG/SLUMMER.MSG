@@ -5,13 +5,13 @@
 {101}{}{你犯下了许多罪孽。我将会为你祈祷，赎还你犯的罪孽。}
 
 #{102}{}{Hail the Master! Hail the Holy Flame! Hail Peace and Unity! }
-{102}{}{向主宰致敬！向圣火致敬！向和平统一致敬！}
+{102}{}{向主教致敬！向圣火致敬！向和平统一致敬！}
 
 #{103}{}{Hello my child. Why do you hold a weapon? Perhaps you need instruction in the ways of peace? }
 {103}{}{你好，我的孩子。你为什么拿着武器？也许你需要接受些关于和平的启示？}
 
 #{104}{}{Praise to the Master, that at long last I have found a place where I can put down my arms and embrace peace! }
-{104}{}{赞美主宰，我终于来到了一个我能放下武器，拥抱和平的地方！}
+{104}{}{赞美主教，我终于来到了一个我能放下武器，拥抱和平的地方！}
 
 #{105}{}{Sounds good. Who would instruct me? }
 {105}{}{听起来不错。谁会给我启示呢？}
@@ -131,7 +131,7 @@
 {143}{}{我会加入的。我该去找谁办理呢？}
 
 #{144}{}{I came here for instruction. Can I see the Master? }
-{144}{}{我来寻求指点。我能见主宰吗？}
+{144}{}{我来寻求指点。我能见主教吗？}
 
 #{145}{}{Friends? How friendly do you want to get.. }
 {145}{}{朋友？你想要我们之间多友好？}
@@ -164,7 +164,7 @@
 {154}{}{这附近有什么圣酒吗？}
 
 #{155}{}{Help? Uh.. no. }
-{155}{}{帮助？嗯……算了吧。}
+{155}{}{帮助？嗯．．．算了吧。}
 
 #{156}{}{Forgive me stranger, but I have many duties. Please excuse me. }
 {156}{}{请原谅我，陌生人，但我有我的事情要做。请原谅。}
@@ -206,7 +206,7 @@
 {169}{}{我们没有吗？他妈的！}
 
 #{170}{}{I'm...ah...Oh well, nothing that can't be solved with a bullet. DIE! }
-{170}{}{我是……啊……噢对了，没有子弹解决不了的事。死吧！}
+{170}{}{我是．．．啊．．．噢对了，没有子弹解决不了的事。死吧！}
 
 #{171}{}{My apologies. Praise the Master, and have a nice day. }
 {171}{}{抱歉。赞美主教！日安。}
@@ -233,7 +233,7 @@
 {178}{}{我只是开玩笑。常年在废土上生活的人都有种奇怪的幽默感，你知道的。最近有什么事发生了吗？}
 
 #{179}{}{We'll see about that.. }
-{179}{}{我们会看着的……}
+{179}{}{我们会看着的．．．}
 
 #{180}{}{Nobody prays for my soul. But somebody better start praying for you, because I'm killing you right now! }
 {180}{}{没有人为我的灵魂祈祷。但最好现在有人开始为你祈祷，因为我马上就要杀死你！}
@@ -242,7 +242,7 @@
 {181}{}{你来到这里是错的，朋友。这里并不是展示力量的场所，这里是展示和平的场所。}
 
 #{182}{}{I hear that our Crusade goes well. Soon we shall bring Peace and Unity to the Boneyard, and all the surrounding communities  Isn't it great? }
-{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和统一带至枯骨之地以及周围的城市。多么伟大的行动啊！}
+{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和统一带至晒骨场以及周围的城市。多么伟大的行动啊！}
 
 #{183}{}{Who's next on the list to receive Peace and Unity? }
 {183}{}{下一个获得和平统一的地方是哪里呢？}
@@ -257,13 +257,13 @@
 {186}{}{是的。死亡多么伟大啊。}
 
 #{187}{}{The person that you seek is Father Morpheus. He can be found in the tower. Is that all? }
-{187}{}{你该找的人是墨菲思神父。他在塔里。够了吗？}
+{187}{}{你该找的人是墨菲斯神父。他在塔里。够了吗？}
 
 #{188}{}{Is there anything I should know before I meet him? }
 {188}{}{在我见他之前我是不是还该知道些别的事情？}
 
 #{189}{}{We'll see about that.. }
-{189}{}{我们会看着的……}
+{189}{}{我们会看着的．．．}
 
 #{190}{}{Thanks! Fresh meat at last! }
 {190}{}{谢谢！终于有新鲜的肉了！}
@@ -287,7 +287,7 @@
 {196}{}{这附近有什么圣酒吗？}
 
 #{197}{}{I was wondering what you'd look like if some maniac spilt your brains all over this nice Cathedral floor. Let's find out! }
-{197}{}{我看你脑子里是不是生了蛆拉？多到可以爬满这个教堂的地板。让我们看看吧！}
+{197}{}{我看你脑子里是不是生了蛆了？多到可以爬满这个教堂的地板。让我们看看吧！}
 
 #{198}{}{You have a very good sense of humor, my child. Just don't tell jokes to Brother Lasher. }
 {198}{}{你的幽默感很不错，我的孩子。不过千万不要和拉舍尔兄弟说笑话。}
@@ -338,7 +338,7 @@
 {213}{}{我同意。我更喜欢把我自己制造的灾难和痛苦加在你这种人身上。}
 
 #{214}{}{Our enemies slander us! People are so easily frightened, especially when someone tells them what to do! But since I follow the Master and the Holy Flame, I don't have to be afraid any more. The Master told me not to be afraid! }
-{214}{}{我们的敌人诽谤我们！大家都轻易地被吓倒了，尤其是当某些人告诉他们该做什么的时候！但是自从我跟随主教和圣火以来，我再也不必害怕了。主宰告诉我不必害怕的！}
+{214}{}{我们的敌人诽谤我们！大家都轻易地被吓倒了，尤其是当某些人告诉他们该做什么的时候！但是自从我跟随主教和圣火以来，我再也不必害怕了。主教告诉我不必害怕的！}
 
 #{215}{}{And how do we achieve this perfect Utopia? }
 {215}{}{我们将如何到达这一个乌托邦呢？}
@@ -347,7 +347,7 @@
 {216}{}{主教是好样的！你能告诉我在哪里能找到他吗？}
 
 #{217}{}{But there are rumors about mutant armies... }
-{217}{}{但有一些关于变种人军队的传闻……}
+{217}{}{但有一些关于变种人军队的传闻．．．}
 
 #{218}{}{Anyone ever tell you that you're a zombie? }
 {218}{}{有人告诉过你你是个僵尸吗？}
@@ -371,7 +371,7 @@
 {224}{}{有人告诉过你你是个僵尸吗？}
 
 #{225}{}{Let's praise him over a few bottles of holy wine. Praising goes a lot better when the spirit moves you.. }
-{225}{}{让我们喝点圣酒再来继续赞美他吧。当你喝醉了赞美他的感觉就更好了……}
+{225}{}{让我们喝点圣酒再来继续赞美他吧。当你喝醉了赞美他的感觉就更好了．．．}
 
 #{226}{}{You know, the one that's in your hand? }
 {226}{}{你知道，在你手里的那个？}
@@ -383,13 +383,13 @@
 {228}{}{嗯，它上膛了吗？}
 
 #{229}{}{I don't know much. The mind of the Master is so great.. I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, so we can have pe#ace and unity, and there will never be war or destruction again! }
-{229}{}{我不知道的太多了。主教的灵魂是如此伟大……但我确实知道圣童在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与同一，从此之后将不会再有战争或是毁灭了！}
+{229}{}{我不知道的太多了。主教的灵魂是如此伟大．．．但我确实知道圣童在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与同一，从此之后将不会再有战争或是毁灭了！}
 
 #{230}{}{And where is the baptismal font? }
 {230}{}{那么洗礼用的圣盘在哪里？}
 
 #{231}{}{That sounds like he's going to dump everybody in the FEV-2 Virus! }
-{231}{}{听起来似乎是说他要把所有人都扔进ＦＥＶ二代的大病毒罐子里！}
+{231}{}{听起来似乎是说他要把所有人都扔进ＦＥＶ二代的大病毒槽里！}
 
 #{232}{}{What a wonderful day that's going to be! }
 {232}{}{那真是超级棒的一天！}
@@ -398,7 +398,7 @@
 {233}{}{很好，我已经听到了所有我需要知道的事情。}
 
 #{234}{}{Then I better get in some destruction while I still have a chance. Die skag! }
-{234}{}{那么我最好在我还有机会的时候多做些毁灭。去死吧，废柴！}
+{234}{}{那么我最好在我还有机会的时候多做些毁灭。去死吧，废物！}
 
 #{235}{}{Praise the Master! Peace be with you! Enjoy your stay at the Cathedral. }
 {235}{}{赞美主教！和平与你同在！祝你在教堂过得快乐。}
@@ -419,7 +419,7 @@
 {240}{}{听起来不错。我要加入，该见谁呢？}
 
 #{241}{}{Peace? Sanctuary? You're making me ill, zombie-boy! }
-{241}{}{和平？圣地？少来装蛋，你这小逼僵尸！}
+{241}{}{和平？圣地？少来装疯，你这傻瓜僵尸！}
 
 #{242}{}{I'm glad to hear you express an interest in peace. Talk with Father Morpheus and Brother Lasher. They can instruct you further. }
 {242}{}{很高兴你表达出了对于和平的兴趣。去和墨菲斯神父还有拉舍尔兄弟谈谈，他们将给你进一步的启示。}
@@ -452,7 +452,7 @@
 {251}{}{我大概感觉你的灵魂和他妈的变种老鼠的屁股一个样，但是你继续这样下去我就该收拾你了。醒醒把，神棍！}
 
 #{252}{}{Well... Uh.. Peace be with you.. I think... Farewell.. }
-{252}{}{嗯……啊……愿和平与你同在。我想……再见。}
+{252}{}{嗯．．．啊．．．愿和平与你同在。我想．．．再见。}
 
 #{253}{}{Look around you? Do you not hear the messages? How can you doubt the Master's sincerity? }
 {253}{}{看看你的周围。你没有听到那些讯息吗？你怎敢怀疑主教的真实？}
@@ -521,7 +521,7 @@
 {274}{}{隐形人！隐形人！杀呀！}
 
 #{275}{}{This has been a wonderful talk, but I am falling behind in my praises. Farewell. Praise the Master! Praise the Holy Flame! Let us sing the sacred songs.. }
-{275}{}{这次谈话非常有意义，但我的赞美已经落后于进度了。再见。赞美主教！赞美圣火！让我们来唱一些圣歌吧……}
+{275}{}{这次谈话非常有意义，但我的赞美已经落后于进度了。再见。赞美主教！赞美圣火！让我们来唱一些圣歌吧．．．}
 
 #{276}{}{If you do not like it here, you can leave. Praise the Master, and have a nice day. }
 {276}{}{如果你不喜欢这里，你尽可以离开。赞美主教，并祝你日安。}
@@ -542,13 +542,13 @@
 {281}{}{你听说过关于核操作员和旅行推销员的事情吗？}
 
 #{282}{}{Are you sure I can't show you what I do for laughs.. }
-{282}{}{我不会拿你开玩笑的…}
+{282}{}{我不会拿你开玩笑的．．}
 
 #{283}{}{Not that I can think of. Farewell, friend. }
 {283}{}{我不关心那个。再见，我的朋友。}
 
 #{284}{}{I do not believe that I can help you, my friend. Farewell, and have a nice day. Praise the Master! Praise the Holy Flame.. }
-{284}{}{我不认为我能帮助你，我的朋友。再见，祝你日安。赞美主教！赞美圣火……}
+{284}{}{我不认为我能帮助你，我的朋友。再见，祝你日安。赞美主教！赞美圣火．．．}
 
 #{285}{}{I can't help you with that, I'm afraid. Well, I must meditate on the glories of the Master. Please excuse me. Hail the Master! Praise the Holy Flame! }
 {285}{}{恐怕我不能帮助你。嗯，我现在必须冥想关于主教的光辉业绩了。请原谅。向主教致敬！赞美圣火！}
@@ -632,13 +632,13 @@
 {311}{}{一边喝点圣酒一边赞美他如何？我需要喝酒！}
 
 #{312}{}{I see it now. I'll follow the Master's example! I know what's best for you, therefore, I must kill you now! Makes perfect sense.. }
-{312}{}{我现在明白了，我要跟随主教，以他为榜样！因此我知道怎么做才能对的起你，我必须杀了你！多么有意义啊……}
+{312}{}{我现在明白了，我要跟随主教，以他为榜样！因此我知道怎么做才能对的起你，我必须杀了你！多么有意义啊．．．}
 
 #{313}{}{Open your heart. Open your mind. Listen to what people are saying, and you will find enlightenment. }
 {313}{}{打开你的心灵。敞开你的灵魂。听听所有的人在说些什么，你会找到欢乐的。}
 
 #{314}{}{Perhaps there's someone who can explain things more directly. Is the Master available.. }
-{314}{}{也许会有人可以更清楚的表达这一切。也许主教行……}
+{314}{}{也许会有人可以更清楚的表达这一切。也许主教可以．．．}
 
 #{315}{}{What I'm seeing are a bunch of zombies! }
 {315}{}{我看到的只有一大堆的僵尸！}
@@ -686,7 +686,7 @@
 {329}{}{那么洗礼用的圣盘在哪里？}
 
 #{330}{}{That sounds like he's going to dump everybody in the FEV-2 Virus! }
-{330}{}{那听起来似乎是说他要把所有人都扔进ＦＥＶ－２的大病毒罐里！}
+{330}{}{那听起来似乎是说他要把所有人都扔进ＦＥＶ－２的大病毒槽里！}
 
 #{331}{}{What a wonderful day that's going to be! }
 {331}{}{那真是超级棒的一天！}
@@ -695,7 +695,7 @@
 {332}{}{很好，我已经听到了所有我需要知道的事情。}
 
 #{333}{}{Then I better get in some destruction while I still have a chance. Die asshole! }
-{333}{}{那么我最好在我还有机会的时候多做些毁灭。去死吧， 屁眼儿！}
+{333}{}{那么我最好在我还有机会的时候多做些毁灭。去死吧，蠢货！}
 
 #{334}{}{Once people understand the Master and what he stands for, everyone will want to be baptized. The only people who would not wish to be baptized are the insane, and they should be put out of their misery for their own safety, poor wretched things. #}
 {334}{}{当人们理解了主教所从事的事业时，所有人都会想要得到洗礼的。那些不愿意得到洗礼的人是疯狂的，为了他们自己的安全，他们必须终结自己悲惨的命运，可怜的人啊。}
@@ -731,7 +731,7 @@
 {344}{}{我认为我最好还是在周围多转转。}
 
 #{345}{}{Yeah. I've got a great idea! Let's break out the holy wine and drink a toast to the master's wisdom! }
-{345}{}{没错。我有一个很好的主意！让我们打开圣酒，为主宰的睿智而痛饮一番吧！}
+{345}{}{没错。我有一个很好的主意！让我们打开圣酒，为主教的睿智而痛饮一番吧！}
 
 #{346}{}{All the wisdom in the world won't help against a .56 caliber slug between the eyes. }
 {346}{}{在这世界上，任何圣贤都敌不过一颗能射进两眼中间的．５６口径子弹！}
