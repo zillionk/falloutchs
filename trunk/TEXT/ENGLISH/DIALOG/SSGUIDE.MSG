@@ -22,7 +22,7 @@
 #{107}{}{Normally, I would agree with you.  It is very dangerous to travel
 # unarmed.  But this is Shady Sands, and we are a peaceful people.  There is
 # no need for weapons here.}
-{107}{}{通常来说，我认为你说的是对的。不带上武器在外面的世界游荡的确很危险。但这里是荒漠小镇，我们都是爱好和平的人民。在这里不需要带武器。}
+{107}{}{通常来说，我认为你说的是对的。不带上武器在外面的世界游荡的确很危险。但这里是沙荫镇，我们都是爱好和平的人民。在这里不需要带武器。}
 
 #{108}{}{Ok.  Thanks.}
 {108}{}{好的。谢谢。}
@@ -38,7 +38,7 @@
 #{111}{}{Welcome to Shady Sands, traveler.  My name is Katrina.  My job is to
 # greet strangers and help them understand our village.  We find that
 # there are fewer problems if you listen to what I have to say.}
-{111}{}{旅行者，欢迎来到荒漠小镇。我的名字是卡特里娜。我的工作是接待外来人，让他们理解我们村庄的制度。如果你仔细听我说的话，你一定不会遇到太多麻烦。}
+{111}{}{旅行者，欢迎来到沙荫镇。我的名字是卡特里娜。我的工作是接待外来人，让他们理解我们村庄的制度。如果你仔细听我说的话，你一定不会遇到太多麻烦。}
 
 #{112}{}{Wubba!}
 {112}{}{呜叭叭！}
@@ -47,10 +47,10 @@
 {113}{}{告诉我关于你的事情。}
 
 #{114}{}{Please help me...}
-{114}{}{请帮助我……}
+{114}{}{请帮助我．．．}
 
 #{115}{}{I'm looking for a water-chip.  Seen one?}
-{115}{}{我在找一个净水晶片。你看到过吗？}
+{115}{}{我在找一个净水芯片。你看到过吗？}
 
 #{116}{}{I need help finding Tandi.}
 {116}{}{我想找坦蒂，我需要帮助。}
@@ -66,7 +66,7 @@
 {119}{}{很遗憾你不想听我的解释。这样我们会很难理解彼此的想法。我希望你的避难所中的其他人不是像你这样。}
 
 #{120}{}{Wubba-val?}
-{120}{}{呜叭叭－避？}
+{120}{}{呜叭叭－避难所？}
 
 #{121}{}{Yes, I can tell you are from a Vault.  You have that look about you.
 # I came from Vault-15, to the east.  But I had to leave my home and now
@@ -118,7 +118,7 @@
 # you are attacked, your foes might provide equipment, if you live long
 # enough to loot them.  We are a peaceful community, so we mostly barter
 # or trade for the items we cannot produce.}
-{133}{}{你必须做和我们一样的事情。你需要某种东西，你幺麽抢夺，幺麽交易。假如你很能打，你可能会从你的敌人身上得到一些装备，前提是如果你能干掉他们的话。我们这里是一个和平的社区，所以对于那些我们自己无法生产的东西都是靠交易得来的。}
+{133}{}{你必须做和我们一样的事情。你需要某种东西，你要么抢夺，要么交易。假如你很能打，你可能会从你的敌人身上得到一些装备，前提是如果你能干掉他们的话。我们这里是一个和平的社区，所以对于那些我们自己无法生产的东西都是靠交易得来的。}
 
 #{134}{}{Tell me more about bartering.}
 {134}{}{告诉我关于交易的事。}
@@ -127,7 +127,7 @@
 # world.  We just want to be left alone.  Besides some mutated animals
 # and other creatures of the desert, only the Raiders give us trouble.
 # Aradesh is our leader.  He is in the large central house, speak to him.}
-{135}{}{你脚下的土地是荒漠小镇。我们仅仅是这广大世界中的一个小镇。我们不想引起别人的注意，除了一些变种的动物和其他沙漠上的生物以外，只有强盗给我们带来麻烦。亚拉德什是我们的镇长。他在城镇中间的大房子里，你可以和他谈。}
+{135}{}{你脚下的土地是沙荫镇。我们仅仅是这广大世界中的一个小镇。我们不想引起别人的注意，除了一些变种的动物和其他沙漠上的生物以外，只有强盗给我们带来麻烦。亚拉德什是我们的镇长。他在城镇中间的大房子里，你可以和他谈。}
 
 #{136}{}{I know very little of the outside world.  I escaped from a Vault when
 # it was attacked.  Unfortunately, I was very hurt and do not remember
@@ -136,7 +136,7 @@
 # spoken with Ian, yet?  He is a merchant guard who was hurt.  He is
 # recovering in the guardhouse over there. [She points to the east]
 # He is more widely travelled than I.}
-{136}{}{我对于外面的世界知道得相当少。我是在我的避难所被攻击时逃出来的。很不幸，我那时受了伤，所以不太记得究竟发生了什么。不过我活了下来，我被荒漠小镇的人们救了。我现在住在这里。你和伊恩谈过吗？他是一个受了伤的商队守卫。他现在那边的警卫室疗伤。【她指向东边】他是个见多识广的人。}
+{136}{}{我对于外面的世界知道得相当少。我是在我的避难所被攻击时逃出来的。很不幸，我那时受了伤，所以不太记得究竟发生了什么。不过我活了下来，我被沙荫镇的人们救了。我现在住在这里。你和伊恩谈过吗？他是一个受了伤的商队守卫。他现在那边的警卫室疗伤。【她指向东边】他是个见多识广的人。}
 
 #{137}{}{My life was very boring.  I was raised in a Vault.  I lived there for
 # many years.  Unfortunately, we were crowded and life was very bad.
@@ -144,7 +144,7 @@
 # equipment.  Still, some of us tried to stay in the Vault.  But then we
 # were attacked.  I was hurt, and I ended up here.  Now I try
 # to help people . . .}
-{137}{}{我的生活相当乏味。我成长在一座避难所中，并且在那里生活了许多年。不幸的是，我们的人口发生了爆炸，生存条件越来越差。于是人们发生了分裂，一部分人带走了最好的设备。我和部分人仍然试图留在避难所，但随后我们遭到了攻击。我受伤了，后来被这里的人所救。现在我也尝试着帮助别人……}
+{137}{}{我的生活相当乏味。我成长在一座避难所中，并且在那里生活了许多年。不幸的是，我们的人口发生了爆炸，生存条件越来越差。于是人们发生了分裂，一部分人带走了最好的设备。我和部分人仍然试图留在避难所，但随后我们遭到了攻击。我受伤了，后来被这里的人所救。现在我也尝试着帮助别人．．．}
 
 #{138}{}{Where was this Vault of yours?}
 {138}{}{你的这一个避难所在哪里呢？}
@@ -157,7 +157,7 @@
 # And if you don't have enough items to trade, there are always caps.
 # Bottle caps are the only common money found out here. The caps are backed
 # by the merchants of the Hub, so you can trade them anywhere.}
-{139}{}{交易就是交换物品。你给我一些物品，我也给你一些物品作为交换。当你开始交易的时候，我会让你选择你要的东西。但交易必须是在我得到我想要的东西的时候才能成功，因此你也得把你手中更有价值但你并不需要的东西给我，以换取价值相对较低的东西。如果你的物品不够，我们还有瓶盖。瓶盖是这里的唯一通用货币。哈伯商人一直在大力推广瓶盖货币，所以你可以在任何地方用它进行交易。}
+{139}{}{交易就是交换物品。你给我一些物品，我也给你一些物品作为交换。当你开始交易的时候，我会让你选择你要的东西。但交易必须是在我得到我想要的东西的时候才能成功，因此你也得把你手中更有价值但你并不需要的东西给我，以换取价值相对较低的东西。如果你的物品不够，我们还有瓶盖。瓶盖是这里的唯一通用货币。哈勃商人一直在大力推广瓶盖货币，所以你可以在任何地方用它进行交易。}
 
 #{140}{}{It was Vault-15.  It is due east of here.  We tried to make contact
 # with some other Vaults, but we always failed.  I think it was the
@@ -168,7 +168,7 @@
 # was one of the raider groups who took her.  Find out as much information
 # about them as you can and equip yourself before you go after them. But don't
 # be so quick to fight, even they will sometimes listen to reason...}
-{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙强盗把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理……}
+{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙强盗把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理．．．}
 
 #{142}{}{Seth has been trying to follow the radscorpions.  He claims that he
 # even knows the way to their lair, but I think he is a little scared
@@ -205,7 +205,7 @@
 # help of a healer.  Our doctor, Razlo, lives in southern most house.  If you
 # are seriously hurt, see him.  Try not to bother him at night.  He's a pretty
 # cranky person without his sleep.}
-{149}{}{像荒漠小镇这样的小地方，没有医生是无法生存的。我们的医生拉斯洛住在最南边的房子里。如果你受了重伤，就去找他吧，不过最好不要在晚上打扰他，他如果睡不好觉，脾气是很暴躁的。}
+{149}{}{像沙荫镇这样的小地方，没有医生是无法生存的。我们的医生罗兹住在最南边的房子里。如果你受了重伤，就去找他吧，不过最好不要在晚上打扰他，他如果睡不好觉，脾气是很暴躁的。}
 
 #{150}{}{You gain 250 experience points for the knowledge you have gained from
 # Katrina.}
