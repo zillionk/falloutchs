@@ -1,43 +1,41 @@
+#{100}{}{You see an inhabitant of Adytown.}
 {100}{}{你看见一个内城区的居民。}
-{101}{}{天看起来要下雨了……看起来总是如此。}
+#{101}{}{Looks like rain . . . as always.}
+{101}{}{天看起来要下雨了．．．看起来总是如此。}
+#{102}{}{Sorry, have to go. Got work to do.}
 {102}{}{不好意思，要走了。有活要干。}
+#{103}{}{We don't get many outsiders here.}
 {103}{}{我们这里不常有外来的。}
+#{104}{}{Gotta get back to work.}
 {104}{}{要回去干活了。}
+#{105}{}{I'd get back to the hub, if I were you.}
 {105}{}{如果我是你，我会回哈勃城。}
-{106}{}{你好，天气不错……如果你这么认为的话。}
-{107}{}{嗯……随便。}
+#{106}{}{Good day . . . if that is what you can call it.}
+{106}{}{你好，天气不错．．．如果你这么认为的话。}
+#{107}{}{Yeah . . . whatever.}
+{107}{}{嗯．．．随便。}
+#{108}{}{No time to talk.}
 {108}{}{没空聊。}
+#{109}{}{Can't talk right now.}
 {109}{}{现在不能聊。}
+#{110}{}{Hope the rain ain't 闪光之地in' like yesterday.}
 {110}{}{希望雨别像昨天一样发亮。}
+#{111}{}{Looks like we're going to be short food again.}
 {111}{}{看来我们的食物又要短缺了。}
-{112}{}{我希望大篷车队早点再经过这里。}
+#{112}{}{I hope the caravans pass by again soon.}
+{112}{}{我希望商队早点再经过这里。}
+#{113}{}{We have a chance to make it now.}
 {113}{}{我们有机会现在做一把。}
+#{114}{}{Adytum will be the town we want it to be.}
 {114}{}{我们将让内城区成为我们想要的城镇。}
+#{115}{}{Thank you for your help.}
 {115}{}{谢谢你的帮助。}
+#{116}{}{Thank you for getting rid of the 管理者s.}
 {116}{}{感谢您帮我们摆脱了管理者的控制。}
+#{117}{}{Thank you for our freedom.}
 {117}{}{感谢您为我们带来了自由。}
+#{118}{}{It is good that the 管理者s are gone.}
 {118}{}{现在管理者不在真好。}
+#{119}{}{Welcome to the New Adytum.}
 {119}{}{欢迎来到新内城区。}
 
-
-
-#{100}{}{You see an inhabitant of Adytown.}
-#{101}{}{Looks like rain . . . as always.}
-#{102}{}{Sorry, have to go. Got work to do.}
-#{103}{}{We don't get many outsiders here.}
-#{104}{}{Gotta get back to work.}
-#{105}{}{I'd get back to the hub, if I were you.}
-#{106}{}{Good day . . . if that is what you can call it.}
-#{107}{}{Yeah . . . whatever.}
-#{108}{}{No time to talk.}
-#{109}{}{Can't talk right now.}
-#{110}{}{Hope the rain ain't 闪光之地in' like yesterday.}
-#{111}{}{Looks like we're going to be short food again.}
-#{112}{}{I hope the caravans pass by again soon.}
-#{113}{}{We have a chance to make it now.}
-#{114}{}{Adytum will be the town we want it to be.}
-#{115}{}{Thank you for your help.}
-#{116}{}{Thank you for getting rid of the 管理者s.}
-#{117}{}{Thank you for our freedom.}
-#{118}{}{It is good that the 管理者s are gone.}
-#{119}{}{Welcome to the New Adytum.}
