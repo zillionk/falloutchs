@@ -1,7 +1,6 @@
 #{100}{}{You see Sammy.}
 {100}{}{你看萨米。}
-#{101}{}{caves.map}
-{101}{}{山洞地图}
+{101}{}{caves.map}
 #{102}{}{Speak to the Elder.  He has something important to tell you first.}
 {102}{}{与元老谈话。他有些重要的事要先告诉你。}
 #{103}{}{Follow me.  I know the way to the lair.}
@@ -15,8 +14,7 @@
 {106}{}{是的}
 #{107}{}{No}
 {107}{}{还没}
-#{108}{}{caves.map}
-{108}{}{山洞地图}
+{108}{}{caves.map}
 #{109}{}{Boy, I wish you had the guts to help us out.}
 {109}{}{小伙子，我希望你有帮我们解决难题的勇气。}
 #{110}{}{Follow me. I know the way to the lair.}
