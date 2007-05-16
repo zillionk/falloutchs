@@ -154,7 +154,7 @@
 #{151}{}{Alas, your injuries may be beyond my ability to cure. It is said that the Holy Flame can guide those who are cursed with idiocy and lead them to redemption; I shall pray for you.}
 {151}{}{°¦£¬ÒÔÎÒµÄÖÎÁÆÄÜÁ¦»òĞíÒÑ¾­ÎŞ·¨ÖÎºÃÄãµÄÉËÊÆÁË¡£¾İËµÊ¥ÑæÄÜ¹»Ö¸ÒıÄÇĞ©±»×çÖäµÄ°×³ÕÃÇÒÔ¾ÈÊêÖ®µÀ£»ÎÒ»áÎªÄãÆíµ»µÄ¡£}
  
-#{152}{}{You are injured. Save the casual conversation for later… Please let me heal you…}
+#{152}{}{You are injured. Save the casual conversation for later?Please let me heal you…}
 {152}{}{ÄãÊÜÉËÁË¡£ÏĞÑÔËéÓïÒÔºóÔÙËµ£¿ÈÃÎÒ¸øÄãÖÎÁÆ°É¡£}
 
 #{153}{}{Not much for bedside manner, are you Doc?}
@@ -200,7 +200,7 @@
 {166}{}{¡¾Ğ¦¡¿Ôã¸âµÄÈËÃÇ¡£ÎÒ·Ç³£Í¬Çé¡£¡¾Ğ¦ÈİÏûÊ§¡¿Èç¹ûÄã¸Ä±äĞÄÒâµÄ»°£¬ÎÒ¾ÍÔÚÕâÀï¡£ÄãÒÑ±»¿íË¡ÁË¡£}
  
 #{167}{}{I'll take that as a yes. Please don't kill me . . .}
-{167}{}{ÎÒ¾Í°ÑÕâÊÓ×÷Í¬ÒâÁË¡£Çë±ğÉ±ÎÒ¡­¡­}
+{167}{}{ÎÒ¾Í°ÑÕâÊÓ×÷Í¬ÒâÁË¡£Çë±ğÉ±ÎÒ£®£®£®}
 
 #{168}{}{OWWWWWW!! [SNARL!]}
 {168}{}{Å¶à¸à¸à¸à¸£¡£¡¡¾ºğ½Ğ£¡¡¿}
@@ -208,14 +208,14 @@
 #{169}{}{Poor creature. A beast with your low intellect would be a challenge even for the healing powers of the Holy Flame. Get out of here…}
 {169}{}{¿ÉÁ¯µÄÉúÎï¡£ÈçÄãÕâ°ãµÄ´À±¿Ò°ÊŞ¼´Ê¹¶ÔÊ¥ÑæµÄÒ½ÁÆÁ¦Á¿¶¼»áÊÇ¸öÌôÕ½¡£¹ö³öÕâÀï°É¡£}
  
-#{170}{}{I'll take that as a "no". You are excus... uh… You go now. Go!}
-{170}{}{ÎÒ¾Í°ÑÕâÊÓ×÷¡°¾Ü¾ø¡±ÁË¡£ÄãÒÑ±»¿í¡­¡­ßÀ£¿Äã¿ì×ß°É¡£×ß£¡}
+#{170}{}{I'll take that as a "no". You are excus... uh?You go now. Go!}
+{170}{}{ÎÒ¾Í°ÑÕâÊÓ×÷¡°¾Ü¾ø¡±ÁË¡£ÄãÒÑ±»¿í£®£®£®ßÀ£¿Äã¿ì×ß°É¡£×ß£¡}
 
 #{171}{}{It's a very beautiful place, although a little overcrowded these days. It's far to the south of us. We faithful gather to praise our master, the Holy Flame, and to pray for peace and Unity. Now, if that will be all…}
-{171}{}{ÊÇ¸ö·Ç³£ÃÀÀöµÄµØ·½£¬¾¡¹ÜÕâ¶ÎÊ±¼äÓĞµãÓµ¼·¡£Î»ÓÚ¾àÀëÎÒÃÇÒ£Ô¶µÄÄÏ·½¡£ÎÒÃÇÕâĞ©ò¯³ÏµÄÈË¾Û¼¯ÔÚÒ»ÆğÔŞÃÀÎÒÃÇµÄÖ÷£¬Ê¥Ñæ£¬²¢ÇÒÎªÁËºÍÆ½ºÍ¡°Unity¡±¶øÆíµ»¡£¾ÍÕâÃ´¶à¡£}
+{171}{}{ÊÇ¸ö·Ç³£ÃÀÀöµÄµØ·½£¬¾¡¹ÜÕâ¶ÎÊ±¼äÓĞµãÓµ¼·¡£Î»ÓÚ¾àÀëÎÒÃÇÒ£Ô¶µÄÄÏ·½¡£ÎÒÃÇÕâĞ©ò¯³ÏµÄÈË¾Û¼¯ÔÚÒ»ÆğÔŞÃÀÎÒÃÇµÄÖ÷£¬Ê¥Ñæ£¬²¢ÇÒÎªÁËºÍÆ½ºÍÍ³Ò»¶øÆíµ»¡£¾ÍÕâÃ´¶à¡£}
  
 #{172}{}{Tell me about peace and Unity…}
-{172}{}{¸æËßÎÒ¹ØÓÚºÍÆ½Óë¡° Unity¡±µÄÊÂ¡£}
+{172}{}{¸æËßÎÒ¹ØÓÚºÍÆ½ÓëÍ³Ò»µÄÊÂ¡£}
 
 #{173}{}{Where exactly is this place?}
 {173}{}{ÄÇµØ·½µ½µ×ÔÚÄÄ¶ù£¿}
@@ -230,7 +230,7 @@
 {176}{}{ÎÒÒÑ¾­Ñ§µ½£¬ÎÒÃÇÊÇ¸ö¶ñÒâ£¬±©Á¦ºÍÓŞ±¿µÄÖÖ×å£¬Åä²»ÉÏÊ¥Ñæ¡£ÎÒÔÚÄÄÀï¶¼ÄÜ¿´µ½Ì°À·ÓëĞ°¶ñ¡£³ı·ÇÎÒÃÇ¼¤ÁÒĞĞ¶¯£¬²»È»»á±»Ê¥ÑæÔÙ´Î·ÙÉÕ¡£}
  
 #{177}{}{Tell me more about the Holy Flame . . .}
-{177}{}{¸æËßÎÒ¸ü¶à¹ØÓÚÊ¥ÑæµÄÊÂÇé¡­¡­}
+{177}{}{¸æËßÎÒ¸ü¶à¹ØÓÚÊ¥ÑæµÄÊÂÇé£®£®£®}
 
 #{178}{}{Your religion bites the Bone, pal!}
 {178}{}{È¥ÄãµÄ×Ú½Ì°É£¬»ï¼Æ£¡}
@@ -266,13 +266,13 @@
 {188}{}{ÎÒÌÖÑáÒ½Éú£¡}
 
 #{189}{}{Peace is, as ever, forged by war and hardship, as is unity. Alas, my gifts will be needed in the days to come.}
-{189}{}{¾ÍÈçÍ¬¹ıÍùÒ»Ñù£¬Ö»ÓĞÕ½ÕùºÍ¼èĞÁ²ÅÄÜÖıÔìºÍÆ½£¬Ç¡ËÆ¡°unity¡±Ò»°ã¡£°¦£¬ÔÚ½«À´µÄÈÕ×ÓÀïÎÒµÄÌì¸³»áÅÉÉÏÓÃ³¡µÄ¡£}
+{189}{}{¾ÍÈçÍ¬¹ıÍùÒ»Ñù£¬Ö»ÓĞÕ½ÕùºÍ¼èĞÁ²ÅÄÜÖıÔìºÍÆ½£¬Ç¡ËÆÍ³Ò»Ò»°ã¡£°¦£¬ÔÚ½«À´µÄÈÕ×ÓÀïÎÒµÄÌì¸³»áÅÉÉÏÓÃ³¡µÄ¡£}
  
 #{190}{}{Tell me about the war?}
 {190}{}{¸æËßÎÒ¹ØÓÚÕ½ÕùµÄÊÂÇé£¿}
 
 #{191}{}{Is Unity worth the price?}
-{191}{}{ÎªÁË¡°Unity¡±£¬ÖµÃ´£¿}
+{191}{}{ÎªÁËÍ³Ò»£¬ÖµÃ´£¿}
 
 #{192}{}{Why does everyone think war is the answer to peace?}
 {192}{}{ÎªÊ²Ã´ËùÓĞÈË¶¼ÈÏÎªÕ½ÕùÊÇ¶ÔºÍÆ½µÄ»ØÓ¦£¿}
@@ -319,11 +319,11 @@
 #{206}{}{Maybe you're right. I'll have to think about it.}
 {206}{}{»òĞíÄãÊÇ¶ÔµÄ¡£ÎÒ»áºÃºÃÏëÏëµÄ¡£}
 
-#{207}{}{Uh, well there's food, and sex, and a big gun… I can think of lots of things I'd rather worship!}
+#{207}{}{Uh, well there's food, and sex, and a big gun?I can think of lots of things I'd rather worship!}
 {207}{}{ßÀ£¬ºÃ°É£¬Ê³Îï£¬Å®ÈË£¬»òÕßÒ»Ö§´óÇ¹£¿ÎÒÄÜÏë³öĞí¶à±ÈÕâ¸üÖµµÃ³ç°İµÄ£¡}
 
 #{208}{}{You don't get out much, do you?}
-{208}{}{ÄãÃ»ÍÚ³ö¶àÉÙÏûÏ¢À´£¬²»ÊÇÃ´£¿}
+{208}{}{ÄãÃ»ÍÚ³ö¶àÉÙÏûÏ¢À´£¬²»ÊÇÂğ£¿}
 
 #{209}{}{You're not very convincing, Doc.}
 {209}{}{ÄãµÄ»°²¢²»Ê®·ÖÁîÈËĞÅ·ş£¬Ò½Éú¡£}
@@ -338,7 +338,7 @@
 {212}{}{ÎÒÒÀÈ»Ã»ÓĞÍü¼ÇÄã¶ÔÎÒµÄÎêÈè£¬Å®Ê¿¡£ÔÚÎÒµÄÖÎÁÆÖ®Ç°£¬ÔÚÉÁ¹âÖ®µØÀï¸¯ÀÃ°É¡£}
 
 #{213}{}{Mother Jain wishes that no one speaks with you. Good bye.}
-{213}{}{¸ß¼¶ÄÁÊ¦¼ò¶÷²»Ï£ÍûÈÎºÎÈËºÍÄãËµ»°¡£ÔÙ¼û¡£}
+{213}{}{¸ß¼¶ÄÁÊ¦½ÜÒÁ²»Ï£ÍûÈÎºÎÈËºÍÄãËµ»°¡£ÔÙ¼û¡£}
 
 #{214}{}{Idiot. Can't you see he needs rest?}
 {214}{}{°×³Õ¡£ÄÑµÀÄã¿´²»³öËûĞèÒªĞİÏ¢Âğ£¿}

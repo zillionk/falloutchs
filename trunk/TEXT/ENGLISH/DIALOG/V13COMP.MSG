@@ -3,6 +3,6 @@
 # {102}{}{Sorry, but we can't let you back in right now. Uh, technical problems. Try again later.}
 # {103}{}{You see the Vault-13 door entry computer.}
 {100}{}{你使用这台控制门的计算机。计算机无法识别你的密码。}
-{101}{}{你使用这台控制门的计算机。你个解说者闪烁着出现了。}
+{101}{}{你使用这台控制门的计算机。一个解说者闪烁着出现了。}
 {102}{}{对不起，我们不能让你现在回到里面。嘿，技术问题。请晚些时候再试。}
 {103}{}{你看到１３号避难所入口大门。}

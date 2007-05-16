@@ -12,7 +12,7 @@
 # {109}{}{Empty}
 # {110}{}{}
 # {111}{}{. Are you interested?}
-# {112}{}{I'll still give you a job, even though… never mind.  Are you interested?}
+# {112}{}{I'll still give you a job, even though?never mind.  Are you interested?}
 # {113}{}{Sure. }
 # {114}{}{No.}
 # {115}{}{Maybe.}
@@ -25,8 +25,8 @@
 # {122}{}{Please come back when you are feeling better.}
 # {123}{}{Uh, are you all right?  I think you need to get something to eat, but don't go to Bob's.}
 # {124}{}{I said get lost!}
-# {125}{}{I'm quite disappointed in you… stealing!  Now why did you do that?}
-# {126}{}{Cuz I'm a mean green moth'a from outer space, and I'm… ‘bad'!}
+# {125}{}{I'm quite disappointed in you?stealing!  Now why did you do that?}
+# {126}{}{Cuz I'm a mean green moth'a from outer space, and I'm?‘bad'!}
 # {127}{}{I didn't want to, but I'm starving and I have kids to feed.}
 # {128}{}{I'll carve your heart out with a spoon! }
 # {129}{}{(Surrender)}
@@ -72,7 +72,7 @@
 # {165}{}{That's good. Those black walkways are really strange, but they're great to travel on.}
 # {166}{}{I think there are some gangs down there.  I'd be very careful who you talk to.}
 # {167}{}{Great.  Junktown's a decent place.}
-# {168}{}{Oh, say 'hi' to that… Kill.. again?  I forget his name, but he's a decent fellow.  I wonder how
+# {168}{}{Oh, say 'hi' to that?Kill.. again?  I forget his name, but he's a decent fellow.  I wonder how
 # he's doing.}
 # {169}{}{Interesting place.  I hear they have some evil doctor that animates the dead, or something.}
 # {170}{}{Why on earth did you leave that last caravan?  Nothing terrible happened to it, but something could
@@ -89,9 +89,9 @@
 # {179}{}{Because I'm going to put a hole through your head if you don't.}
 # {180}{}{I had better things to do, than hang around some dumb caravan.}
 # {181}{}{I didn't know I wasn't allowed to leave. Everything seemed okay.}
-# {182}{}{I see… you where on drugs.  Well, live that life if you wish it.}
+# {182}{}{I see?you where on drugs.  Well, live that life if you wish it.}
 # {183}{}{I'm sorry you feel that way.}
-# {184}{}{I'm surprised you've never done a caravan before, but I guess no harm came of it… so, sure.
+# {184}{}{I'm surprised you've never done a caravan before, but I guess no harm came of it?so, sure.
 # I'll give you one more chance.}
 # {185}{}{You did a fine job!  Would you like another caravan?}
 # {186}{}{Sure.}
@@ -127,7 +127,7 @@
 {100}{}{Äã¿´µ½¸öÉÌ¶Ó³µ·ò¡£}
 {101}{}{ÄãºÃ£¬Èç¹ûÄãÔÚÎÒÃÇÆäÖĞÖ®Ò»µÄÉÌ¶ÓÕÒ¹¤×÷µÄ»°£¬Ó¦¸ÃºÍÉÌ¶ÓÖ÷¹ÜÌ¸£¬ËıÔÚ¶«ÃæµÄÎİÀï¡£}
 {102}{}{±§Ç¸£¬ÄãÒªºÍÉÌ¶ÓÖ÷¹ÜËµ¡£}
-{103}{}{ºÃ£¬Äã»¹ºÃ¡£ÎÒÖªµÀÕâ²»ÊÇ¸öÎÊÌâ¡£×Ô´Ó´ïÂ×¡¤º£ÍĞ¿ªÊ¼²ØÔÚËûµÄ°ì¹«ÊÒÀï£¬Ëı¾ÍÃ¦µÄ²»¿É¿ª½»¡£Ææ¹ÖµÄÄĞÈË¡£ÎÒÃÇÃ¿¸ôÎåÌìÀë¿ª¡£Ò»ÈÕ£¬ÎåÈÕ£¬Ê®ÈÕ£¬Ê®ÎåÈÕ£¬¶şÊ®ÈÕ£¬¶şÊ®ÎåÌß¡£ÎÒÃÇÏÖÔÚÖ»È¥åÈ¿ËÕòºÍ¿İ¹ÇÖ®µØ¡£}
+{103}{}{ºÃ£¬Äã»¹ºÃ¡£ÎÒÖªµÀÕâ²»ÊÇ¸öÎÊÌâ¡£×Ô´Ó´ïÂ×¡¤º£ÍĞ¿ªÊ¼²ØÔÚËûµÄ°ì¹«ÊÒÀï£¬Ëı¾ÍÃ¦µÄ²»¿É¿ª½»¡£Ææ¹ÖµÄÄĞÈË¡£ÎÒÃÇÃ¿¸ôÎåÌìÀë¿ª¡£Ò»ÈÕ£¬ÎåÈÕ£¬Ê®ÈÕ£¬Ê®ÎåÈÕ£¬¶şÊ®ÈÕ£¬¶şÊ®ÎåÈÕ¡£ÎÒÃÇÏÖÔÚÖ»È¥åÈ¿ËÕòºÍÉ¹¹Ç³¡¡£}
 {104}{}{ÄÇÃ´£¬¼ÛÇ®ÔõÃ´Ëã£¿}
 {105}{}{àÅ¡£}
 {106}{}{±¨³êÊÇ£²£°£°¸öÆ¿¸Ç¡£²»ÊÇºÜ¶à£¬µ«ÊÇÎÒÃÇ»î¶à¶øÇÒÎÒÃÇ¹¤×÷Ã»ÓĞÎ£ÏÕ¡£¾ÍÏñÄ³ÈËËµÄã²»ÄÜÁ½Í·¶¼Õ¼ºÃ´¦¡£}
@@ -181,18 +181,18 @@
 {154}{}{ºÃ°É¡£}
 {155}{}{±§Ç¸£¬²»ÄÜµÈ¡£}
 {156}{}{ÕâÕæÊÇÒ»¸ö±¯¾ç¡£ÎÒÃÇËğÊ§ÁËÕû¸öÉÌ¶Ó£¬µ«ÊÇÄãÒ»¸öÈËÉú»¹ÁË£¿ÄÇ²»¸Ã·¢Éú£¬ÎÒ²»ÖªµÀÄÇ¶ù·¢ÉúÁËÊ²Ã´£¬µ«ÊÇÎÒÃÇ²»»áÔÙ¹ÍÄãÁË¡£±§Ç¸¡£}
-{157}{}{¡¾åÈ¿ËÕò¡¿}
-{158}{}{¡¾¿İ¹ÇÖ®µØ¡¿}
+{157}{}{åÈ¿ËÕò}
+{158}{}{É¹¹Ç³¡}
 {159}{}{àÅ£¬²»ÊÇÏÖÔÚ£¬»òĞíÊÇÆäËûÊ±¼ä¡£}
 {160}{}{Î´¸¶ÇåÕÊ¿î£¬ÎÒ½«µÃµ½Ê£ÓàµÄ¡£}
 {161}{}{ºÜºÃ¡£}
 {162}{}{Äã×ß°É¡£ºÃÔË£¡}
 {163}{}{¾¡Á¿±ÜÃâÈÎºÎÂé·³¡£}
-{164}{}{Ğ¡ĞÄ£¬ÎÒ²»Ï²»¶¿İ¹ÇÖ®µØ£¬ËüÁîÈËÃ«¹Çã¤È»¡£}
-{165}{}{ºÜºÃ¡£ÄÇĞ©ºÚÉ«µÄ¹ıµÀÕæÆæ¹Ö£¬µ«ÊÇºÜºÃ×ß¡£.}
+{164}{}{Ğ¡ĞÄ£¬ÎÒ²»Ï²»¶É¹¹Ç³¡£¬ËüÁîÈËÃ«¹Çã¤È»¡£}
+{165}{}{ºÜºÃ¡£ÄÇĞ©ºÚÉ«µÄ¹ıµÀÕæÆæ¹Ö£¬µ«ÊÇºÜºÃ×ß¡£}
 {166}{}{ÎÒÈÏÎªÄÇ¶ùÓĞĞ©×éÖ¯¡£ÎÒ½«»á·Ç³£Ğ¡ĞÄºÍÄãË­Ëµ»°µÄÈË¡£}
 {167}{}{Ì«°ôÁË¡£åÈ¿ËÕòÊÇ¸öºÃµØ·½¡£}
-{168}{}{Å¶£¬¶ÔÄÇ¸öËµÄãºÃ£¿É±......ÔÙ´Î£¿ÎÒÍüÁËËûµÄÃû×Ö£¬µ«ÊÇËûÊÇÒ»¸öÏàµ±ºÃµÄÈË¡£ÎÒÏëÖªµÀËûÏÖÔÚÔõÃ´Ñù¡£}
+{168}{}{Å¶£¬¶ÔÄÇ¸öËµÄãºÃ£¿É±£®£®£®ÔÙ´Î£¿ÎÒÍüÁËËûµÄÃû×Ö£¬µ«ÊÇËûÊÇÒ»¸öÏàµ±ºÃµÄÈË¡£ÎÒÏëÖªµÀËûÏÖÔÚÔõÃ´Ñù¡£}
 {169}{}{ÓĞÈ¤µÄµØ·½¡£ÎÒÌıËµËûÃÇÓĞĞ©Ğ°¶ñµÄÒ½Éúµ¼ÖÂËÀÍö»òÆäËûÊÂÇé¡£}
 {170}{}{¾¿¾¹ÎªÊ²Ã´ÄãÀë¿ªÁË×îºóµÄÉÌ¶Ó£¿Ã»ÓĞ¿ÉÅÂµÄÊÂÇé·¢Éú¡£}
 {171}{}{¿ÉÒÔÔÙ¸øÎÒÒ»´Î»ú»á£¿}

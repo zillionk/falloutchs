@@ -24,7 +24,7 @@
 #{121}{}{I'll stop by later for that discount.}
 #{122}{}{Can I get a better discount?}
 #{123}{}{Sorry.  I've given you the best discount I can.}
-{100}{}{你看见赞克}
+{100}{}{你看见赞克。}
 {101}{}{你看见一个军火商。}
 {102}{}{嗨，我是赞克。你想要买武器吗？让我看看你有些什么？}
 {103}{}{不。}

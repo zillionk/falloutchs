@@ -4,7 +4,7 @@
 # himself.
 
 #{100}{}{You see Vinnie from the Skulz gang.}
-{100}{}{你看到斯库兹帮的维尼。}
+{100}{}{你看到骷髅党的维尼。}
 
 #{101}{}{You see a young man with a tattoo and a bad attitude.}
 {101}{}{你看到一个有文身而且态度恶劣的年轻人。}
@@ -13,13 +13,13 @@
 {102}{}{伙计们，我想加入你们。}
 
 #{103}{}{You're on Skulz turf, stranger. You'd better talk quick.}
-{103}{}{你在斯库兹帮的地盘上，外地人。你最好有话快说。}
+{103}{}{你在骷髅党的地盘上，外地人。你最好有话快说。}
 
 #{104}{}{Sorry, wrong room.}
 {104}{}{抱歉，走错房间了。}
 
 #{105}{}{Skulz? Who are you guys?}
-{105}{}{斯库兹帮？哥们，你们是谁啊。}
+{105}{}{骷髅党？哥们，你们是谁啊。}
 
 #{106}{}{Urgh?}
 {106}{}{啊哈？}
@@ -68,7 +68,7 @@
 
 #{120}{}{We don't take that from anybody, least of all Killian! Just because
 #he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!}
-{120}{}{我们不需要任何人的保护，尤其是基利安！他以为他是镇长，这不意味着他能控制斯库兹帮！}
+{120}{}{我们不需要任何人的保护，尤其是基利安！他以为他是镇长，这不意味着他能控制骷髅党！}
 
 #{121}{}{Sorry, didn't mean to get you all riled up.}
 {121}{}{对不起，我不是故意惹恼你的。}
@@ -79,13 +79,13 @@
 
 #{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know . . .
 #all right, I'm in.}
-{123}{}{你想做了基利安？老大，你疯了。嗯，我不知道……好吧，我加入！}
+{123}{}{你想做了基利安？老大，你疯了。嗯，我不知道．．．好吧，我加入！}
 
 #{124}{}{You loser, you said we were going to whack Killian. Get out of here.}
 {124}{}{你个废物，你说过我们要去做掉基利安的。滚出去。}
 
 #{125}{}{C'mon, let's dust Killian.}
-{125}{}{来么，让我们废了基利安。}
+{125}{}{来吧，让我们废了基利安。}
 
 #{126}{}{What do you want now?}
 {126}{}{你现在想干什么？}
@@ -95,10 +95,10 @@
 
 #{128}{}{I'm looking for someone to help me take out Killian. The Skulz seemed like
 #a good prospect.}
-{128}{}{我正在找些人帮我除掉基利安。斯库兹帮看起来挺有前途。}
+{128}{}{我正在找些人帮我除掉基利安。骷髅党看起来挺有前途。}
 
 #{129}{}{Damn, I didn't think you'd do it! The Skulz rule this town now! Woo!}
-{129}{}{该死，我没想到你会真这么做。斯库兹帮现在控制整个镇了！哇噢！}
+{129}{}{该死，我没想到你会真这么做。骷髅党现在控制整个镇了！哇噢！}
 
 #{130}{}{We've been down this road before. You didn't have the balls then, so get
 #the hell out of here!}
@@ -106,7 +106,7 @@
  
 #{131}{}{You want to join us, huh? How do we know you're tough enough to be a
 #Skul?}
-{131}{}{你想加入我们，啊哈？我们怎么知道你够悍够合格呢？}
+{131}{}{你想加入我们，啊哈？我们怎么知道你够强悍够合格呢？}
 
 #{132}{}{I'll show you tough enough, you son of a bitch!}
 {132}{}{我会让你知道我有多狠，你这狗娘养的！}
@@ -130,12 +130,12 @@
 {138}{}{你是对的，我现在要走了。}
 
 #{139}{}{What makes the Skulz so tough?}
-{139}{}{是什么让斯库兹帮这么强悍？}
+{139}{}{是什么让骷髅党这么强悍？}
 
 #{140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz,
 #I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles]
 #Let's make Neal suffer for his last couple of hours . . .}
-{140}{}{【维尼想了几秒种】如果你想证明你属于斯库兹帮，我要你去偷那个老杂种妻子的骨灰罐。呵呵。【维尼嘀咕着】我们让尼尔在临终前痛苦几个小时吧．．．}
+{140}{}{【维尼想了几秒种】如果你想证明你属于骷髅党，我要你去偷那个老杂种妻子的骨灰罐。呵呵。【维尼嘀咕着】我们让尼尔在临终前痛苦几个小时吧．．．}
 
 #{141}{}{All right, I'll do it.}
 {141}{}{好的，我去做。}
@@ -154,10 +154,10 @@
 
 #{146}{}{If you're hard enough to do that, mebbe you'd make a Skul after all.
 #Bring it here once you've got it.}
-{146}{}{要是你能做到，或许你会成为一名斯库兹帮成员。拿到它以后马上带回来。}
+{146}{}{要是你能做到，或许你会成为一名骷髅党成员。拿到它以后马上带回来。}
 
 #{147}{}{I knew you weren't Skulz material. Get the hell out of here.}
-{147}{}{我就知道你不是进斯库兹帮的料。他妈的滚出去吧。}
+{147}{}{我就知道你不是进骷髅党的料。他妈的滚出去吧。}
 
 #{148}{}{You got it?}
 {148}{}{你拿到了？}
@@ -188,7 +188,7 @@
 
 #{157}{}{That'll show that old fuck. Thanks for taking care of him for us.
 #[Vinnie gets a tear in his eye.] You're a Skul, now.}
-{157}{}{老混蛋会明白的。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于斯库兹帮了。}
+{157}{}{老混蛋会明白的。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于骷髅党了。}
 
 #{158}{}{Uh, all right . . . meet us later, but don't take too long.}
 {158}{}{啊，很好．．．我们走着瞧，你时间不会太长的。}
@@ -210,7 +210,7 @@
 {163}{}{你偷到了尼尔的骨灰罐，得到４００经验值。死者将永不安息。}
 
 #{164}{}{You gain 300 experience points for puttin' a cap in Neal's ass, you Skul.}
-{164}{}{你日翻了尼尔，成为斯库兹帮徒。得到４００经验值。}
+{164}{}{你日翻了尼尔，成为骷髅党徒。得到４００经验值。}
 
 #{165}{}{You ready to take out Neal?}
 {165}{}{你准备好收拾尼尔了？}
