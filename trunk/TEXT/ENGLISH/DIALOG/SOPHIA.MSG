@@ -88,7 +88,7 @@
 {301}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
 
 #{302}{}{Uh......}
-{302}{}{这……}
+{302}{}{这．．．}
 
 #{303}{}{Could you direct me to the library?}
 {303}{}{你能告诉我图书馆怎么走吗？}
@@ -111,7 +111,7 @@
 {308}{}{这里是图书馆。我们在这里存储所有关于武器和科技的资料，当然，我们也有关于兄弟会的历史。}
 
 #{309}{}{I need a water-chip repaired.  Can you help me?}
-{309}{}{我必须要修理好一个净水晶片。你能帮我吗？}
+{309}{}{我必须要修理好一个净水芯片。你能帮我吗？}
 
 #{310}{}{I'd like to know more about the weapons you make here.}
 {310}{}{关于你们在制造的武器我想知道更多。}
@@ -123,7 +123,7 @@
 {312}{}{不用了，谢谢你的帮忙。}
 
 #{313}{}{I'm looking for a big gun to improve my people-killing skills.}
-{313}{}{我在找一支可以提高我的杀人技术的大枪。}
+{313}{}{我在找一支可以提高我杀人技术的大枪。}
 
 #{314}{}{I am Vree's assistant.  Vree is over there.}
 {314}{}{我是弗蕾的助手。弗蕾在那边。}
@@ -204,7 +204,7 @@
 # history.  She has forgotten that our history is a vital part of our lives.
 # It has gotten so bad that many of the new initiates don't even know who
 # Roger Maxson is or what exactly he did for us.}
-{337}{}{弗蕾似乎认为，研究开发新的武器以及解剖变种人尸体比历史更为重要。她忘记了，我们的历史是我们生命的重要组成部分，现在的情况已经很坏了，有很多新兵甚至不知道罗杰马克松是谁，以及他究竟为我们做过什么。}
+{337}{}{弗蕾似乎认为，研究开发新的武器以及解剖变种人尸体比历史更为重要。她忘记了，我们的历史是我们生命的重要组成部分，现在的情况已经很坏了，有很多新兵甚至不知道罗杰·马克松是谁，以及他究竟为我们做过什么。}
 
 #{338}{}{I'd like to learn more about the Brotherhood's history.  Do you have
 # any information you can give me?}
@@ -249,7 +249,7 @@
 
 #{351}{}{Our history is available to everyone.  So that they may learn of our
 # great history...Not that any one ever looks at them.}
-{351}{}{我们的历史每个人都可以看。这样他们才有可能学到我们的历史……而不是泛泛地看看。}
+{351}{}{我们的历史每个人都可以看。这样他们才有可能学到我们的历史．．．而不是泛泛地看看。}
 
 #{352}{}{I would like to see anything you have on the Brother's history.}
 {352}{}{我想看看你还有什么关于兄弟会历史的东西。}
@@ -262,7 +262,7 @@
 {354}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
 
 #{355}{}{Uh......}
-{355}{}{这……}
+{355}{}{这．．．}
 
 #{356}{}{Could you direct me to the library?}
 {356}{}{你能告诉我图书馆怎么走吗？}
