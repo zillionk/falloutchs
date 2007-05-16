@@ -81,7 +81,7 @@
  # Then there's some weird place below that called the City of Death.  Oh, oh
  # yeah there's this other place...Oh, shoot, what was that?  Oh, yeah, the
  # Hub.}
-{134}{TAND_15}{迦克镇在南方，但我不知道有多远。然后下面是些奇怪的地方叫枯骨之地。哦，哦，这里是另一个地方．．．哦，等等，那是什么？哦，是了，是哈勃城。}
+{134}{TAND_15}{迦克镇在南方，但我不知道有多远。然后下面是些奇怪的地方叫晒骨场。哦，哦，这里是另一个地方．．．哦，等等，那是什么？哦，是了，是哈勃城。}
 # {135}{tand_15a}{There's a bunch of cities down south.  But since you're such a
  # great traveler, I'm sure you know that already.}
 {135}{tand_15a}{南方有好几个城市。你已经是一个好旅行者的话，我相信你早就知道了。}
@@ -101,7 +101,7 @@
 # {140}{TAND_22}{Same as always.  Bo-ring.}
 {140}{TAND_22}{像以前一样。令人讨厌。}
 # {142}{tand_23b}{Just stuff.}
-{142}{tand_23b}{正好装满。}
+{142}{tand_23b}{恰好没有。}
 # {141}{tand_23g}{The weirdest story I've heard is about the Death Claw.}
 {141}{tand_23g}{我听到的最精彩的故事是关于死亡爪的。}
 # {143}{}{Thanks.}
@@ -279,9 +279,9 @@
 # {303}{}{You seen any more radscorpions?}
 # {304}{}{Where are we going now?}
 # {305}{}{When are we going to get there?}
-{300}{}{哇！这里一点也不像荒漠小镇。}
+{300}{}{哇！这里一点也不像沙荫镇。}
 {301}{}{嗨，这附近有什么？}
-{302}{}{我不能呆在荒漠小镇给人们说外面的故事。}
+{302}{}{我不能呆在沙荫镇给人们说外面的故事。}
 {303}{}{你看到几只大蝎子吗？}
 {304}{}{我们要去哪里？}
 {305}{}{我们什么时候到那里？}

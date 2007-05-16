@@ -15,13 +15,13 @@
  # High Elder, Maxson. The elders make all the major decisions
  # around here. If you need to speak with them, you'll find them
  # on the fourth floor.}
-{106}{}{那可能是议会元老。确切的说，是最高元老，马克松。长老元老制定这里所有的规则。如果你想和他们谈话，那就去四楼。}
+{106}{}{那可能是议会元老。确切的说，是最高元老，马克松。元老制定这里所有的规则。如果你想和他们谈话，那就去四层。}
 # {107}{}{So what do you do?}
 {107}{}{那么你想干什么？}
 # {108}{}{No, we are directed by the council of elders. Maxson, the High
  # Elder, would be the person in charge. If you need to speak with
  # him, you'll find him on the fourth floor.}
-{108}{}{不，我们都受议会长老管理。马克松，最高元老，是这里的负责人。如果你想和他谈话，那就去四楼。}
+{108}{}{不，我们都受议会元老管理。马克松，最高元老，是这里的负责人。如果你想和他谈话，那就去四层。}
 # {109}{}{I really need some better firepower.}
 {109}{}{我真的需要更好的武器。}
 # {110}{}{I'm the Senior Paladin, Rhombus's right-hand man. We're in charge
@@ -35,7 +35,7 @@
 # {113}{}{There are rumors of a large force moving around in the mountains
  # and desert. With the missing caravans and these rumors, we're just playing
  # it safe.}
-{113}{}{据说有一只强大的力量控制了山脉和沙漠边缘。听说一些商队失踪了，我们要保护他们的安全。}
+{113}{}{据说有一支强大的力量控制了山脉和沙漠边缘。听说一些商队失踪了，我们要保护他们的安全。}
 # {115}{}{Really? Okay, thanks.}
 {115}{}{真的？好的，谢谢。}
 # {116}{}{In a hurry, are we? As an Initiate, you are entitled to a few
@@ -60,7 +60,7 @@
 # {123}{}{Well, I might be able to make an exception. You obviously have
  # some good training. If you didn't you wouldn't have succeeded
  # in that crazy quest the High Elder sent you on.}
-{123}{}{好吧，我可以破例一次。你显然受到专业训练。如果你不能完成最高长老那变态的任务的话。}
+{123}{}{好吧，我可以破例一次。你显然受到专业训练。如果你不能完成最高元老那变态的任务的话。}
 # {124}{}{Sometimes I don't know if he's trying to get help from the
  # outside, or kill off the stupid. No offense. I'll tell you
  # what. I'm sort of in a tight spot because the scouts I
@@ -114,7 +114,7 @@
 # {143}{}{There's Rhombus. He's our Head Paladin, also known as the Master
  # Knight. Then there's Vree; she's the Master Scribe. And of course
  # we cannot forget our distinguished High Elder, Maxson.}
-{143}{}{那是隆伯斯。他是我们的首席圣骑士，当然也是大师骑士。然后那边的是弗蕾；她是秘书长。当然我们不会忘记我们伟大的最高长老，马克松。}
+{143}{}{那是隆伯斯。他是我们的首席圣骑士，当然也是大师骑士。然后那边的是弗蕾；她是秘书长。当然我们不会忘记我们伟大的最高元老，马克松。}
 # {144}{}{Tell me about Rhombus.}
 {144}{}{告诉我有关隆伯斯的事情。}
 # {145}{}{Tell me about Vree.}
@@ -128,7 +128,7 @@
 # {148}{}{If you ever need to talk to him, he is normally in his office . . .
  # I mean room. That's on the other side of this level, across from
  # the guard room.}
-{148}{}{如果你想和他谈话，他通常都在他的办公室里……我的意思是房间。在这层的另一边，穿过警卫室就到了。}
+{148}{}{如果你想和他谈话，他通常都在他的办公室里．．．我的意思是房间。在这层的另一边，穿过警卫室就到了。}
 # {149}{}{Of course we do. She's on the second level. Next to the learning room.}
 {149}{}{当然，这是我们应该做的。她在二楼。电子图书馆隔壁。}
 # {150}{}{Thanks, bye.}
@@ -141,21 +141,21 @@
 # {153}{}{She spends every waking moment doing research or analyzing and
  # reanalyzing anything she can get her hands on. If you ever need
  # to talk to her, she can normally be found in her room, on the third floor.}
-{153}{}{她花很少的时间就可以研究或者分析，并且得出结论。如果你想和她谈话，通常你可以在她的房间找到她，在三楼。}
+{153}{}{她花很少的时间就可以研究或者分析，并且得出结论。如果你想和她谈话，通常你可以在她的房间找到她，在三层。}
 # {154}{}{She's on the second level. Just go down to the second floor, make
  # a left. You'll see it just past the learning room. I should get back to
  # work. If you have any other questions just ask.}
-{154}{}{她在二楼。到二楼，左拐。穿过电子图书馆你就会见到。我要去工作了。如果你有问题的话就问吧。}
+{154}{}{她在二层。到二层，左拐。穿过电子图书馆你就会见到。我要去工作了。如果你有问题的话就问吧。}
 # {155}{}{As I said, she's on the second level. You can't miss it. It's the
  # only other major room on the second floor besides the learning room.}
-{155}{}{正如我说的，她在二楼。你不会找不到的。那是除电子图书馆外最大的房间。}
+{155}{}{正如我说的，她在二层。你不会找不到的。那是除电子图书馆外最大的房间。}
 # {156}{}{Okay, see ya.}
 {156}{}{好的，再见。}
 # {157}{}{Maxson is one tough old man. He's the great, great grandson . . .
  # or was it great, great, great grandson? Well, anyway. He's the
  # descendant of one of our founding fathers. He, of course, is the
  # High Elder.}
-{157}{}{马克松是个坚强的老人。他是伟大的，伟大的后裔……或者是伟大的，伟大的，伟大的后裔？好吧，总而言之。他是我们祖先的后代。他，当然，也是最高长老。}
+{157}{}{马克松是个坚强的老人。他是伟大的，伟大的后裔．．．或者是伟大的，伟大的，伟大的后裔？好吧，总而言之。他是我们祖先的后代。他，当然，也是最高元老。}
 # {158}{}{You've built quite a reputation for yourself. The people I've
  # checked with hold you in high regard. I don't think you need any help,
  # you seem quite capable. However, if you help me with a little problem,
@@ -193,7 +193,7 @@
  # take kindly to child killers. The Elders seem to think that there's
  # something you can offer but I don't want to have anything to do with
  # you.}
-{171}{}{我听说了你的事迹，我们是不会同杀小孩者打交道的。长老们认为这里可以给你提供一些东西但我不这么认为。}
+{171}{}{我听说了你的事迹，我们是不会同杀小孩者打交道的。元老们认为这里可以给你提供一些东西但我不这么认为。}
 # {172}{}{I only killed one.}
 {172}{}{我只是杀了一个。}
 # {173}{}{You don't know the whole story.}
@@ -262,7 +262,7 @@
 # {198}{}{Well I see we have a bright new addition to our order after all...
  # [Talus leers at you.] Don't get cocky with me, Initiate. I'm not in the
  # mood nor have I the patience!}
-{198}{}{毕竟是我看见我们的队伍里又多了一个聪明的新人……【塔鲁斯与你同在。】不要在我面前托大，新兵。虽然我脾气好但也不要挑战我的耐性。}
+{198}{}{毕竟是我看见我们的队伍里又多了一个聪明的新人．．．【塔鲁斯与你同在。】不要在我面前托大，新兵。虽然我脾气好但也不要挑战我的耐性。}
 # {199}{}{I thought you were smarter than that. I don't have to give you
  # anything. You're lucky I don't kick you out of here, right now. I think
  # you should leave, before I change my mind.}
@@ -361,4 +361,4 @@
 # {408}{}{You gain }
 {408}{}{你得到了}
 # {409}{}{ experience points for rescuing the initiate.}
-{409}{}{经验值。因为你救了那个新兵。}
+{409}{}{　经验值。因为你救了那个新兵。}
