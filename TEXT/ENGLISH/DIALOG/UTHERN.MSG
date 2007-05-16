@@ -51,10 +51,10 @@
 {116}{}{仅仅这么多话。这将更多的解释。}
 
 #{117}{}{I begin to think you may have a bit of superior blood in you yet. Let me find out for certain.}
-{117}{}{我开始想你可能仍有有一些少量的纯种血液。让我查查看。}
+{117}{}{我开始想你可能仍然有一些少量的纯种血液。让我查查看。}
 
 #{118}{}{He does indeed, for death shall be your saving grace.}
-{118}{}{他的确做了, 死亡将你的节约缓解。}
+{118}{}{他的确做了, 死亡将是你最为可取之处。}
 
 #{119}{}{The simplest of proofs for you. I am smarter, stronger, and quicker than you are. Would you care for a test of my skills?}
 {119}{}{这就是给你最简单证明。我比你更灵活，更强壮，更快。你要不要对我的能力来个测试？}

@@ -3,7 +3,7 @@
 
 #{101}{}{This terminal, 'Tylier', controls Special Forces Operations. Please
 # present voice authorization.}
-{101}{}{这个终端【泰勒尔】，控制控制特殊武器运转。请提供声音认证。}
+{101}{}{这个终端【泰勒尔】，控制特殊武器运转。请提供声音认证。}
 
 #{102}{}{Nuna!}
 {102}{}{噜哪！}

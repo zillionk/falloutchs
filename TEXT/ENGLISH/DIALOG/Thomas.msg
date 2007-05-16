@@ -1,5 +1,5 @@
 #{100}{}{You see Brother Thomas.}
-{100}{}{你看到托马斯。}
+{100}{}{你看到托马斯兄弟。}
 
 #{101}{}{Okay children. Today we will be going over some martial arts.}
 {101}{}{好的孩子。今天我们将学习一些搏斗技巧。}
@@ -127,13 +127,13 @@
 {140}{}{嗯，托马斯兄弟？}
 
 #{141}{}{Yes, my little piece of clay.}
-{141}{}{是的，我是弟弟。}
+{141}{}{是的，我的小伙子。}
 
 #{142}{}{Shouldn't we do that for kicking too?}
 {142}{}{难道我们也不能像这样去踢？}
 
 #{143}{}{Of, course.}
-{143}{}{当～然。}
+{143}{}{嗯，过程。}
 
 #{144}{}{Very good. I think we'll let you live.}
 {144}{}{很好。我想我应该让你在这里。}
@@ -154,7 +154,7 @@
 {201}{}{做的漂亮。}
 
 #{202}{}{Okay, you're learning.}
-{202}{}{好}
+{202}{}{好，你正在学习。}
 
 #{203}{}{Stay focused.}
 {203}{}{集中精神。}

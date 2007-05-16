@@ -39,7 +39,7 @@
 {112}{}{我需要一些技术知识。}
 
 #{113}{}{Uhh . . .}
-{113}{}{啊……}
+{113}{}{啊．．．}
 
 #{114}{Vree03}{I record the knowledge of our ancestors for future generations.}
 {114}{Vree03}{我为了未来的后人，记录从我们祖先流传下来的知识。}
@@ -93,7 +93,7 @@
 {129}{}{我在哪可以学到电脑技术？}
 
 #{130}{}{Thanks.}
-{130}{}{谢啦。}
+{130}{}{谢谢。}
 
 #{131}{}{Can I ask another question?}
 {131}{}{我能问别的问题么？}
@@ -181,7 +181,7 @@
 {155}{Vree33}{决不！兄弟会绝不会眼看这个再次发生！}
 
 #{156}{}{That's what they all say . . . except you. You'll be dead.}
-{156}{}{他们都是这样说……除了你。你将会死。}
+{156}{}{他们都是这样说．．．除了你。你将会死。}
 
 #{157}{Vree34}{What can I help you with?}
 {157}{Vree34}{我可以帮你些什么。}
@@ -214,7 +214,7 @@
 
 #{166}{Vree38}{Do not bother me with innuendo. Bring proof to the High Elder, or
 #say nothing of this.}
-{166}{Vree38}{别用暗示的话来烦我。要么向高级长老出示证据，要么什么都别说。}
+{166}{Vree38}{别用暗示的话来烦我。要么向高级元老出示证据，要么什么都别说。}
 
 #{167}{Vree39}{Do what must be done. Stamp out the heresy and remove those
 #responsible for the stain.}
@@ -230,17 +230,17 @@
 {170}{Vree40}{虽然如此。但还是需要证据。}
 
 #{171}{}{Kedrick is a traitor. He is planning on killing the Elders.}
-{171}{}{凯德瑞克是个叛徒。他正在计划杀掉长老们。}
+{171}{}{凯德瑞克是个叛徒。他正在计划杀掉元老们。}
 
 #{172}{}{I'll get the proof.}
 {172}{}{我去找证据。}
 
 #{173}{Vree41}{Then we must go to the High Elder. Bring your proof and we'll go
 #talk to him.}
-{173}{Vree41}{然后我们必须去找高级长老。带着你的证据向他汇报。}
+{173}{Vree41}{然后我们必须去找高级元老。带着你的证据向他汇报。}
 
 #{174}{Vree42}{The High Elder and Rhombus, of course.}
-{174}{Vree42}{当然是高级长老和隆伯斯。}
+{174}{Vree42}{当然是高级元老和隆伯斯。}
 
 #{175}{Vree43}{Did you hear about the missing Initiate? This is terrible!}
 {175}{Vree43}{你听说过关于失踪的新兵的事吗？太可怕了！}
@@ -285,7 +285,7 @@
 
 #{188}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{188}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{188}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{189}{Vree201}{I don't know anything about that. But it sounds like something I
 #should research.}
@@ -327,7 +327,7 @@
 {199}{Vree305}{他保证兄弟会前进在正义的道路之上。}
 
 #{200}{Vree306}{He enforces the High Elder's wishes. With force, if necessary.}
-{200}{Vree306}{他行使高级长老的意愿。如果必要时，使用武力。}
+{200}{Vree306}{他行使高级元老的意愿。如果必要时，使用武力。}
 
 #{300}{}{Interesting.}
 {300}{}{有趣。}
@@ -366,7 +366,7 @@
 
 #{980}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{980}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{980}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #
 # Vree Tell-Me-Abouts
@@ -415,11 +415,11 @@
 {1105}{Vree305}{他保证兄弟会前进在正义的道路之上。}
 
 #{1106}{Vree306}{He enforces the High Elder's wishes. With force, if necessary.}
-{1106}{Vree306}{他行使高级长老的意愿。如果必要时，使用武力。}
+{1106}{Vree306}{他行使高级元老的意愿。如果必要时，使用武力。}
 
 #{1107}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1107}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1107}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1108}{Vree201}{I don't know anything about that. But it sounds like something I
 #should research.}
@@ -427,7 +427,7 @@
 
 #{1109}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1109}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1109}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1110}{Vree201}{I don't know anything about that. But it sounds like something I
 #should research.}
@@ -435,27 +435,27 @@
  
 #{1111}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1111}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1111}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1112}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1112}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1112}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1113}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1113}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1113}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1114}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1114}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1114}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1115}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1115}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1115}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1116}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
 #reports for the other Elders.}
-{1116}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他长老们的报告。}
+{1116}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
 
 #{1117}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}

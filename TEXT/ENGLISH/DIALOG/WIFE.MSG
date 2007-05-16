@@ -6,7 +6,7 @@
 # {105}{}{You will have to come back in the morning. Please let us sleep in peace.}
 # {106}{}{No thanks.}
 # {107}{}{No, I am not in need of healing.}
-{100}{}{你看起来烦恼。你需要帮助吗？}
+{100}{}{你看起来很烦。你需要帮助吗？}
 {101}{}{我需要治疗。}
 {102}{}{呃。}
 {103}{}{我丈夫拉斯洛能帮助你．．．问他吧。}

@@ -35,9 +35,9 @@
 #{117}{}{That sounds like a really great idea.}
 {117}{}{那听起来真是个妙计。}
 #{118}{}{I've been to many places in the wastelands. The closest places that I've been to are Shady Sands and Junktown. They are very grateful for the trips we make to them.}
-{118}{}{我去过许多废土上的地方。我们去过的最近的地方是荒漠小镇和迦克镇。他们因为我们去他们的地方感到非常高兴。}
+{118}{}{我去过许多废土上的地方。我们去过的最近的地方是沙荫镇和迦克镇。他们因为我们去他们的地方感到非常高兴。}
 #{119}{}{You visit Shady Sands?}
-{119}{}{你们去荒漠小镇？}
+{119}{}{你们去沙荫镇？}
 #{120}{}{Where's Junktown?}
 {120}{}{迦克镇在哪？}
 #{121}{}{You are starting to become annoying now. I think I will end that slight problem.}
@@ -45,12 +45,12 @@
 #{122}{}{We are the Khan, and our leader is Garl. We are the most feared group in the wasteland, and with good reason. We take what we want, and those who get in our way pay the price.}
 {122}{}{我们是可汗，我们的头儿是伽尔。我们有理由说我们是废土上最可怕的团伙。我们拿走想要的东西，阻挠我们的人要付出代价！}
 #{123}{}{Yes, we go to Shady Sands from time to time. It adds a little excitement to the lives of everyone concerned.}
-{123}{}{是的，我们定期去荒漠小镇。这样也能给大家的生活带来些新鲜和刺激。}
+{123}{}{是的，我们定期去沙荫镇。这样也能给大家的生活带来些新鲜和刺激。}
 #{124}{}{What about Junktown?}
 {124}{}{迦克镇怎么样？}
 #{125}{}{Why, Junktown is just a little bit to the south of here. Go a few miles, turn right at the dying cactus. You can't miss it!}
 {125}{}{这有什么问的？迦克镇就在南方，近得要命。走几英里，在死仙人掌那儿向右拐。你要是走丢了才见鬼呢！}
 #{126}{}{You also said you visit Shady Sands.}
-{126}{}{你也说过你们去荒漠小镇。}
+{126}{}{你也说过你们去沙荫镇。}
 #{127}{}{Do not bother me right now. I am preparing for the next raid.}
 {127}{}{别烦我了！我要准备下一次掠夺了。}
