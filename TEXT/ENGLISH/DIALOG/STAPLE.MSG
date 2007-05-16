@@ -44,7 +44,7 @@
 
 #{113}{}{Information is hard to come by in this day and age.  I will need to charge you 750
 # Hub Bucks for the disk.}
-{113}{}{如今信息可是非常难得的哦。我需要你用７５０块哈伯币交换磁盘。}
+{113}{}{如今信息可是非常难得的哦。我需要你用７５０块哈勃币交换磁盘。}
 
 #{114}{}{Sounds good. Here's the money.}
 {114}{}{听起来还可以。给你钱。}
@@ -104,7 +104,7 @@
 {130}{}{你有整套的化学杂志吗？内城区的麦尔斯说你可能有。}
 
 #{131}{}{Yes, I've heard from Miles and I have the ones he's looking for.  They will cost you 750 bucks.}
-{131}{}{我听说过麦尔斯，我正好有他要找的东西。不过你需要付７５０块钱才能拿走。}
+{131}{}{我听说过麦尔斯，我正好有他要找的东西。不过你需要付７５０个瓶盖才能拿走。}
 
 #{132}{}{Here you are, sir.  Say hello to Miles for me.}
 {132}{}{这里你的东西，先生。替我向麦尔斯问好。}
