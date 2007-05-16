@@ -1,5 +1,5 @@
 #{100}{}{You see before you Talius, a member of the Followers.}
-{100}{}{你看见塔琉斯，“启示录”预言派的成员。}
+{100}{}{你看见塔琉斯，末世论者的成员。}
 
 #{101}{}{Please depart. I am attempting to retire here. Come back during the day.}
 {101}{}{请离开。我正要睡觉。等白天再来。}
@@ -38,15 +38,15 @@
 {112}{}{也问候你。我叫做}
 
 #{113}{}{. How is it that you came into the realm of the Followers?}
-{113}{}{。你是如何加入“启示录”预言派的？}
+{113}{}{。你是如何加入末世论者的？}
 
 #{114}{}{Can you tell me how one, of your alterations, entered the Followers?}
-{114}{}{你能告诉我你是如何来到“启示录”预言派这里的吗？}
+{114}{}{你能告诉我你是如何来到末世论者这里的吗？}
 
 #{115}{}{I see that you are a little slow. I, too, was once of your intelligence.
 # But, through the teachings of the Followers, I have been able to transcend
 # my shortcomings.}
-{115}{}{我看你有点迟钝。我曾经也和你的智力一样。但是通过“启示录”预言派的教学，我已经能够克服我的缺点。}
+{115}{}{我看你有点迟钝。我曾经也和你的智力一样。但是通过末世论者的教学，我已经能够克服我的缺点。}
 
 #{116}{}{No know.}
 {116}{}{不知道。}
@@ -81,13 +81,13 @@
 
 #{126}{}{I am here to assist these good people in understanding the workings
 # of the Children of the Cathedral.}
-{126}{}{我在这里协助这些好人了解大教堂孩子们的工作。}
+{126}{}{我在这里协助这些好人了解大教堂教徒的工作。}
 
 #{127}{}{So you are a spy for the Children?}
-{127}{}{因此你是孩子们的间谍？}
+{127}{}{因此你是教徒的间谍？}
 
 #{128}{}{How can you know anything about the Children?}
-{128}{}{你怎么知道关于孩子们的任何事？}
+{128}{}{你怎么知道关于教徒的任何事？}
 
 #{129}{}{What can you do? You are a mutant.}
 {129}{}{你能做什么？你是一个变种人。}
@@ -97,7 +97,7 @@
 {130}{}{不，我不是间谍。虽然许多人也是这么想。在我们的住所里确实有一个间谍。然而我们无法找出那个间谍。}
 
 #{131}{}{Then how do you help the Followers?}
-{131}{}{你怎么帮助“启示录”预言派？}
+{131}{}{你怎么帮助末世论者？}
 
 #{132}{}{Tell me what you know about this spy. Maybe I can help.}
 {132}{}{告诉我你知道这位间谍的什么。也许我能帮忙。}
@@ -110,13 +110,13 @@
 
 #{135}{}{Once, I was as you are. But, through the interaction of the Nightkin
 # in Necropolis, I was thrust into this state.}
-{135}{}{曾经，我和你是一样的。但是，隐形人和活死人镇使我变成了如今的情形。}
+{135}{}{曾经，我和你是一样的。但是，隐形人和大墓地使我变成了如今的情形。}
 
 #{136}{}{That's awful. But, tough luck. See you around.}
 {136}{}{真是可怕。运气糟透了。再见。}
 
 #{137}{}{Why were you in Necropolis?}
-{137}{}{为什么是您在活死人镇？}
+{137}{}{为什么是您在大墓地？}
 
 #{138}{}{Where were you from originally?}
 {138}{}{你最初从哪来的？}
@@ -138,12 +138,12 @@
 {143}{}{你找到解决问题的方法了吗？}
 
 #{144}{}{But why Necropolis?}
-{144}{}{但为什么是活死人镇？}
+{144}{}{但为什么是大墓地？}
 
 #{145}{}{Yes. The overseer of the community gave me a shotgun and some shells.
 # However, those were lost many years passed. Since I have never found anything,
 # I could not return.}
-{145}{}{是的。社区的管理者给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现任何东西，我无法回去。}
+{145}{}{是的。社区的监督者给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现任何东西，我无法回去。}
 
 #{146}{}{That's really awful. I wish there was something I could do.}
 {146}{}{真是可怕。我希望我能帮你。}
@@ -158,7 +158,7 @@
 {149}{}{你曾经找到解决供水问题的方法了吗？}
 
 #{150}{}{Why did you go to Necropolis?}
-{150}{}{你为什么要去活死人镇？}
+{150}{}{你为什么要去大墓地？}
 
 #{151}{}{There is a way in which you can help. The one who did this to me must
 # be stopped.}
@@ -195,7 +195,7 @@
 {159}{}{你曾经找到解决供水问题的方法了吗？}
 
 #{160}{}{Why did you go to Necropolis?}
-{160}{}{你为什么要去活死人镇？}
+{160}{}{你为什么要去大墓地？}
 
 #{161}{}{What was the name of this Vault?}
 {161}{}{这个避难所叫什么名字？}
@@ -211,7 +211,7 @@
 {164}{}{我再也没有他们的消息了。}
 
 #{165}{}{Why did you go to Necropolis?}
-{165}{}{你为什么要去活死人镇？}
+{165}{}{你为什么要去大墓地？}
 
 #{166}{}{What was the name of this Vault?}
 {166}{}{这个避难所叫什么名字？}
@@ -221,7 +221,7 @@
 
 #{168}{}{I heard from some of the other travelers that Necropolis had a way in
 # which to produce water without much difficulty.}
-{168}{}{有旅行者告诉我，活死人镇能够轻松的制造干净的水。}
+{168}{}{有旅行者告诉我，大墓地能够轻松的制造干净的水。}
 
 #{169}{}{So, I went there to see what they were doing.}
 {169}{}{因此，我去那里看看他们是怎么做的。}
@@ -287,7 +287,7 @@
 
 #{188}{}{Really? Has the Overseer finally seen his way through to allow people
 # to travel outside the Vault?}
-{188}{}{真的？管理者最终允许人们离开避难所到外面去了吗？}
+{188}{}{真的？监督者最终允许人们离开避难所到外面去了吗？}
 
 #{189}{}{No, he is still scared of the outside world.}
 {189}{}{不，他仍然害怕外面的世界。}
@@ -340,16 +340,16 @@
 
 #{203}{}{All I know of the Children is that they are in league with these
 # Nightkin, super mutants.}
-{203}{}{我只知道全部大教堂的孩子们与隐形人和超级变种人是同盟。}
+{203}{}{我只知道全部大教堂教徒与隐形人和超级变种人是同盟。}
 
 #{204}{}{It is they who transformed me from my original state of being in Necropolis.}
-{204}{}{是他们在活死人镇把我变成现在这个样子。}
+{204}{}{是他们在大墓地把我变成现在这个样子。}
 
 #{205}{}{That's awful. But, tough luck. See you around.}
 {205}{}{真可怕。晦气，再见。}
 
 #{206}{}{Why were you in Necropolis?}
-{206}{}{为什么你在活死人镇？}
+{206}{}{为什么你在大墓地？}
 
 #{207}{}{Where were you from originally?}
 {207}{}{你最初从哪来的？}
@@ -370,7 +370,7 @@
 #{212}{}{Those whom the Followers and Children call Nightkin are not what they
 # seem. They have been created by one called the Lieutenant. I believe he may
 # follow another.}
-{212}{}{那些隐形人似乎原本是一些“启示录”预言派的信徒和孩子。他们是由一个自称中尉的家伙创造的。 我相信他或许追随另一个人。}
+{212}{}{那些隐形人似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。 我相信他或许追随另一个人。}
 
 #{213}{}{Some information. Well, I will be off.}
 {213}{}{不错的信息。我要走了。 }
@@ -401,7 +401,7 @@
 #{221}{}{My entrance into the Followers was quite simple really. It was the
 # Followers who rescued me from the full effects of the transformation into
 # a heinous beast.}
-{221}{}{我进入“启示录”预言派之内真的相当简单，是那些信徒挽救了我。让我没变成一只可憎的畜牲。}
+{221}{}{我进入末世论者之内真的相当简单，是那些信徒挽救了我。让我没变成一只可憎的畜牲。}
 
 #{222}{}{I do not fully understand. Please, go on.}
 {222}{}{我不是很了解。请继续。}
@@ -427,7 +427,7 @@
 
 #{228}{}{Please, dispense justice upon the defouler who seeks to undermine
 # the trust of the Followers.}
-{228}{}{请找到那个正在破坏“启示录”预言派信徒之间信赖的间谍。}
+{228}{}{请找到那个正在破坏末世论者信徒之间信赖的间谍。}
 
 #{229}{}{Excellent job on removing from our midst that dissembler, Heather.}
 {229}{}{除去了我们中间那个叛徒希瑟，干得好。}
