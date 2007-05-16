@@ -1,5 +1,5 @@
 #{100}{}{You see one of Shady Sands' guards.}
-{100}{}{你看到一个荒漠小镇的卫兵。}
+{100}{}{你看到一个沙荫镇的卫兵。}
 #{101}{}{Hey, I think you'd better be leaving. We don't want your kind here.}
 {101}{}{嘿！我认为你最好离开这儿。我们不希望有你这样的人在这里。}
 #{102}{}{I can't believe that Tandi has disappeared. I hope you are going to find her. It would really hurt Aradesh if something bad happened to her.}
@@ -29,9 +29,9 @@
 #{114}{}{I'm sick and tired of your trash. Prepare to meet your maker.}
 {114}{}{我受够了你的废话！准备受死吧。}
 #{115}{}{Look, Shady Sands don't need your kind from the Hub, or Junktown, or wherever you come from. We do pretty good by ourselves.}
-{115}{}{你得明白，荒漠小镇不需要像你这样来自哈勃城，迦克镇或是其他什么鬼地方的家伙。我们自己可以过得非常好！}
+{115}{}{你得明白，沙荫镇不需要像你这样来自哈勃城，迦克镇或是其他什么鬼地方的家伙。我们自己可以过得非常好！}
 #{116}{}{The last trader from the Hub sold us a malfunctioning irrigation pump. We've had it with your dirty deals.}
-{116}{}{最近有个哈勃城商人买给了我们一个有故障的灌溉水泵。我们是从你那肮脏的交易中得到的它。}
+{116}{}{最近有个哈勃城商人卖给了我们一个有故障的灌溉水泵。我们是从你那肮脏的交易中得到的它。}
 #{117}{}{You got it all wrong. I'm not like that.}
 {117}{}{你弄错了。我可不那么龌龊。}
 #{118}{}{Yeah, right. So you say. Just don't get into any trouble, Ok?}
