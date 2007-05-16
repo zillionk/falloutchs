@@ -14,7 +14,7 @@
 {104}{}{我的地方呢！？！}
 
 #{105}{}{Da... Da... Da...}
-{105}{}{哒……哒……哒……}
+{105}{}{哒．．．哒．．．哒．．．}
 
 #{106}{}{The Moon is out there.}
 {106}{}{月亮不见了。}
@@ -92,7 +92,7 @@
 {130}{}{啊，别在意。你先在要当心了。}
 
 #{131}{}{I do this, then I do that.  You see Harold?  Harold's fun, his hair falls out, falls in the wind.  There it goes... wind, wind.}
-{131}{}{我做这个，然后我做那个。你看见哈罗德了？哈罗德很滑稽，他的头发掉光了，随风而去了。它门飞了……风，风。}
+{131}{}{我做这个，然后我做那个。你看见哈罗德了？哈罗德很滑稽，他的头发掉光了，随风而去了。它门飞了．．．风，风。}
 
 #{132}{}{Whatever.}
 {132}{}{随便。}
@@ -101,7 +101,7 @@
 {133}{}{敲啊敲，敲啊敲。}
 
 #{134}{}{Why is the wind?  Why why why why why.}
-{134}{}{为什么是风？为什么．．为什么．．为什么．．为什么．．为什么。}
+{134}{}{为什么是风？为什么为什么为什么为什么为什么。}
 
 #{135}{}{Beth, Beth, shoo sha Beth.  Like Harold, you talk Harold.  Harold tell you story.  Slappy help then.}
 {135}{}{贝斯，贝斯，嘘嗄贝斯。喜欢哈罗德，你跟哈罗德唠。哈罗德给你讲故事。斯莱匹帮忙。}

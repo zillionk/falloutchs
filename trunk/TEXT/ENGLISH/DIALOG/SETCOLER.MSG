@@ -12,7 +12,7 @@
 {105}{}{你意外地引爆了炸药！}
 #{106}{}{You accidentally set off the explosive, because you were smart enough
 # to find it, but not smart enough to leave it alone.}
-{106}{}{你意外地引爆了炸药，因为你足够聪敏来找到它，但是要把它丢在一边脑筋还是不够用。}
+{106}{}{你意外地引爆了炸药，因为你足够聪明来找到它，但是要把它丢在一边脑筋还是不够用。}
 #{107}{}{Ooof!}
 {107}{}{哦呋！}
 #{108}{}{Aaargh!}

@@ -24,7 +24,7 @@
 
 #{108}{}{Apparently so, since everyone knows that this is the territory
 # of the Skulz. You'd better beat it before someone decides to hurt you.}
-{108}{}{显然是这样，因为每个人都知道这里是属于斯库兹帮的地盘。你得先了解这一点，否则会有人来揍你的。}
+{108}{}{显然是这样，因为每个人都知道这里是属于骷髅党的地盘。你得先了解这一点，否则会有人来揍你的。}
 
 #{109}{}{Bring it on!}
 {109}{}{让他们来吧！}
@@ -33,7 +33,7 @@
 {110}{}{对不起，我以为这里是洗手间呢。再见。}
 
 #{111}{}{The Skulz? Who're they?}
-{111}{}{斯库兹帮？他们是干吗的？}
+{111}{}{骷髅党？他们是干吗的？}
 
 #{112}{}{Yeah, I knew that. I'm just hangin' out.}
 {112}{}{是啊，我知道，我是特意来这里看看的。}
@@ -63,7 +63,7 @@
 
 #{120}{}{Oh. Well, you'd better not. I mean, you're not one of the Skulz,
 # and this is our place. So, you should get lost, before Victor gets itchy.}
-{120}{}{哦，好吧，你最好不。我是说，你并不是斯库兹帮的一员，而这里是我们的地盘。所以，你最好在维克托发怒之前赶快离开。}
+{120}{}{哦，好吧，你最好不。我是说，你并不是骷髅党的一员，而这里是我们的地盘。所以，你最好在维克托发怒之前赶快离开。}
 
 #{121}{}{Actually, I think I'll stay.}
 {121}{}{事实上，我想要待在这里。}
@@ -100,7 +100,7 @@
 # fun over at the Skum Pitt. Sometimes we do odd jobs for Gizmo or for some
 # traveler. Victor likes stalking people, too. Come to think of it, you might
 # want to stay away from him.}
-{130}{}{我们只是呆在这里，有时候会到吉斯莫那里玩玩，或者在萨姆·匹特那里找找乐子。有的时候我们也为吉斯莫或某些履行着做些奇怪的任务。维克托也喜欢抓人。如果你好好想想的话，你还是应该离他远一点。}
+{130}{}{我们只是呆在这里，有时候会到吉斯莫那里玩玩，或者在萨姆·匹特那里找找乐子。有的时候我们也为吉斯莫或某些旅行者做些奇怪的任务。维克托也喜欢抓人。如果你好好想想的话，你还是应该离他远一点。}
 
 #{131}{}{You work for Gizmo? What can you tell me about him?}
 {131}{}{你为吉斯莫工作？关于他你能告诉我什么？}
@@ -121,11 +121,11 @@
 
 #{136}{}{Oh, it's you again! You know, it's probably not healthy to hang out here
 # if you're not one of the Skulz. And you're not.}
-{136}{}{哦，又是你！你知道，如果你不是斯库兹帮的一员，呆在这里很可能不利于你的健康——而你的确不是。}
+{136}{}{哦，又是你！你知道，如果你不是骷髅党的一员，呆在这里很可能不利于你的健康——而你的确不是。}
 
 #{137}{}{Yeah, well, your Skulz probably couldn't knock over a sleeping Brahmin,
 # much less take on me.}
-{137}{}{是啊，你们斯库兹帮能做的事情只有骚扰睡着了的双头牛而已，我才不怕你们呢。}
+{137}{}{是啊，你们骷髅党能做的事情只有骚扰睡着了的双头牛而已，我才不怕你们呢。}
 
 #{138}{}{What have you been up to lately?}
 {138}{}{你们最近在做什么呢？}
@@ -197,7 +197,7 @@
 # and the Crash House. It gets kind of tiresome on some nights, but I do like to
 # cook, and I get to meet all sorts of interesting people. And I get paid, too.
 # Thanks for your help.}
-{157}{}{哦！我可比以前强多了，谢谢你！我现在萨姆·匹特和倒塌的国会当了厨师。有些时候晚上的确很累，但我真的很喜欢烹饪，而且我还见到了各种各样有趣的人。我还赚到了钱。谢谢你的帮助。}
+{157}{}{哦！我可比以前强多了，谢谢你！我在萨姆·匹特和倒塌的国会当了厨师。有些时候晚上的确很累，但我真的很喜欢烹饪，而且我还见到了各种各样有趣的人。我还赚到了钱。谢谢你的帮助。}
 
 #{158}{}{There you go. Enjoy. And I'll see you around!}
 {158}{}{那你走吧。祝你愉快，我会等着你再来的！}
@@ -206,7 +206,7 @@
 # but Killian keeps him in line. He pays pretty well, though. Occasionally he
 # hires Vinnie or Victor to deal with people for him, if they've been a
 # problem, like one stranger who showed up here a few weeks ago.}
-{159}{}{他是赌场的老板，一个又高又胖的家伙。他想要统治垃圾城，但基利安把他控制住了。不过他付的报酬不少。他经常雇用维尼和维克托来收拾那些找麻烦的人，就好像几周前来这里的那家伙。}
+{159}{}{他是赌场的老板，一个又高又胖的家伙。他想要统治迦克镇，但基利安把他控制住了。不过他付的报酬不少。他经常雇用维尼和维克托来收拾那些找麻烦的人，就好像几周前来这里的那家伙。}
 
 #{160}{}{You want me to turn in my friends?!?}
 {160}{}{你想让我告发我的朋友？！？}
@@ -229,7 +229,7 @@
 
 #{165}{}{No, I can't do that! Those are my friends! I may not be a Skul anymore,
 # but I'm not going to turn my back on my old friends.}
-{165}{}{不，我不能那样做！他们是我的朋友！我可能不再是一名斯库兹帮的成员，但我是不会忘记老朋友的。}
+{165}{}{不，我不能那样做！他们是我的朋友！我可能不再是一名骷髅党的成员，但我是不会忘记老朋友的。}
 
 #{166}{}{I need your help. I need your testimony to put away the Skulz for good.}
-{166}{}{我需要你的帮助。为了大家的好处，我需要你的证言把斯库兹帮抓起来。}
+{166}{}{我需要你的帮助。为了大家的好处，我需要你的证言把骷髅党抓起来。}
