@@ -83,10 +83,10 @@
 {125}{}{军火商的。}
 
 #{126}{}{The Followers of the Apocalypse.}
-{126}{}{末日教信徒的。}
+{126}{}{末世论者信徒的。}
 
 #{127}{}{The Children of the Cathedral.}
-{127}{}{圣童教的。}
+{127}{}{大教堂教徒的。}
 
 #{128}{}{Nobody, thanks.}
 {128}{}{不必了，谢谢。}
@@ -112,7 +112,7 @@
 
 #{133}{}{The Followers preach peace and tolerance. Nice idea, but
 # impractical. They live in a big library to the north-west of us.}
-{133}{}{那些信徒鼓吹和平与宽容。虽然好主意不错，不过不可能实行。他们住在西北方向的一个大图书馆里。}
+{133}{}{那些信徒鼓吹和平与宽容。虽然主意不错，不过不可能实行。他们住在西北方向的一个大图书馆里。}
 
 #{134}{}{The Children of the Cathedral are based out of a big church
 # a ways to the south of here. There are some strange things

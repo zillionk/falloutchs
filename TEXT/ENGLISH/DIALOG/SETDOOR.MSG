@@ -9,7 +9,7 @@
 #{104}{}{You set off the trap on the door.}
 {104}{}{你引爆了门上的陷阱。}
 #{105}{}{ detects a trap on this door.}
-{105}{}{探测出这门上的一个陷阱。}
+{105}{}{ 探测出这门上的一个陷阱。}
 #{106}{}{You detect a trap on this door.}
 {106}{}{你探测出这门上的一个陷阱。}
 #{107}{}{That does nothing.}

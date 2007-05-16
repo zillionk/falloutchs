@@ -20,7 +20,7 @@
 {106}{}{呃，我要走了。再见。}
 
 #{107}{}{Just stopped by for a drink and some . . . entertainment.}
-{107}{}{停下来喝一杯，再来点……好玩的。}
+{107}{}{停下来喝一杯，再来点．．．好玩的。}
 
 #{108}{}{Glopf!}
 {108}{}{哎呀！}
@@ -41,19 +41,19 @@
 {113}{}{我不这样认为！}
 
 #{114}{}{Well, for this evening's entertainment, we've decided to thrash this place! Heh. Grab what you can carry and let's see some blood run, eh?}
-{114}{}{好吧，为了今晚的娱乐，我们决定血洗这个地方！哈。烧杀掠夺吧，让他们血溅五步！好不好？}
+{114}{}{好吧，为了今晚的娱乐，我们决定血洗这个地方！哈。烧杀抢掠吧，让他们血溅五步！好不好？}
 
 #{115}{}{Think I'll just grab a brew.}
 {115}{}{我会弄到酒的。}
 
 #{116}{}{Smash and grab? Count me in!}
-{116}{}{烧杀掠夺？算我一个！}
+{116}{}{烧杀抢掠？算我一个！}
 
 #{117}{}{Not tonight, I have a headache.}
 {117}{}{今晚不行，我脑瓜子不舒服。}
 
 #{118}{}{Nah, I'd rather have something to eat . . . perhaps grilled shark!}
-{118}{}{不，我宁愿吃些东西……也许是烤鲨鱼！}
+{118}{}{不，我宁愿吃些东西．．．也许是烤鲨鱼！}
 
 #{119}{}{Ah, you loser. Go run back to your momma.}
 {119}{}{啊，你这懦夫。找你妈妈去吧！}
