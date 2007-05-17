@@ -43,8 +43,7 @@
 #{114}{}{What?!? I don't have time for this.}
 {114}{}{什么？！？我可没时间干这些。}
 
-#{115}{}{Yeah, I sing at the Hub sometimes, and I've visited the Brotherhood of
-# Steel and Adytum with the caravans. Why do you ask?}
+#{115}{}{Yeah, I sing at the Hub sometimes, and I've visited the Brotherhood of Steel and Adytum with the caravans. Why do you ask?}
 {115}{}{没错，我有时在哈勃城表演，也跟随商队去过钢铁兄弟会、和内城区。你为什么想知道这些？}
 
 #{116}{}{Can you tell me how to get to the Hub?}
@@ -62,62 +61,43 @@
 #{120}{}{The Hub? Oh, it's just a short distance down south of Junktown. What else?}
 {120}{}{你说哈勃城？哦，它在迦克镇南方不远的地方。你还需要知道些什么吗？}
 
-#{121}{}{The Brotherhood is a couple days west and a little bit north of here.
-# Don't go there, though. They won't let you in unless you're with a caravan.
-# You need anything else?}
+#{121}{}{The Brotherhood is a couple days west and a little bit north of here. Don't go there, though. They won't let you in unless you're with a caravan. You need anything else?}
 {121}{}{钢铁兄弟会在西面偏北的方向距离这里大约数天的路程。但是，别去那里。除非与商队同行，他们是不会允许你进入的。你还需要别的帮助吗？}
 
-#{122}{}{Hmm. Head southwest of the Hub. Adytum is part of the Boneyard. It's a
-# small, semi-industrial town. I didn't like it much there. What else do you want?}
+#{122}{}{Hmm. Head southwest of the Hub. Adytum is part of the Boneyard. It's a small, semi-industrial town. I didn't like it much there. What else do you want?}
 {122}{}{唔。在哈勃城的西南方。内城区是枯骨之地的一部分。它是一个小型的工业微薄的城镇。我并不怎么喜欢那里。你还需要些什么？}
 
-#{123}{}{Hey, thanks. It's hard being a starving artist. You got anything you
-# need to know, you just ask.}
+#{123}{}{Hey, thanks. It's hard being a starving artist. You got anything you need to know, you just ask.}
 {123}{}{嗨，谢谢。贫困艺术家的生活总是很艰辛。你会得到你想知道的一切答案，随便你问。}
 
 #{124}{}{I appreciate the thought and all, but you're strapped worse than I am.}
 {124}{}{我感激你的这些想法，但你显然比我更加一文不名。}
 
-#{125}{}{Ah, I picked it up here and there. Learned a little from an old singer
-# at the Hub, and got some music from the scavs in Adytum, in the Boneyard. You
-# know. Just takes some practice.}
+#{125}{}{Ah, I picked it up here and there. Learned a little from an old singer at the Hub, and got some music from the scavs in Adytum, in the Boneyard. You know. Just takes some practice.}
 {125}{}{呵，我到处寻访收集。从哈勃城的老歌手那里学习到一些歌唱技巧，从枯骨之地的内城区搜寻到一些乐曲。你知道的。只需要进行一些练习。}
-
 #{126}{}{There is a man singing raucously in the corner.}
-{126}{}{角落里有一个男人在用沙哑的声音唱歌。}
-
+{126}{}{角落里一个男人在用沙哑的声音唱歌。}
 #{127}{}{Your head is a bowl!}
-{127}{}{你的脑袋像圆球!}
-
+{127}{}{你的脑袋像圆球！}
 #{128}{}{It's round like a mole!}
 {128}{}{鼹鼠一般转不停！}
-
 #{129}{}{I'd rather fry!}
-{129}{}{我情愿受油煎熬！}
-
+{129}{}{我情愿倍受煎熬！}
 #{130}{}{Than pay you the toll!}
-{130}{}{也不为你把钱出！}
-
+{130}{}{也不为你把钱出！！！}
 #{131}{}{I know your mind}
 {131}{}{我了解你的想法}
-
 #{132}{}{It's a steel cage}
 {132}{}{它是个钢铁囚笼}
-
 #{133}{}{Raging inside is . . .}
-{133}{}{里面是狂怒的．．．}
-
+{133}{}{愤恨的深处是……}
 #{134}{}{The DeathClaw}
 {134}{}{死亡爪}
-
 #{135}{}{I need you}
 {135}{}{我需要你}
-
 #{136}{}{Like a bad dose of poison}
 {136}{}{就像中毒已深}
-
 #{137}{}{I need you}
 {137}{}{我需要你}
-
 #{138}{}{Like a rad scorpion strike}
-{138}{}{就像大蝎子反扑}
+{138}{}{就像蝎子反扑}
