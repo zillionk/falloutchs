@@ -73,10 +73,10 @@
 # inland, and Junktown a few days south of there. Hub's just another couple days
 # south of Junktown. Avoid Necropolis to the east of those, though. Not worth
 # the trouble.}
-{123}{}{以海岸线作为参考，你向内陆走大概１个星期到达荒漠小镇，向南几天的功夫可以到迦克镇。再向南２天吧，你会到哈勃城。不要向东走，那里叫活死人镇，没必要去找麻烦。}
+{123}{}{以海岸线作为参考，你向内陆走大概１个星期到达沙荫镇，向南几天的功夫可以到迦克镇。再向南２天吧，你会到哈勃城。不要向东走，那里叫大墓地，没必要去找麻烦。}
 
 #{124}{}{What do you know about Shady Sands?}
-{124}{}{你对荒漠小镇知道点什么？}
+{124}{}{你对沙荫镇知道点什么？}
 
 #{125}{}{What do you know about Junktown?}
 {125}{}{你对迦克镇知道点什么？}
@@ -85,7 +85,7 @@
 {126}{}{你知道哈勃城些什么？}
 
 #{127}{}{What do you know about Necropolis?}
-{127}{}{你知道活死人镇点什么？}
+{127}{}{你知道大墓地点什么？}
 
 #{128}{}{I don't think I could help you with that. I never had much of a chance to
 # study pre-war Vault technology.}
@@ -94,7 +94,7 @@
 #{129}{}{Mostly a little electrical and mechanical tinkering. I helped Junktown with
 # their lights and showed the people in Shady Sands a better design for their
 # stoves.}
-{129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，让荒漠小镇的人用上更好的炉子之类的。}
+{129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，让沙荫镇的人用上更好的炉子之类的。}
 
 #{130}{}{Really? Think you could fix a water chip?}
 {130}{}{真的？你能修好水处理芯片么？}
@@ -111,12 +111,12 @@
 #{134}{}{Shady Sands is a small, self-sufficient community led by Aradesh, a kind
 # man and strong leader. They are peaceful and hard-working. They are probably the
 # best chance for a new civilization here.}
-{134}{}{荒漠小镇是个自给自足的小镇。亚拉德什是一个和蔼、强壮的领袖。他们平静、努力工作。这里可能真的机会产生新的文明吧。}
+{134}{}{沙荫镇是个自给自足的小镇。亚拉德什是一个和蔼、强壮的领袖。他们平静、努力工作。这里可能真的机会产生新的文明吧。}
 
 #{135}{}{Shady Sands is a small farming community. They were led by a good man
 # named Aradesh, but I've heard he's gone. It's a pity. Without him I don't know
 # if they'll survive.}
-{135}{}{荒漠小镇是个农业结构的社区。他们被一个叫亚拉德什的人领导着，不过我听说他已经不在了，太遗憾了。没有他，不知道这里能不能继续生存下去。}
+{135}{}{沙荫镇是个农业结构的社区。他们被一个叫亚拉德什的人领导着，不过我听说他已经不在了，太遗憾了。没有他，不知道这里能不能继续生存下去。}
 
 #{136}{}{Junktown? A small trading city. Strange place until you get used to it.
 # They are run by mayor Killian Darkwater, a hard but fair man.}
@@ -136,7 +136,7 @@
 #{140}{}{Necropolis is the city of the dead. It's inhabited by ghouls, the
 # descendants of humans who sought shelter in a Vault there. Story goes that the
 # Vault failed somehow, so now the only inhabitants are carrion-eating monsters.}
-{140}{}{活死人镇是个死亡之城。那里住着僵尸，它们以前是一个避难所的人类的后代。后来听说那避难所出了点事，导致现在那里唯一的居民都是吃腐肉的怪物。}
+{140}{}{大墓地是个死亡之城。那里住着僵尸，它们以前是一个避难所的人类的后代。后来听说那避难所出了点事，导致现在那里唯一的居民都是吃腐肉的怪物。}
 
 #{141}{}{It was overrun by an army of mutants last I heard. I'd stay away from
 # there, if I were you.}

@@ -1,2 +1,2 @@
 # {100}{}{You gain 500 experience points for stopping the Radscorpions.}
-{100}{}{你得到５００经验值，因为你制止了大蝎子。}
+{100}{}{你得到５００点经验值，因为你制止了大蝎子。}

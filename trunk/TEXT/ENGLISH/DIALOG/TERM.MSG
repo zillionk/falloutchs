@@ -15,6 +15,6 @@
 #{203}{}{You find an interesting data file on a secret base to the north-west.}
 {203}{}{你找到关于一个西北方秘密基地的有趣资料。}
 #{204}{}{You gain }
-{204}{}{你得到}
+{204}{}{你侵入了这台电脑，你得到}
 #{205}{}{ experience points for hacking into this computer.}
-{205}{}{经验值因为侵入这台电脑。}
+{205}{}{点经验值。}

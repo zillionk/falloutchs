@@ -35,7 +35,7 @@
 {111}{}{你有弗蕾设计的激光手枪么？}
 
 #{112}{}{Laser, Plasma... you name it, I抳e built it.. or at least re-built it.}
-{112}{}{激光，脉冲…，你命名，我做…至少我做了一个。}
+{112}{}{激光，脉冲……，你命名，我做……至少我做了一个。}
 
 #{113}{}{Any chance I can get one?}
 {113}{}{怎样我才能搞到一个？}
@@ -109,7 +109,7 @@
 {134}{}{净水芯片？老避难所的东西？}
 
 #{135}{}{Yes!.. Do you have one?}
-{135}{}{是的！．．你有吗？}
+{135}{}{是的！……你有吗？}
 
 #{136}{}{No. Those things were junk, they were prone to failure.  We don抰 deal with
 # purifying our own water here.  We have water delivered by caravans from the Hub.}
@@ -174,4 +174,4 @@
 {155}{}{没什么，谢谢。}
 
 #{156}{}{Um.. please leave before you drool on something important.}
-{156}{}{嘿．．在你对某些重要的东西流口水之前，快离开。}
+{156}{}{嘿……在你对某些重要的东西流口水之前，快离开。}
