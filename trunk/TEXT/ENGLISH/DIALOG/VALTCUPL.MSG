@@ -4,7 +4,7 @@
 #{101}{}{We didn't think that you were coming back. You have
 # such a nice room, and we were a little crowded with
 # her parents. I hope you don't mind.}
-{101}{}{我们没想到你回来了。你的房间挺漂亮，而我俩和她父母住在一起有点挤．．．我希望你不会介意。}
+{101}{}{我们没想到你回来了。你的房间挺漂亮，而我俩和她父母住在一起有点挤……我希望你不会介意。}
 
 #{102}{}{Yes, I do mind. Get out of my room!}
 {102}{}{不，我介意。滚出我的房间！}

@@ -38,7 +38,7 @@
 
 #{112}{}{Oh, baby, if you got to ask . . . more than you can afford.
 # Maybe next time, sugar. See you around.}
-{112}{}{哦，宝贝，如果你真要问的话．．．你是负担不起的。也许下次吧，下次见，甜心。}
+{112}{}{哦，宝贝，如果你真要问的话……你是负担不起的。也许下次吧，下次见，甜心。}
 
 #{113}{}{Oh, sugar, that's just plain disgusting.}
 {113}{}{哦，甜心，那可真恶心。}
@@ -138,7 +138,7 @@
 {139}{}{你要不要再付点钱拜访一下辛西娅。}
 
 #{140}{}{Maybe Sinthia would like some company . . .}
-{140}{}{也许辛西娅需要人来陪陪她．．．}
+{140}{}{也许辛西娅需要人来陪陪她……}
 
 #{141}{}{You shit! You killed him! Why did you have to kill him?
 # You bastard! I can't believe you killed him. All he wanted was someone to
@@ -155,7 +155,7 @@
 
 #{144}{}{You killed him! I can't believe you killed him. All he
 # wanted was someone to talk to . . .}
-{144}{}{你杀了他！我不敢相信你杀了他。他只是想要找个人聊天罢了．．．}
+{144}{}{你杀了他！我不敢相信你杀了他。他只是想要找个人聊天罢了……}
 
 #{145}{}{He ain't dead. He's just gonna have a hurt head when he
 # wakes up.}

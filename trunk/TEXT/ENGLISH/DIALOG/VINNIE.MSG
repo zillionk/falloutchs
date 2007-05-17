@@ -79,7 +79,7 @@
 
 #{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know . . .
 #all right, I'm in.}
-{123}{}{你想做了基利安？老大，你疯了。嗯，我不知道．．．好吧，我加入！}
+{123}{}{你想做了基利安？老大，你疯了。嗯，我不知道……好吧，我加入！}
 
 #{124}{}{You loser, you said we were going to whack Killian. Get out of here.}
 {124}{}{你个废物，你说过我们要去做掉基利安的。滚出去。}
@@ -135,7 +135,7 @@
 #{140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz,
 #I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles]
 #Let's make Neal suffer for his last couple of hours . . .}
-{140}{}{【维尼想了几秒种】如果你想证明你属于骷髅党，我要你去偷那个老杂种妻子的骨灰罐。呵呵。【维尼嘀咕着】我们让尼尔在临终前痛苦几个小时吧．．．}
+{140}{}{【维尼想了几秒种】如果你想证明你属于骷髅党，我要你去偷那个老杂种妻子的骨灰罐。呵呵。【维尼嘀咕着】我们让尼尔在临终前痛苦几个小时吧……}
 
 #{141}{}{All right, I'll do it.}
 {141}{}{好的，我去做。}
@@ -191,7 +191,7 @@
 {157}{}{老混蛋会明白的。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于骷髅党了。}
 
 #{158}{}{Uh, all right . . . meet us later, but don't take too long.}
-{158}{}{啊，很好．．．我们走着瞧，你时间不会太长的。}
+{158}{}{啊，很好……我们走着瞧，你时间不会太长的。}
 
 #{159}{}{Soon, Neal gets his, huh?}
 {159}{}{很快，尼尔就要完了，啊哈？}

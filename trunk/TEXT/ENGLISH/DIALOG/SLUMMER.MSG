@@ -164,7 +164,7 @@
 {154}{}{这附近有什么圣酒吗？}
 
 #{155}{}{Help? Uh.. no. }
-{155}{}{帮助？嗯．．．算了吧。}
+{155}{}{帮助？嗯……算了吧。}
 
 #{156}{}{Forgive me stranger, but I have many duties. Please excuse me. }
 {156}{}{请原谅我，陌生人，但我有我的事情要做。请原谅。}
@@ -206,7 +206,7 @@
 {169}{}{我们没有吗？他妈的！}
 
 #{170}{}{I'm...ah...Oh well, nothing that can't be solved with a bullet. DIE! }
-{170}{}{我是．．．啊．．．噢对了，没有子弹解决不了的事。死吧！}
+{170}{}{我是……啊……噢对了，没有子弹解决不了的事。死吧！}
 
 #{171}{}{My apologies. Praise the Master, and have a nice day. }
 {171}{}{抱歉。赞美主教！日安。}
@@ -233,7 +233,7 @@
 {178}{}{我只是开玩笑。常年在废土上生活的人都有种奇怪的幽默感，你知道的。最近有什么事发生了吗？}
 
 #{179}{}{We'll see about that.. }
-{179}{}{我们会看着的．．．}
+{179}{}{我们会看着的……}
 
 #{180}{}{Nobody prays for my soul. But somebody better start praying for you, because I'm killing you right now! }
 {180}{}{没有人为我的灵魂祈祷。但最好现在有人开始为你祈祷，因为我马上就要杀死你！}
@@ -263,7 +263,7 @@
 {188}{}{在我见他之前我是不是还该知道些别的事情？}
 
 #{189}{}{We'll see about that.. }
-{189}{}{我们会看着的．．．}
+{189}{}{我们会看着的……}
 
 #{190}{}{Thanks! Fresh meat at last! }
 {190}{}{谢谢！终于有新鲜的肉了！}
@@ -347,7 +347,7 @@
 {216}{}{主教是好样的！你能告诉我在哪里能找到他吗？}
 
 #{217}{}{But there are rumors about mutant armies... }
-{217}{}{但有一些关于变种人军队的传闻．．．}
+{217}{}{但有一些关于变种人军队的传闻……}
 
 #{218}{}{Anyone ever tell you that you're a zombie? }
 {218}{}{有人告诉过你你是个僵尸吗？}
@@ -371,7 +371,7 @@
 {224}{}{有人告诉过你你是个僵尸吗？}
 
 #{225}{}{Let's praise him over a few bottles of holy wine. Praising goes a lot better when the spirit moves you.. }
-{225}{}{让我们喝点圣酒再来继续赞美他吧。当你喝醉了赞美他的感觉就更好了．．．}
+{225}{}{让我们喝点圣酒再来继续赞美他吧。当你喝醉了赞美他的感觉就更好了……}
 
 #{226}{}{You know, the one that's in your hand? }
 {226}{}{你知道，在你手里的那个？}
@@ -383,7 +383,7 @@
 {228}{}{嗯，它上膛了吗？}
 
 #{229}{}{I don't know much. The mind of the Master is so great.. I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, so we can have pe#ace and unity, and there will never be war or destruction again! }
-{229}{}{我不知道的太多了。主教的灵魂是如此伟大．．．但我确实知道圣童在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与同一，从此之后将不会再有战争或是毁灭了！}
+{229}{}{我不知道的太多了。主教的灵魂是如此伟大……但我确实知道圣童在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与同一，从此之后将不会再有战争或是毁灭了！}
 
 #{230}{}{And where is the baptismal font? }
 {230}{}{那么洗礼用的圣盘在哪里？}
@@ -452,7 +452,7 @@
 {251}{}{我大概感觉你的灵魂和他妈的变种老鼠的屁股一个样，但是你继续这样下去我就该收拾你了。醒醒把，神棍！}
 
 #{252}{}{Well... Uh.. Peace be with you.. I think... Farewell.. }
-{252}{}{嗯．．．啊．．．愿和平与你同在。我想．．．再见。}
+{252}{}{嗯……啊……愿和平与你同在。我想……再见。}
 
 #{253}{}{Look around you? Do you not hear the messages? How can you doubt the Master's sincerity? }
 {253}{}{看看你的周围。你没有听到那些讯息吗？你怎敢怀疑主教的真实？}
@@ -521,7 +521,7 @@
 {274}{}{隐形人！隐形人！杀呀！}
 
 #{275}{}{This has been a wonderful talk, but I am falling behind in my praises. Farewell. Praise the Master! Praise the Holy Flame! Let us sing the sacred songs.. }
-{275}{}{这次谈话非常有意义，但我的赞美已经落后于进度了。再见。赞美主教！赞美圣火！让我们来唱一些圣歌吧．．．}
+{275}{}{这次谈话非常有意义，但我的赞美已经落后于进度了。再见。赞美主教！赞美圣火！让我们来唱一些圣歌吧……}
 
 #{276}{}{If you do not like it here, you can leave. Praise the Master, and have a nice day. }
 {276}{}{如果你不喜欢这里，你尽可以离开。赞美主教，并祝你日安。}
@@ -542,13 +542,13 @@
 {281}{}{你听说过关于核操作员和旅行推销员的事情吗？}
 
 #{282}{}{Are you sure I can't show you what I do for laughs.. }
-{282}{}{我不会拿你开玩笑的．．}
+{282}{}{我不会拿你开玩笑的……}
 
 #{283}{}{Not that I can think of. Farewell, friend. }
 {283}{}{我不关心那个。再见，我的朋友。}
 
 #{284}{}{I do not believe that I can help you, my friend. Farewell, and have a nice day. Praise the Master! Praise the Holy Flame.. }
-{284}{}{我不认为我能帮助你，我的朋友。再见，祝你日安。赞美主教！赞美圣火．．．}
+{284}{}{我不认为我能帮助你，我的朋友。再见，祝你日安。赞美主教！赞美圣火……}
 
 #{285}{}{I can't help you with that, I'm afraid. Well, I must meditate on the glories of the Master. Please excuse me. Hail the Master! Praise the Holy Flame! }
 {285}{}{恐怕我不能帮助你。嗯，我现在必须冥想关于主教的光辉业绩了。请原谅。向主教致敬！赞美圣火！}
@@ -632,13 +632,13 @@
 {311}{}{一边喝点圣酒一边赞美他如何？我需要喝酒！}
 
 #{312}{}{I see it now. I'll follow the Master's example! I know what's best for you, therefore, I must kill you now! Makes perfect sense.. }
-{312}{}{我现在明白了，我要跟随主教，以他为榜样！因此我知道怎么做才能对的起你，我必须杀了你！多么有意义啊．．．}
+{312}{}{我现在明白了，我要跟随主教，以他为榜样！因此我知道怎么做才能对的起你，我必须杀了你！多么有意义啊……}
 
 #{313}{}{Open your heart. Open your mind. Listen to what people are saying, and you will find enlightenment. }
 {313}{}{打开你的心灵。敞开你的灵魂。听听所有的人在说些什么，你会找到欢乐的。}
 
 #{314}{}{Perhaps there's someone who can explain things more directly. Is the Master available.. }
-{314}{}{也许会有人可以更清楚的表达这一切。也许主教可以．．．}
+{314}{}{也许会有人可以更清楚的表达这一切。也许主教可以……}
 
 #{315}{}{What I'm seeing are a bunch of zombies! }
 {315}{}{我看到的只有一大堆的僵尸！}

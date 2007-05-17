@@ -11,7 +11,7 @@
 {103}{}{嘿！新人！那么，是什么风把你吹到我们的地盘来的，伙计？来这找点乐子？这要看你出手是不是大方啦。}
 
 #{104}{}{Actually, I'm here to kick butt and chew gum . . . you can guess the rest.}
-{104}{}{实际上，我来踢人的屁股和嚼口香糖．．．你能猜出我要干什么。}
+{104}{}{实际上，我来踢人的屁股和嚼口香糖……你能猜出我要干什么。}
 
 #{105}{}{What do you do for fun around here?}
 {105}{}{你在这玩什么？}
@@ -20,7 +20,7 @@
 {106}{}{呃，我要走了。再见。}
 
 #{107}{}{Just stopped by for a drink and some . . . entertainment.}
-{107}{}{停下来喝一杯，再来点．．．好玩的。}
+{107}{}{停下来喝一杯，再来点……好玩的。}
 
 #{108}{}{Glopf!}
 {108}{}{哎呀！}
@@ -53,7 +53,7 @@
 {117}{}{今晚不行，我脑瓜子不舒服。}
 
 #{118}{}{Nah, I'd rather have something to eat . . . perhaps grilled shark!}
-{118}{}{不，我宁愿吃些东西．．．也许是烤鲨鱼！}
+{118}{}{不，我宁愿吃些东西……也许是烤鲨鱼！}
 
 #{119}{}{Ah, you loser. Go run back to your momma.}
 {119}{}{啊，你这懦夫。找你妈妈去吧！}

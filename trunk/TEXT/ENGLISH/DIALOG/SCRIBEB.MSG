@@ -38,4 +38,4 @@
 # prevent the disaster that ruined our world in the past. But
 # wouldn't that . . . stop us from going back if it was fixed . . .
 # oh, my head hurts.}
- {115}{}{时间旅行有朝一日会变为可能，那时我们能防止过去毁灭了我们世界的灾难。但是那会不会．．．阻止我们回到过去如果它是固定的．．．哦，我的头痛了。}
+ {115}{}{时间旅行有朝一日会变为可能，那时我们能防止过去毁灭了我们世界的灾难。但是那会不会……阻止我们回到过去如果它是固定的……哦，我的头痛了。}

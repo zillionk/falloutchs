@@ -3,7 +3,7 @@
 #{101}{Set00}{There'd better be a killer reason for standin' in my
 # shadow. Does 'next on the menu' ring a bell for ya . . .
 # normie.}
-{101}{Set00}{你站在我的地盘上最好能给我一个不杀你的理由。否则你会成为菜单上的一道美味．．．光皮肤的小子。}
+{101}{Set00}{你站在我的地盘上最好能给我一个不杀你的理由。否则你会成为菜单上的一道美味……光皮肤的小子。}
 #{102}{}{Oh, killer it is, no doubt. Obviously I've found the
 # head, uh, man.}
 {102}{}{哦，杀死，毫无疑问，显然我已经找到了老大了，呃，头儿。}
@@ -38,20 +38,20 @@
 {115}{}{不意味任何事。}
 #{116}{Set03}{[Groan] I'm gonna to eat you up and be singing that 'Happy Tummy'
 # song. I got that happy tummy . . .}
-{116}{Set03}{【哼哼声】我要边吃你边唱着那“好胃口”歌。我有那好胃口．．．}
+{116}{Set03}{【哼哼声】我要边吃你边唱着那“好胃口”歌。我有那好胃口……}
 #{117}{Set04}{Fact-time, bitch? I'm gonna enjoy squeezing you.}
 {117}{Set04}{真实时间，贱人？我会享受着榨干你的。}
 #{118}{}{Whatever's in your holster better be bigger than your
 # mouth . . . Unlikely as that is.}
-{118}{}{你手枪套里的玩意儿最好比你的嘴大．．．不太可能貌似。}
+{118}{}{你手枪套里的玩意儿最好比你的嘴大……不太可能貌似。}
 #{119}{}{Squeeze this...}
-{119}{}{榨干这．．．}
+{119}{}{榨干这……}
 #{120}{}{Nuh-uh?}
 {120}{}{呐嗯？}
 #{121}{Set05}{Well. I see some potential here . . . heh . . . I have playmates
 # for you, my sparkling normie. Punish the mutants at the water shed for me.
 # Yeah, yeah, can do . . . yes?}
-{121}{Set05}{好。我看出这儿有些苗头．．．吓．．．我有玩伴给你，我才华横溢的正常人儿。帮我惩罚一下水处理房中的变种人。是的，是的，能完成．．．对吗？}
+{121}{Set05}{好。我看出这儿有些苗头……吓……我有玩伴给你，我才华横溢的正常人儿。帮我惩罚一下水处理房中的变种人。是的，是的，能完成……对吗？}
 #{122}{}{Uh, OK.}
 {122}{}{嗯，行。}
 #{123}{}{Nuh-uh.}
@@ -60,7 +60,7 @@
 # amble back . . . Hmm. If I say to my ghouls to hold
 # off you, the muties might hear and know. So I tell you what,
 # it's favor-time. I keep shut. Got it?}
-{124}{Set06}{好极了。教那些变种人最后一课，再回来．．．哼。如果我向我的僵尸们指明不靠近你，那些变种儿可能会听见并知道怎么回事。所以我告诉你干什么，这次我罩你。我保持沉默。明白吗？}
+{124}{Set06}{好极了。教那些变种人最后一课，再回来……哼。如果我向我的僵尸们指明不靠近你，那些变种儿可能会听见并知道怎么回事。所以我告诉你干什么，这次我罩你。我保持沉默。明白吗？}
 #{125}{}{Got it.}
 {125}{}{明白。}
 #{126}{}{What about the ghouls?}
@@ -130,7 +130,7 @@
 #{153}{}{Got it.}
 {153}{}{明白。}
 #{154}{}{I'm still a little unclear . . .}
-{154}{}{我还是有点不明白．．．}
+{154}{}{我还是有点不明白……}
 #{155}{}{Your face hurts alright.}
 {155}{}{你的脸的确痛。}
 #{156}{Set16}{My name's Set. Yours is World-a-hurt. Take a deal, I
@@ -165,7 +165,7 @@
 {168}{}{呒？}
 #{169}{Set19}{Look before you squeak. You'll enjoy. Be a shame to
 # anger me, now . . . that I'm happy.}
-{169}{Set19}{你惹恼了我，我会很喜欢看你发出尖叫声，现在．．．幸好我挺高兴。}
+{169}{Set19}{你惹恼了我，我会很喜欢看你发出尖叫声，现在……幸好我挺高兴。}
 #{170}{}{I apologize for my outburst, but I'm a little concerned
 # here.}
 {170}{}{抱歉我失态了，但是我有点担心这儿。}
@@ -223,7 +223,7 @@
 {192}{Set26}{呵呵，很好。跟着盖瑞特去领赏。}
 #{193}{Set27}{You steal my time with your lies. Leave my
 # shadow before . . . die. Die! Just die! }
-{193}{Set27}{你用你的谎言浪费我的时间。离开我的地盘在．．．死之前。去死！你该去死！}
+{193}{Set27}{你用你的谎言浪费我的时间。离开我的地盘在……死之前。去死！你该去死！}
 #{194}{Set28}{Walk now. Deal with the mutants, and then
 # return. Not before.}
 {194}{Set28}{现在走。处理变种人，再回来。不是先前。}
@@ -237,7 +237,7 @@
 {197}{}{我是带来死亡的人。跪下祈求宽恕。}
 #{198}{}{I am the bringer of death. Fall to your knees and beg
 # for mercy . . . Or give me a sandwich, I'm pretty hungry.}
-{198}{}{我是带来死亡的人。跪下祈求宽恕．．．或者给我一个三明治，我相当饿。}
+{198}{}{我是带来死亡的人。跪下祈求宽恕……或者给我一个三明治，我相当饿。}
 #{199}{}{I'm here to see the boss. That you?}
 {199}{}{我来这儿见老板。那就是你？}
 #{200}{}{Whoa, major case of acne!}
@@ -252,7 +252,7 @@
 # my way.}
 {203}{}{我杀过僵尸。我杀过变种人。我杀过你甚至无法想象的东西。没人能挡我的道。}
 #{204}{}{How about a face lift . . . It'll look good on my wall.}
-{204}{}{顺搭一张脸怎么样．．．它在我的墙上会看上去不错。}
+{204}{}{顺搭一张脸怎么样……它在我的墙上会看上去不错。}
 #{205}{Set32}{You topped those at the watershed. I find that
 # filling. For that, I'll give words. Then we walk
 # opposite.}
@@ -344,7 +344,7 @@
 #{241}{}{Bite me.}
 {241}{}{咬我啊。}
 #{242}{Set45a}{With pleasure . . .}
-{242}{Set45a}{很荣幸．．．}
+{242}{Set45a}{很荣幸……}
 #{243}{Set46}{No bluff, no twist. The Master does not tremble
 # me. Walk. Your welcome has.}
 {243}{Set46}{没有故弄玄虚，没有拐弯抹角。主教不能动摇我。走开。你不再受欢迎。}
@@ -411,7 +411,7 @@
 {269}{Set56}{盖瑞特会递上可用的东西。}
 #{270}{Set57}{You. Vanished our water processor chip. Exchanged
 # it . . . for your life!}
-{270}{Set57}{你。毁坏了我们的水处理芯片。交换它．．．用你的命！}
+{270}{Set57}{你。毁坏了我们的水处理芯片。交换它……用你的命！}
 #{271}{}{We both need working chips. Apparently there is only
 # one. Is there another method we haven't thought about?}
 {271}{}{我们都需要工作的芯片。显然只有一个。有没有其它我们还没想到的方法？}
@@ -467,9 +467,9 @@
 # merge forever.}
 {294}{Set65}{【赛特把水处理芯片递给一个僵尸，他拿着它跑掉了。】如果你的影子再碰到大墓地，它会永远和大墓地融为一体。}
 #{295}{Set200}{As said . . .}
-{295}{Set200}{依照说．．．}
+{295}{Set200}{依照说……}
 #{296}{Set201}{Stated before . . .}
-{296}{Set201}{之前声名．．．}
+{296}{Set201}{之前声名……}
 #{297}{Set202}{Don't do the deal with normies.}
 {297}{Set202}{不要与正常人儿做生意。}
 #{298}{Set203}{Natter to Garret. My time flies.}
