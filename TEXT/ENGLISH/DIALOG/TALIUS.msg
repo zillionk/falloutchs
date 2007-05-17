@@ -143,7 +143,7 @@
 #{145}{}{Yes. The overseer of the community gave me a shotgun and some shells.
 # However, those were lost many years passed. Since I have never found anything,
 # I could not return.}
-{145}{}{是的。社区的监督者给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现任何东西，我无法回去。}
+{145}{}{是的。社区的所长给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现任何东西，我无法回去。}
 
 #{146}{}{That's really awful. I wish there was something I could do.}
 {146}{}{真是可怕。我希望我能帮你。}
@@ -287,7 +287,7 @@
 
 #{188}{}{Really? Has the Overseer finally seen his way through to allow people
 # to travel outside the Vault?}
-{188}{}{真的？监督者最终允许人们离开避难所到外面去了吗？}
+{188}{}{真的？所长最终允许人们离开避难所到外面去了吗？}
 
 #{189}{}{No, he is still scared of the outside world.}
 {189}{}{不，他仍然害怕外面的世界。}

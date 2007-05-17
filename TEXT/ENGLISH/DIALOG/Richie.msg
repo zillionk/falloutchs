@@ -25,7 +25,7 @@
 #{108}{}{Too late, punk. You're dead.}
 {108}{}{Ì«ÍíÁË£¬Á÷Ã¥¡£ÄãËÀ¶¨ÁË¡£}
 
-#{109}{}{Uh… yeah… runk…}
+#{109}{}{Uh?yeah?runk…}
 {109}{}{àÅ£¿ÊÇÂğ£¿ßö¿©¡£}
 
 #{110}{}{I'm not supposed to be talking to you! Scram!}
@@ -41,7 +41,7 @@
 #{113}{}{You Hub officials make me sick! Inspecting my bosses' vault! What's next, higher taxes? Can't a man
 # earn an honest living anymore without you bureaucrats trying to control everything? One of these days we're
 # going to take a stand. Yeah, one of these days the common man is going to give you fatcats a knee to the
-# balls like you deserve. One of these days we'll get you real good… I can't wait… By the way, it's not meant
+# balls like you deserve. One of these days we'll get you real good?I can't wait?By the way, it's not meant
 # personal. I know you're just doing your job. I'll get out of your face while you do your inspection. Bye.}
 {113}{}{ÄãÕâ¸ö¹ş²ª³ÇµÄ¹ÙÔ±ÕæÈÃÎÒ²»Êæ·ş£¡Ñ²ÊÓÎÒÀÏ°åµÄ±ÜÄÑËù£¡ÍùÏÂÄØ£¬½»Ğ©Ææ¹ÖµÄË°£¿Ã»ÓĞÄãÕâÖÖµ±¹ÙµÄ¹ÜÕâ¹ÜÄÇÎÒÃÇ¾Í»î²»ÁËÂğ£¿×ÜÓĞÒ»ÌìÎÒÃÇ»áÕ¾ÆğÀ´¡£ÊÇµÄ¡£×ÜÓĞÒ»ÌìÎÒÃÇÆ½Ãñ»áÒ»ÆğÌßÄãÃÇµ±¹ÙµÄÆ¨¹É¡£È»ºó°ÑÄãÃÇµÄ²Æ²ú¶¼ÄÃ×ßàÅ£¿µÈ²»¼°ÕâÃ´¸ÉÁË£¬Ë³±ãËµÒ»ÏÂ£¬²»ÊÇÎÒÒ»¸öÈËÏëÕâÃ´¸É¡£ÎÒÖªµÀÄã½ö½öÊÇÖ´ĞĞ¹«Îñ¡£ÎÒ²»ÏëÔÙ¿´×ÅÄãÕâÕÅÁ³£¬ÔÙ¼û¡£}
 
@@ -53,7 +53,7 @@
 
 #{116}{}{Oh just about ten thousand Hub Bucks. Hope you weren't thinking of stealing it. I'd have to kill
 # you. I almost killed someone once, so you don't want to mess with me!}
-{116}{}{Å¶£¬Ò»Íò¸ö¹ş²ª±Ò¡£ÄãÍıÏë¶¯Õâ±ÊÇ®¡£ÎÒ»áÉ±ÁËÄãµÄ¡£ÉÏ´ÎÒÑ¾­°ÑÄ³¸ö²»ÖªºÃ´õµÄ´òÁË¸ö°ëËÀ£¬Äã±ğÏë}
+{116}{}{Å¶£¬Ò»Íò¸ö¹ş²ª±Ò¡£ÄãÍıÏë¶¯Õâ±ÊÇ®¡£ÎÒ»áÉ±ÁËÄãµÄ¡£ÉÏ´ÎÒÑ¾­°ÑÄ³¸ö²»ÖªºÃ´õµÄ´òÁË¸ö°ëËÀ£¬Äã±ğÏë£¡}
 
 #{117}{}{Man, you're stupid. Oh, sorry, I didn't mean to offend you. Now let's try this again. "Yes" means I
 # blow your head off. "No" means you get your butt out of here. Which is it going to be?}
@@ -62,7 +62,7 @@
 #{118}{}{Ah . . . yes . . .}
 {118}{}{àÅ£®£®£®ÊÇ£®£®£®}
 
-#{119}{}{Uh… no…}
+#{119}{}{Uh?no…}
 {119}{}{àÅ£¿ßö¿©£¿}
 
 #{120}{}{Runk! Runk!}

@@ -74,7 +74,7 @@
 
 #{126}{}{Hmm. If you are really from Adytum, then you are still a loser.
 # There can never be peace while those Rippers are still around.}
-{126}{}{嗯，如果你真的来自内城区，你是个败者，如果莱普士帮在这周围就永远没有和平。}
+{126}{}{嗯，如果你真的来自内城区，你是个败者，如果电锯党在这周围就永远没有和平。}
 
 #{127}{}{What do you mean?}
 {127}{}{你什么意思？}
@@ -148,5 +148,5 @@
 
 #{149}{}{Thank you so much. We will stay here with the Followers now,
 # where we can be happily married.}
-{149}{}{非常感谢你，我将会和“启示录”预言派们一起住在这里，然后幸福的结婚。}
+{149}{}{非常感谢你，我将会和末世论者一起住在这里，然后幸福的结婚。}
 
