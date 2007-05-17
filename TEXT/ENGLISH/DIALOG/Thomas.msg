@@ -99,7 +99,7 @@
 {131}{}{好。让我看看你学的如何。}
 
 #{132}{}{Very good. You lasted much longer than I thought you would.}
-{132}{}{非常好。你}
+{132}{}{非常好。你坚持的事件比我料想的还长。}
 
 #{133}{}{You can go back to the line.}
 {133}{}{回到你那一排里去。}

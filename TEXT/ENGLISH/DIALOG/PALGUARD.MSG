@@ -23,7 +23,7 @@
 #talk to Cabbot, by the door.}
 #{118}{}{Initiate, shouldn't you be doing something useful?}
 #{119}{}{I don't think you should be here, stranger.}
-{100}{}{你看见一个骑士警卫。}
+{100}{}{你看见一个游侠警卫。}
 {101}{}{咳，看看有什么好货？}
 {102}{}{对不起，我在值班。现在不能谈话。}
 {103}{}{好天气。我希望我们今天不要有任何行动。}

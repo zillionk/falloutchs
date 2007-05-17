@@ -1,8 +1,8 @@
 #{100}{}{The Raider is too frightened of Garl to speak to you any more.}
-{100}{}{强盗被伽尔吓坏了以至于再也不和你进一步交谈。}
+{100}{}{歹徒被伽尔吓坏了以至于再也不和你进一步交谈。}
 
 #{101}{}{You see a tough desert Raider.}
-{101}{}{你看到一个彪强悍的沙漠强盗。}
+{101}{}{你看到一个彪悍的沙漠歹徒。}
 
 #{102}{}{It's the Death-Hand. He's returned!}
 {102}{}{是死亡之手。他回来了！}
@@ -26,7 +26,7 @@
 {108}{}{嘿。}
 
 #{109}{}{I'm waiting for Garl to crush Shady Sands. I want some loot.}
-{109}{}{我等伽尔把荒漠小镇打垮后，再去洗劫一番。}
+{109}{}{我等伽尔把沙荫镇打垮后，再去洗劫一番。}
 
 #{110}{}{Welcome friend.}
 {110}{}{欢迎你朋友。}
@@ -44,7 +44,7 @@
 {114}{}{哦，一个恶棍，嗯？}
 
 #{115}{}{Garl Death-Hand loves his warriors. Put that thing away and go talk to him.}
-{115}{}{伽尔死亡之手喜欢她的战士。收起你的武器和去和他谈谈。}
+{115}{}{“死亡之手”伽尔喜欢他的战士。收起你的武器和去和他谈谈。}
 
 #{116}{}{So, you think you're tough, huh? Mess with me and we'll both find out.}
 {116}{}{你觉得你很壮，嗯？我们比试比试看谁更厉害。}
@@ -92,7 +92,7 @@
 {130}{}{真的吗？她长什么样子？}
 
 #{131}{}{About 6 feet tall. Blonde. She's from Shady Sands.}
-{131}{}{大概六英尺高。白皮肤。她来自荒漠小镇。}
+{131}{}{大概六英尺高。白皮肤。她来自沙荫镇。}
 
 #{132}{}{Yeah, she's here. She's in the big house. You know, if we tell Garl,
 # then he would want a piece of the bounty. You might want to think about that.}
@@ -103,7 +103,7 @@
 {133}{}{听上去不是真的。讲讲那些事情。如果你跟我说实话，我就给你一大笔奖励。}
 
 #{134}{}{I . . . I can't say any more, or Garl will kill me.}
-{134}{}{我．．．我不能说太多，不然伽尔会杀了我的。}
+{134}{}{我……我不能说太多，不然伽尔会杀了我的。}
 
 #{135}{}{Bite me!}
 {135}{}{干我呀！}

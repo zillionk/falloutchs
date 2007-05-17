@@ -11,17 +11,17 @@
 #{104}{}{You suffer }
 {104}{}{你受到}
 #{105}{}{ damage.}
-{105}{}{ 伤害。}
+{105}{}{点伤害。}
 #{106}{}{Hidden gun ports open fire! Startled, you trip and
 # fall, suffering only minor injuries.}
 {106}{}{隐藏的枪械射击孔开火了！受到惊吓，你被绊倒跌倒在地，只受了点轻伤。}
 #{107}{}{You suffer }
 {107}{}{你受到}
 #{108}{}{ damage.}
-{108}{}{ 伤害。}
+{108}{}{点伤害。}
 #{109}{}{Hidden gun ports open fire! You are hit!}
 {109}{}{隐藏的枪械射击孔开火了！你被击中了！}
 #{110}{}{You suffer }
 {110}{}{你受到}
 #{111}{}{ damage.}
-{111}{}{ 伤害。}
+{111}{}{点伤害。}

@@ -264,7 +264,7 @@
 {175}{}{你得到}
 
 #{176}{}{ experience for successfully rescuing Sinthia.}
-{176}{}{　点经验值，因为你成功地救了辛西娅。}
+{176}{}{点经验值，因为你成功地救了辛西娅。}
 
 #{177}{}{The guards remove the raider while he is unconscious.}
 {177}{}{守卫没等强盗恢复知觉就把他带走了。}
