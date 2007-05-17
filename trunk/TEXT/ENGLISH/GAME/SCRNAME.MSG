@@ -34,14 +34,14 @@
 {104}{}{守卫}                                      #bguard
 {105}{}{双头牛}                                            #cow
 {106}{}{军火商的守卫}                           #MoatGrd
-{107}{}{荒漠小镇的守卫}                              #guard
+{107}{}{沙荫镇的守卫}                              #guard
 {108}{}{乞丐}                                          #loser
-{109}{}{荒漠小镇的农民}                            #pleasant
+{109}{}{沙荫镇的农民}                            #pleasant
 {110}{}{军火商}                                      #GunRnr
 {111}{}{入口的地图}                                #map_init
 {112}{}{大蝎子}                                    #radscorp
 {113}{}{超级变种人士兵}                            #mutant2
-{114}{}{荒漠小镇的井}                               #sswell
+{114}{}{沙荫镇的井}                               #sswell
 {115}{}{赛特}                                            #set
 {116}{}{哈里}                                          #harry
 {117}{}{治疗针}                                        #stimpack
@@ -165,7 +165,7 @@
 {175}{}{僵尸守卫}                                    #  GhZero
 {176}{}{一个被关在笼子里的发光僵尸}                              #  GlowOne
 {177}{}{在地下工作的人}                                  #  Groundr
-{178}{}{荒漠小镇守卫}                              #  Guard
+{178}{}{沙荫镇守卫}                              #  Guard
 {179}{}{哈里}                                          #  Harry
 {180}{}{拉里}                                          #  Larry
 {181}{}{工头}                                  #  Leader
@@ -216,7 +216,7 @@
 {196}{}{墙}                                           #  SetSctDr
 {197}{}{奇怪的味道}                                      #  Smell
 {198}{}{治疗针}                                        #  StimPack
-{199}{}{活死人镇仓库}                           #  StoreRom
+{199}{}{大墓地仓库}                           #  StoreRom
 {200}{}{超级变种人}                                   #  Super
 {201}{}{泰里}                                          #  Terry
 {202}{}{屋顶}                                         #  Garret
@@ -224,15 +224,15 @@
 {204}{}{莫彼得}                                         #  Morbid
 {205}{}{杜摩尔}                                          #  Dumar
 {206}{}{巴斯通}                                        #  Barstow
-{207}{}{大教堂教徒的孩子}             #  Genint
-{208}{}{Children of the Cathedral Healer}               #  JtChidMem
-{209}{}{在地下工作的人侦察兵}                          #  Lookout
+{207}{}{大教堂教徒}             #  Genint
+{208}{}{大教堂教徒}               #  JtChidMem
+{209}{}{地下居民的侦察兵}                          #  Lookout
 {210}{}{计算机}                                       #  MachIV
 {211}{}{被塞满的房间}                                   #  BlkRoom
 {212}{}{荒凉的沙漠}                                         #  RndDesrt
-{213}{}{荒漠小镇的守卫}                              #  TGuard
-{214}{}{荒漠小镇的厨子}                               #  cook
-{215}{}{荒漠小镇的居民}                            #  citizen
+{213}{}{沙荫镇的守卫}                              #  TGuard
+{214}{}{沙荫镇的厨子}                               #  cook
+{215}{}{沙荫镇的居民}                            #  citizen
 {216}{}{椅子}                                          #  HousChar
 {217}{}{阿加莎的床}                                   #  AgathBed
 {218}{}{罗兹的床}                                    #  RozBed
@@ -278,11 +278,11 @@
 {227}{}{水果}                                  #  Fruit
 {228}{}{双头牛粪的味道}                              #  PenSmell
 {229}{}{罗兹}                                          #  Razlo
-{230}{}{13号避难所居民}                               #  ValtCtzn
-{231}{}{13号避难所通风口}                               #  ValtLock
-{232}{}{13号避难监督者}                               #  ValtMon
-{233}{}{13号避难所核心}                          #  CoreComp
-{234}{}{13号避难所电脑图书馆}                      #  LibComp
+{230}{}{１３号避难所居民}                               #  ValtCtzn
+{231}{}{１３号避难所通风口}                               #  ValtLock
+{232}{}{１３号避难监督者}                               #  ValtMon
+{233}{}{１３号避难所核心}                          #  CoreComp
+{234}{}{１３号避难所电脑图书馆}                      #  LibComp
 {235}{}{卡尔诺}                                         #  Assblow
 {236}{}{歹徒}                                         #  GenRaidr
 {237}{}{伽尔}                                           #  Garl
@@ -346,7 +346,7 @@
 {265}{}{井口}                                        #  NWUp2Dn1
 {266}{}{井口}                                        #  NWUp2Dn2
 {267}{}{井口}                                        #  NWUp2Dn3
-{268}{}{13号避难所居民}                               #  Ration
+{268}{}{１３号避难所居民}                               #  Ration
 {269}{}{向上的梯子}                                         #  NWDn2Up1
 {270}{}{向上的梯子}                                         #  NWDn2Up2
 {271}{}{向上的梯子}                                         #  NWDn2Up3
@@ -356,7 +356,7 @@
 {275}{}{井口}                                        #  NHUp2Dn1
 {276}{}{井口}                                        #  NHUp2Dn2
 {277}{}{井口}                                        #  NHUp2Dn3
-{278}{}{13号避难所官员}                               #  Officer
+{278}{}{１３号避难所官员}                               #  Officer
 {279}{}{向上的梯子}                                         #  NHDn2Up1
 {280}{}{向上的梯子}                                         #  NHDn2Up2
 # {281}{}{Ladder}                                         #  NHDn2Up3
@@ -392,22 +392,22 @@
 {281}{}{向上的梯子}                                         #  NHDn2Up3
 {282}{}{蝎子洞}                              #  RadSCave
 {283}{}{赛思}                                           #  Seth
-{284}{}{13号避难所的医生}                                 #  Medic
-{285}{}{13号避难所的居民}                               #  GenVault
+{284}{}{１３号避难所的医生}                                 #  Medic
+{285}{}{１３号避难所的居民}                               #  GenVault
 {286}{}{迦克镇红灯区}                                #  JunkCas
 {287}{}{迦克镇破屋区}                            #  JunkKill
 {288}{}{迦克镇入口}                              #  JunkEnt
 {289}{}{被堵塞的通道}                                #  Blkrom
 {290}{}{通风口}                                        #  BVAir
 {291}{}{医疗用品储藏室}                                  #  BVCache
-{292}{}{15号避难所入口}                              #  BVEnt
-{293}{}{荒漠小镇}                                    #  ShadyEt
-{294}{}{荒漠小镇}                                    #  ShadyWst
+{292}{}{１５号避难所入口}                              #  BVEnt
+{293}{}{沙荫镇}                                    #  ShadyEt
+{294}{}{沙荫镇}                                    #  ShadyWst
 {295}{}{医学实验室}                                    #  MedLab
 {296}{}{无人的破木屋}                               #  shack
 {297}{}{赛思}                                           #  Seth2
-{298}{}{钢铁兄弟会文职人员}                             #  SCRIBEA
-{299}{}{13号避难所}                                       #  Vault13
+{298}{}{钢铁兄弟会研究员}                             #  SCRIBEA
+{299}{}{１３号避难所}                                       #  Vault13
 {300}{}{电梯}                                       #  BVElv1W
 {301}{}{电梯}                                       #  BVElv2E
 {302}{}{电梯}                                       #  BVElv2W
@@ -415,9 +415,9 @@
 {304}{}{毁坏的电梯}                                #  BVBroken
 {305}{}{钢铁兄弟会入口}                  #  BroHdEnt
 {306}{}{老鼠养殖场}                               #  RatPit
-{307}{}{Darkness}                                       #  FearDark
+{307}{}{黑暗}                                       #  FearDark
 {308}{}{塌陷的大洞}                                  #  ValtLeav
-{309}{}{13号避难所居民}                               #  ValtCupl
+{309}{}{１３号避难所居民}                               #  ValtCupl
 {310}{}{你的房间}                           #  YourRoom
 # {311}{}{Katrina}                                        #  SSGuide
 # {312}{}{Cave Openning}                                  #  LiteLeav
@@ -451,13 +451,13 @@
 # {340}{}{Raider Guard}                                   #  RaidGrd
 {311}{}{卡特里娜}                                        #  SSGuide
 {312}{}{塌陷的大洞}                                  #  LiteLeav
-{313}{}{13号避难所核心}                          #  ValtCore
+{313}{}{１３号避难所核心}                          #  ValtCore
 {314}{}{计算机}                                       #  VCompOp
-{315}{}{13号避难所作战指挥室}                       #  ValtOp
-{316}{}{13号避难所保安室}                         #  ValtSec
-{317}{}{13号避难所储藏室}                               #  ValtStor
-{318}{}{13号避难所会议室}                          #  ValtMeet
-{319}{}{13号避难所医学实验室}                           #  ValtMed
+{315}{}{１３号避难所作战指挥室}                       #  ValtOp
+{316}{}{１３号避难所保安室}                         #  ValtSec
+{317}{}{１３号避难所储藏室}                               #  ValtStor
+{318}{}{１３号避难所会议室}                          #  ValtMeet
+{319}{}{１３号避难所医学实验室}                           #  ValtMed
 {320}{}{废金属堆}                                      #  JunkDemo
 {321}{}{迦克镇守卫}                                 #  GuarDemo
 {322}{}{}                                               #  WanRats
@@ -466,7 +466,7 @@
 {325}{}{电梯}                                       #  ValEl2w
 {326}{}{电梯}                                       #  ValEl2e
 {327}{}{电梯}                                       #  ValEl3
-{328}{}{15号避难所}                                       #  Vaultbur
+{328}{}{１５号避难所}                                       #  Vaultbur
 {329}{}{狗}                                            #  dog
 {330}{}{僵尸守卫}                                    #  GhRndGrd
 {331}{}{愤怒的僵尸}                                    #  GhKick
@@ -529,8 +529,8 @@
 {358}{}{教众}                              #  FolSchol
 {359}{}{教徒}                             #  FolInit
 {360}{}{隐形人侦察兵}                                 #  FlSupMut
-{361}{}{大教堂教徒的孩子}              #  ChidScol
-{362}{}{大教堂教徒的孩子}             #  ChidInit
+{361}{}{大教堂教徒}              #  ChidScol
+{362}{}{大教堂教徒}             #  ChidInit
 {363}{}{教徒侦察兵}                                #  FolScout
 {364}{}{教徒警卫}                                #  FolGuard
 {365}{}{超级变种人学者}                           #  ThSupMut
@@ -573,8 +573,8 @@
 {372}{}{安柏尔}                                          #  Amber
 {373}{}{阿德姆}                                         #  Uthern
 {374}{}{塔琉斯}                                         #  Talius
-{375}{}{大教堂警卫的孩子}                #  ChdGuard
-{376}{}{大教堂侦察兵的孩子}                #  ChdScout
+{375}{}{大教堂教徒警卫}                #  ChdGuard
+{376}{}{大教堂教徒侦察兵}                #  ChdScout
 {377}{}{超级变种人侦察兵}                             #  ScSupMut
 {378}{}{剃刀}                                          #  Razor
 {379}{}{利刃帮小头目}                                  #  Blade
@@ -645,17 +645,17 @@
 {414}{}{诺斯}                                           #  Freezer
 {415}{}{佛罗伊}                                          #  Farli
 {416}{}{达雷尔}                                         #  Darrel
-{417}{}{骑士兄弟会警卫}                      #  PalGuard
+{417}{}{钢铁兄弟会警卫}                      #  PalGuard
 {418}{}{塔鲁斯}                                          #  Talus
 {419}{}{索非亚}                                         #  Sophia
 {420}{}{麦克尔}                                        #  Michael
 {421}{}{牢固的门}                                    #  Glo4Weap
-{422}{}{钢铁兄弟会文职人员}                             #  ScribeA
-{423}{}{钢铁兄弟会文职人员}                             #  ScribeB
+{422}{}{钢铁兄弟会研究员}                             #  ScribeA
+{423}{}{钢铁兄弟会研究员}                             #  ScribeB
 {424}{}{钢铁兄弟会警卫}                     #  Sentry
-{425}{}{钢铁兄弟会战士}                            #  PaladinA
+{425}{}{钢铁兄弟会游侠}                            #  PaladinA
 {426}{}{钢铁兄弟会警卫}                      #  PaladinB
-{427}{}{钢铁兄弟会战士}                            #  PaladinC
+{427}{}{钢铁兄弟会游侠}                            #  PaladinC
 {428}{}{蓝色的电梯}                 #  GloBlElv
 {429}{}{钢铁兄弟会新兵}                             #  KnightA
 {430}{}{钢铁兄弟会新兵}                             #  KnightB
@@ -692,7 +692,7 @@
 {431}{}{书桌}                                           #  GlowDesk
 {432}{}{类似手臂的武器系统}                          #  WeapSys
 {433}{}{奇怪的磁盘}                               #  Artifact
-{434}{}{Cabinet}                                        #  GloCabn
+{434}{}{内阁}                                        #  GloCabn
 {435}{}{毒气}                                  #  GasTrap
 {436}{}{激光}                                         #  LazrTrap
 {437}{}{疯狂的歹徒}                                  #  JtRaider
@@ -701,7 +701,7 @@
 {440}{}{坚固的保险柜}                                    #  KillSafe
 {441}{}{鲍勃}                                            #  JtBob
 {442}{}{特里诗}                                          #  Trish
-{443}{}{13号避难所大门}                                  #  V13Door
+{443}{}{１３号避难所大门}                                  #  V13Door
 {444}{}{电脑门}                                  #  V13Comp
 {445}{}{全息磁盘}                                       #  DiskA
 {446}{}{全息磁盘}                                       #  DiskD
@@ -714,9 +714,9 @@
 {453}{}{狗肉}                                        #  Junkdog
 {454}{}{吃角子老虎机}                                   #  ChepSlot
 {455}{}{吃角子老虎机}                                   #  GoodSlot
-{456}{}{赌21点的台子}                                #  LowJack
-{457}{}{赌21点的台子}                                #  HighJack
-{458}{}{大教堂技术员的孩子}           #  ChocTech
+{456}{}{赌２１点的台子}                                #  LowJack
+{457}{}{赌２１点的台子}                                #  HighJack
+{458}{}{大教堂教徒技术员}           #  ChocTech
 {459}{}{艾贝尔}                                           #  Abel
 {460}{}{力场}                                    #  FieldA
 # {461}{}{Radio}                                          #  Radio
@@ -738,7 +738,7 @@
 # {477}{}{Zack}                                           #  Zack
 # {478}{}{Theresa}                                        # theresa
 # {479}{}{Upset Vault 13 Citizen}                         # REBEL
-# {480}{}{Refridgerator}                                  # demodoor
+# {480}{}{冰箱}                                  # demodoor
 # {481}{}{Brotherhood Scribe}                             # SCRIBEC
 # {482}{}{Jason}                                          # JASON
 # {483}{}{Thug}                                           # THUG
@@ -767,9 +767,9 @@
 {476}{}{菲尔}                                           #  DemoPhil
 {477}{}{赞克}                                           #  Zack
 {478}{}{特蕾莎}                                        # theresa
-{479}{}{不舒服的13号避难所居民}                         # REBEL
+{479}{}{不安的１３号避难所居民}                         # REBEL
 {480}{}{有透明门冰箱}                                  # demodoor
-{481}{}{钢铁兄弟会文职人员}                             # SCRIBEC
+{481}{}{钢铁兄弟会研究员}                             # SCRIBEC
 {482}{}{贾森}                                          # JASON
 {483}{}{恶棍}                                           # THUG
 {484}{}{拉舍尔}                                         # lasher
@@ -809,7 +809,7 @@
 # {517}{}{Follower of the Apocalypse}                     # FollMap.int
 # {518}{}{Computer}                                       # SemiComp
 # {519}{}{Irradiated Rat}                                 # RadRat
-# {520}{}{Refridgerator}                                  # NGarFrdg
+# {520}{}{冰箱}                                  # NGarFrdg
 {491}{}{斯拉莫}                                        #Slummer
 {492}{}{扎克}                                           #Zark
 {493}{}{考尔德}                                         # Calder
@@ -823,23 +823,23 @@
 {501}{}{罗格尔}                                         # Rutger
 {502}{}{费克斯}                                          # Phrax
 {503}{}{发电机}                                      # DemoGen
-{504}{}{Crypt Ganger}                                   #DemoCryp
+{504}{}{地窖工头}                                   #DemoCryp
 {505}{}{呆滞的地窖工人}                                    # DemoFool
 {506}{}{兰尼}                                          #Lenny
 {507}{}{艾斯派克}                                        #Icepick
 {508}{}{斯盖则}                                        # Skizzer
-{509}{}{废车场居民}                              # Pez
+{509}{}{居民}                              # Pez
 {510}{}{罗克}                                           # Rock
 {511}{}{莱克斯}                                            # Lex.int
 {512}{}{瑞斯}                                          # Rayze.int
 {513}{}{寺姬}                                         #Skippy.int
 {514}{}{巴克}                                           #Baka.int
-{515}{}{Scout the Crypts}                               # scoutc.int
-{516}{}{Scout the Fools}                                # scoutf.int
+{515}{}{地窖的侦察兵}                               # scoutc.int
+{516}{}{迟钝的侦察兵}                                # scoutf.int
 {517}{}{“启示录”狂热者}                     # FollMap.int
 {518}{}{计算机}                                       # SemiComp
 {519}{}{发光的地鼠}                                 # RadRat
-{520}{}{Refridgerator}                                  # NGarFrdg
+{520}{}{冰箱}                                  # NGarFrdg
 # {521}{}{Ladder}                                         # WtrLadr
 # {522}{}{Ladder}                                         #  NecVLadr
 # {523}{}{Manhole}                                        # NecVHole
@@ -874,9 +874,9 @@
 {522}{}{梯子}                                         #  NecVLadr
 {523}{}{井口}                                        # NecVHole
 {524}{}{井口}                                        # WtrHole
-{525}{}{活死人镇避难所}                               # ValtNec
+{525}{}{大墓地避难所}                               # ValtNec
 {526}{}{城镇地图}                                       # TownMap
-{527}{}{密封舱门}                                   # MVAirloc.ssl
+{527}{}{密封门}                                   # MVAirloc.ssl
 {528}{}{书架}                                      # MVBShelf.ssl
 {529}{}{书架}                                      # MVSctShf.ssl
 {530}{}{山洞}                                          # V13Cave
@@ -891,12 +891,12 @@
 {539}{}{歹徒}                                         # GenRaid2
 {540}{}{贾维斯}                                         # Jarvis
 {541}{}{军营}                                     # MBStrong
-{542}{}{堡垒}                                           # MBVats
+{542}{}{病毒槽}                                           # MBVats
 {543}{}{军营入口}                         # MBEnt
 {544}{}{大教堂教徒}                      #Childrn1.int
 {545}{}{大教堂教徒}                      #Childrn2.int
-{546}{}{主教的掩体}                                 #Master1.int
-{547}{}{主教的掩体}                                 # Master2.int
+{546}{}{主教的避难所}                                 #Master1.int
+{547}{}{主教的避难所}                                 # Master2.int
 {548}{}{计算机}                                       # MVComp
 {549}{}{核弹头}                                # MVNuke
 {550}{}{电梯}                                       # MVDwn2Up.int
@@ -937,7 +937,7 @@
 {555}{}{楼梯口}                                      # Tow2Chid.int
 {556}{}{门}                                           # COCDoor.int
 {557}{}{山洞}                                          # Cave2v13.int
-{558}{}{13号避难所}                                       # V132Cave.int
+{558}{}{１３号避难所}                                       # V132Cave.int
 {559}{}{牢固的门}                                    # SecDoor.int
 {560}{}{聚光灯}                                     # SPOTLITE
 {561}{}{偷水贼}                                    # WtrThief.int
@@ -953,13 +953,13 @@
 {571}{}{电梯}                                       # Elev5.int
 {572}{}{电梯}                                       # Elev6.int
 {573}{}{酒吧的混混}                                         # Barfly.int
-{574}{}{15号避难所}                                       # BV2Vault.int
+{574}{}{１５号避难所}                                       # BV2Vault.int
 {575}{}{核子可乐卡车}                                # ColaTruk.int
 {576}{}{飞碟}                                  # FSauser.int
-{577}{}{死亡谷}                                       # Glowent.int
-{578}{}{死亡谷}                                       # GlowMap1.int
-{579}{}{死亡谷}                                       # GlowMap2.int
-{580}{}{洛山矶废车场}                                  # LAAdytum.int
+{577}{}{闪光之地}                                       # Glowent.int
+{578}{}{闪光之地}                                       # GlowMap1.int
+{579}{}{闪光之地}                                       # GlowMap2.int
+{580}{}{晒骨场}                                  # LAAdytum.int
 # {581}{}{L.A. Boneyard}                                  #LABlades.int
 # {582}{}{L.A. Boneyard}                                  # LAGunRun.int
 # {583}{}{L.A. Boneyard}                                  # LARipper.int
@@ -990,9 +990,9 @@
 # {608}{}{Neal}                                           # Neal.int
 # {609}{}{Floor}                                          # TrapFlor.int
 # {610}{}{Kenji}                                          # Kenji.int
-{581}{}{洛杉矶废车场}                                  #LABlades.int
-{582}{}{洛杉矶废车场}                                  # LAGunRun.int
-{583}{}{洛杉矶废车场}                                  # LARipper.int
+{581}{}{晒骨场}                                  #LABlades.int
+{582}{}{晒骨场}                                  # LAGunRun.int
+{583}{}{晒骨场}                                  # LARipper.int
 {584}{}{哈勃城}                                        # HubEnt.int
 {585}{}{哈勃城}                                        # HubDwnTn.int
 {586}{}{哈勃城}                                        # HubHeigt.int
@@ -1011,7 +1011,7 @@
 {599}{}{达恩}                                           # Dane.int
 {600}{}{乔纳森}                                       # Jonathan.int
 {601}{}{钢铁兄弟会新兵}                            # Student.int
-{602}{}{大教堂里的小孩}                      # Cath2MV.int
+{602}{}{大教堂教徒}                      # Cath2MV.int
 {603}{}{牢固的门}                                    # Glo4Supl.int
 {604}{}{下水道}                                         # Hall2Mtl.int
 {605}{}{下水道}                                         # Hall2Shd.int
@@ -1050,8 +1050,8 @@
 # {638}{}{Force Field}                                    # FieldC.int
 # {639}{}{Force Field}                                    # FieldD.int
 # {640}{}{Force Field}                                    # FieldE.int
-{611}{}{死亡谷}                                       # GEnt2Lv1.int
-{612}{}{死亡谷}                                       # GLv12Ent.int
+{611}{}{闪光之地}                                       # GEnt2Lv1.int
+{612}{}{闪光之地}                                       # GLv12Ent.int
 {613}{}{楼梯}                                      # CTower1.int
 {614}{}{楼梯}                                      # CTower2.int
 {615}{}{楼梯}                                      # CTower3.int
@@ -1171,14 +1171,14 @@
 # {699}{}{Richie}                                         # richie.int
 # {700}{}{Rufus}                                          # rufus.int
 {671}{}{农民}                                         # femfarmr.int
-{672}{}{来自远方商队的警卫}                            # fgtgard.int
+{672}{}{远行商队警卫}                            # fgtgard.int
 {673}{}{哈勃城的警察}                             # gencop.int
-{674}{}{来自远方商队的商人}                         # genfgt.int
+{674}{}{远行商队商人}                         # genfgt.int
 {675}{}{斯盖格}                                           # genskag.int
-{676}{}{航天工程师}                                          # guido.int
+{676}{}{古维多}                                          # guido.int
 {677}{}{牢固的门}                                    # gunlock.int
 {678}{}{警卫}                                      # hbodgrd2.int
-{679}{}{大教堂警卫的孩子}                # hchdgrd.int
+{679}{}{大教堂教徒警卫}                # hchdgrd.int
 {680}{}{农民}                                         # hgenfarm.int
 {681}{}{哈勃城的警卫}                                  # hgengrd.int
 {682}{}{达伦·海托}                                # hightowr.int
@@ -1189,7 +1189,7 @@
 {687}{}{哈勃城的警官}                         # hubcop.int
 {688}{}{戴花的嬉皮士}                                   # hubflrcd.int
 {689}{}{杰克}                                           # hubjake.int
-{690}{}{大教堂修士的孩子}              # hubpatnt.int
+{690}{}{大教堂修士}              # hubpatnt.int
 {691}{}{施密蒂}                                         # hubsmity.int
 {692}{}{贾斯麦}                                        # jasmine.int
 {693}{}{招聘信息}                                       # jobpost.int
@@ -1320,7 +1320,7 @@
 {757}{}{旧的售货车}                              # Dealer.int
 {758}{}{旧的罗德轿车}                                   # UsedCar.int
 {759}{}{钢铁兄弟会}                           # BroDead.int
-{760}{}{大教堂里的孩子}                      # ChilDead.int
+{760}{}{大教堂教徒}                      # ChilDead.int
 {761}{}{军事基地入口}                         # MBDead.int
 # {762}{}{Sarah}                                          # Sarah.int
 # {763}{}{Agatha}                                         # Agatha.int
@@ -1370,7 +1370,7 @@
 {778}{}{维葛普}                                         # Wiggup.int
 {779}{}{疯狂的科学家}                                  # MadSci.int
 {780}{}{文森特}                                        # Vincent.int
-{781}{}{Farm Parts}                                     # FARMPART.int
+{781}{}{饲养场}                                     # FARMPART.int
 {782}{}{囚犯}                                       # MLPrison.int
 {783}{}{囚犯}                                       # GenPris.int
 {784}{}{计算机}                                       # PrisCon.int
@@ -1431,14 +1431,14 @@
 {809}{}{约翰}                                           # HJohn.int
 {810}{}{赌场庄家}                                         # HGenDeal.int
 {811}{}{做祷告的超级变种人}                           # Smpray.int
-{812}{}{大教堂中祈祷的孩子}                 # Cpray.int
+{812}{}{大教堂中祈祷的教徒}                 # Cpray.int
 {813}{}{农民}                                        # PeasVict.int
 {814}{}{轮盘赌的庄家}                                # HRoulet.int
 {815}{}{迦克镇农民}                               # JunkPeas.int
 {816}{}{钢铁兄弟会教官}                         # Teacher.int
-{817}{}{钢铁兄弟会文职人员}                             # Genscrib.int
+{817}{}{钢铁兄弟会研究员}                             # Genscrib.int
 {818}{}{钢铁兄弟会新兵}                             # Genknigh.int
-{819}{}{钢铁兄弟会战士}                            # Genpalad.int
+{819}{}{钢铁兄弟会游侠}                            # Genpalad.int
 {820}{}{老虎机}                                   # Hslots.int
 # {821}{}{Staircase}                                      # RipUp2Dn.int
 # {822}{}{Stairwell}                                      # RipDn2Up.int
@@ -1466,13 +1466,13 @@
 # {844}{}{Holodisk}                                       # BroHist.int
 # {845}{}{Holodisk}                                       # SopDisk.int
 # {846}{}{Holodisk}                                       # MaxDisk.int
-# {847}{}{Refridgerator}                                  # Fridg.int
+# {847}{}{冰箱}                                  # Fridg.int
 # {848}{}{Bookcase}                                       # HubSafe.int
 # {849}{}{Raider}                                         # GenRaidA.int
 # {850}{}{Raider}                                         # GenRaidB.int
 {821}{}{向下的楼梯}                                      # RipUp2Dn.int
 {822}{}{向上的楼梯口}                                      # RipDn2Up.int
-{823}{}{钢铁兄弟会文职人员}                             # Rd1Scrb1.int
+{823}{}{钢铁兄弟会研究员}                             # Rd1Scrb1.int
 {824}{}{钢铁兄弟会新兵}                             # Rd1Knig.int
 {825}{}{计算机终端}                              # term.int
 {826}{}{计算机终端}                              # term1.int
@@ -1537,15 +1537,15 @@
 {855}{}{警卫}                                          # GenGrdA.int
 {856}{}{警卫}                                          # GenGrdB.int
 {857}{}{警卫}                                          # GenGrdC.int
-{858}{}{钢铁兄弟会战士}                            # GenPalA.int
-{859}{}{钢铁兄弟会战士}                            # GenPalB.int
-{860}{}{钢铁兄弟会战士}                            # GenPalC.int
+{858}{}{钢铁兄弟会游侠}                            # GenPalA.int
+{859}{}{钢铁兄弟会游侠}                            # GenPalB.int
+{860}{}{钢铁兄弟会游侠}                            # GenPalC.int
 {861}{}{商队}                                      # CrvnTeam.int
 {862}{}{}                                               # CrvnMstr.int
 {863}{}{歹徒}                                         # CrvnEnmy.int
 {864}{}{正在出售的货物}                                 # KillStor.int
 {865}{}{行进中的旅行者}                             # CarEnctr.int
-{866}{}{Commonly Said Things}                           # GenChat.int
+{866}{}{普通的东西}                           # GenChat.int
 {867}{}{临时安置区}                                # TEMP
 {868}{}{临时安置区}                                # TEMP
 {869}{}{临时安置区}                                # TEMP
@@ -1650,7 +1650,7 @@
 # {938}{}{Stupid Mutant}                                  # PowerMut.int
 # {939}{}{Bulletin Board}                                 # bullbord.int
 # {940}{}{Gunrunners' Suitcase}                           # GunCase.int
-{911}{}{大教堂工程师的孩子}           # MLOps.int
+{911}{}{大教堂教徒技术员}           # MLOps.int
 {912}{}{维舍斯}                                       # Viscious.int
 {913}{}{水配给存贮箱}                      # VaultBox.int
 {914}{}{计算机}                                       # MstrComp.int
@@ -1658,7 +1658,7 @@
 {916}{}{朱尼奥}                                          # HWMHost.int
 {917}{}{赶车的人}                               # CarvLead.int
 {918}{}{书柜}                                       # GenBCase.int
-{919}{}{Crack Assault Paladin}                          # BroInvad.int
+{919}{}{一流的游侠}                          # BroInvad.int
 {920}{}{“启示录”预言派的侦察兵}                                 # FolInvad.int
 {921}{}{迈克}                                           # Mike.int
 {922}{}{万斯}                                          # Vance.int
@@ -1691,7 +1691,7 @@
 # {949}{}{Far Go Trader Caravanner}                       # FGTCarvn.int
 # {950}{}{Super Mutant Patroller}                         # MutAmbsh.int
 # {951}{}{Lockbox}                                        # DocLokr.int
-# {952}{}{Refridgerator}                                  # CrashBox.int
+# {952}{}{冰箱}                                  # CrashBox.int
 # {953}{}{Door}                                           # SkumDoor.int
 # {954}{}{Super Mutant Patroller}                         # SupAmbsh.int
 # {955}{}{Toxic sludge}                                   # MoatChek.int
@@ -1842,7 +1842,7 @@
 {1010}{}{计算机}                                      # MorpComp.int
 {1011}{}{墙}                                          # SetDoor.int
 {1012}{}{变种人入侵者}                               # Invader.int
-{1013}{}{看守调节器的警卫}                               # PGuard.int
+{1013}{}{赛特的警卫}                               # PGuard.int
 {1014}{}{副警长弗莱}                                    # FryStub.int
 {1015}{}{变种人警卫}                                  # NukeGrd.int
 {1016}{}{教主的士兵}                              # Hord.int
@@ -1900,9 +1900,9 @@
 {1039}{}{马蒂雅}                                        # Mathia.int
 {1040}{}{地面}                                         # JTile.int
 {1041}{}{双头牛}                                       # Stampede.int
-{1042}{}{钢铁兄弟会长老}                             # HighEld.int
+{1042}{}{钢铁兄弟会元老}                             # HighEld.int
 {1043}{}{变种地鼠}                                      # MoleRat2.int
-{1044}{}{钢铁兄弟会长老}                             # BroEld.int
+{1044}{}{钢铁兄弟会元老}                             # BroEld.int
 {1045}{}{僵尸}                                         # RanGhoul.int
 {1046}{}{冰柜}                                     # IceChest.int
 {1047}{}{全息磁盘}                                      # LtCodes.int
