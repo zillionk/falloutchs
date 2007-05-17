@@ -312,7 +312,7 @@
 {194}{}{我怀疑你是否来自外界。现在我要休息了。要是看见那些破坏者请小心。}
 
 #{195}{}{Nay, I doubt you would be able to do as such.}
-{195}{}{反对，我怀疑你是否能够做到。 }
+{195}{}{反对，我怀疑你是否能够做到。}
 
 #{196}{}{Try and stop me.}
 {196}{}{试试来阻止我。}
@@ -370,10 +370,10 @@
 #{212}{}{Those whom the Followers and Children call Nightkin are not what they
 # seem. They have been created by one called the Lieutenant. I believe he may
 # follow another.}
-{212}{}{那些隐形人似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。 我相信他或许追随另一个人。}
+{212}{}{那些隐形人似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。我相信他或许追随另一个人。}
 
 #{213}{}{Some information. Well, I will be off.}
-{213}{}{不错的信息。我要走了。 }
+{213}{}{不错的信息。我要走了。}
 
 #{214}{}{What can you tell me about this Lieutenant?}
 {214}{}{关于这个中尉你能告诉我什么？}
