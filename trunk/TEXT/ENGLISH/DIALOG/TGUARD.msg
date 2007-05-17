@@ -31,7 +31,7 @@
 #{115}{}{Look, Shady Sands don't need your kind from the Hub, or Junktown, or wherever you come from. We do pretty good by ourselves.}
 {115}{}{你得明白，沙荫镇不需要像你这样来自哈勃城，迦克镇或是其他什么鬼地方的家伙。我们自己可以过得非常好！}
 #{116}{}{The last trader from the Hub sold us a malfunctioning irrigation pump. We've had it with your dirty deals.}
-{116}{}{最近有个哈勃城商人卖给了我们一个有故障的灌溉水泵。我们是从你那肮脏的交易中得到的它。}
+{116}{}{最近有个哈勃城商人卖给了我们一个有故障的灌溉水泵。我们就是和类似你那样肮脏的人交易才得到这个破东西。}
 #{117}{}{You got it all wrong. I'm not like that.}
 {117}{}{你弄错了。我可不那么龌龊。}
 #{118}{}{Yeah, right. So you say. Just don't get into any trouble, Ok?}
