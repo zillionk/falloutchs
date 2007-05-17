@@ -778,7 +778,7 @@
 {487}{}{沙克}                                          # Shark
 {488}{}{雪莉}                                         # Sherry
 {489}{}{提可}                                          # Tycho
-{490}{}{斯库兹帮小头目}                                   # GendSkulz
+{490}{}{骷髅党小头目}                                   # GendSkulz
 #{491}{}{Slummer}                                        #Slummer
 #{492}{}{Zark}                                           #Zark
 #{493}{}{Calder}                                         # Calder
