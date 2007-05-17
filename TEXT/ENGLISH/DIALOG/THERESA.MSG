@@ -65,7 +65,7 @@
 {121}{}{这或许是个好主意。}
 
 #{122}{}{I suppose. I always figured that he just had some sort of power trip. But I guess that he wouldn't be the Overseer if he wasn't really concerned about our welfare, would he? I guess we should just wait and see if you can find the chip.}
-{122}{}{我总是认为他只是有些权力欲过剩。但是我猜如果他不真正关心我们的利益，就不会是管理者，不是么？我觉得我们应该稍等，看看你能不能找到芯片。}
+{122}{}{我总是认为他只是有些权力欲过剩。但是我猜如果他不真正关心我们的利益，就不会是所长，不是么？我觉得我们应该稍等，看看你能不能找到芯片。}
  
 #{123}{}{Don't worry, I'll take care of it.}
 {123}{}{别担心，我会处理的。}
@@ -107,7 +107,7 @@
 {135}{}{别喝发光发热的水。}
 
 #{136}{}{Yeah . . . don't go.}
-{136}{}{是的．．．别出去。}
+{136}{}{是的……别出去。}
 
 #{137}{}{I think that your plans to leave are ill-advised.}
 {137}{}{我觉得你那离开的计划不是个好主意。}

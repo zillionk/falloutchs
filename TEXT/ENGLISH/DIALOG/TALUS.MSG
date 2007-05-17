@@ -27,7 +27,7 @@
 # {110}{}{I'm the Senior Paladin, Rhombus's right-hand man. We're in charge
  # of the Paladins and Knights. Right now I'm supervising training
  # exercises. We're getting ready . . . for anything.}
-{110}{}{我是资深圣骑士，隆伯斯的得力助手。我们管理着整个圣骑士工会。我要立刻开始训练。我们时刻准备着．．．}
+{110}{}{我是资深圣骑士，隆伯斯的得力助手。我们管理着整个圣骑士工会。我要立刻开始训练。我们时刻准备着……}
 # {111}{}{You're getting ready for what?}
 {111}{}{你们准备着什么？}
 # {112}{}{How can I get some weapons and equipment?}
@@ -80,7 +80,7 @@
 {128}{}{收起你的武器，新兵。你不是在训练，拿开它。}
 # {129}{}{Would you stop waving your weapon around like that?
  # You should . . . oh, never mind.}
-{129}{}{你会像那样停止挥舞你的武器吗？你应该．．．哦，别介意。}
+{129}{}{你会像那样停止挥舞你的武器吗？你应该……哦，别介意。}
 # {130}{}{Hello again, Brother }
 {130}{}{再次欢迎，兄弟}
 # {131}{}{. How can I help you?}
@@ -128,7 +128,7 @@
 # {148}{}{If you ever need to talk to him, he is normally in his office . . .
  # I mean room. That's on the other side of this level, across from
  # the guard room.}
-{148}{}{如果你想和他谈话，他通常都在他的办公室里．．．我的意思是房间。在这层的另一边，穿过警卫室就到了。}
+{148}{}{如果你想和他谈话，他通常都在他的办公室里……我的意思是房间。在这层的另一边，穿过警卫室就到了。}
 # {149}{}{Of course we do. She's on the second level. Next to the learning room.}
 {149}{}{当然，这是我们应该做的。她在二楼。电子图书馆隔壁。}
 # {150}{}{Thanks, bye.}
@@ -155,7 +155,7 @@
  # or was it great, great, great grandson? Well, anyway. He's the
  # descendant of one of our founding fathers. He, of course, is the
  # High Elder.}
-{157}{}{马克松是个坚强的老人。他是伟大的，伟大的后裔．．．或者是伟大的，伟大的，伟大的后裔？好吧，总而言之。他是我们祖先的后代。他，当然，也是最高元老。}
+{157}{}{马克松是个坚强的老人。他是伟大的，伟大的后裔……或者是伟大的，伟大的，伟大的后裔？好吧，总而言之。他是我们祖先的后代。他，当然，也是最高元老。}
 # {158}{}{You've built quite a reputation for yourself. The people I've
  # checked with hold you in high regard. I don't think you need any help,
  # you seem quite capable. However, if you help me with a little problem,
@@ -262,7 +262,7 @@
 # {198}{}{Well I see we have a bright new addition to our order after all...
  # [Talus leers at you.] Don't get cocky with me, Initiate. I'm not in the
  # mood nor have I the patience!}
-{198}{}{毕竟是我看见我们的队伍里又多了一个聪明的新人．．．【塔鲁斯与你同在。】不要在我面前托大，新兵。虽然我脾气好但也不要挑战我的耐性。}
+{198}{}{毕竟是我看见我们的队伍里又多了一个聪明的新人……【塔鲁斯与你同在。】不要在我面前托大，新兵。虽然我脾气好但也不要挑战我的耐性。}
 # {199}{}{I thought you were smarter than that. I don't have to give you
  # anything. You're lucky I don't kick you out of here, right now. I think
  # you should leave, before I change my mind.}
@@ -343,7 +343,7 @@
  # I thought so. You should lay off the drugs, they can really mess you up.
  # If you don't watch it you'll end up like the Skags at the Hub. So what
  # was it you needed?}
-{400}{}{你可以经常．．．等等。看着我的眼睛．．．向我想的一样。你应该戒掉药瘾，它们会让你神志不清。如果你不去看医生你就会像哈勃城的斯盖格那样死去。那么你需要什么？}
+{400}{}{你可以经常……等等。看着我的眼睛……向我想的一样。你应该戒掉药瘾，它们会让你神志不清。如果你不去看医生你就会像哈勃城的斯盖格那样死去。那么你需要什么？}
 # {401}{}{Do you have a doctor? I'm hurt.}
 {401}{}{你这里有医生吗？我受伤了。}
 # {402}{}{Do you have a doctor?}

@@ -26,7 +26,7 @@
 {108}{}{没事，谢谢。回头见。}
 
 #{109}{}{Uhhh . . .}
-{109}{}{呃．．．}
+{109}{}{呃……}
 
 #{110}{}{I'd recommend that you check out Tine's store, just to one side of the gates. I
 #don't actually sell anything here; I trade it to Tine or the Hub merchants for goods.}

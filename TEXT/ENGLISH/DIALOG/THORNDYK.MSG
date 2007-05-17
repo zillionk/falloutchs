@@ -200,7 +200,7 @@
 {166}{}{【笑】糟糕的人们。我非常同情。【笑容消失】如果你改变心意的话，我就在这里。你已被宽恕了。}
  
 #{167}{}{I'll take that as a yes. Please don't kill me . . .}
-{167}{}{我就把这视作同意了。请别杀我．．．}
+{167}{}{我就把这视作同意了。请别杀我……}
 
 #{168}{}{OWWWWWW!! [SNARL!]}
 {168}{}{哦喔喔喔喔！！【吼叫！】}
@@ -209,7 +209,7 @@
 {169}{}{可怜的生物。如你这般的蠢笨野兽即使对圣焰的医疗力量都会是个挑战。滚出这里吧。}
  
 #{170}{}{I'll take that as a "no". You are excus... uh?You go now. Go!}
-{170}{}{我就把这视作“拒绝”了。你已被宽．．．呃？你快走吧。走！}
+{170}{}{我就把这视作“拒绝”了。你已被宽……呃？你快走吧。走！}
 
 #{171}{}{It's a very beautiful place, although a little overcrowded these days. It's far to the south of us. We faithful gather to praise our master, the Holy Flame, and to pray for peace and Unity. Now, if that will be all厎
 {171}{}{是个非常美丽的地方，尽管这段时间有点拥挤。位于距离我们遥远的南方。我们这些虔诚的人聚集在一起赞美我们的主，圣焰，并且为了和平和统一而祈祷。就这么多。}
@@ -230,7 +230,7 @@
 {176}{}{我已经学到，我们是个恶意，暴力和愚笨的种族，配不上圣焰。我在哪里都能看到贪婪与邪恶。除非我们激烈行动，不然会被圣焰再次焚烧。}
  
 #{177}{}{Tell me more about the Holy Flame . . .}
-{177}{}{告诉我更多关于圣焰的事情．．．}
+{177}{}{告诉我更多关于圣焰的事情……}
 
 #{178}{}{Your religion bites the Bone, pal!}
 {178}{}{去你的宗教吧，伙计！}

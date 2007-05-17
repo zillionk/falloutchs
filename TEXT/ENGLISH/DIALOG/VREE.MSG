@@ -39,7 +39,7 @@
 {112}{}{我需要一些技术知识。}
 
 #{113}{}{Uhh . . .}
-{113}{}{啊．．．}
+{113}{}{啊……}
 
 #{114}{Vree03}{I record the knowledge of our ancestors for future generations.}
 {114}{Vree03}{我为了未来的后人，记录从我们祖先流传下来的知识。}
@@ -79,7 +79,7 @@
 {125}{}{谢谢！}
 
 #{126}{}{I've got another question . . .}
-{126}{}{我还有其它的问题．．．}
+{126}{}{我还有其它的问题……}
 
 #{127}{Vree19}{You are not yet capable of properly using the sacred knowledge.}
 {127}{Vree19}{你现在还没有能力去完全运用这高深的知识。}
@@ -134,7 +134,7 @@
 {141}{}{你是对的，我们会好起来的。}
 
 #{142}{}{I've got another question . . .}
-{142}{}{我还有其它的问题．．．}
+{142}{}{我还有其它的问题……}
 
 #{143}{Vree28}{All the mutants I've studied have been sterile - they can't breed with
 #another creature.  If we could clean up the mutation sources, we
@@ -148,7 +148,7 @@
 {145}{}{有趣的理论，有什么证据？}
 
 #{146}{}{I've got another question . . .}
-{146}{}{我还有其它的问题．．．}
+{146}{}{我还有其它的问题……}
 
 #{147}{Vree29}{Here, take this holo-disc, it's got copies of my autopsies on mutant
 #corpses.  It clearly shows that no mutant could possibly reproduce successfully.}
@@ -181,7 +181,7 @@
 {155}{Vree33}{决不！兄弟会绝不会眼看这个再次发生！}
 
 #{156}{}{That's what they all say . . . except you. You'll be dead.}
-{156}{}{他们都是这样说．．．除了你。你将会死。}
+{156}{}{他们都是这样说……除了你。你将会死。}
 
 #{157}{Vree34}{What can I help you with?}
 {157}{Vree34}{我可以帮你些什么。}
@@ -355,7 +355,7 @@
 {307}{}{我们开始。}
 
 #{308}{}{Okay, so if we do this... yes, I think it will work.}
-{308}{}{好的，那么如果我们这样做．．．对，我想它会运行。}
+{308}{}{好的，那么如果我们这样做……对，我想它会运行。}
 
 #{400}{}{You can use this terminal to increase your Computer Skills.}
 {400}{}{你可以用这台终端来增加你的电脑技术。}

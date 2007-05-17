@@ -41,9 +41,9 @@
 #{120}{}{You stupid beast! Will you come or will you stay?}
 {120}{}{你这个笨鳖！你到底走不走？}
 #{121}{}{Uh . . . Come!}
-{121}{}{呃．．．我来了！}
+{121}{}{呃……我来了！}
 #{122}{}{Uh . . . Me stay!}
-{122}{}{呃．．．我留下！}
+{122}{}{呃……我留下！}
 #{123}{}{Do not plague me with indecision! What is your answer, human?}
 {123}{}{别让你的磨蹭使我不快！告诉我你的答案，人类！}
 #{124}{}{I'm coming with you. Let's go.}
@@ -61,6 +61,6 @@
 #{130}{}{Forget it.}
 {130}{}{别在意。}
 #{131}{}{Don't push me, pal. I'm still trying to think of a good smartass comeback . . .}
-{131}{}{别逼我，伙计。我正打算牛逼哄哄地回来呢．．．}
+{131}{}{别逼我，伙计。我正打算牛逼哄哄地回来呢……}
 #{132}{}{The mutant ignores you.}
 {132}{}{这个变种人不理你。}

@@ -25,7 +25,7 @@
 {107}{}{真的？你出价多少？}
 
 #{108}{}{See you around, maybe . . . good luck. Heh.}
-{108}{}{再见，或许．．．祝你好运。呵。}
+{108}{}{再见，或许……祝你好运。呵。}
 
 #{109}{}{Ahh, straight to the point, my friend. Excellent. I will help
 # you around town for a measly $500 a week. My services are

@@ -47,7 +47,7 @@
 {113}{}{告诉我关于你的事情。}
 
 #{114}{}{Please help me...}
-{114}{}{请帮助我．．．}
+{114}{}{请帮助我……}
 
 #{115}{}{I'm looking for a water-chip.  Seen one?}
 {115}{}{我在找一个净水芯片。你看到过吗？}
@@ -144,7 +144,7 @@
 # equipment.  Still, some of us tried to stay in the Vault.  But then we
 # were attacked.  I was hurt, and I ended up here.  Now I try
 # to help people . . .}
-{137}{}{我的生活相当乏味。我成长在一座避难所中，并且在那里生活了许多年。不幸的是，我们的人口发生了爆炸，生存条件越来越差。于是人们发生了分裂，一部分人带走了最好的设备。我和部分人仍然试图留在避难所，但随后我们遭到了攻击。我受伤了，后来被这里的人所救。现在我也尝试着帮助别人．．．}
+{137}{}{我的生活相当乏味。我成长在一座避难所中，并且在那里生活了许多年。不幸的是，我们的人口发生了爆炸，生存条件越来越差。于是人们发生了分裂，一部分人带走了最好的设备。我和部分人仍然试图留在避难所，但随后我们遭到了攻击。我受伤了，后来被这里的人所救。现在我也尝试着帮助别人……}
 
 #{138}{}{Where was this Vault of yours?}
 {138}{}{你的这一个避难所在哪里呢？}
@@ -168,7 +168,7 @@
 # was one of the raider groups who took her.  Find out as much information
 # about them as you can and equip yourself before you go after them. But don't
 # be so quick to fight, even they will sometimes listen to reason...}
-{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙强盗把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理．．．}
+{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙强盗把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理……}
 
 #{142}{}{Seth has been trying to follow the radscorpions.  He claims that he
 # even knows the way to their lair, but I think he is a little scared

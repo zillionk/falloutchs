@@ -114,7 +114,7 @@
 {136}{}{我们再做一些练习。}
 
 #{137}{}{Pay close attention...}
-{137}{}{集中注意力．．．}
+{137}{}{集中注意力……}
 
 #{138}{}{and remember to always punch through your targets.}
 {138}{}{然后盯紧目标出拳。}

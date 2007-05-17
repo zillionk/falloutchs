@@ -1,7 +1,7 @@
 #{100}{}{You see Terry.}
 {100}{}{你看见泰里。}
 #{101}{}{The water ration is passed out at night . . . Hey, you're not a ghoul!}
-{101}{}{晚上才能分发配给水．．．嘿！你不是僵尸！}
+{101}{}{晚上才能分发配给水……嘿！你不是僵尸！}
 #{102}{}{That's not important right now. What is important is the location of the boss.}
 {102}{}{那件事现在不重要。重要的是头儿在哪里。}
 #{103}{}{No, I'm not.}

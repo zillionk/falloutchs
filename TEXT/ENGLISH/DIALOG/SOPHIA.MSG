@@ -88,7 +88,7 @@
 {301}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
 
 #{302}{}{Uh......}
-{302}{}{这．．．}
+{302}{}{这……}
 
 #{303}{}{Could you direct me to the library?}
 {303}{}{你能告诉我图书馆怎么走吗？}
@@ -249,7 +249,7 @@
 
 #{351}{}{Our history is available to everyone.  So that they may learn of our
 # great history...Not that any one ever looks at them.}
-{351}{}{我们的历史每个人都可以看。这样他们才有可能学到我们的历史．．．而不是泛泛地看看。}
+{351}{}{我们的历史每个人都可以看。这样他们才有可能学到我们的历史……而不是泛泛地看看。}
 
 #{352}{}{I would like to see anything you have on the Brother's history.}
 {352}{}{我想看看你还有什么关于兄弟会历史的东西。}
@@ -262,7 +262,7 @@
 {354}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
 
 #{355}{}{Uh......}
-{355}{}{这．．．}
+{355}{}{这……}
 
 #{356}{}{Could you direct me to the library?}
 {356}{}{你能告诉我图书馆怎么走吗？}
