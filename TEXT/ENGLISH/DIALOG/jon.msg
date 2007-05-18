@@ -43,7 +43,7 @@
 # The Blades are the worst of them all, I'm afraid.
 # We're a humble, god fearing town that is only trying to survive, and these
 # . . . these . . . monsters . . . prey on us . . .
-# [He whispers under his breath] and our children . . .}
+# 【He whispers under his breath】 and our children . . .}
 {113}{}{很好。那你就应该知道他们有多残忍和血腥。利刃帮是最坏的一伙。我们这个镇子一向与世无争，不惹事生非，只想好好活下去，但是这些……这些……畜生！他们（激动地喘气）劫掠我们，甚至残害我们的孩子……}
 
 #{114}{}{Yeah, yeah, that's great. What's the job entail and what's it worth to ya?}
@@ -59,7 +59,7 @@
 # but it's all they can do to keep our little community safe.
 # They try to sneak in at night to kill our citizens, or to,
 # to kidnap our children . . . and . . .
-# [He stops a moment to compose himself before continuing]
+# 【He stops a moment to compose himself before continuing】
 # Just last week one of them burst through the north gate in the middle
 # of the night with dynamite strapped to his body to blow up the Regulator's
 # barracks . . . no doubt to weaken us enough so that they could launch
@@ -190,7 +190,7 @@
 #{155}{}{Nothing.}
 {155}{}{没事。}
 
-#{156}{}{[He looks at you warily.] . . . The Blades camp is to the north of here.
+#{156}{}{【He looks at you warily.】 . . . The Blades camp is to the north of here.
 # Come back when you've done the job, and I'll pay you 2000 caps.}
 {156}{}{【他谨慎地看了看你】……利刃帮在北边，完事后回来领赏，２０００个瓶盖。}
 
@@ -227,7 +227,7 @@
 {166}{}{太感谢了！！！这是你的钱，我们内城区永远欢迎你，年轻人。}
 
 #{167}{}{Finally she knows the taste of hell fire! Bless you, my son.
-# [He wipes away a tear]. Here's an extra 500 caps for putting in the extra
+# 【He wipes away a tear】. Here's an extra 500 caps for putting in the extra
 # effort. You'll always be welcome here.}
 {167}{}{她终于知道惨死是什么感受了。【老泪纵横】再给你５００个瓶盖，谢谢你特殊地关照她。我们永远欢迎你。}
 
@@ -247,8 +247,8 @@
 #{172}{}{Here, listen to this.}
 {172}{}{给你，听这个。}
 
-#{173}{}{[As he listens to the holodisk he begins to shake and turn red.
-# You think he might drop dead on the spot from sheer hate.]
+#{173}{}{【As he listens to the holodisk he begins to shake and turn red.
+# You think he might drop dead on the spot from sheer hate.】
 # I'll kill all of you fucking bastards!}
 {173}{}{（他听着磁碟上的声音，身子开始发抖，脸涨得通红，你感觉他随时都可能因为愤怒昏厥而死。）我要把你们这些杂种都杀了！}
 

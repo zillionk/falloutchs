@@ -1,6 +1,6 @@
 #{100}{}{You see the caravan leader.}
 #{101}{}{Well, here we are. Here's your payment of }
-#{102}{}{ caps. [He pulls out an old dog-eared money bag and gives you the money.] You'll get another }
+#{102}{}{ caps. ¡¾He pulls out an old dog-eared money bag and gives you the money.¡¿ You'll get another }
 #{103}{}{ caps if you return with us to the Hub. We'll rest here for a while, but don't go too far or the caravan will leave without you.}
 #{104}{}{Aaa... OK.}
 #{105}{}{How long before the caravan leaves?}
@@ -20,7 +20,7 @@
 #{118}{}{What can you tell me about the Boneyard?}
 #{119}{}{What can you tell me about the Brotherhood of Steel?}
 #{120}{}{Well, it's quite a bit like the Hub, really.  It has its share of problems: gangs,
-# thugs, thieves, you know... the usual stuff.  All in all, it's my kind of town. [Laughs]}
+# thugs, thieves, you know... the usual stuff.  All in all, it's my kind of town. ¡¾Laughs¡¿}
 #{121}{}{How long before the caravan leaves?}
 #{122}{}{I think I'll take a look around before we go.  See you later.}
 #{123}{}{This part of the Boneyard is called Adytum.  The Boneyard is basically run by gangs. Kind of a rough area, so watch your step here. Adytum is run by the Regulators.  They're trying to hold this place together in light of all the gang wars. They're understandably suspicious of strangers, so if you haven't spoken to them yet I suggest you do before you start wandering around.}

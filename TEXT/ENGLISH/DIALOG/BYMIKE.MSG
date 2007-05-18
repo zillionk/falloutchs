@@ -28,7 +28,7 @@
 {113}{}{不客气，这些东西你们留着自己用吧。}
 #{114}{}{I insist.}
 {114}{}{我坚持。}
-#{115}{}{[Michael hands you some Stimpacks and some caps]}
-{115}{}{[迈克尔递给你一些治疗针和一些钱。]}
+#{115}{}{【Michael hands you some Stimpacks and some caps】}
+{115}{}{【迈克尔递给你一些治疗针和一些钱。】}
 #{116}{}{Hello again.  Good luck in your travels.}
 {116}{}{你好。祝你旅途顺利。}

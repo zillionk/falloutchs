@@ -91,7 +91,7 @@
 {143}{}{我没发现。}
 #{144}{}{Your're right. I'm sorry.}
 {144}{}{你是对的。不好意思。}
-#{145}{LOX_11}{Ohhh, broken heart.  Our chance for camaraderie lost. [Sigh] Jasmine, show this little sod the door.}
+#{145}{LOX_11}{Ohhh, broken heart.  Our chance for camaraderie lost. 【Sigh】 Jasmine, show this little sod the door.}
 {145}{LOX_11}{哦，让人伤心。我们建立友情的机会没了。［叹气］茉莉，送这个老土出去。}
 #{146}{LOX_12}{Ooh, a little back and forth.  I like someone who plays the edge.  I think you'll be a great addition to our merry little band.  What say you?}
 {146}{LOX_12}{呵，有点曲折，我喜欢兜圈子的人。我认为你会让我们欢乐的小家庭如虎添翼，你说呢？}
@@ -223,7 +223,7 @@
 {206}{}{听起来不错。我能再问几个问题么？}
 #{207}{LOX_38A}{Oh, absolutely.  We're all friends here.}
 {207}{LOX_38A}{啊，没问题。我们现在是朋友。}
-#{208}{lox_38b}{[Sigh]  Why not?}
+#{208}{lox_38b}{【Sigh】  Why not?}
 {208}{lox_38b}{【叹气】好吧。}
 #{209}{LOX_38C}{Ask away, ask away.}
 {209}{LOX_38C}{快问，快问。}
@@ -337,7 +337,7 @@
 {263}{LOX_88}{我真不知道。}
 #{264}{LOX_89}{Hmm.  Haven't a clue actually.}
 {264}{LOX_89}{唔。没头绪。}
-#{265}{LOX_90}{Well, [Derisive sound], how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
+#{265}{LOX_90}{Well, 【Derisive sound】, how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
 {265}{LOX_90}{啊，［嘲笑声］，像你这样一个彻头彻尾的傻屄是怎么通过我的防御系统的？抱歉，我们不收留专业白痴，我们喜欢愉快的会话。茉莉，领我们流口水的客人出去。}
 #{266}{LOX_91}{Talk to Jasmine and she'll fill you in on the details.}
 {266}{LOX_91}{和茉莉谈谈，她会告诉你细节。}
@@ -351,7 +351,7 @@
 #{980}{LOX_87}{Hmm, I haven't the foggiest.}
 #{981}{LOX_88}{I really don't know.}
 #{982}{LOX_89}{Hmm.  Haven't a clue actually.}
-#{983}{LOX_90}{Well, [Derisive sound], how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
+#{983}{LOX_90}{Well, 【Derisive sound】, how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
 {980}{LOX_87}{唔，我也不太清楚。}
 {981}{LOX_88}{我真不知道。}
 {982}{LOX_89}{唔。没头绪。}
@@ -393,7 +393,7 @@
 # {1029}{}{旅行商队}
 # {1030}{}{死爪}
 # {1031}{}{死亡之爪}
-# {1032}{}{死亡谷}
+# {1032}{}{闪光之地}
 # {1033}{}{老城区}
 # {1034}{}{老城}
 {1000}{}{Decker}

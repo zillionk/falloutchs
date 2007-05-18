@@ -28,9 +28,9 @@
 #{109}{}{You're right, I'm sorry.  So let's talk business.}
 {109}{}{你是对的，我很抱歉。那么让我们谈正事吧。}
 
-#{110}{gizmo_4}{All right, [Gizmo snorts] here's the deal. Junktown, it ain't what it used to be. The only reason
+#{110}{gizmo_4}{All right, 【Gizmo snorts】 here's the deal. Junktown, it ain't what it used to be. The only reason
 # it's still here is because of my gambling establishment.  Even so, Killian's been breathing down my neck, and I'm starting to take it
-# personal. [Gizmo snorts] And that's where you come in, slick.}
+# personal. 【Gizmo snorts】 And that's where you come in, slick.}
 {110}{gizmo_4}{好吧，【吉斯莫哼着】有笔生意。迦克镇，不再是以前的面貌了。它还存在着的唯一原因是因为我的赌博产业。即使这样，基利安还是在我背后捅刀子，而我开始把这视为私人恩怨。【吉斯莫哼着】而这就是你进去浑水摸鱼的时机了，滑头。}
 
 #{111}{}{What do you want me to do?}
@@ -81,7 +81,7 @@
 #{126}{}{I don't think so. Thanks anyway.}
 {126}{}{我不这么想。总而言之还是谢谢了。}
 
-#{127}{gizmo_7}{[Gizmo wheezes.] I knew you'd see it my way. As proof, I want the dog tags Killian
+#{127}{gizmo_7}{【Gizmo wheezes.】 I knew you'd see it my way. As proof, I want the dog tags Killian
 # wears around his neck. Ya' get them, ya' get your money. Now, just get. And don't cross me. I still got the kneecaps from the last one who tried.}
 {127}{gizmo_7}{【吉斯莫喘着。】我知道你会看到我做事的方式的。作为证物，我要基利安带在脖子上的狗牌。拿到它们，你就能拿到你的钱。现在去吧。别牵扯到我。最后一个这么试的人，他的膝盖骨还在我这里呢。}
 
@@ -100,7 +100,7 @@
 #{132}{}{I wouldn't trust you as far as two people could throw you. Forget it, slim.}
 {132}{}{除非有人能困住你，否则我不会相信你的。忘了吧，滑头。}
 
-#{133}{gizmo_9}{[Gizmo laughs and coughs] Maybe you're right. I think you're worth more. 1500.}
+#{133}{gizmo_9}{【Gizmo laughs and coughs】 Maybe you're right. I think you're worth more. 1500.}
 {133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。１５００。}
 
 #{134}{}{Now we're talking.}
@@ -175,7 +175,7 @@
 #{157}{}{I had them, but then I lost them.}
 {157}{}{我拿到它们了，但是又弄丢了。}
 
-#{158}{gizmo_18}{[Gizmo laughs.] You know, you're a crummy liar.  Now go get the tags. I don't want to see your face until you've offed Killian.}
+#{158}{gizmo_18}{【Gizmo laughs.】 You know, you're a crummy liar.  Now go get the tags. I don't want to see your face until you've offed Killian.}
 {158}{gizmo_18}{【吉斯莫笑了。】你知道么，你的骗术很低劣。现在去搞那狗牌吧。杀掉基利安之前别让我看见你的脸。}
 
 #{159}{gizmo_19}{No problem, I take them off your dead body.}
@@ -241,7 +241,7 @@
 #{179}{}{You're right. I'm leaving.}
 {179}{}{你是对的。我马上就离开。}
 
-#{180}{gizmo_24}{Really? [Gizmo chuckles.] He's gonna help me? What kinda help are we talking about?}
+#{180}{gizmo_24}{Really? 【Gizmo chuckles.】 He's gonna help me? What kinda help are we talking about?}
 {180}{gizmo_24}{真的？【吉斯莫咯咯地笑着】他准备帮助我？我们在谈什么样的帮助呢？}
 
 #{181}{}{Easy. You sent someone to kill Killian. He failed. You need someone who can do the job . . . better.}
@@ -315,17 +315,17 @@
 #{203}{}{Huh? Oh, never mind.}
 {203}{}{哦呃？哦，没事儿。}
 
-#{204}{gizmo_34}{You know, [Gizmo sighs] I don't like it when people insult me in my own place. Izo, escort our guest out . . . through the window.}
+#{204}{gizmo_34}{You know, 【Gizmo sighs】 I don't like it when people insult me in my own place. Izo, escort our guest out . . . through the window.}
 {204}{gizmo_34}{你知道，【吉斯莫叹了口气】我不太喜欢人们在我的地盘上侮辱我。艾佐，把我们的客人请出去吧……从窗户那里。}
 
 #{205}{gizmo_35}{You're back. You know, I had to hire someone else to do your work.
 # That didn't make me happy. In fact, Izo will show you just how unhappy I am. I hope you had a nice day. It was your last.}
 {205}{gizmo_35}{你回来了啊。你知道，我不得不雇其他人去干你的活儿。那可让我不太高兴。事实上，艾佐会让你知道我究竟有多么不愉快。祝愉快。这是你的最后一天了。}
 
-#{206}{gizmo36a}{[Gizmo grunts.] Killian's the mayor of this town. Thinks he knows everything . . . well, we'll just see how much he knows, won't we?}
+#{206}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, we'll just see how much he knows, won't we?}
 {206}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就会知道他到底全知到什么程度了，不是吗？}
 
-#{207}{gizmo_37}{[Gizmo coughs.] That's me, stupid. I run the . . . gambling establishment here.}
+#{207}{gizmo_37}{【Gizmo coughs.】 That's me, stupid. I run the . . . gambling establishment here.}
 {207}{gizmo_37}{【吉斯莫咳喘着。】就是我，傻瓜。我在这儿经营着……一些赌博产业。}
 
 #{208}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}
@@ -340,7 +340,7 @@
 #{211}{gizmo_43}{You don't need to concern yourself with that.}
 {211}{gizmo_43}{你不用把注意力集中在那上面。}
 
-#{212}{gizmo_44}{[Gizmo sniffs.] I uh . . . I don't feel like talking about that right now.}
+#{212}{gizmo_44}{【Gizmo sniffs.】 I uh . . . I don't feel like talking about that right now.}
 {212}{gizmo_44}{【吉斯莫呼哧呼哧着说。】我，呃……现在不太想讨论这个。}
 
 #{213}{gizmo45m}{Hey, what the hell do you think you're doing? Izo, tear his arms off!}
@@ -382,7 +382,7 @@
 #{225}{}{Got it. What'cha want 'im dead for?}
 {225}{}{明白了。你为什么要他死？}
 
-#{226}{gizmo_24}{Really? [Gizmo chuckles.] She's gonna help me? What kinda help are we talking about?}
+#{226}{gizmo_24}{Really? 【Gizmo chuckles.】 She's gonna help me? What kinda help are we talking about?}
 {226}{gizmo_24}{真的？【吉斯莫咯咯地笑着】她准备帮助我？我们在谈什么样的帮助呢？}
 
 
@@ -421,10 +421,10 @@
 {1007}{}{Junktown}
 # {1007}{}{迦克镇}
 
-#{1100}{gizmo36a}{[Gizmo grunts.] Killian's the mayor of this town. Thinks he knows everything . . . well, [Gizmo laughs] we'll just see how much he knows, won't we?}
+#{1100}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, 【Gizmo laughs】 we'll just see how much he knows, won't we?}
 {1100}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就会知道他到底全知到什么程度了，不是吗？}
 
-#{1101}{gizmo_37}{[Gizmo coughs.] That's me, stupid. I run the . . . gambling establishment here.}
+#{1101}{gizmo_37}{【Gizmo coughs.】 That's me, stupid. I run the . . . gambling establishment here.}
 {1101}{gizmo_37}{【吉斯莫咳喘着。】就是我，傻瓜。我在这儿经营着……一些赌博产业。}
 
 #{1102}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}
@@ -433,7 +433,7 @@
 #{1103}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
 {1103}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
 
-#{1104}{gizmo36a}{[Gizmo grunts.] Killian's the mayor of this town. Thinks he knows everything . . . well, [Gizmo laughs] we'll just see how much he knows, won't we?}
+#{1104}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, 【Gizmo laughs】 we'll just see how much he knows, won't we?}
 {1104}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就会知道他到底全知到什么程度了，不是吗？}
 
 #{1105}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}

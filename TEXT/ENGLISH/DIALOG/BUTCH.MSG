@@ -46,8 +46,8 @@
 {122}{}{好的，多谢。}
 #{123}{butch06}{Just one. }
 {123}{butch06}{就一个。}
-#{124}{}{ [You notice that he seems tense.]}
-{124}{}{ [你注意到他似乎很紧张。]}
+#{124}{}{ 【You notice that he seems tense.】}
+{124}{}{ 【你注意到他似乎很紧张。】}
 #{125}{}{Uh . . . what's the job?}
 {125}{}{嗯. . . 是什么工作？}
 #{126}{}{Is there a time limit on the job?}

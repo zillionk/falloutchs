@@ -61,7 +61,7 @@
 {124}{}{不，但我还有很多事要告诉你！}
 #{125}{}{Nuh.}
 {125}{}{没。}
-#{126}{Over_13}{[The Overseer sighs.] Don't be sorry. I know you're trying your best and that means a lot.
+#{126}{Over_13}{【The Overseer sighs.】 Don't be sorry. I know you're trying your best and that means a lot.
 # But you can't give up now.}
 {126}{Over_13}{【管理者叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
 #{127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the
@@ -84,7 +84,7 @@
 {134}{}{啊噢。}
 #{135}{Over_20}{Well, keep looking. Time's growing short.}
 {135}{Over_20}{好吧，继续找。时间不多了。}
-#{136}{Over_21}{We don't have time for this! We need the chip. Time's running out. [Sigh]}
+#{136}{Over_21}{We don't have time for this! We need the chip. Time's running out. 【Sigh】}
 {136}{Over_21}{我们没时间谈这个！我们急需那芯片。时间越来越少。【叹气】}
 #{137}{Over_22}{Is there some problem, do you need more equipment?  Is there anything
 # we can do to help?}
@@ -143,7 +143,7 @@
 #{156}{Over_31}{Okey-dokey. One moment, the chip is initializing. Here - here - here -
 # There it goes . . . Self-test is green . . . re-boot is good . . .
 # Hah! It's working! And it looks like we have a winner! Haha!
-# [The overseer sighs with relief.] You -- you've saved us. You've done it!}
+# 【The overseer sighs with relief.】 You -- you've saved us. You've done it!}
 {156}{Over_31}{好地好地。等一下，芯片正在初始化。嗯－唔－嗯－动了动了．．．自我检验通过．．．重启正常．．．哈！它正常工作了！看起来我们成功了！哈哈！【管理者松了口气。】你－－你救了我们。你做到了！}
 
 #{157}{}{Ahh, it was nothing.}
@@ -225,7 +225,7 @@
 #{179}{}{What's that?}
 {179}{}{怎么说？}
 
-#{180}{Over_44}{[Sigh] The mutant population is far greater than could be expected
+#{180}{Over_44}{【Sigh】 The mutant population is far greater than could be expected
 # by natural growth or mutations. This leads me to believe in -- I
 # don't really understand it. But it looks like someone's
 # generating new mutants. And at a startling rate.}
@@ -464,7 +464,7 @@
 # proud of what you've accomplished, what you've endured. There's no way
 # the people of the Vault can ever thank you enough for what you've done.
 # You've saved all our lives. Who knows, maybe even saved the human race.
-# [The Overseer sighs.] That makes the rest of this even harder.
+# 【The Overseer sighs.】 That makes the rest of this even harder.
 # Everyone will want to talk to you. Every youngster will look up to you.
 # And want to emulate you. And then what? They'll want to leave. What
 # happens to the Vault if we lose the best of a generation? What if we
@@ -533,7 +533,7 @@
 
 #{262}{Over_81b}{There's no way the people of the Vault can ever thank you
 # enough for what you've done. You've saved all our lives. Who knows, maybe
-# even saved the human race. [The Overseer sighs.]
+# even saved the human race. 【The Overseer sighs.】
 # That makes the rest of this even harder.}
 {262}{Over_81b}{避难所里的人们对你所做的一切永远都感激不尽。你救了我们所有人的命。天晓得，说不定还拯救了全人类。【管理者叹了口气。】这却使以后显得更加困苦。}
 

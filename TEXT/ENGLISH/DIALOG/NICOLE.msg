@@ -286,7 +286,7 @@
 #{195}{}{What made you come up north?}
 {195}{}{是什么使得你来北方的？}
 
-#{196}{Nic_31}{After my parents were killed by a marauders, [sigh] it was time the killing stopped. It's our goal to make this land the way it used to be, before the war.}
+#{196}{Nic_31}{After my parents were killed by a marauders, 【sigh】 it was time the killing stopped. It's our goal to make this land the way it used to be, before the war.}
 {196}{Nic_31}{在我的父母被掠夺者杀害了后，【叹气】是到杀戮该停止的时候了。我们的目标是使得这大陆恢复到战前。}
 
 #{197}{}{I'm sorry about your parents.}
@@ -337,7 +337,7 @@
 #{212}{}{Well, I gotta go.}
 {212}{}{好吧，我得走了。}
 
-#{213}{Nic_35}{[Sigh] You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.}
+#{213}{Nic_35}{【Sigh】 You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.}
 {213}{Nic_35}{【叹气】你只是不准备了解其中的差异。好了。你为什么不好好想一想，然后回来我们再说。}
 
 #{214}{Nic_36}{There aren't many left down south. The radiation has polluted almost everything. Most of the remaining people followed us to start the organization.}
@@ -349,7 +349,7 @@
 #{216}{}{It's still that radioactive? After 80 years?}
 {216}{}{那里仍旧有辐射吗？在８０年后？}
 
-#{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. [Sigh] That's when my parents were killed.}
+#{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. 【Sigh】 That's when my parents were killed.}
 {217}{Nic_37}{我们住在闪光之地的附近。疾病开始漫延，于是我们聚集了所有的人来到北方，【叹气】那时我的双亲被杀害了。}
 
 #{218}{}{I'm sorry.}
@@ -472,7 +472,7 @@
 #{257}{}{Okay. Meet me at the Cathedral.}
 {257}{}{好。在大教堂见我。}
 
-#{258}{Nic_58}{[Chuckle] You don't control us. We will attack, with or without your blessing!}
+#{258}{Nic_58}{【Chuckle】 You don't control us. We will attack, with or without your blessing!}
 {258}{Nic_58}{【微笑】你没能控制我们。我们会发动攻击，无论有没有你的祝福！}
 
 #{259}{Nic_59}{Talk to him?! Are you crazy?}

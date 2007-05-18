@@ -5,7 +5,7 @@
 {101}{}{它没有反应。}
 
 #{102}{}{Reprogramming complete. Initializing voice communication subsystems.
-# Initializing personality subsystem. [Click!] How may this terminal
+# Initializing personality subsystem. 【Click!】 How may this terminal
 # be of service?}
 {102}{}{程序调整完毕。初始化音频通讯子系统。初始化仿生子系统。【叮叮】你需要什么帮助？}
 
@@ -64,9 +64,9 @@
 {119}{}{正在运行什么程序？}
 
 #{120}{}{The style of industrial robots are commonly referred to as
-# 'Robobrain'. [Click!] General Atomics International has the
+# 'Robobrain'. 【Click!】 General Atomics International has the
 # finest industrial robots in the world. Buy two or more GAI
-# robots and save! Special deal on 'Mr. Handy' models! [Click!]
+# robots and save! Special deal on 'Mr. Handy' models! 【Click!】
 # Advertising applet terminated.}
 {120}{}{通用工业机器人一般被称为“智能机器人”。【叮叮！】本产品被国际原子能机构评为世界上最好的机器人。购买两台以上价格优惠！还附赠一个“省钱先生”的玩具模型！【叮叮！】广告程序结束。}
 
@@ -92,7 +92,7 @@
 #{127}{}{Thanks. End input.}
 {127}{}{谢谢。结束。}
 
-#{128}{}{Attempting to terminate. [Click!] System error. Failure to
+#{128}{}{Attempting to terminate. 【Click!】 System error. Failure to
 # terminate application. Delete rights not available.}
 {128}{}{尝试终止。【叮叮！】系统错误。终止请求失败。删除无效请求。}
 
@@ -112,7 +112,7 @@
 {133}{}{谢谢。结束操作。}
 
 #{134}{}{Current application: Movement v4.8b. Current setting:
-# [maximum/half rate/minimum]. Change to: maximum, half rate,
+# 【maximum/half rate/minimum】. Change to: maximum, half rate,
 # or minimum.}
 {134}{}{当前请求：运转系统ｖ４·８ｂ。当前设置：【最大的、一半比率的、最小的】。可变成：最大的、一半比率的、最小的。}
 
@@ -126,7 +126,7 @@
 {137}{}{最小运转。}
 
 #{138}{}{Current application: Sensors '76. Current setting:
-# [full/minumum]. Change to: full, or minimum.}
+# 【full/minumum】. Change to: full, or minimum.}
 {138}{}{当前软件：感应器＇７６。当前设置：【完整／最小】。可变为；完整或最小。}
 
 #{139}{}{Full sensors.}
@@ -136,7 +136,7 @@
 {140}{}{最小传感器。}
 
 #{141}{}{Current application: Pest Control v1.4. Current setting:
-# [Click!] unauthorized. Change to: [Click!] all, none, small
+# 【Click!】 unauthorized. Change to: 【Click!】 all, none, small
 # living, large living, or unauthorized.}
 {141}{}{当前请求：有害活体控制系统ｖ１·４。当前设置【叮叮！】未经认可活体。转换为：【叮叮！】所有的、空的、少量的活体、大量的活体、未认可的活体。}
 
@@ -155,10 +155,10 @@
 #{146}{}{Unauthorized pests.}
 {146}{}{未经认可的有害活体。}
 
-#{147}{}{Application Hearts running. User Wins. [Click!] Thank you for the game.}
+#{147}{}{Application Hearts running. User Wins. 【Click!】 Thank you for the game.}
 {147}{}{红心大战正在运行。玩家胜利。【叮叮！】感谢您玩本游戏。}
 
-#{148}{}{Application Hearts running. This terminal wins. [Click!] Thank you
+#{148}{}{Application Hearts running. This terminal wins. 【Click!】 Thank you
 # for the game.}
 {148}{}{红心大战正在运行。系统胜利。【叮叮！】感谢您玩本游戏。}
 
@@ -203,7 +203,7 @@
 {160}{}{谢谢。结束。}
 
 #{161}{}{Initializing voice communication subsystems. Initializing personality
-# subsystems. [Click!] How may this terminal be of service?}
+# subsystems. 【Click!】 How may this terminal be of service?}
 {161}{}{正在初始化声音通讯子系统。正在初始化个体子系统。【叮叮！】你需要什么帮助？}
 
 #{162}{}{Hnng.}
@@ -239,7 +239,7 @@
 #{172}{}{End input.}
 {172}{}{结束。}
 
-#{173}{}{This is the -- classified [click!] [click!]}
+#{173}{}{This is the -- classified 【click!】 【click!】}
 {173}{}{这是——机密【叮叮！】【叮叮！】}
 
 #{174}{}{Abort request. Show programs.}
@@ -248,10 +248,10 @@
 #{175}{}{Override, continue request.}
 {175}{}{覆盖，继续请求。}
 
-#{176}{}{[Click!] This is the FEV production control facility. This
+#{176}{}{【Click!】 This is the FEV production control facility. This
 # terminal online 2074. Final pre-production process 2075. It
 # is currently under final construction, and is due to open
-# 2078. [Click!]}
+# 2078. 【Click!】}
 {176}{}{【叮叮！】本终端在启动于２０７４，最近一次试生产于２０７５，目前正在调试，最终将于２０７８正式投入生产【叮叮！】}
 
 #{177}{}{Do you know what FEV is?}
@@ -260,7 +260,7 @@
 #{178}{}{Do you know what date it is?}
 {178}{}{你知道日期吗？}
 
-#{179}{}{FEV is Forced [click!] Evolutionary Virus, a product of the
+#{179}{}{FEV is Forced 【click!】 Evolutionary Virus, a product of the
 # Livermore/Broansoun Laboratories. It is designed to increase
 # the genetic complexity of a DNA/RNA series in a shorter period
 # of time.}
@@ -284,15 +284,15 @@
 #{185}{}{That date is incorrect. Please recalibrate.}
 {185}{}{日期错误。请重新核对。}
 
-#{186}{}{Correcting. [Click!] Error. Attempting self-diagnostics.
-#[Click! CLICK!] ERROR! FATAL SYSTEM ERROR. SYSTEM CORRUPTED,
-# ATTEMPTING RECOMPILATION. [Long pause.]}
+#{186}{}{Correcting. 【Click!】 Error. Attempting self-diagnostics.
+#【Click! CLICK!】 ERROR! FATAL SYSTEM ERROR. SYSTEM CORRUPTED,
+# ATTEMPTING RECOMPILATION. 【Long pause.】}
 {186}{}{警告。【叮叮！】错误。正在尝试自测试【叮叮！叮叮！】错误！致命系统错误。系统崩溃，尝试终止。【死机。】}
 
 #{187}{}{Terminal?}
 {187}{}{终端？}
 
-#{188}{}{[click] Error in recompilation . . . [click]}
+#{188}{}{【click】 Error in recompilation . . . 【click】}
 {188}{}{【叮叮】重新启动错误。。。【叮叮】}
 
 #{189}{}{Cannot process request. Terminating dialogue.}
@@ -307,7 +307,7 @@
 #{192}{}{Terminate shutdown procedure.}
 {192}{}{终止关闭程序。}
 
-#{193}{}{[Click!]}
+#{193}{}{【Click!】}
 {193}{}{【叮叮！】}
 
 #{194}{}{Processing request. Terminating dialogue.}

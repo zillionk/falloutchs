@@ -81,8 +81,8 @@
 #{126}{}{Actually, I need to get going. Bye.}
 {126}{}{事实上，我要走了。再见。}
 
-#{127}{}{Yes. The latest in hand held laser technology. [He
-# takes a small pistol from a work table and hands it to you]}
+#{127}{}{Yes. The latest in hand held laser technology. 【He
+# takes a small pistol from a work table and hands it to you】}
 {127}{}{是的，激光武器最近已经研究成功了。【他从工作台上拿起一把小手枪交给你。】}
 
 #{128}{}{This is nice, can I keep this? }
@@ -92,7 +92,7 @@
 {129}{}{这玩意能对人产生什么样的伤害？}
 
 #{130}{}{That one won抰 do you much good.  It抯 still lacking the lenses and amplifier.
-# [He takes the pistol back from you and puts it on the work table]
+# 【He takes the pistol back from you and puts it on the work table】
 # If you really want one, go talk to Talus or Michael.}
 {130}{}{这个不会对你有多大用处。镜头和放大器都不完善。【他从你这里拿走激光枪放在工作台上】如果你真的想要，去找塔鲁斯或者迈克尔吧。}
 

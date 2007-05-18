@@ -43,7 +43,7 @@
 #{130}{}{You were warned to keep your weapons under control!}
 #{131}{}{You'd better put your weapons away while you're here.}
 #{132}{}{A thief, eh? Let me show you what we do to your kind here!}
-#{133}{}{[Done]}
+#{133}{}{¡¾Done¡¿}
 
 #{134}{}{Watch yourself.}
 #{135}{}{We're watching you.}

@@ -75,7 +75,7 @@
 #{121}{Ara_4}{Yes, hmmm, yes, yes. yes. I shall believe you...for now.
 #But we do not trust easily, especially those who might be dangerous.
 #Know that Seth and I will be watching you.}
-{121}{Ara_4}{是的，嗯，是是是。我相信你……于现在而言。不过我们不会轻易相信人，特别是对于那些可能是危险分子的人而言。请你清楚，塞斯和我会盯着你的一举一动。}
+{121}{Ara_4}{是的，嗯，是是是。我相信你……于现在而言。不过我们不会轻易相信人，特别是对于那些可能是危险分子的人而言。请你清楚，塞思和我会盯着你的一举一动。}
 
 #{122}{Ara_5}{It is my town, wanderer. You must answer my questions
 #or leave. This is not a matter of choice.}
@@ -95,7 +95,7 @@
 {126}{Ara_6}{你相当无礼。我想你应该离开。别回来。你不会受欢迎的。}
 
 #{127}{Ara_7}{So be it, wanderer. Seth will show you out.}
-{127}{Ara_7}{好吧，旅行者。塞斯会带你出去的。}
+{127}{Ara_7}{好吧，旅行者。塞思会带你出去的。}
 
 #{128}{Ara_8}{You must think me quite gullible, wanderer. You
 #conquered the mountains by yourself?}
@@ -118,7 +118,7 @@
 #{133}{Ara_9A}{I will let you pass, but know this: Seth and I will
 #watch you very, very closely. Do not even consider
 #bringing trouble here.}
-{133}{Ara_9A}{我会让你进来，不过清楚这点：塞斯和我会很小心盯着你的，很小心的。你想都别想在这里惹麻烦。}
+{133}{Ara_9A}{我会让你进来，不过清楚这点：塞思和我会很小心盯着你的，很小心的。你想都别想在这里惹麻烦。}
 
 #{134}{Ara_10}{And keep them you may. But this is not a city of
 #open hospitality. If you desire that, go to Junktown.

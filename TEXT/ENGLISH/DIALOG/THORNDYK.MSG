@@ -196,13 +196,13 @@
 #{165}{}{Your choice. I will be here if you change your mind.}
 {165}{}{你自找的。如果你改变心意的话，我就在这里。}
 
-#{166}{}{[Smiles.] Terrible people. I sympathize entirely. [Smile fades] I will be here if you change your mind. You are excused.}
+#{166}{}{【Smiles.】 Terrible people. I sympathize entirely. 【Smile fades】 I will be here if you change your mind. You are excused.}
 {166}{}{【笑】糟糕的人们。我非常同情。【笑容消失】如果你改变心意的话，我就在这里。你已被宽恕了。}
  
 #{167}{}{I'll take that as a yes. Please don't kill me . . .}
 {167}{}{我就把这视作同意了。请别杀我……}
 
-#{168}{}{OWWWWWW!! [SNARL!]}
+#{168}{}{OWWWWWW!! 【SNARL!】}
 {168}{}{哦喔喔喔喔！！【吼叫！】}
 
 #{169}{}{Poor creature. A beast with your low intellect would be a challenge even for the healing powers of the Holy Flame. Get out of here厎

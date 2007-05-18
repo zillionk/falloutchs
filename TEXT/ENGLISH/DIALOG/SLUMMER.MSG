@@ -217,7 +217,7 @@
 #{173}{}{I do not believe we have any. Praise the Master, I'm sure this is for the best. }
 {173}{}{我不认为我们有什么保安上的问题。赞美主教，他的做法一定是有道理的。}
 
-#{174}{}{I'm sure it is. [Groan]. }
+#{174}{}{I'm sure it is. 【Groan】. }
 {174}{}{我相信是这样的。【叹息】}
 
 #{175}{}{What kind of a Cathedral doesn't even have holy wine? }
@@ -742,5 +742,5 @@
 #{348}{}{The world holds many surprises, my friend, some pleasant, some unpleasant. Farewell, my friend, and praise the Master! }
 {348}{}{世界上有很多让人惊奇的事情，我的朋友，有些是愉快的，有些是不愉快的。再见，我的朋友，赞美主教！}
 
-#{349}{}{[done] }
+#{349}{}{【done】 }
 {349}{}{【完成】}

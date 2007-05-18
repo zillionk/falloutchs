@@ -65,7 +65,7 @@
 {120}{}{谢谢你的信息。}
 
 #{121}{}{Seen em I have.  Ran like hell, I did.  If yer lookin for 'em, you'll find 'em over there. 
-#[MacRae points over to the east]}
+#【MacRae points over to the east】}
 {121}{}{我看到过它们。如果看到它们，最好拼命地跑开。你会在那边找到它们。【麦克雷指了指东边】}
 
 #{122}{}{I was thinkin the Deathclaws were the spawn of an unnatural act, but 'em Regulators are evil.  
@@ -88,7 +88,7 @@
 #Deathclaws ain't meant the happiest life for em, but they survive.}
 {127}{}{利刃帮是一群好人。在死亡爪和管理者之间为他们所谓的幸福生活战斗。}
 
-#{128}{}{[MacRae claps you on the back] Thanks to you, the Blades are going to live a better life.  So, 
+#{128}{}{【MacRae claps you on the back】 Thanks to you, the Blades are going to live a better life.  So, 
 #what can an old Scotsman do for ya?}
 {128}{}{【麦克雷在对你鼓掌】谢谢你，利刃帮将要得到更好的生活。那么老苏格兰人能为你做些什么？}
 
@@ -120,8 +120,8 @@
 #{137}{}{Sounds interesting, but I gotta get going.}
 {137}{}{听起来很有趣，但是我必须要走了。}
 
-#{138}{}{Well I guess I do have the time.  Might as well start right now. [MacRae starts showing you some 
-#fighting stances, and ways to take punches like a true Scotsman.]}
+#{138}{}{Well I guess I do have the time.  Might as well start right now. 【MacRae starts showing you some 
+#fighting stances, and ways to take punches like a true Scotsman.】}
 {138}{}{很好，我想我有时间。最好现在开始。【麦克雷开始摆出一些战斗架势，而且像一个真正的苏格兰人那样出拳了。】}
 
 #{139}{}{You be a quick learner.  Hope that helps you in your travels.}

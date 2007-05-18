@@ -13,7 +13,7 @@
 #{112}{}{It sure as Hell ain't you, punk.}
 #{113}{}{What makes you think I want to drink with you, you puke!}
 #{114}{}{Get out of here before I kill you!}
-#{115}{}{[done]}
+#{115}{}{【done】}
 
 {100}{}{你看到一个脾气恶劣的教徒。}
 {101}{}{从我面前消失！你这个狗娘养的！}

@@ -141,7 +141,7 @@
 #{233}{}{I know about you and Iguana Bob, you filthy butcher.}
 #{234}{}{Wh . . . what could you possibly mean?}
 #{235}{}{I had a little conversation with your troll . . .}
-#{236}{}{[He looks shiftily from side to side] That proves nothing. Gretch is a little . . . slow in the head. No one listens to him around here. You had best leave.}
+#{236}{}{【He looks shiftily from side to side】 That proves nothing. Gretch is a little . . . slow in the head. No one listens to him around here. You had best leave.}
 
 
 {100}{}{你看到莫彼得医生。}

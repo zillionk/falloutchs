@@ -87,7 +87,7 @@
 {128}{}{关你鸟事？}
 
 #{129}{Kill03}{Not much up that way 'cept desert and Shady Sands. You from there?}
-{129}{Kill03}{北方除了沙漠小镇，就是沙漠了，你是从沙漠小镇还是沙漠里来的？}
+{129}{Kill03}{北方除了沙荫镇，就是沙漠了，你是从沙荫镇还是沙漠里来的？}
 
 #{130}{}{No. I come from a Vault, to the west.}
 {130}{}{呃，不。实际上我是从西边的避难所出来的。}
@@ -96,7 +96,7 @@
 {131}{}{呃。这个……我……我老家是西边的一个村子，在山里的。}
 
 #{132}{}{Not really. Is there anything else up there?}
-{132}{}{我不是沙漠里的，也不是沙漠小镇来的。这城市附近还有什么地方？}
+{132}{}{我不是沙漠里的，也不是沙荫镇来的。这城市附近还有什么地方？}
 
 #{133}{}{Of course, I come from there, you idiot.}
 {133}{}{当然了，我就是那里来的，你这个笨蛋。}
@@ -116,7 +116,7 @@
 
 #{138}{}{Heh, you got my joke. I actually come from a
 # village not far from Shady Sands.}
-{138}{}{嘿嘿，开玩笑啦，实际上我是从沙漠小镇西边不远的一个村子里来的。}
+{138}{}{嘿嘿，开玩笑啦，实际上我是从沙荫镇西边不远的一个村子里来的。}
 
 #{139}{Kill06}{Don't feel bad, ain't the worst story I've
 # been told. So . . . what can I do for ya?}
@@ -539,7 +539,7 @@
 
 #{258}{Kill79}{Shady Sands? That's a little place up to the north. I'd like to do
 # more trading with them.}
-{258}{Kill79}{沙漠小镇？是北边的一个小镇子。我想和他们扩大贸易。}
+{258}{Kill79}{沙荫镇？是北边的一个小镇子。我想和他们扩大贸易。}
 
 #{259}{Kill80}{That city's death. I sent two patrols
 # down there and neither one of them returned.}
@@ -573,10 +573,10 @@
 #{266}{Kill87}{Go talk to Lars. He'll tell you more.}
 {266}{Kill87}{和拉尔斯谈谈，他会告诉你的。}
 
-#{267}{}{[Done]}
+#{267}{}{【Done】}
 {267}{}{【完成】}
 
-#{268}{}{[More]}
+#{268}{}{【More】}
 {268}{}{【更多】}
 
 #{269}{}{You gain 600 experience points for your part in the defeat of Killian.
@@ -744,7 +744,7 @@
 
 #{1115}{Kill79}{Shady Sands? That's a little place up to the north. I'd like to do
 # more trading with them.}
-{1115}{Kill79}{沙漠小镇？是北边的一个小镇子。我想和他们扩大贸易。}
+{1115}{Kill79}{沙荫镇？是北边的一个小镇子。我想和他们扩大贸易。}
 
 #{1116}{Kill80}{That city's death. I sent two patrols
 # down there and neither one of them returned.}
@@ -787,7 +787,7 @@
 
 #{1125}{Kill79}{Shady Sands? That's a little place up to the north. I'd like to do
 # more trading with them.}
-{1125}{Kill79}{沙漠小镇？是北边的一个小镇子。我想和他们扩大贸易。}
+{1125}{Kill79}{沙荫镇？是北边的一个小镇子。我想和他们扩大贸易。}
 
 #{1126}{Kill76}{That's our resident bar. The food's okay, but the beer's great.
 # The owner, Neal, takes no lip, not even from some of the Raiders that come in.}

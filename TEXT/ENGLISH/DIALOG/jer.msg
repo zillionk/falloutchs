@@ -81,7 +81,7 @@
 {125}{}{没错，我不属于这里，但是我知道这颗子弹属于哪里……你脑袋！}
 
 #{126}{}{I transfer the human purity reports for the surrounding areas. But
-# you should know this. [looking suspicious] Who are you?}
+# you should know this. 【looking suspicious】 Who are you?}
 {126}{}{我负责递送周边地区人类基因纯度的报告。你应该知道的。（可疑地看着你）你是谁？}
 
 #{127}{}{I was sent here by Morpheus with a message for the Master.}

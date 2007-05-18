@@ -158,8 +158,8 @@
 #{146}{}{Nah.}
 {146}{}{不用，我就是客气下。}
 
-#{147}{}{[Patrick sings songs and the two of you reminisce for several hours. You
-# feel invigorated.]}
+#{147}{}{【Patrick sings songs and the two of you reminisce for several hours. You
+# feel invigorated.】}
 {147}{}{【帕特里克唱起了歌，你们两个都陷入了回忆中好久。你感觉受到了鼓舞。】}
 
 #{148}{}{Hello again. Can I help you?}

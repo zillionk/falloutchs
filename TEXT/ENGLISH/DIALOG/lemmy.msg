@@ -25,7 +25,7 @@
 #{108}{}{Ahh.}
 {108}{}{啊。}
 
-#{109}{}{No sweat off my back.  Just seein' if I could be neighborly like. [Lemmy turns away]}
+#{109}{}{No sweat off my back.  Just seein' if I could be neighborly like. 【Lemmy turns away】}
 {109}{}{没事没事，我就是看看我们能不能以后和睦相处。（莱米转身去了）}
 
 #{110}{}{Well, you look like a businessman.  And I'm a businessman, and I thought we could, ah, discuss, ah, business.}
@@ -115,7 +115,7 @@
 # I'll just be seein' you around.}
 {136}{}{想要威胁我莱米这样的可怜老人？我不怕你这样的家伙，我走了。}
 
-#{137}{}{[Lemmy takes your money]}
+#{137}{}{【Lemmy takes your money】}
 {137}{}{（莱米拿走了你的钱）}
 
 #{138}{}{Well, that's fair enough.  I'll take that instead.}
@@ -225,7 +225,7 @@
 #{170}{}{How about 800 caps instead?}
 {170}{}{800怎么样？}
 
-#{171}{}{Because you like me so much Lemmy, why don't you just do it for free? [As you flex your muscles]}
+#{171}{}{Because you like me so much Lemmy, why don't you just do it for free? 【As you flex your muscles】}
 {171}{}{你这么和我要好，干嘛不免费带我去呢？（你抖了抖野猪般的肌肉）}
 
 #{172}{}{Can't afford that.}

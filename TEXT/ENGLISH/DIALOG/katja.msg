@@ -470,7 +470,7 @@
 {1124}{}{沙什么？}
 
 #{1125}{}{Shady Sands? Never heard of it.}
-{1125}{}{沙城？没听说过。}
+{1125}{}{沙荫镇？没听说过。}
 
 #{1126}{}{The Hub's a huge trading center, with all sorts of stores and merchants.}
 {1126}{}{哈勃是大型交易中心，有各种店铺和商家。}

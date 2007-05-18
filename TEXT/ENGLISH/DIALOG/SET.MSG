@@ -36,7 +36,7 @@
 {114}{}{我很抱歉。我是想留个好印象。}
 #{115}{}{Didn't mean nothin'.}
 {115}{}{不意味任何事。}
-#{116}{Set03}{[Groan] I'm gonna to eat you up and be singing that 'Happy Tummy'
+#{116}{Set03}{【Groan】 I'm gonna to eat you up and be singing that 'Happy Tummy'
 # song. I got that happy tummy . . .}
 {116}{Set03}{【哼哼声】我要边吃你边唱着那“好胃口”歌。我有那好胃口……}
 #{117}{Set04}{Fact-time, bitch? I'm gonna enjoy squeezing you.}
@@ -173,7 +173,7 @@
 {171}{}{对不起，没问题。}
 #{172}{}{Hey, I'm not settling for left-overs}
 {172}{}{嘿，我可不满足于残羹剩饭。}
-#{173}{Set20}{[Groan] Yeah, yeah. Follow Garret, and be showing your pearly whites too.
+#{173}{Set20}{【Groan】 Yeah, yeah. Follow Garret, and be showing your pearly whites too.
 # And don't fret, I keep a straight-word. The Master runs the twist.}
 {173}{Set20}{【抱怨】是啊，是啊。跟着盖瑞特，也去展示一下你皓白的牙齿。别不满，我直言。主教掌管着一切。}
 #{174}{}{The Master?}
@@ -462,8 +462,8 @@
 {292}{}{好了，给。}
 #{293}{}{I'd rather see you dead.}
 {293}{}{我宁愿看你死。}
-#{294}{Set65}{[Set passes the water chip to a ghoul, who runs
-# off with it.]  If your shadow touches Necropolis again, it will
+#{294}{Set65}{【Set passes the water chip to a ghoul, who runs
+# off with it.】  If your shadow touches Necropolis again, it will
 # merge forever.}
 {294}{Set65}{【赛特把水处理芯片递给一个僵尸，他拿着它跑掉了。】如果你的影子再碰到大墓地，它会永远和大墓地融为一体。}
 #{295}{Set200}{As said . . .}

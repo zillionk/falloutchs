@@ -1,7 +1,7 @@
 #{100}{}{You see a teenager.}
 #{101}{}{You! You did it! When I grow up I'm gonna get you!
 # I'm gonna hunt you down and kill you! You killed them
-# all! Aaaaaalllll! [Uncontrolled sobbing].}
+# all! Aaaaaalllll! 【Uncontrolled sobbing】.}
 #{102}{}{It was the only way. The only way to stop them.}
 #{103}{}{How in Hell did you survive the nuke?}
 #{104}{}{It's a lie, kid. I didn't do it!}
@@ -33,7 +33,7 @@
 #{130}{}{Father Lasher?}
 #{131}{}{Fun good.}
 #{132}{}{Sounds like he and I have a lot in common.}
-#{133}{}{That's great! May the Master bless you. [He hands you a flower.]}
+#{133}{}{That's great! May the Master bless you. 【He hands you a flower.】}
 #{134}{}{Aw! You're no fun. Maybe I should tell the Nightkin about you!}
 #{135}{}{The Nightkin are my friends.}
 #{136}{}{You're a little too young to understand how much fun I can be.}
@@ -115,7 +115,7 @@
 #{206}{}{What kind of lesson?}
 #{207}{}{Stop whining, you little brat, and be grateful that somebody's bothering to teach you!}
 #{208}{}{I never do good enough! Never!}
-#{209}{}{[done]}
+#{209}{}{【done】}
 
 {100}{}{你看见一名少年。}
 {101}{}{你！是你干的！我长大后要杀了你！我会找到你，杀掉你！你居然把他们都杀了！啊啊啊啊啊啊啊！（难以自制的哭泣）}

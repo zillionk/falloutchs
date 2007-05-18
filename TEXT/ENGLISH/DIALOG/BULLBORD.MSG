@@ -8,5 +8,5 @@
 {103}{}{2. 特殊职位。  遵章守纪，勇于冒险。}
 #{104}{}{Own weapons and ammo required for all jobs.  Inquire with Rutger at the Far Go Traders office.}
 {104}{}{自备工作所需枪械弹药。  详情咨询Far Go Traders 办公室的Rutger。}
-#{105}{}{[More]}
-{105}{}{[更多]}
+#{105}{}{【More】}
+{105}{}{【更多】}

@@ -58,22 +58,22 @@
 #{119}{}{Now that you mention it, perhaps you can give me some advice.}
 {119}{}{既然你这么说，也许你可以给我一些建议。}
 
-#{120}{}{[Chuck pulls out a set of Tarot cards.] Let me consult the cards. [Chuck shuffles the cards.]}
+#{120}{}{【Chuck pulls out a set of Tarot cards.】 Let me consult the cards. 【Chuck shuffles the cards.】}
 {120}{}{【查克掏出了一些塔罗牌】抽个牌吧。【洗牌】}
 
-#{121}{}{[Chuck pulls out a card with a picture of a man in a lab coat with a computer in one hand, and a card with a man in power armor.] The Heirophant and the Prince of Wands in the south . . . great wisdom and nobility await in a place to the south.}
+#{121}{}{【Chuck pulls out a card with a picture of a man in a lab coat with a computer in one hand, and a card with a man in power armor.】 The Heirophant and the Prince of Wands in the south . . . great wisdom and nobility await in a place to the south.}
 {121}{}{【查克取出了两张牌，其中一张牌上画着一个穿着实验室大褂的人坐在电脑旁，另一张牌上画的是一个穿着能量装甲的人。】教皇和权杖王子在南方……南方的某个地方有高度的智慧和尊贵。}
 
-#{122}{}{[Chuck pulls out a card with a picture of a man with a vibro-blade and a flag.] The Prince of Swords in the north . . . you must face a powerful foe far to the north.}
+#{122}{}{【Chuck pulls out a card with a picture of a man with a vibro-blade and a flag.】 The Prince of Swords in the north . . . you must face a powerful foe far to the north.}
 {122}{}{【查克取出了一张牌，牌上画着一个手持能量刀抗着大旗的人】带剑王子在北方……你在北方有一个我强大的敌人。}
 
-#{123}{}{[Chuck pulls out a card with a picture of a radio tower, and a card with a picture of a man in a suit with a scepter.] The Tower and the Emperor . . . great change awaits by the hands of a powerful leader. Whether that change is death, I cannot t#ell.}
+#{123}{}{【Chuck pulls out a card with a picture of a radio tower, and a card with a picture of a man in a suit with a scepter.】 The Tower and the Emperor . . . great change awaits by the hands of a powerful leader. Whether that change is death, I cannot t#ell.}
 {123}{}{【查克取出两张牌，一张上面画着无线电塔台，另一张画着一个拿着节杖身穿正装的人】高塔和皇帝……一个强大的领袖将要领导巨大变革。这个变革是好是坏，我不敢说。}
 
-#{124}{}{[Chuck pulls out a card with a picture of a man dancing on a nuclear warhead.] The Fool. I cannot help you; you must make your own way in the world.}
+#{124}{}{【Chuck pulls out a card with a picture of a man dancing on a nuclear warhead.】 The Fool. I cannot help you; you must make your own way in the world.}
 {124}{}{【查克取出一张牌，上面画的是一个人在核弹头上跳舞】愚人牌。我帮不了你，你必须自己在这个世界上闯荡。}
 
-#{125}{}{[More]}
+#{125}{}{【More】}
 {125}{}{【更多】}
 
 #{126}{}{Hmm. Thanks for the advice.}

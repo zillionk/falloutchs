@@ -1,7 +1,7 @@
 #{100}{}{radio}
 {100}{}{无线电}
-#{101}{}{[There is a squeal of static, then you hear a deep voice over the
-# radio.] Command to patrol, command to patrol. What is your status?
+#{101}{}{【There is a squeal of static, then you hear a deep voice over the
+# radio.】 Command to patrol, command to patrol. What is your status?
 # Over.}
 {101}{}{【一声刺耳的噪声，你听到一个低沉的声音从无线电里传来。】指挥官呼叫巡逻兵，指挥部呼叫巡逻兵。报告你的情况？完毕。}
 
@@ -90,7 +90,7 @@
 # over the radio.}
 {127}{}{无线电只发出刺耳的像数据密码的声音。}
 
-#{128}{}{[Squeal-snick-pop] Command here, go ahead patrol.}
+#{128}{}{【Squeal-snick-pop】 Command here, go ahead patrol.}
 {128}{}{【噪音－咝咝－嗤嗤】这里是指挥部，到前边巡逻。}
 
 #{129}{}{Ack!}
@@ -105,8 +105,8 @@
 #{132}{}{Roger Patrol, Command out.}
 {132}{}{收到，巡逻兵，指挥部通话完毕。}
 
-#{133}{}{[You dial the frequency of the radio to the security control
-# channel] [Click!] Enter access number. [Click!]}
+#{133}{}{【You dial the frequency of the radio to the security control
+# channel】 【Click!】 Enter access number. 【Click!】}
 {133}{}{【你把无线电拨到安全控制频段】【咔哒】输入密码【咔哒】}
 
 #{134}{}{Hng!}

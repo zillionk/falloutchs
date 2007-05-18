@@ -65,7 +65,7 @@
 # check out my gun.}
 {121}{}{又来了？迪克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
 
-#{122}{}{[Leon shows you the side of his gun where 5 deep scratch marks are visible.]}
+#{122}{}{【Leon shows you the side of his gun where 5 deep scratch marks are visible.】}
 {122}{}{【利昂给你看他在枪上的五道划痕。】}
 
 #{123}{}{Each one of these marks is for a past attempt on Hightower's life.  I bagged each and every one of them.  Tell me...
@@ -103,7 +103,7 @@
 #{133}{}{I really need to speak to Mr. Hightower.}
 {133}{}{我真的有事要找海托先生。}
 
-#{134}{}{Ok, buddy.  Let's go. [Leon grabs you by the arm.]}
+#{134}{}{Ok, buddy.  Let's go. 【Leon grabs you by the arm.】}
 {134}{}{好，哥们。我们走。【利昂用胳膊搂着你的肩。】}
 
 #{135}{}{Get your damn hands off of me!}

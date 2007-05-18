@@ -661,7 +661,7 @@
 
 #  ======================================================================
 #     ADYTUM
-# Info Level 1 [People who know nothing]
+# Info Level 1 【People who know nothing】
 {17800}{}{Adytum}
 {17801}{}{The Followers}
 {17802}{}{The Cathedral}
@@ -712,7 +712,7 @@
 {17915}{}{这里是晒骨场。}
 
 
-# Info level 2 [People who know something]
+# Info level 2 【People who know something】
 {18000}{}{Adytum}
 {18001}{}{The Followers}
 {18002}{}{The Cathedral}
@@ -766,7 +766,7 @@
 
 
 
-# Info level 3 [People who know more than something but less than everything]
+# Info level 3 【People who know more than something but less than everything】
 {18200}{}{Adytum}
 {18201}{}{The Followers}
 {18202}{}{The Cathedral}
@@ -841,7 +841,7 @@
 
 #======================================================================
 #    FOLLOWERS OF THE APOCALYPSE
-# Info Level 1 [People who know nothing]
+# Info Level 1 【People who know nothing】
 {18400}{}{Adytum}
 {18401}{}{The Followers}
 {18402}{}{The Cathedral}
@@ -876,7 +876,7 @@
 #{18510}{}{This is the Boneyard.}
 {18510}{}{这里是晒骨场。}
 
-# Info level 2 [People who know something]
+# Info level 2 【People who know something】
 {18600}{}{Adytum}
 {18601}{}{The Followers}
 {18602}{}{The Cathedral}
@@ -914,7 +914,7 @@
 # Los Angeles.}
 {18710}{}{这个地方就是美丽的晒骨场，古老的城市洛杉矶的遗迹。}
 
-# Info level 3 [People who know more than something but less than everything]
+# Info level 3 【People who know more than something but less than everything】
 {18800}{}{Adytum}
 {18801}{}{The Followers}
 {18802}{}{The Cathedral}
@@ -1448,7 +1448,7 @@
 
 #  ======================================================================
 #    BLADES
-# Info Level 1 [People who know nothing]
+# Info Level 1 【People who know nothing】
 {27400}{}{Adytum}
 {27401}{}{The Followers}
 {27402}{}{The Cathedral}
@@ -1490,7 +1490,7 @@
 {27512}{}{这里是晒骨场。}
 
 
-# Info Level 2 [People who know something]
+# Info Level 2 【People who know something】
 {27600}{}{Adytum}
 {27601}{}{The Followers}
 {27602}{}{The Cathedral}
@@ -1535,7 +1535,7 @@
 {27712}{}{这里是晒骨场。}
 
 
-# Info level 3 [People who know more than something but less than everything]
+# Info level 3 【People who know more than something but less than everything】
 {27800}{}{Adytum}
 {27801}{}{The Followers}
 {27802}{}{The Cathedral}
@@ -1609,7 +1609,7 @@
 
 #  ======================================================================
 #   GUN RUNNERS
-#Info Level 1 [People who know nothing]
+#Info Level 1 【People who know nothing】
 {28600}{}{Adytum}
 {28601}{}{The Followers}
 {28602}{}{The Cathedral}
@@ -1641,7 +1641,7 @@
 #{28709}{}{This is the Boneyard.}
 {28709}{}{这里是晒骨场。}
 
-# Info Level 2 [People who know something]
+# Info Level 2 【People who know something】
 {28800}{}{Adytum}
 {28801}{}{The Followers}
 {28802}{}{The Cathedral}
@@ -1677,7 +1677,7 @@
 #{28909}{}{We're in the north side of the Boneyard.}
 {28909}{}{我们住在晒骨场北面。}
 
-# Info Level 3 [People who know more than something but less than everything]
+# Info Level 3 【People who know more than something but less than everything】
 {29000}{}{Adytum}
 {29001}{}{The Followers}
 {29002}{}{The Cathedral}

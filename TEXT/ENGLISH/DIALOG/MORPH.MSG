@@ -293,8 +293,8 @@
 #{197}{}{And have you found this higher level ?}
 {197}{}{你找到了这个更高的境界吗？}
 
-#{198}{MORP33}{[Angry]Why you!...[Calmly]You are forgiven. Not everyone is capable of seeing the light. But, tell me my child, why did you join us? }
-{198}{MORP33}{[生气]唉你！···[冷静]饶恕你，不是每个人都有能力见到光明。但是，我的孩子，你告诉我，你为什么加入我们？}
+#{198}{MORP33}{【Angry】Why you!...【Calmly】You are forgiven. Not everyone is capable of seeing the light. But, tell me my child, why did you join us? }
+{198}{MORP33}{【生气】唉你！···【冷静】饶恕你，不是每个人都有能力见到光明。但是，我的孩子，你告诉我，你为什么加入我们？}
 
 #{199}{}{I had to see if this was as much of a joke as I'd heard. Now I know.}
 {199}{}{我要看这是否跟我听过的笑话差不多。现在我知道了。}

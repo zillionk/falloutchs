@@ -1,10 +1,10 @@
-#{100}{}{[You are in your room. Do you want to rest here until tomorrow morning?]}
+#{100}{}{【You are in your room. Do you want to rest here until tomorrow morning?】}
 {100}{}{你在你自己的房间里。你想睡觉到明天早上么？}
 
-#{101}{}{[Yes]}
+#{101}{}{【Yes】}
 {101}{}{【是】}
 
-#{102}{}{[No]}
+#{102}{}{【No】}
 {102}{}{【否】}
 
 #{103}{}{You awaken refreshed.}

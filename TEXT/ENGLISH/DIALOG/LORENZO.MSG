@@ -211,7 +211,7 @@
 {167}{}{这地方的人去哪找工作？}
 
 #{168}{}{They're great guys! It's true we have the occasional misunderstanding, but I think they're a credit to
-# their species?[sotto voce] 厀hichever one that is厎
+# their species?【sotto voce】 厀hichever one that is厎
 {168}{}{他们是了不起的家伙！只是我们偶然会有点误会，但是我认为他们值得信任的那种人？【低声】无论哪个都是。}
 
 #{169}{}{What about those missing caravans?}
@@ -465,22 +465,22 @@
 #{250}{}{Oh!  I just remembered!  I have just enough to cover the whole loan!}
 {250}{}{噢！我想起来了！我刚好可以还清所有欠款！}
 
-#{251}{}{[Attempt to fool Lorenzo by giving him only }
+#{251}{}{【Attempt to fool Lorenzo by giving him only }
 {251}{}{【企图愚弄罗仑佐，只给他}
 
-#{252}{}{ caps]}
+#{252}{}{ caps】}
 {252}{}{个瓶盖】}
 
 #{253}{}{Forget it!  You're not getting one single cap out of me.}
 {253}{}{别想了！你一个瓶盖也别想从我这里拿走。}
 
-#{254}{}{[You give Lorenzo all of your caps]}
+#{254}{}{【You give Lorenzo all of your caps】}
 {254}{}{【你给罗仑佐你的全部的瓶盖】}
 
-#{255}{}{[You give Lorenzo }
+#{255}{}{【You give Lorenzo }
 {255}{}{【你给罗仑佐}
 
-#{256}{}{ caps]}
+#{256}{}{ caps】}
 {256}{}{个瓶盖】}
 
 #{257}{}{You're full of crap!  You've been holding out on me!  I'm gonna to beat that money out of you!}
