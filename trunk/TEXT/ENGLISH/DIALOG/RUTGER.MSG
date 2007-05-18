@@ -120,7 +120,7 @@ after commodity in a settlement 10 miles away.}
 
 #{139}{}{I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all 
 the new recruits. He's in the room right behind me. Go on in.}
-{139}{}{ 我听说你是个很疯狂的人，不过那正是我们现在所需要的，你得去和比奇谈谈，他欢迎所有的新人，他就在我身后右边的房间，进去就是了。}
+{139}{}{我听说你是个很疯狂的人，不过那正是我们现在所需要的，你得去和比奇谈谈，他欢迎所有的新人，他就在我身后右边的房间，进去就是了。}
 
 #{140}{}{I don't think I want a child killer on one of my caravans.}
 {140}{}{我可不想让一个杀小孩的禽兽成为我的商队伙伴。 }
@@ -173,7 +173,7 @@ or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the o
 {154}{}{滚出这儿，见鬼的斯盖格！}
 
 #{155}{}{Fine. I wish you would make up you mind, I'm a busy man...Let me give you the details.}
-{155}{}{好的，我希望你能记住，我很忙的…… 我们来谈谈细节吧。 }
+{155}{}{好的，我希望你能记住，我很忙的……我们来谈谈细节吧。 }
 
 #{156}{}{You're full of crap. Get the hell out.}
 {156}{}{你简直就是个废物。快他妈的滚蛋。}
@@ -207,7 +207,7 @@ draw blood. At least, not in public.}
 {165}{}{好吧，我并没有说这会很容易，换句话来说，我们为这个问题头疼已经不是一天两天了，去周围调查一下，有必要的话可以动粗，但决不要杀人，至少，不要被人发现。 }
 
 #{166}{}{I'm telling you, lay off the drugs. They'll mess you up.}
-{166}{}{ 我劝你离毒品远点，它们最后会要了你的命。}
+{166}{}{我劝你离毒品远点，它们最后会要了你的命。}
 
 #{167}{}{The job pays 500 Hubbucks when you can tell Butch exactly what has been happening to all of the caravans that have
 # disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those
@@ -215,7 +215,7 @@ draw blood. At least, not in public.}
 {167}{}{如果你能把失踪的商队的情况调查清楚并且告诉比齐的话，我付你500。去吧，找到你能找到的证据。我个人认为这是那些水商或者那些兄弟会的军火贩子做的。比齐则认为是死亡爪那一类的东西弄的。你可以去和beth谈谈，她知道更多。 }
 
 #{168}{}{Ok, but I don't know what you missed. There's not much to it.}
-{168}{}{ 好吧，但是我不知道你到底在找什么，你给的信息太少。}
+{168}{}{好吧，但是我不知道你到底在找什么，你给的信息太少。}
 
 #{169}{}{I thought for sure you were from there. I was just testing you. If you're not from there, how the hell did you get that suit of steel they all traipse 
 around in?}
