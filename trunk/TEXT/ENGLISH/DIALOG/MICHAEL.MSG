@@ -50,7 +50,7 @@
 {116}{}{哦，哪比得上我们骑士光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
 
 #{117}{}{I was sent here by 。。。Bob。He wanted me to get him 。。。that new high tech weapon-thingy。He said to bring it right away。}
-{117}{}{派我到这里来的人是···鲍勃。他让我帮他取···那个新的高科技武器单元。他说要马上把它拿去。}
+{117}{}{派我到这里来的人是……鲍勃。他让我帮他取……那个新的高科技武器单元。他说要马上把它拿去。}
 
 #{118}{}{I'd like to check out something。How do I do that？}
 {118}{}{我想领些东西。我该怎么做？}
