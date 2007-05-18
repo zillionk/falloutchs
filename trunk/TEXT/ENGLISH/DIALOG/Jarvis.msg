@@ -39,7 +39,7 @@
 #{111}{}{Well, Shady Sands was founded by a great ancestor of our current
 # leader, Aradesh. He could tell you more of the story. We have a
 # well and irrigation, so we do well for ourselves.}
-{111}{}{好的，荒漠小镇是我们伟大的领导者建立的，他叫亚拉德什。他可以告诉你更多关于这里的故事。我们用井水灌溉，井水也养活了我们自己。}
+{111}{}{好的，沙荫镇是我们伟大的领导者建立的，他叫亚拉德什。他可以告诉你更多关于这里的故事。我们用井水灌溉，井水也养活了我们自己。}
 
 #{112}{}{This man is suffering from a virulent poison.}
 {112}{}{这个男人正在忍受中毒的痛苦。}

@@ -1,5 +1,5 @@
 #{100}{}{You see Dugan, the Nuka-Cola addict of the Blades.}
-{100}{}{你看见杜冈，刀锋核子可乐的上瘾者。}
+{100}{}{你看见杜冈，利刃帮核子可乐的上瘾者。}
 #{101}{}{You see a very tall thin man with glasses. He has a bottle of Nuka-Cola clutched in his hand.}
  {101}{}{你看见一个很高的戴着眼镜的男子。他手里拿着一瓶核子可乐。}
 #{102}{}{Yes?}
@@ -19,7 +19,7 @@
 #{109}{}{Well, then stop wasting my time.}
 {109}{}{好吧，不要浪费我的时间了。}
 #{110}{}{I pontificate on life a lot, and help the Blades understand the true meaning of Nuka-Cola.}
- {110}{}{我花费了生命中的大部分时间，帮助刀锋成员明白了核子可乐的真正意义。}
+ {110}{}{我花费了生命中的大部分时间，帮助利刃帮成员明白了核子可乐的真正意义。}
 #{111}{}{What's so good about Nuka-Cola?}
 {111}{}{核子可乐有什么好？}
 #{112}{}{Is that all? That doesn't seem to help anyone that much.}
@@ -31,9 +31,9 @@
 #{115}{}{Ah, ok.  I'll be seeing you.}
 {115}{}{啊，好吧，我们会再见面的。}
 #{116}{}{It is the stuff of life . . . Well actually, if I don't drink it on an hourly basis I get a splitting headache.}
-{116}{}{这是生命之源...说实在的，如果我一个小时不喝这个东西我就会头痛的要命。}
-#{117}{}{So? [Dugan raises his eyebrows at you.]}
-{117}{}{那么？[杜冈对你扬起眉毛]}
+{116}{}{这是生命之源……说实在的，如果我一个小时不喝这个东西我就会头痛的要命。}
+#{117}{}{So? 【Dugan raises his eyebrows at you.】}
+{117}{}{那么？【杜冈对你扬起眉毛】}
 #{118}{}{About 5 litres a day.}
 {118}{}{大概一天5升。}
 #{119}{}{Razor's the woman you'll want to talk to.}
@@ -44,8 +44,8 @@
 {121}{}{我需要另一瓶核子可乐！}
 #{122}{}{Where'd my hair go!}
 {122}{}{我的头发去哪了？}
-#{123}{}{Carbonated Water, Caramel Color, Aspartame, Phosphoric Acid, Potassium Benzoate (To Protect Taste), Natural Flavors, Citric Acid, Caffeine}
-{123}{}{苏打水、焦糖、柠檬酸精、磷酸、苯甲酸钾（为了保持口感)，天然口味、柠檬酸、咖啡因。}
+#{123}{}{Carbonated Water, Caramel Color, Aspartame, Phosphoric Acid, Potassium Benzoate 】To Protect Taste】, Natural Flavors, Citric Acid, Caffeine}
+{123}{}{苏打水、焦糖、柠檬酸精、磷酸、苯甲酸钾【为了保持口感】，天然口味、柠檬酸、咖啡因。}
 #{124}{}{Too bad we ran out of Diet.}
 {124}{}{太糟了我们几乎没有食欲。}
 #{125}{}{Where'd those short women go?}

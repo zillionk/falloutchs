@@ -67,4 +67,4 @@
 
 #{200}{}{You gain 500 experience points for helping to improve the
 # agriculture of Shady Sands.}
-{200}{}{你提高了荒漠小镇的农耕水平，获得500点经验值。}
+{200}{}{你提高了沙荫镇的农耕水平，获得500点经验值。}

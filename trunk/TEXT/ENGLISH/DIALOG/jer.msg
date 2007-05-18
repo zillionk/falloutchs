@@ -71,14 +71,14 @@
 {122}{}{我是避难所的居民，我要和主教谈话。}
 
 #{123}{}{Um... Dorpheus... hmm... Morpheus sent me.}
-{123}{}{多非斯．．．不对，．．．是墨菲斯让我来的。}
+{123}{}{多非斯……不对，……是墨菲斯让我来的。}
 
 #{124}{}{I am Loki. An initiate from the south.}
 {124}{}{我是罗基，从南方来的新学员。}
 
 #{125}{}{No, I don't belong here. But I know where this bullet belongs... in
 # your head.}
-{125}{}{没错，我不属于这里，但是我知道这颗子弹属于哪里．．．你脑袋！}
+{125}{}{没错，我不属于这里，但是我知道这颗子弹属于哪里……你脑袋！}
 
 #{126}{}{I transfer the human purity reports for the surrounding areas. But
 # you should know this. [looking suspicious] Who are you?}
@@ -88,7 +88,7 @@
 {127}{}{我是墨菲斯派来给主教送信的。}
 
 #{128}{}{It is none of your business who I am... just answer my questions!}
-{128}{}{我是谁不管你的事．．．回答我的问题！}
+{128}{}{我是谁不管你的事……回答我的问题！}
 
 #{129}{}{You are not to know who I am, it is the wish of the Master.}
 {129}{}{你不应该知道我是谁，这是主教的意志。}
@@ -98,7 +98,7 @@
 {130}{}{你胆敢问我是谁？笨蛋！我应该把你原地砸扁。}
 
 #{131}{}{That's rather odd... I've never heard of you.}
-{131}{}{奇怪啊．．．我怎么从来没听说过你。}
+{131}{}{奇怪啊……我怎么从来没听说过你。}
 
 #{132}{}{I was sent here by Morpheus with a message for the Master.}
 {132}{}{我是墨菲斯派来给主教送信的。}
@@ -212,17 +212,17 @@
 
 #{166}{}{He was about your height but was wearing a leather jacket... What
 # do you have on under those robes?}
-{166}{}{和你差不多高，穿一件皮甲．．．你们袍子里都穿什么？}
+{166}{}{和你差不多高，穿一件皮甲……你们袍子里都穿什么？}
 
 #{167}{}{He looked just like you, shit-for-brains!}
 {167}{}{就和你一个样，脑袋里进屎的样子。}
 
 #{168}{}{Um... I... I... You don't actually think it's m... me?  How ridiculous.
 # I've never!}
-{168}{}{呃．．．我．．．我．．．你不会认为那就是我吧？可笑啊，我不是的！}
+{168}{}{呃……我……我……你不会认为那就是我吧？可笑啊，我不是的！}
 
 #{169}{}{Ok. I'll be leaving then, but let me know if you see anything...}
-{169}{}{好吧，那我走了，如果你看到的话一定向我汇报．．．}
+{169}{}{好吧，那我走了，如果你看到的话一定向我汇报……}
 
 #{170}{}{Yes! I do think it was you! Get down on the ground and spread 'em!}
 {170}{}{没错，就是你！趴下，不准动。}

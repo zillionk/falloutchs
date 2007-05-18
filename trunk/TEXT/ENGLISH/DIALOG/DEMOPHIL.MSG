@@ -31,7 +31,7 @@
 #{115}{}{Isn't it your dog?}
 {115}{}{这不是你的狗吗？}
 #{116}{}{It was the 'pet' of a traveler. When the traveler died, this damn dog just plopped its furry ass down on my doorstep and wouldn't leave. It's been there for days.}
-{116}{}{这是某个旅行者的”宠物“。当那个旅行者死了，这该死的狗就把它那肥肥的屁股杵在我家门口，再也不肯走了。这已经有段日子了。}
+{116}{}{这是某个旅行者的”宠物“。当那个旅行者死了，这该死的狗就把它那毛毛的屁股杵在我家门口，再也不肯走了。这已经有段日子了。}
 #{117}{}{Oh.}
 {117}{}{噢。}
 #{118}{}{Who was this traveler?}
@@ -55,4 +55,4 @@
 #{127}{}{Thanks for your help.}
 {127}{}{谢谢你的帮忙。}
 #{128}{}{You get 50 experience points.}
-{128}{}{你得到50点经验值。}
+{128}{}{你得到５０点经验值。}

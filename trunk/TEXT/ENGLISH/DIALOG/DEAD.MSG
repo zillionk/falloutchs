@@ -1,5 +1,5 @@
 #{100}{}{Dead bodies . . .}
-{100}{}{死尸．．．}
+{100}{}{死尸……}
 #{101}{}{They were recently killed by some sort of animal.}
 {101}{}{他们被某种动物杀死没多长时间。}
 #{102}{}{They were recently killed.}

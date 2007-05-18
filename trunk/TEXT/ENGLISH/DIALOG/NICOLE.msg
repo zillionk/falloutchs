@@ -377,7 +377,7 @@
 {225}{}{很有意思。但我现在得走了。}
 
 #{226}{Nic_42}{Well, the Boneyard is pretty scarce as you can see. Adytum is to the west. The Children of the Cathedral are to the north. I wouldn't advise going too far south into the city, though, the Rippers and the Blades have made it into a battlefield.}
-{226}{Nic_42}{好吧，你能见到枯骨之地是相当难得的。内殿在西方。大教堂还有教徒在北方。我要劝你不要去南方的城市，莱普士帮和利刃帮在那里打战。}
+{226}{Nic_42}{好吧，你能见到晒骨场是相当难得的。内殿在西方。大教堂还有教徒在北方。我要劝你不要去南方的城市，莱普士帮和利刃帮在那里打战。}
 
 #{227}{Nic_43}{About what?}
 {227}{Nic_43}{关于什么？}
@@ -623,13 +623,13 @@
 {307}{Nic_92}{你大概见过他们的医院了。他们鼓吹和平，但其中有什么不对劲。我们得找出问题的所在。}
 
 #{308}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
-{308}{Nic_93}{那是个小聚居点。你可以在枯骨之地西边找到它。}
+{308}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{309}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {309}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}
 
 #{310}{Nic_95}{They war with the Blades down south. The Rippers are the most ruthless gang in the Boneyard. When we sent people to convert them, the only thing we got back were their heads.}
-{310}{Nic_95}{他们和南方的利刃帮交火。莱普士帮是枯骨之地里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
+{310}{Nic_95}{他们和南方的利刃帮交火。莱普士帮是晒骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
 
 #{311}{Nic_96}{The Blades fight the Rippers down south. They're the most agreeable of the two gangs, though that's not saying much. We've converted a few of them.}
 {311}{Nic_96}{利刃帮在南方和莱普士帮对抗。他们是最合适的两拨人，虽然不能说情况有多好，我们已经感化了他们其中几个人。}
@@ -745,7 +745,7 @@
 {1108}{Nic_92}{你大概见过他们的医院了。他们鼓吹和平，但其中有什么不对劲。我们得找出问题的所在。}
 
 #{1109}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
-{1109}{Nic_93}{那是个小聚居点。你可以在枯骨之地西边找到它。}
+{1109}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{1110}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {1110}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}

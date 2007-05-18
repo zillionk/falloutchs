@@ -20,7 +20,7 @@
 {106}{}{谢谢。}
 
 #{107}{}{Yeah... I bet you're watching me.}
-{107}{}{好．．．你得盯我紧点。}
+{107}{}{好……你得盯我紧点。}
 
 #{108}{}{I don't like your attitude.  I'm going to have to ask you to leave.}
 {108}{}{我不喜欢你的态度。我要求你离开。}
@@ -63,14 +63,14 @@
 
 #{121}{}{Again?  What a fool Decker is.  Well?... I guess he's not as big a fool as the guys he hires for these jobs.  See here,
 # check out my gun.}
-{121}{}{又来了？迪克是个笨蛋？好吧．．．我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
+{121}{}{又来了？迪克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
 
 #{122}{}{[Leon shows you the side of his gun where 5 deep scratch marks are visible.]}
 {122}{}{【利昂给你看他在枪上的五道划痕。】}
 
 #{123}{}{Each one of these marks is for a past attempt on Hightower's life.  I bagged each and every one of them.  Tell me...
 # do you know what this fool Decker hired looks like?}
-{123}{}{每条划痕都标志着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我．．．谁还敢听迪克的话到这来送死？}
+{123}{}{每条划痕都标志着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我……谁还敢听迪克的话到这来送死？}
 
 #{124}{}{No.}
 {124}{}{不。}

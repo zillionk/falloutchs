@@ -315,7 +315,7 @@
 {205}{}{钢铁兄弟会}
 
 #{206}{}{Boneyard }
-{206}{}{枯骨之地}
+{206}{}{晒骨场}
 
 {207}{}{伽克镇}
 
@@ -362,13 +362,13 @@
 {222}{}{可以出发了！路上离山区远一点。}
 
 #{223}{}{The Boneyard's a rough place -- be careful. Make sure everyone sticks to their shifts.}
-{223}{}{枯骨之地是个不好处的地方。小心点，所有人都要守好岗位。}
+{223}{}{晒骨场是个不好处的地方。小心点，所有人都要守好岗位。}
 
 #{224}{}{The crew's almost ready. I heard there was some trouble around the Boneyard recently -- watch your back.}
-{224}{}{人员基本准备完毕。我听说最近枯骨之地有麻烦，你要小心。}
+{224}{}{人员基本准备完毕。我听说最近晒骨场有麻烦，你要小心。}
 
 #{225}{}{Okay, the caravan crew for the Boneyard is ready and waiting.}
-{225}{}{好了，前往枯骨之地的人员已待命。}
+{225}{}{好了，前往晒骨场的人员已待命。}
 
 #{226}{}{Junktown is normally a short and easy trip -- you shouldn't have any problems.}
 {226}{}{去伽克镇的路比较短，也比较安全，你们应该没什么太大问题。}
@@ -383,7 +383,7 @@
 # has his reasons.  Our caravans leave here three times a month:  on the 8th, 18th and 28th.  There are three
 # places we go to on a regular basis: the Brotherhood of Steel, Junktown, and the Boneyard. The pay is
 # always 400 scripts, and that's one way.  You can come back with the caravan for another 400 scripts.}
-{229}{}{嗨，你好。我知道你在找工作。我很奇怪鲁格会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，８号，１８号和２８号。通常的路线是三条：钢铁兄弟会、伽克镇和枯骨之地。工资一样，都是４００个瓶盖，单程。你可以保护商队回程，那样又是４００个瓶盖。}
+{229}{}{嗨，你好。我知道你在找工作。我很奇怪鲁格会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，８号，１８号和２８号。通常的路线是三条：钢铁兄弟会、伽克镇和晒骨场。工资一样，都是４００个瓶盖，单程。你可以保护商队回程，那样又是４００个瓶盖。}
 
 #{230}{}{You've got great timing because they're all heading out today.}
 {230}{}{你来的真巧，三条路线都正准备出发。}
@@ -440,7 +440,7 @@
 {247}{}{钢铁兄弟会。}
 
 #{248}{}{Boneyard.}
-{248}{}{枯骨之地。}
+{248}{}{晒骨场。}
 
 #{249}{}{Junktown.}
 {249}{}{伽克镇。}

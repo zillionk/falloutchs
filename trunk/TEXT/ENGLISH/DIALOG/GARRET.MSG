@@ -44,7 +44,7 @@
 {114}{}{跟我来。我负责你的酬劳。}
 
 #{115}{}{I hope not, for your sake. Set was not too happy to have to use you. It might be a good idea to leave Necropolis . . . soon}
-{115}{}{我希望不是，因为你的缘故。不得不利用你，赛特可不太高兴。离开活死人镇是个好主意……最好快点}
+{115}{}{我希望不是，因为你的缘故。不得不利用你，赛特可不太高兴。离开大墓地是个好主意……最好快点}
 
 #{116}{}{I told you to leave.}
 {116}{}{我说过让你离开了。}

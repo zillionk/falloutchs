@@ -5,7 +5,7 @@
 {101}{}{你看见一名骑士。}
 
 #{102}{}{Ahh...So you're the one, huh?}
-{102}{}{啊．．．你就是那个人，是吧？}
+{102}{}{啊……你就是那个人，是吧？}
 
 #{103}{}{What?}
 {103}{}{什么？}
@@ -195,7 +195,7 @@
 #{158}{}{Wella... I got to give you credit for that. But I think you blew
 # your chances with getting it from the supply room. You'll just have to
 # find another way to get it. Or find yourself Power Armor somewares else.}
-{158}{}{那．．．我很感谢你。但是似乎从军需储备室取得这个玩艺基本不可能了。你应该想想其他办法。或者直接去搞一件完整的能量装甲。}
+{158}{}{那……我很感谢你。但是似乎从军需储备室取得这个玩艺基本不可能了。你应该想想其他办法。或者直接去搞一件完整的能量装甲。}
 
 #{159}{}{OK, see you later.}
 {159}{}{好，待会见。}

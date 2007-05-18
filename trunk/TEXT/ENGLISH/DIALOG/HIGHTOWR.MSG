@@ -11,7 +11,7 @@
 #{105}{}{.  Leon let me in.}
 {105}{}{。是利昂让我进来的。}
 #{106}{}{My name?... Death!}
-{106}{}{我的名字？．．．死神！}
+{106}{}{我的名字？……死神！}
 #{107}{}{I'm your worst nightmare.}
 {107}{}{我是让你撕心裂肺的噩梦。}
 #{108}{}{BoBo?}
@@ -21,7 +21,7 @@
 #{110}{}{Decker sends his regards.}
 {110}{}{德克表示问候。}
 #{111}{}{Um... Bob sent me... ah... he said you overpaid him 100 caps and sent me to give it to you.}
-{111}{}{嗯．．．鲍勃让我．．．啊．．．他说你多付了１００瓶盖，让我把它给你。}
+{111}{}{嗯……鲍勃让我……啊……他说你多付了１００瓶盖，让我把它给你。}
 #{112}{}{There is no message really, I was just trying to talk my way out of this.}
 {112}{}{其实没有什么消息，我正要换个话题。}
 #{113}{}{I love you.}
@@ -47,7 +47,7 @@
 #{123}{}{OK, here you go.  Thanks for your time.}
 {123}{}{好，给你。多谢奉陪。}
 #{124}{}{Uhh...  That BASTARD Bob didn't give me enough caps!  I'll get 'em for you Mr. Hightower, honest I will!}
-{124}{}{呃．．．鲍勃那个下流东西没给我足够的瓶盖！我会为你凑够的，海托先生。我保证！}
+{124}{}{呃……鲍勃那个下流东西没给我足够的瓶盖！我会为你凑够的，海托先生。我保证！}
 # {125}{}{Think nothing of it.  I always enjoy strangers coming into my home and giving me money.  Leon, show this fool the door! Come back again, and my guards will have your head!}
 {125}{}{忘了它。陌生人来我家给我钱是我常享的福。利昂，送这个傻瓜走！你要是再回来我就让卫兵割下你的脑袋！}
 #{126}{}{Leon, show this fool the door!  Come back again, and my guards will have your head!}

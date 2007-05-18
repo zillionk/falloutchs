@@ -89,7 +89,7 @@
 {128}{}{我过阵子再来找你。}
 
 #{129}{}{It's... Would you like to accompany me down stairs?  There are too many ears around.}
-{129}{}{好．．．你跟我下楼吧，这里耳目太多了。}
+{129}{}{好……你跟我下楼吧，这里耳目太多了。}
 
 #{130}{}{Sure.}
 {130}{}{好。}
@@ -133,11 +133,11 @@
 
 #{142}{}{I've heard of you.  You're the bitch that took out Killian and Gizmo.  Now that's the way to
 # solve a problem... So, what brings you to the Maltese Falcon?  Looking for some work?}
-{142}{}{我听说过你，你这个婊子把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈．．．你怎么来马耳他鹰酒吧了，找工作？}
+{142}{}{我听说过你，你这个婊子把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他鹰酒吧了，找工作？}
 
 #{143}{}{I've heard of you.  You're the bastard that took out Killian and Gizmo.  Now that's the way to
 # solve a problem... So, what brings you to the Maltese Falcon?  Looking for some work?}
-{143}{}{我听说过你，你这个牛人把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈．．．你怎么来马耳他鹰酒吧了，找工作？}
+{143}{}{我听说过你，你这个牛人把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他鹰酒吧了，找工作？}
 
 #{144}{}{I've heard of you.  You're making quite a name for yourself. What brings you to the Hub?}
 {144}{}{我听说过你，你也算是打出名号的人了。你怎么来哈勃城了，找工作？}
@@ -186,7 +186,7 @@
 {158}{}{不是吃的，是一种电子元件，可以控制净水系统。}
 
 #{159}{}{Another question for you... }
-{159}{}{还有一个问题．．．}
+{159}{}{还有一个问题……}
 
 #{160}{}{Okay thanks. Bye.}
 {160}{}{好，多谢了，再见。}
@@ -379,7 +379,7 @@
 
 #{220}{}{I think it 'does' concern me and I don't think I'll be showing you anything... that's if you're lucky.
 # Now get lost.}
-{220}{}{我觉得这就关我的事，我不会带你去任何地方．．．这还是因为我心情好。现在给我滚。}
+{220}{}{我觉得这就关我的事，我不会带你去任何地方……这还是因为我心情好。现在给我滚。}
 
 #{221}{}{Sorry, but anything you have to tell Decker can be told to me.  I'm his right hand man and there's
 # nothing that goes on here that we both aren't fully aware of.}
@@ -429,7 +429,7 @@
 
 #{236}{}{Tell our friendly Sheriff Greene that Decker's schedule is looking a bit busy and that he should try
 # back in a few months.  I'm sorry, but I think you should leave... for good.}
-{236}{}{告诉我们的那个好朋友格林警长，德克最近很忙，让他几个月后再来拜访我们吧。抱歉，你可以走了．．．这是为你好。}
+{236}{}{告诉我们的那个好朋友格林警长，德克最近很忙，让他几个月后再来拜访我们吧。抱歉，你可以走了……这是为你好。}
 
 #{237}{}{I don't think she sent you here.  Please leave.}
 {237}{}{我想她不会派你来的，走开。}
@@ -503,7 +503,7 @@
 
 #{259}{}{Sure he did, goodbye... Oh, and by the way.  Don't ever lie to me again, I don't like it when people lie
 # to me. Not many people live to hear this advise.}
-{259}{}{没错，再见．．．对了，以后别和我扯谎，我最讨厌别人扯谎了，我通常不给别人这种衷告的。}
+{259}{}{没错，再见……对了，以后别和我扯谎，我最讨厌别人扯谎了，我通常不给别人这种衷告的。}
 
 #{260}{}{A man of action. I like that, even if you are screwed up in the head.}
 {260}{}{实干型人才。我喜欢，虽然你脑袋有点糊涂。}
@@ -735,7 +735,7 @@
 
 #{327}{}{Oh, I'll be sure to tell him.  I'm sure he will be very interested to hear that...  praying did you
 # say? You have my 'word', he'll get the message.}
-{327}{}{好，我会和他说，我想他听到．．．那什么来着，祈祷，是吧？他应该会很乐的。我保证我会给他传话的。}
+{327}{}{好，我会和他说，我想他听到……那什么来着，祈祷，是吧？他应该会很乐的。我保证我会给他传话的。}
 
 #{328}{}{I thought I told you to get lost! My patience is wearing thin!  Are you going to tell me why you
 # wanted to see Decker or not?}
@@ -760,7 +760,7 @@
 {335}{}{少吸毒，清醒后再来这里见我。}
 
 #{336}{}{I'll let you see him, but you better watch your mouth... after you?}
-{336}{}{好吧，我带你去见他，但要看好你的嘴巴．．．明白？}
+{336}{}{好吧，我带你去见他，但要看好你的嘴巴……明白？}
 
 #{337}{}{No you don't.  Goodbye.}
 {337}{}{不行，再见。}
@@ -811,7 +811,7 @@
 {352}{}{你今天看起来很帅啊。}
 
 #{353}{}{Bye... (Kane Squints at you, as if he's trying to figure out what you're up to.)}
-{353}{}{再见．．．【凯恩乜斜着眼睛盯着你，似乎要看出你的来意】}
+{353}{}{再见……【凯恩乜斜着眼睛盯着你，似乎要看出你的来意】}
 
 #{354}{}{I suppose. (Kane starts to give you a strange look)}
 {354}{}{也许吧。【凯恩怪怪地看着你】}
@@ -823,7 +823,7 @@
 {356}{}{双头牛蹄很好吃的。}
 
 #{357}{}{No... Did you want something? (Kane seems to be getting annoyed with you)}
-{357}{}{没．．．你有事？【凯恩似乎有点对你不耐烦了】}
+{357}{}{没……你有事？【凯恩似乎有点对你不耐烦了】}
 
 #{358}{}{Yes.}
 {358}{}{是。}
@@ -838,7 +838,7 @@
 {361}{}{小姐，你应该再喝几杯的。}
 
 #{362}{}{(Kane waits for a few seconds) Well... what is it? (Kane looks very annoyed)}
-{362}{}{【凯恩等了你一会】怎么．．．什么事？【很不耐烦的样子】}
+{362}{}{【凯恩等了你一会】怎么……什么事？【很不耐烦的样子】}
 
 #{363}{}{What is what?}
 {363}{}{什么是什么？}
@@ -851,13 +851,13 @@
 
 #{366}{}{(It almost seems like steam is coming out of Kane's ears and the vanes in his neck seem to visibly
 # pulsate.) GET OUT! (A few seconds later you can hear again.) ... HERE!  YOU IDIOT!}
-{366}{}{凯恩似乎气得耳朵冒了烟，脖子上的青筋乱跳】滚！！！！！【几秒钟后你的耳朵才恢复了听觉】．．．你！你这个白痴！！！}
+{366}{}{凯恩似乎气得耳朵冒了烟，脖子上的青筋乱跳】滚！！！！！【几秒钟后你的耳朵才恢复了听觉】……你！你这个白痴！！！}
 
 #{367}{}{(Kane Grinds his teeth and ignores you.)}
 {367}{}{【凯恩咬着牙，不理你了】}
 
 #{368}{}{You forgot? (sigh) Why doesn't that surprise me? (Shaking his head in disbelief.) Now... get OUT!}
-{368}{}{你忘了？【叹气】我居然没生气？【难以置信地摇头】那么．．．给我滚！！！！}
+{368}{}{你忘了？【叹气】我居然没生气？【难以置信地摇头】那么……给我滚！！！！}
 
 #{369}{}{(Kane looks at one of the guards and spins a finger around one ear.)}
 {369}{}{【凯恩看着一个守卫，用手指在耳朵上画圈】}
@@ -869,10 +869,10 @@
 {371}{}{这不是很好的回答！}
 
 #{372}{}{I see...  You are not one of them.}
-{372}{}{我知道了．．．你不是和他们一伙的。}
+{372}{}{我知道了……你不是和他们一伙的。}
 
 #{373}{}{Response... to WHAT? (Kane looks confused and slightly annoyed.)}
-{373}{}{回答．．．回答什么？【凯恩迷惑不解，有点不耐烦】}
+{373}{}{回答……回答什么？【凯恩迷惑不解，有点不耐烦】}
 
 #{374}{}{To the secret password!}
 {374}{}{回答密码啊！}
@@ -908,11 +908,11 @@
 {384}{}{玛丽说你生了。}
 
 #{385}{}{ Really? That's strange...  Very strange...}
-{385}{}{是吗，很奇怪啊．．．奇怪．．．}
+{385}{}{是吗，很奇怪啊……奇怪……}
 
 #{386}{}{WHAT? YOU... I... NO!  I do 'not' want to talk about it.  Who the hell do you think you are?  Get the hell
 # out of my sight.}
-{386}{}{什么！？你．．．我．．．天！我不想说这个。你他妈的以为你是谁啊？马上给我消失！}
+{386}{}{什么！？你……我……天！我不想说这个。你他妈的以为你是谁啊？马上给我消失！}
 
 #{387}{}{I SAID, I do 'not' want to talk about.}
 {387}{}{我说了，我不想谈这个。}
@@ -937,14 +937,14 @@
 
 #{394}{}{Mary? I don't know a Mary... I don't have 'time' for this! I don't even know who you're talking about.
 # If she want's money tell her to come talk to me herself!}
-{394}{}{玛丽？我不认识什么玛丽．．．我没时间和你聊这个！我都不知道你要说什么。如果她要钱，让她自己来！}
+{394}{}{玛丽？我不认识什么玛丽……我没时间和你聊这个！我都不知道你要说什么。如果她要钱，让她自己来！}
 
 #{395}{}{(You gain 100 experience for thoroughly pissing Kane off.)}
 {395}{}{你成功地让凯恩抓狂了，获得了１００经验值。}
 
 #{396}{}{(For a split second you think you see Kane Blush) That's... (he looks side to side) nice.  Now what did
 # you want.}
-{396}{}{【恍惚间，你似乎看到凯恩脸红了】这．．．【他四处张望】很好。你还要什么？}
+{396}{}{【恍惚间，你似乎看到凯恩脸红了】这……【他四处张望】很好。你还要什么？}
 
 #{397}{}{How about a date? }
 {397}{}{要不我们去约会？}
@@ -954,7 +954,7 @@
 
 #{399}{}{Yes, I mean no.  I mean I don't... I can't.  I... (Kane suddenly punches one of his guards across the jaw.)
 # What are you grinning at! (Then he looks back at you.)  What are you still doing here!}
-{399}{}{好啊，啊不，我是说不．．．我不能啊。我．．．【凯恩突然一拳打在身边的一个卫士下巴上】笑什么笑！【他看着你】你还在这里干什么？}
+{399}{}{好啊，啊不，我是说不……我不能啊。我……【凯恩突然一拳打在身边的一个卫士下巴上】笑什么笑！【他看着你】你还在这里干什么？}
 
 #{400}{}{(Kane ignores you) What do you want?}
 {400}{}{【不理你】你要做什么？}
@@ -1018,7 +1018,7 @@
 
 #{418}{}{WHAT THE HELL... (Kane looks around then whispers.)  What the hell are you doing here?  You better
 # finish the other one off, and there better not be 'any' witnesses.}
-{418}{}{你他娘的．．．【凯恩看了看四周，对你耳语道】你他娘的在这里干什么？你赶快去把活儿搞定，不能被活人看见。}
+{418}{}{你他娘的……【凯恩看了看四周，对你耳语道】你他娘的在这里干什么？你赶快去把活儿搞定，不能被活人看见。}
 
 #{419}{}{That's it.  You blew it.  Now you're going to have to pay for your mistakes.  I hope you aren't
 # planing on spending the night here.}
@@ -1100,7 +1100,7 @@
 
 #{443}{}{You survived my good bye party... I don't know how you did it, I must have underestimated you.  Leave
 # and you might live.}
-{443}{}{你居然活了下来．．．我不知道你怎么活过来的，我低估你了，走吧，饶你不死。}
+{443}{}{你居然活了下来……我不知道你怎么活过来的，我低估你了，走吧，饶你不死。}
 
 #{444}{}{(Kane ignores you, but has his weapon ready to shoot.)}
 {444}{}{【凯恩不理你，但武器处于戒备状态。】}
@@ -1131,7 +1131,7 @@
 
 #{453}{}{(Kane gives you a deadly look.) Well then... I'll try to get you in to see him sometime soon.  I'll be
 # sure to show you to him 'piece' by 'piece'.}
-{453}{}{【凯恩凶恶地看了你一眼】好吧．．．我马上就带你去见他，不过是把你撕成碎片之后。}
+{453}{}{【凯恩凶恶地看了你一眼】好吧……我马上就带你去见他，不过是把你撕成碎片之后。}
 
 #{454}{}{I'm sorry you feel that way.  I hope you 'enjoy' the rest of your stay here in our wonderful city. }
 {454}{}{你这样就不对了。我希望你能好好享受在城里的最后时光。}

@@ -7,7 +7,7 @@
 #{103}{}{But I am a ghoul!}
 {103}{}{但是我是僵尸！}
 #{104}{}{Let me guess . . . because I'm not a ghoul?}
-{104}{}{让我猜猜．．．因为我不是僵尸？}
+{104}{}{让我猜猜……因为我不是僵尸？}
 #{105}{}{Uh?}
 {105}{}{呃？}
 #{106}{Harry_0a}{Huh?}
@@ -18,8 +18,8 @@
 {108}{Harry_0b}{啊哼？}
 #{109}{}{Mom?}
 {109}{}{妈妈？}
-#{110}{Harry_01}{Oooo．．．That was snazzy like, huh?}
-{110}{Harry_01}{哦哦哦哦．．．那像是时髦，哼？}
+#{110}{Harry_01}{Oooo……That was snazzy like, huh?}
+{110}{Harry_01}{哦哦哦哦……那像是时髦，哼？}
 #{111}{}{Nah, I was just fooling you, I'm not a ghoul}
 {111}{}{嘻，我是和你开玩笑，我不是僵尸}
 #{112}{}{What do you do here?}
@@ -38,7 +38,7 @@
 {118}{}{ＯＫ，谢谢。我现在就走。}
 #{119}{Harry_04}{Lou tell me watch place. Not let no one in. Not
 #normals most. Take normals to the Lou. Hey...}
-{119}{Harry_04}{福叫我看着这个地方。不让进去。尤其是正常人类。并且把正常人类带给福。嗨嗨．．．}
+{119}{Harry_04}{福叫我看着这个地方。不让进去。尤其是正常人类。并且把正常人类带给福。嗨嗨……}
 #{120}{}{But I'm not a normal!}
 {120}{}{但是我不是正常人！}
 #{121}{}{OK, let's go see Lou.}
@@ -48,11 +48,11 @@
 #{123}{Harry_05}{Oh ho-ho, you find out soooon.}
 {123}{Harry_05}{哦哈哈，你等着瞧吧。}
 #{124}{Harry_06}{Oh, uh, OK.  Have nice...day.}
-{124}{Harry_06}{哦，呃，好吧。祝你．．．玩的高兴。}
+{124}{Harry_06}{哦，呃，好吧。祝你……玩的高兴。}
 #{125}{Harry_07}{Harry think he beat your head now.}
 {125}{Harry_07}{哈里觉得哈里现在想打你的头。}
 #{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? [Mumbling]}
-{126}{Harry_08}{哦哦哦．．．哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？【喃喃自语】}
+{126}{Harry_08}{哦哦哦……哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？【喃喃自语】}
 #{127}{}{I'm a new race of super mutant.}
 {127}{}{我是新品种的超级变种人。}
 #{128}{}{I'm a highly advanced robot.}
@@ -82,22 +82,22 @@
 #{140}{}{Please, don't do it. Let me go.}
 {140}{}{请不要这么做。让我走。}
 #{141}{}{Ah, heck with it! Watch these feminine wiles, mutie! . . .}
-{141}{}{啊，见鬼！瞧瞧女性的厉害，变种人！．．．}
+{141}{}{啊，见鬼！瞧瞧女性的厉害，变种人！……}
 #{142}{Harry_15}{Ohhh...Go away quick or Harry be in trouble.}
-{142}{Harry_15}{哦．．．快滚开，不然哈里就有麻烦了。} 
+{142}{Harry_15}{哦……快滚开，不然哈里就有麻烦了。} 
 #{143}{Harry_16}{OK. Go now. Gotta keep eyes out for humans. Not have
 #time for you.}
 {143}{Harry_16}{好吧，立刻走。我必须盯着外面的人。没时间和你纠缠。}
 #{144}{Harry_17}{What do you have for me?}
 {144}{Harry_17}{你要给我什么？}
 #{145}{}{A whittle smack just for you...}
-{145}{}{给你一个刀削肉尝尝．．．}
+{145}{}{给你一个刀削肉尝尝……}
 #{146}{}{A whittle kiss just for you.}
 {146}{}{给你一个吻。}
 #{147}{Harry_18}{You hurt Harry's friends! I...hurt...you!}
-{147}{Harry_18}{你伤害了哈里的朋友！我．．．杀了．．．你！}
+{147}{Harry_18}{你伤害了哈里的朋友！我……杀了……你！}
 #{148}{Harry_19}{Ohhh...You again?  What want now?}
-{148}{Harry_19}{哦．．．你再说一遍？现在想要什么？}
+{148}{Harry_19}{哦……你再说一遍？现在想要什么？}
 #{149}{}{I want you to take me to your superiors.}
 {149}{}{我想要你带我去见你的上司。}
 #{150}{}{Nothing, just passing through.}
@@ -105,13 +105,13 @@
 #{151}{}{I came back to kick your ass.}
 {151}{}{我回来修理你。}
 #{152}{Harry_20}{Um..OK. Move along then.}
-{152}{Harry_20}{噢．．好。那么向前走。}
+{152}{Harry_20}{噢……好。那么向前走。}
 #{153}{Harry_21}{Hey, you a normal! You come with Harry!}
 {153}{Harry_21}{嗨，正常人！你跟哈里来！}
 #{154}{Harry_22}{Hmm...OK. Take ya to Lou.}
-{154}{Harry_22}{呵呵．．．好。带你去见福。}
+{154}{Harry_22}{呵呵……好。带你去见福。}
 #{155}{Harry_23}{Ummm...yes. You prime normal.  The Lou will be happy.  Take away, take away.}
-{155}{Harry_23}{哈哈．．．是。你最正常。福会高兴的。快走，快走。}
+{155}{Harry_23}{哈哈……是。你最正常。福会高兴的。快走，快走。}
 #{156}{}{Wait, wait! You don't understand.}
 {156}{}{等等，等等！你不明白。}
 #{157}{}{I'll kill you with my bare hands.}
@@ -151,7 +151,7 @@
 #{174}{Harry26}{Not bother me. Leave alone!}
 {174}{Harry26}{不要打扰我。走开！}
 #{175}{Harry207}{Uhhh...Not know.}
-{175}{Harry207}{呃．．．不知道。}
+{175}{Harry207}{呃……不知道。}
 #{176}{Harry300}{I dunno, but think he like a boss people.}
 {176}{Harry300}{我不知道，但是他好像是个大人物。}
 #{177}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
@@ -201,7 +201,7 @@
 #{981}{Harry_0b}{Whuh?}
 {981}{Harry_0b}{哦？}
 #{982}{Harry207}{Uhhh...Not know.}
-{982}{Harry207}{呃．．．不知道。}
+{982}{Harry207}{呃……不知道。}
 #{983}{Harry303}{The what?}
 {983}{Harry303}{什么？}
 #{984}{Harry200}{Not have to tell you anything!}
@@ -257,9 +257,9 @@
 #{1109}{Harry303}{The what?}
 {1109}{Harry303}{什么？}
 #{1110}{Harry207}{Uhhh...Not know.}
-{1110}{Harry207}{呃．．．不知道。}
+{1110}{Harry207}{呃……不知道。}
 #{1111}{Harry207}{Uhhh...Not know.}
-{1111}{Harry207}{呃．．．不知道。}
+{1111}{Harry207}{呃……不知道。}
 #{1112}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
 {1112}{Harry305}{靠。不知道为什么福想要正常人。他们都是混蛋！}
 #{1113}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
