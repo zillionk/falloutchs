@@ -29,7 +29,7 @@
 #{114}{}{What?!? I don't have time for this.}
 {114}{}{什么？！？我可没时间干这些。}
 #{115}{}{Yeah, I sing at the Hub sometimes, and I've visited the Brotherhood of Steel and Adytum with the caravans. Why do you ask?}
-{115}{}{没错，我有时在哈勃城表演，也跟随商队去过钢铁兄弟会、和内城区。你为什么想知道这些？}
+{115}{}{没错，我有时在哈勃城表演，也跟随商队去过钢铁兄弟会和内城区。你为什么想知道这些？}
 #{116}{}{Can you tell me how to get to the Hub?}
 {116}{}{你能告诉我怎么去哈勃城吗？}
 #{117}{}{I need to know how to get to the Brotherhood.}
@@ -43,7 +43,7 @@
 #{121}{}{The Brotherhood is a couple days west and a little bit north of here. Don't go there, though. They won't let you in unless you're with a caravan. You need anything else?}
 {121}{}{钢铁兄弟会在西面偏北的方向距离这里大约数天的路程。但是，别去那里。除非与商队同行，他们是不会允许你进入的。你还需要别的帮助吗？}
 #{122}{}{Hmm. Head southwest of the Hub. Adytum is part of the Boneyard. It's a small, semi-industrial town. I didn't like it much there. What else do you want?}
-{122}{}{唔。在哈勃城的西南方。内城区是枯骨之地的一部分。它是一个小型的工业微薄的城镇。我并不怎么喜欢那里。你还需要些什么？}
+{122}{}{唔。在哈勃城的西南方。内城区是晒骨场的一部分。它是一个小型的工业微薄的城镇。我并不怎么喜欢那里。你还需要些什么？}
 #{123}{}{Hey, thanks. It's hard being a starving artist. You got anything you need to know, you just ask.}
 {123}{}{嗨，谢谢。贫困艺术家的生活总是很艰辛。你会得到你想知道的一切答案，随便你问。}
 #{124}{}{I appreciate the thought and all, but you're strapped worse than I am.}
