@@ -1,8 +1,8 @@
 #{100}{}{You see Neil, the head of the guard for the Followers.}
-{100}{}{你看到尼尔，“启示录”预言派守卫的头领。}
+{100}{}{你看到尼尔，末世论者守卫的头领。}
 
 #{101}{}{You see Neil, the head of the guard for the Followers.}
-{101}{}{你看到尼尔，“启示录”预言派守卫的头领。}
+{101}{}{你看到尼尔，末世论者守卫的头领。}
 
 #{102}{}{If you seek someone to talk to, talk to Peter. I'm
 # trying to get some sleep.}
@@ -34,7 +34,7 @@
 {110}{}{。而且你得死了。}
 
 #{111}{}{What can you tell me about the Followers?}
-{111}{}{你能告诉我关于“启示录”预言派的事吗？}
+{111}{}{你能告诉我关于末世论者的事吗？}
 
 #{112}{}{I have come to offer my assistance.}
 {112}{}{我是来提供帮助的。}
@@ -120,7 +120,7 @@
 
 #{137}{}{I am quite certain. They only have access to the halls
 # of the Followers. They are not allowed outside.}
-{137}{}{我确定，“预言派”的大厅对他们来说只能进不能出。}
+{137}{}{我确定。末世论者的大厅对他们来说只能进不能出。}
 
 #{138}{}{Then I don't know who it could be.}
 {138}{}{那我就不知道会是谁了。}
@@ -196,7 +196,7 @@
 {159}{}{听起来很公平。}
 
 #{160}{}{Now I will end this leak in the Followers!}
-{160}{}{现在我要把“启示录”预言派里的内奸清除掉！}
+{160}{}{现在我要把末世论者里的内奸清除掉！}
 
 #{161}{}{Tough luck then.}
 {161}{}{太糟糕了。}
@@ -230,7 +230,7 @@
 {170}{}{我在哪里可以得到医疗？}
 
 #{171}{}{Nothing. Just checking. ＊smack＊}
-{171}{}{没什么。只是检查一下。＊拍打声＊}
+{171}{}{没什么。只是检查一下。【拍打声】}
 
 #{172}{}{Nothing. Thank you.}
 {172}{}{没什么。谢谢你。}
@@ -246,7 +246,7 @@
 {175}{}{我在哪里能得到医疗吗？}
 
 #{176}{}{Nothing. Just checking. ＊smack＊}
-{176}{}{没什么。只是检查一下。＊拍打声＊}
+{176}{}{没什么。只是检查一下。【拍打声】}
 
 #{177}{}{Nothing. Thank you.}
 {177}{}{没什么。谢谢你。}
@@ -262,7 +262,7 @@
 {180}{}{你为何攻击教堂之子？}
 
 #{181}{}{Nothing. Just checking. ＊smack＊}
-{181}{}{没什么。只是检查一下。＊拍打声＊}
+{181}{}{没什么。只是检查一下。【拍打声】}
 
 #{182}{}{Nothing. Thank you.}
 {182}{}{没什么。谢谢你。}
@@ -311,7 +311,7 @@
 
 #{196}{}{I can train the Followers in some skills for war. Maybe
 # your chances will improve.}
-{196}{}{我可以训练“启示录”预言派一些战斗的技能。或许你的机遇会改善些。}
+{196}{}{我可以训练末世论者一些战斗的技能。或许你的机遇会改善些。}
 
 #{197}{}{I can leave. Good bye.}
 {197}{}{我得走了。再见。}

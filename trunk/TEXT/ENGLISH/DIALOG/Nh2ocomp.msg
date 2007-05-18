@@ -51,7 +51,7 @@
 {113}{}{因为你搞到了净水芯片，你获得了}
 
 #{114}{}{ experience points for getting a water chip.}
-{114}{}{经验值。}
+{114}{}{点经验值。}
 
 #{115}{}{You examine the computer carefully. Your analytical mind discovers
 # a couple of methods that will ease the removal of the water chip.}

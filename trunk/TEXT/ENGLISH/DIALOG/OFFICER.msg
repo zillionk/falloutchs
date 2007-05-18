@@ -198,8 +198,8 @@
 #{159}{}{Halt! You're not permitted in there!}
 {159}{}{站住！你没有进入那里的许可！}
 
-# {1000}{}{管理者}
-{1000}{}{Overseer}
+# {1000}{}{Overseer}
+{1000}{}{所长}
 
 #{1100}{}{He is the supreme authority of the Vault. The Vault answers to his
 # decisions.}
