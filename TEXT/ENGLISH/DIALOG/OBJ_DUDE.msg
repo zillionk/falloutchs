@@ -125,12 +125,8 @@
 {4602}{}{Overseer}
 {4603}{}{Chip}
 {4604}{}{Waterchip}
-#{4605}{}{Vault-13}
-{4605}{}{ }
-
-#{4606}{}{Vault13}
-{4606}{}{ }
-
+{4605}{}{Vault-13}
+{4606}{}{Vault13}
 {4607}{}{Medic}
 {4608}{}{Healing}
 {4609}{}{Library}
@@ -445,9 +441,9 @@
 
 #{11300}{}{The Holy Flame is the one who will
 # lead us into a brave new world which doesn’t have hatred or war.}
-{11300}{}{Ê¥Ñ×½«´øÁìÎÒÃÇ¿ª´´Ò»¸öÃ»ÓĞÔ÷ºŞºÍÕ½ÕùµÄĞÂÊÀ½ç¡£}
+{11300}{}{Ê¥»ğ½«´øÁìÎÒÃÇ¿ª´´Ò»¸öÃ»ÓĞÔ÷ºŞºÍÕ½ÕùµÄĞÂÊÀ½ç¡£}
 #{11301}{}{We are all part of the Unity. It is the love and
-# peace which we pass on to our fellow people – human and mutant.}
+# peace which we pass on to our fellow people ?human and mutant.}
 {11301}{}{ÎÒÃÇÊÇÍÅ½áµÄ¼¯Ìå¡£ÎÒÃÇÏòË­´«²¥°®ºÍ¿íÈİ£¿ÈËÀàºÍ±äÖÖÈË¡£}
 #{11302}{}{That is us.}
 {11302}{}{ÄÇ¾ÍÊÇÎÒÃÇ¡£}
@@ -484,9 +480,9 @@
 
 #{11900}{}{The Holy Flame is the one who will
 # lead us into a brave new world which doesn’t have hatred or war.}
-{11900}{}{Ê¥Ñ×½«´øÁìÎÒÃÇ¿ª´´Ò»¸öÃ»ÓĞÔ÷ºŞºÍÕ½ÕùµÄĞÂÊÀ½ç¡£}
+{11900}{}{Ê¥»ğ½«´øÁìÎÒÃÇ¿ª´´Ò»¸öÃ»ÓĞÔ÷ºŞºÍÕ½ÕùµÄĞÂÊÀ½ç¡£}
 #{11901}{}{We are all part of the Unity. It is the love and
-# peace which we pass on to our fellow people – human and mutant.}
+# peace which we pass on to our fellow people ?human and mutant.}
 {11901}{}{ÎÒÃÇÊÇÍÅ½áµÄ¼¯Ìå¡£ÎÒÃÇÏòË­´«²¥°®ºÍ¿íÈİ£¿ÈËÀàºÍ±äÖÖÈË¡£}
 #{11902}{}{That is us.}
 {11902}{}{ÄÇ¾ÍÊÇÎÒÃÇ¡£}
@@ -689,7 +685,7 @@
 #{17904}{}{They're on the east side.}
 {17904}{}{ËûÃÇÔÚ¶«Çø¡£}
 #{17905}{}{They're past the Followers to the north.}
-{17905}{}{ËûÃÇÊÇÔ½¹ı±±·½µÄ¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ¡£}
+{17905}{}{ËûÃÇÊÇÔ½¹ı±±·½µÄÄ©ÊÀÂÛÕß¡£}
 #{17906}{}{We trade with them.}
 {17906}{}{ÎÒÃÇºÍËûÃÇ½»Ò×¡£}
 #{17907}{}{Isn't that a city north of here?}
@@ -733,7 +729,7 @@
 {18100}{}{ÄãÊÇÔÚÄÚ³ÇÇø£¬ÍâÀ´Õß¡£}
 #{18101}{}{The Followers live in an old library just to the north. They preach
 # tolerance and peace.}
-{18101}{}{¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ×¡ÔÚ±±ÃæµÄÀÏÍ¼Êé¹İÀï¡£ËûÃÇĞÅ·î¿íË¡ºÍºÍÆ½¡£}
+{18101}{}{Ä©ÊÀÂÛÕß×¡ÔÚ±±ÃæµÄÀÏÍ¼Êé¹İÀï¡£ËûÃÇĞÅ·î¿íË¡ºÍºÍÆ½¡£}
 #{18102}{}{The Cathedral is a ways to the south, by the bay. The Children are a
 # peaceful religion.}
 {18102}{}{Ë³×ÅÕâÌõÂ·Ò»Ö±×ß£¬¾Í»áµ½´ï´ó½ÌÌÃ¡£º¢×ÓÃÇĞÅÑöµÄºÍÆ½×Ú½Ì¡£}
@@ -742,7 +738,7 @@
 #{18104}{}{They're on the east side. They use some sort of high-tech knives.}
 {18104}{}{ËûÃÇÔÚ¶«Çø¡£ËûÃÇÊ¹ÓÃ¸ß¿Æ¼¼µÄµ¶×Ó¡£}
 #{18105}{}{They're past the Followers to the north. They sell weapons to the gangs.}
-{18105}{}{ËûÃÇ×¡ÔÚ¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ±±Ãæ¡£ËûÃÇÏò°ïÅÉ³öÊÛÎäÆ÷¡£}
+{18105}{}{ËûÃÇ×¡ÔÚÄ©ÊÀÂÛÕß±±Ãæ¡£ËûÃÇÏò°ïÅÉ³öÊÛÎäÆ÷¡£}
 #{18106}{}{We trade with them. They're the largest city I know of.}
 {18106}{}{ÎÒÃÇÍ¬ËûÃÇ½»Ò×¡£ÄÇÊÇÎÒËùÖªµÀµÄ×î´óµÄ³ÇÊĞ¡£}
 #{18107}{}{They're a small city northeast of us.}
@@ -788,17 +784,17 @@
 {18300}{}{ÎÒÃÇÊÇÀÏ±ÜÄÑËùµÄºó´ú×¡ÔÚ³ÇÄÏ¡£}
 #{18301}{}{The Followers are a learned and peaceful people. They live in an old
 # library north of here.}
-{18301}{}{¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉÊÇÈº°®ºÃºÍÆ½µÄÑ§Õß¡£ËûÃÇ×¡ÔÚ±±±ßµÄÀÏÍ¼Êé¹İ¡£}
+{18301}{}{Ä©ÊÀÂÛÕßÊÇÈº°®ºÃºÍÆ½µÄÑ§Õß¡£ËûÃÇ×¡ÔÚ±±±ßµÄÀÏÍ¼Êé¹İ¡£}
 #{18302}{}{The Children worship a mysterious Dark God. They seem harmless, but
 # there is something strange about their religion. The Cathedral is
 # south of here.}
 {18302}{}{º¢×ÓÃÇĞÅÑöÕâÉñÃØµÄºÚ°µÖ®Éñ¡£ËûÃÇ¿´ÆğÀ´ÊÇÎŞº¦µÄ£¬µ«ÊÇËûÃÇµÄĞÅÑöÓĞĞ©Ææ¹Ö¡£´ó½ÌÌÃÔÚÄÏÃæ¡£}
 #{18303}{}{The Rippers are all inbred. They have a fortified building with traps
 # around it where they take prisoners to be tortured and killed.}
-{18303}{}{À³ÆÕÊ¿°ïÊÇÌìÉúµÄ×ï·¸¡£ËûÃÇËûÃÇÓĞÖÜÎ§²¼ÂúÁËÏİÚåµÄ¼á¹ÌµÄ½¨ÖşÀ´ÕÛÄ¥²¢É±º¦ËûÃÇµÄ·ıÂ²¡£}
+{18303}{}{µç¾âµ³ÊÇÌìÉúµÄ×ï·¸¡£ËûÃÇÓÃÖÜÎ§²¼ÂúÁËÏİÚåµÄ¼á¹ÌµÄ½¨ÖşÀ´ÕÛÄ¥²¢É±º¦ËûÃÇµÄ·ıÂ²¡£}
 #{18304}{}{The Blades are notorious for their vibro-knives. They are the
 # arch-enemies of the Rippers. Their leader is a woman named Razor.}
-{18304}{}{ÉùÃûÀÇ½åµÄÀûÈĞ°ïÓÉËûÃÇµÄµ¶×Ó¶øµÃÃû¡£ËûÃÇÊÇÀ³ÆÕÊ¿°ïµÄÖ÷ÒªµĞÈË¡£ËûÃÇµÄÀÏ´óÊÇ¸ö½ĞÀûÈĞµÄÅ®ÈË¡£}
+{18304}{}{ÉùÃûÀÇ½åµÄÀûÈĞ°ïÓÉËûÃÇµÄµ¶×Ó¶øµÃÃû¡£ËûÃÇÊÇµç¾âµ³µÄÖ÷ÒªµĞÈË¡£ËûÃÇµÄÀÏ´óÊÇ¸ö½ĞÀûÈĞµÄÅ®ÈË¡£}
 #{18305}{}{They used to be a gang, but they set up in a warehouse on the north
 # side and started trading weapons and guns to people.}
 {18305}{}{ËûÃÇ¾­³£»ğ²¢£¬ËûÃÇÔÚ±±Ãæ½¨ÁËÒ»¸ö²Ö¿âÀ´ÏòÈËÃÇ³öÊÛÎäÆ÷¡£}
@@ -856,7 +852,7 @@
 #{18500}{}{It's a village south of here.}
 {18500}{}{ÄÏÃæÓĞÒ»¸öĞ¡´å¡£}
 #{18501}{}{We are the Followers of the Apocalypse.}
-{18501}{}{ÎÒÃÇÊÇ¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ¡£}
+{18501}{}{ÎÒÃÇÊÇÄ©ÊÀÂÛÕß¡£}
 #{18502}{}{A cult to the south, past Adytum.}
 {18502}{}{´©¹ıÄÚ³ÇÇø£¬ÄÏÃæÓĞÒ»ÈºĞÅÍ½¡£}
 #{18503}{}{A gang to the west.}
@@ -892,7 +888,7 @@
 {18700}{}{ÄÏÃæÓĞ¸öĞ¡Õò¡£ÓĞÊ±»áÓĞÈËÈ¥ÄÇÀï¡£}
 #{18701}{}{We are the Followers of the Apocalypse. We take this name because we
 # come after the storm of war, to bring the balm of peace.}
-{18701}{}{ÎÒÃÇÊÇ¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ¡£ÎÒÃÇ½ĞÕâ¸öÃû×ÖÊÇÒòÎªÎÒÃÇÉúÓÚÕ½ÕùÖ®ºó£¬À´¸§Æ½Õ½ÕùµÄÉËÍ´¡£}
+{18701}{}{ÎÒÃÇÊÇÄ©ÊÀÂÛÕß¡£ÎÒÃÇ½ĞÕâ¸öÃû×ÖÊÇÒòÎªÎÒÃÇÉúÓÚÕ½ÕùÖ®ºó£¬À´¸§Æ½Õ½ÕùµÄÉËÍ´¡£}
 #{18702}{}{A strange cult south of Adytum and the rest of the Boneyard. Nicole
 # says that they are up to something.}
 {18702}{}{Ò»¸öÆæ¹ÖµÄÒÇÊ½ÒªÔÚÄÚ³ÇÇøºÍÉ¹¹Ç³¡ÆäËûµÄµØ·½¾ÙĞĞ¡£Äİ¿É¶ûËµËûÃÇºÃÏñÔÚµÈÊ²Ã´¡£}
@@ -932,7 +928,7 @@
 #{18901}{}{We are the Followers of the Apocalypse. It is our duty to bring peace
 # and learning once again to the world, and to make sure that the
 # weapons of war never again scar the earth.}
-{18901}{}{ÎÒÃÇÊÇÊÇ¡°ÆôÊ¾Â¼¡±Ô¤ÑÔÅÉ¡£ÎÒÃÇµÄÖ°Ôğ¾ÍÊÇÈÃºÍÆ½ºÍÖªÊ¶ÔÙ´ÎÀ´µ½Õâ¸öÊÀ½ç£¬È·±£Õ½Õù²»ÔÙ¸øÕâ¸öµØÇò´øÀ´ÉËÍ´¡£}
+{18901}{}{ÎÒÃÇÊÇÄ©ÊÀÂÛÕß¡£ÎÒÃÇµÄÖ°Ôğ¾ÍÊÇÈÃºÍÆ½ºÍÖªÊ¶ÔÙ´ÎÀ´µ½Õâ¸öÊÀ½ç£¬È·±£Õ½Õù²»ÔÙ¸øÕâ¸öµØÇò´øÀ´ÉËÍ´¡£}
 #{18902}{}{The Cathedral is a great building south of the Boneyard. The Children
 # are a cult worshipping a dark and evil god. They must be stopped
 # before they spread their religion through violence.}
@@ -1508,7 +1504,7 @@
 {27700}{}{ËûÃÇÊÇÎ÷ÄÏ´åÀïµÄÒ»ÈºÅ³·ò¡£}
 #{27701}{}{Pathetic peace-preachers to the west. We'd crush them if we weren't
 # busy fighting the Rippers.}
-{27701}{}{¿ÉÁ¯µÄºÍÆ½´«½ÌÊ¿ÔÚÎ÷Ãæ¡£Èç¹ûÎÒÃÇ²»ÄÜÕ½Ê¤À³ÆÕÊ¿°ïÎÒÃÇ»áÏûÃğËûÃÇ¡£}
+{27701}{}{¿ÉÁ¯µÄºÍÆ½´«½ÌÊ¿ÔÚÎ÷Ãæ¡£Èç¹ûÎÒÃÇ²»ÄÜÕ½Ê¤µç¾âµ³£¬ÎÒÃÇ»áÏûÃğËûÃÇ¡£}
 #{27702}{}{Religious freaks. Harmless and useless.}
 {27702}{}{Ææ¹ÖµÄĞÅÍ½¡£Ã»ÓĞÒ»µãÓÃ´¦¡£}
 #{27703}{}{Our arch-enemies to the west will be crushed soon!}
@@ -1559,7 +1555,7 @@
 # something weird is going on there.}
 {27902}{}{ËûÃÇÉú»îÔÚÄÏ±ßµÄ´ó½ÌÌÃÀï¡£¿´ÆğÀ´Ò»¸±ÎŞº¦µÄÑù×Óµ«ÓĞĞ©¹Å¹Ö¡£}
 #{27903}{}{The Rippers are like mangy dogs - vicious, inbred, and stupid.}
-{27903}{}{À³ÆÕÊ¿°ïÏñ·è¹·Ò»Ñù£­¿É¶ñµÄ£¬ÌìÉúµÄ£¬ÓŞ´ÀµÄ¡£}
+{27903}{}{µç¾âµ³Ïñ·è¹·Ò»Ñù£­¿É¶ñµÄ£¬ÌìÉúµÄ£¬ÓŞ´ÀµÄ¡£}
 #{27904}{}{See my blade? We make these ourselves. Every one of use makes his
 # own. Hence our name.}
 {27904}{}{¿´µ½ÎÒµÄµ¶ÈĞÁËÂğ£¿ÎÒÃÇ×Ô¼º×öµÄ¡£ËùÓĞÈË¶¼Ê¹ÓÃ×Ô¼º×öµÄµ¶×Ó¡£ËùÒÔÎÒÃÇ½ĞÕâ¸öÃû×Ö¡£}
@@ -1575,7 +1571,7 @@
 {27908}{}{Ê²Ã´£¿}
 #{27909}{}{Razor is our leader and champion. I have no doubt that her experience
 # will grant us victory at last over those Rippers.}
-{27909}{}{Ìêµ¶ÊÇÎÒÃÇµÄÁìĞäºÍÕ½Ê¿¡£ÎÒ´ÓÃ»»³ÒÉ¹ıËıµÄ¾­Ñé»áÈÃÎÒÃÇÕ½Ê¤À³ÆÕÊ¿°ï¡£}
+{27909}{}{Ìêµ¶ÊÇÎÒÃÇµÄÁìĞäºÍÕ½Ê¿¡£ÎÒ´ÓÃ»»³ÒÉ¹ıËıµÄ¾­Ñé»áÈÃÎÒÃÇÕ½Ê¤µç¾âµ³¡£}
 #{27910}{}{Far east of here. Supposedly, ghouls that eat human flesh live there.
 # I wouldn't want to fight the ghouls.}
 {27910}{}{ÀëÕâºÜÔ¶µÄ¶«·½¡£¾İËµ£¬ÄÇÀïµÄ½©Ê¬ÒÔÈËÈâÎªÉú¡£ÎÒ²»ÏëºÍ½©Ê¬´òÕÌ¡£}
@@ -1701,14 +1697,14 @@
 # deal with if they don't know you, so don't even try. They are in a big
 # booby-trapped fortress southwest of us. Watch out for land mines if
 # you're stupid enough to visit.}
-{29103}{}{±íÃæÉÏ¿´£¬À³ÆÕÊ¿°ïÊÇ¸ö´ó¼Ò×å¡£ËûÃÇ²»»áÍ¬²»ÈÏÊ¶µÄÈË×öÉúÒâ£¬ËùÒÔ²»ÒªÊÔÁË¡£ËûÃÇ×¡ÔÚÎ÷ÄÏÒ»¸öÉµ¹ÏÁôÏÂµÄÒªÈûÀï¡£Èç¹ûÄãÓŞ´Àµ½ÏëÈ¥ÄÇÀïÂÃÓÎ¾ÍÒªĞ¡ĞÄµØÀ×¡£}
+{29103}{}{±íÃæÉÏ¿´£¬µç¾âµ³ÊÇ¸ö´ó¼Ò×å¡£ËûÃÇ²»»áÍ¬²»ÈÏÊ¶µÄÈË×öÉúÒâ£¬ËùÒÔ²»ÒªÊÔÁË¡£ËûÃÇ×¡ÔÚÎ÷ÄÏÒ»¸öÉµ¹ÏÁôÏÂµÄÒªÈûÀï¡£Èç¹ûÄãÓŞ´Àµ½ÏëÈ¥ÄÇÀïÂÃÓÎ¾ÍÒªĞ¡ĞÄµØÀ×¡£}
 #{29104}{}{They've converted several small buildings to the southeast into their
 # home. They are pretty well organized and smarter than the Rippers.
 # They sometimes let outsiders join, too. Their leader, Razor, is one
 # tough woman.}
-{29104}{}{ËûÃÇÔÚ¶«ÄÏµÄ¼ÒÀï½¨ÁË¼¸¸öĞ¡½¨Öş¡£ËûÃÇ±ÈÀ³ÆÕÊ¿°ïÒªÓĞ×éÖ¯µÄ¶à¡£ËûÃÇÓĞÊ±Ò²»áÈÃÍâÈË¼ÓÈë¡£ËûÃÇµÄÁìĞä£¬Ìêµ¶£¬ÊÇ¸ö´Ö±©µÄÅ®ÈË¡£}
+{29104}{}{ËûÃÇÔÚ¶«ÄÏµÄ¼ÒÀï½¨ÁË¼¸¸öĞ¡½¨Öş¡£ËûÃÇ±Èµç¾âµ³ÒªÓĞ×éÖ¯µÄ¶à¡£ËûÃÇÓĞÊ±Ò²»áÈÃÍâÈË¼ÓÈë¡£ËûÃÇµÄÁìĞä£¬Ìêµ¶£¬ÊÇ¸ö´Ö±©µÄÅ®ÈË¡£}
 #{29105}{}{That's us. Good money in selling guns to the Blades and the Rippers here.}
-{29105}{}{ÄÇÊÇÎÒÃÇ¡£ÏòÀûÈĞ°ïºÍÀ³ÆÕÊ¿°ïÂôÎäÆ÷¶ø×¬ÁËºÜ¶àÇ®¡£}
+{29105}{}{ÄÇÊÇÎÒÃÇ¡£ÏòÀûÈĞ°ïºÍµç¾âµ³ÂôÎäÆ÷¶ø×¬ÁËºÜ¶àÇ®¡£}
 #{29106}{}{That's the trading city east of here where we get our guns and do
 # trading. They send out caravans all over the place. You could probably
 # travel with a caravan when one shows up in Adytum.}

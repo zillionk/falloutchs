@@ -2,7 +2,7 @@
 {100}{}{你看见妮可尔。}
 
 #{101}{}{Tell me a little history behind the Followers.}
-{101}{}{告诉我有关“启示录”预言派的历史。}
+{101}{}{告诉我有关末世论者的历史。}
 
 #{102}{}{What do you worship?}
 {102}{}{你信仰的是什么？}
@@ -62,7 +62,7 @@
 {120}{}{你不觉得你想象力过于丰富了吗？}
 
 #{121}{}{'Us?' Is this what all the Followers think or just you?}
-{121}{}{“我们”？这究竟是预言派的想法呢，还是只是你的一相情愿？}
+{121}{}{“我们”？这究竟是末世论者的想法呢，还是只是你的一相情愿？}
 
 #{122}{Nic_7}{Call it instinct. We've seen Morpheus and the Nightkin and they don't look like peace makers to us. Their hospitals and message of peace make them attractive, but we know there's evil there.}
 {122}{Nic_7}{称其为本能吧。我们已经见过了墨菲斯和隐形人，还有他们在我们看来并不像和平主义者。他们的医院和和平信条使得他们有吸引力，但我们知道那是个邪恶之处。}
@@ -125,7 +125,7 @@
 {141}{Nic_14}{我们希望你能在继续你的旅程之前。在我们这里好好感受一下自由的气息。}
 
 #{142}{Nic_15}{We know it could be better. But when you're preparing for war...}
-{142}{Nic_15}{我们知道它可能是更好的。但当你准备战斗时．．．}
+{142}{Nic_15}{我们知道它可能是更好的。但当你准备战斗时……}
 
 #{143}{}{War with who?}
 {143}{}{和谁开战？}
@@ -170,7 +170,7 @@
 {156}{}{不，谢谢你。}
 
 #{157}{Nic_20}{We do believe in peace, but we will defend this land if we have to. If that means the Followers go to war, so be it.}
-{157}{Nic_20}{我们崇尚和平，但要是没有其他办法我们也会来守卫这大陆。如果这意味着“启示录”预言派参与战争，那也就只能如此。}
+{157}{Nic_20}{我们崇尚和平，但要是没有其他办法我们也会来守卫这大陆。如果这意味着末世论者参与战争，那也就只能如此。}
 
 #{158}{}{Sounds contradictory to me.}
 {158}{}{在我听来很矛盾。}
@@ -194,7 +194,7 @@
 {164}{}{好吧。我赶时间得走了。}
 
 #{165}{Nic_22}{They showed up around the same time we did, but no one knows how they came about. We've heard rumors that their leader, Morpheus, was part of the Rippers before he was 'enlightened' by their Dark God.}
-{165}{Nic_22}{他们与我们几乎同时出现，但没人知道是怎么来的。我们听说他们的领袖，墨菲斯，在被黑暗上帝“启迪”前是莱普士帮的成员。}
+{165}{Nic_22}{他们与我们几乎同时出现，但没人知道是怎么来的。我们听说他们的领袖，墨菲斯，在被黑暗上帝“启迪”前是电锯党的成员。}
 
 #{166}{}{Hey, a guy can change.}
 {166}{}{嘿，人总是在变。}
@@ -245,7 +245,7 @@
 {181}{}{我得走了。}
 
 #{182}{Nic_27}{I'm sure you'd be bored with the telling of the entire history of the Followers. There a number of books in here with that information.}
-{182}{Nic_27}{我确定你在听过“启示录”预言派的历史后会感到相当的厌烦。在这里有很多书，它们会告诉你想要的。}
+{182}{Nic_27}{我确定你在听过末世论者的历史后会感到相当的厌烦。在这里有很多书，它们会告诉你想要的。}
 
 #{183}{}{Can I ask a few more questions?}
 {183}{}{我能再问些问题吗？}
@@ -269,7 +269,7 @@
 {189}{Nic_29}{你想知道什么？}
 
 #{190}{}{Where did the Followers start?}
-{190}{}{“启示录”预言派是何时创建的？}
+{190}{}{末世论者是何时创建的？}
 
 #{191}{}{Who started it?}
 {191}{}{是谁创建的？}
@@ -281,7 +281,7 @@
 {193}{Nic_30}{遥远的南方，靠近闪光之地。那时候很困难，但是我们要生存，就要确保战争不再发生。}
 
 #{194}{}{So, you started the Followers of the Apocalypse?}
-{194}{}{所以，你创建了“启示录”预言派？}
+{194}{}{所以，你创建了末世论者？}
 
 #{195}{}{What made you come up north?}
 {195}{}{是什么使得你来北方的？}
@@ -299,7 +299,7 @@
 {199}{}{谁会是那掠夺者？}
 
 #{200}{}{What made you bring the Followers up north?}
-{200}{}{是什么使你把“启示录”预言派带到北方？}
+{200}{}{是什么使你把末世论者带到北方？}
 
 #{201}{Nic_32}{We've never found out, although we've heard a group live up north in an old ruined city. We've let it rest.}
 {201}{Nic_32}{我们还没能找出来，虽然我们听说有个团体住在老城市的废墟中。我们不愿去打搅他们。}
@@ -308,7 +308,7 @@
 {202}{}{为什么不？你可以报仇！}
 
 #{203}{}{Why did you end up bringing the Followers north?}
-{203}{}{为什么你不再带着“启示录”预言派北上？}
+{203}{}{为什么你不再带着末世论者北上？}
 
 #{204}{Nic_33}{We're here to make peace, not kill in hatred.}
 {204}{Nic_33}{我们来此为了和平，不会因为仇恨而去杀人。}
@@ -323,7 +323,7 @@
 {207}{}{为什么你现在在这里？}
 
 #{208}{Nic_34}{I'm not surprised. The Followers are here to talk sense into people like you.}
-{208}{Nic_34}{我并不感到惊讶。“启示录”预言派到这来就是为了了解像你这样的人。}
+{208}{Nic_34}{我并不感到惊讶。末世论者到这来就是为了了解像你这样的人。}
 
 #{209}{}{Good luck, it's a tough sell. Is that why you're up north now?}
 {209}{}{祝好运，那真是不容易。那是你现在为何北上的原因吗？}
@@ -377,7 +377,7 @@
 {225}{}{很有意思。但我现在得走了。}
 
 #{226}{Nic_42}{Well, the Boneyard is pretty scarce as you can see. Adytum is to the west. The Children of the Cathedral are to the north. I wouldn't advise going too far south into the city, though, the Rippers and the Blades have made it into a battlefield.}
-{226}{Nic_42}{好吧，你能见到晒骨场是相当难得的。内殿在西方。大教堂还有教徒在北方。我要劝你不要去南方的城市，莱普士帮和利刃帮在那里打战。}
+{226}{Nic_42}{好吧，你能见到晒骨场是相当难得的。内殿在西方。大教堂还有教徒在北方。我要劝你不要去南方的城市，电锯党和利刃帮在那里打战。}
 
 #{227}{Nic_43}{About what?}
 {227}{Nic_43}{关于什么？}
@@ -404,7 +404,7 @@
 {234}{}{你知道隐形人吗？}
 
 #{235}{Nic_45}{Wait a s...the Dark God? You're not telling me he's real.}
-{235}{Nic_45}{等一下．．．黑暗上帝？别跟我说他真的存在。}
+{235}{Nic_45}{等一下……黑暗上帝？别跟我说他真的存在。}
 
 #{236}{}{Oh, he's real all right, just not a god. He's a mutant who wants to make everyone a Nightkin, for their own good.}
 {236}{}{哦，他真的存在，只是不是神。他是为了他们自己的利益，想把所有人都变成隐形人的变种人。}
@@ -464,7 +464,7 @@
 {254}{Nic_56}{我们的命运展现在我们面前。让我们证明我们是恰当的人选。}
 
 #{255}{Nic_57}{What? This is our destiny. The Followers will fight this evil so that the healing of the land can finally begin.}
-{255}{Nic_57}{什么？这是我们的命数。预言派将会与这邪恶作战，以便大陆最终慢慢复原。}
+{255}{Nic_57}{什么？这是我们的命数。末世论者将会与这邪恶作战，以便大陆最终慢慢复原。}
 
 #{256}{}{No. I forbid it.}
 {256}{}{不。我不允许。}
@@ -491,7 +491,7 @@
 {263}{}{我想我可以和平解决这事。但是，做好准备，以防万一我失败。}
 
 #{264}{Nic_61a}{Obviously, your mind is made up. This might help you. Go to the Cathedral and find a woman named Laura. Say the phrase 'Red Rider'. And please...come back safely.}
-{264}{Nic_61a}{很明显，你还有点小聪明。这可能帮助你，去大教堂找一个叫做劳拉的女人。说暗语“红骑士”。而且请．．．安全地回来。}
+{264}{Nic_61a}{很明显，你还有点小聪明。这可能帮助你，去大教堂找一个叫做劳拉的女人。说暗语“红骑士”。而且请……安全地回来。}
 
 #{265}{Nic_63}{You have a strange sense of humor. Why don't you come back when you have something serious to say.}
 {265}{Nic_63}{你很幽默感。等你会认真的说话之后再回来。}
@@ -578,16 +578,16 @@
 {292}{Nic_79}{和杰克谈。他对那事知道的更多。}
 
 #{293}{Nic_80}{As I said...}
-{293}{Nic_80}{如我所说．．．}
+{293}{Nic_80}{如我所说……}
 
 #{294}{Nic_81}{As I mentioned before...}
-{294}{Nic_81}{像我以前提到．．．}
+{294}{Nic_81}{像我以前提到……}
 
 #{295}{Nic_82}{I said...}
-{295}{Nic_82}{我说．．．}
+{295}{Nic_82}{我说……}
 
 #{296}{Nic_83}{Well, as I said...}
-{296}{Nic_83}{很好，就像我说的．．．}
+{296}{Nic_83}{很好，就像我说的……}
 
 #{297}{Nic_84}{Hi! Are you an idiot?}
 {297}{Nic_84}{嗨！你是白痴吗？}
@@ -608,7 +608,7 @@
 {302}{Nic_87b}{杰克是副指挥。}
 
 #{303}{Nic_88}{In here, you'll find historical texts and philosophical texts...almost anything. Feel free to look around.}
-{303}{Nic_88}{在这里，你将会找历史和哲学文集．．．几乎任何的书集。随意看吧。}
+{303}{Nic_88}{在这里，你将会找历史和哲学文集……几乎任何的书集。随意看吧。}
 
 #{304}{Nic_89}{The Children of the Cathedral worship him. They say he only wants to heal humanity, but that's a lie.}
 {304}{Nic_89}{大教堂的教徒们信仰他。他们说他想要治愈人性，但那不过是谎言。}
@@ -629,10 +629,10 @@
 {309}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}
 
 #{310}{Nic_95}{They war with the Blades down south. The Rippers are the most ruthless gang in the Boneyard. When we sent people to convert them, the only thing we got back were their heads.}
-{310}{Nic_95}{他们和南方的利刃帮交火。莱普士帮是晒骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
+{310}{Nic_95}{他们和南方的利刃帮交火。电锯党是晒骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
 
 #{311}{Nic_96}{The Blades fight the Rippers down south. They're the most agreeable of the two gangs, though that's not saying much. We've converted a few of them.}
-{311}{Nic_96}{利刃帮在南方和莱普士帮对抗。他们是最合适的两拨人，虽然不能说情况有多好，我们已经感化了他们其中几个人。}
+{311}{Nic_96}{利刃帮在南方和电锯党对抗。他们是最合适的两拨人，虽然不能说情况有多好，我们已经感化了他们其中几个人。}
 
 #{312}{Nic_97}{Our history is in the last case, top shelf.}
 {312}{Nic_97}{我们的历史资料在最里面，顶上的书架。}
@@ -644,7 +644,7 @@
 {314}{Nic_99}{那是位于北方的贸易城市。我们试着在那里分杯羹。}
 
 #{315}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
-{315}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机．．．}
+{315}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机……}
 
 #{316}{Nic_101}{We know nothing about that.}
 {316}{Nic_101}{我们对此一无所知。}
@@ -730,7 +730,7 @@
 {1103}{Nic_87b}{杰克是副指挥。}
 
 #{1104}{Nic_88}{In here, you'll find historical texts and philosophical texts...almost anything. Feel free to look around.}
-{1104}{Nic_88}{在这里，你将会找历史和哲学文集．．．几乎任何的书集。随意看吧。}
+{1104}{Nic_88}{在这里，你将会找历史和哲学文集……几乎任何的书集。随意看吧。}
 
 #{1105}{Nic_89}{The Children of the Cathedral worship him. They say he only wants to heal humanity, but that's a lie.}
 {1105}{Nic_89}{大教堂的教徒们信仰他。他们说他想要治愈人性，但那不过是谎言。}
@@ -760,7 +760,7 @@
 {1113}{Nic_99}{那是位于北方的贸易城市。我们试着在那里分杯羹。}
 
 #{1114}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
-{1114}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机．．．}
+{1114}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机……}
 
 #{1115}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {1115}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}
@@ -769,7 +769,7 @@
 {1116}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}
 
 #{1117}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
-{1117}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机．．．}
+{1117}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机……}
 
 
 #{1118}{Nic_101}{We know nothing about that.}
