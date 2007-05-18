@@ -29,16 +29,16 @@
 {109}{}{我受伤了。你能替我医疗吗？}
 
 #{110}{}{Urak Chufar！}
-{110}{}{Urak Chufar！}
+{110}{}{呜～哇！}
 
 #{111}{}{I'm sorry，but I don't understand what you want。If you need supplies，you need to have authorization。}
 {111}{}{我很抱歉，但我不知道你需要什么。如果你需要补给，你需要获得授权书。}
 
 #{112}{}{Taga ma。}
-{112}{}{Taga ma。}
+{112}{}{啥。}
 
 #{113}{}{Caroo！}
-{113}{}{Caroo！}
+{113}{}{噢！}
 
 #{114}{}{I still don't understand you。Maybe you need to see the Doctor   She's on level two。}
 {114}{}{我还是不明白。你也许需要去看医生，她在第二层。}
@@ -347,28 +347,28 @@
 {212}{}{我不清楚。}
 
 #{213}{}#{10mm Jacketed Hollow Point。}
-{213}{}{10MM JHP。}
+{213}{}{１０ＭＭ　ＪＨＰ。}
 
 #{214}{}#{10mm Armor Piercing。}
-{214}{}{10MM AP。}
+{214}{}{１０ＭＭ　ＡＰ。}
 
 #{215}{}{44 magnum Jacketed Hollow Point。}
-{215}{}{44 MAGNUM JHP。}
+{215}{}{．４４ ＪＨＰ。}
 
 #{216}{}{44 magnum Full Metal Jacket。}
-{216}{}{44 MAGNUM FMJ。}
+{216}{}{．４４ ＦＭＪ。}
 
 #{217}{}#{14mm Armor Piercing}
-{217}{}{14MM AP}
+{217}{}{１４ＭＭ　ＡＰ}
 
 #{218}{}{。223 Full Metal Jacket。}
-{218}{}{．223 FMJ。}
+{218}{}{．２２３ ＦＭＪ。}
 
 #{219}{}{5mm Jacketed Hollow Point。}
-{219}{}{5MM JHP。}
+{219}{}{５ＭＭ　ＪＨＰ。}
 
 #{220}{}{5mm Armor Piercing。}
-{220}{}{5MM AP。}
+{220}{}{５ＭＭ　ＡＰ。}
 
 #{221}{}{Shotgun shells。}
 {221}{}{散弹枪子弹。}
@@ -379,7 +379,7 @@
 {222}{}{嗯，在我给你弹药之前，你要查出需要什么型号，检查一下你需要弹药的武器。你查出它就告诉我一声。}
 
 #{223}{}{Ah a rocket launcher···nothing like a good weapon by your side。So，will that be it？}
-{223}{}{啊，火箭筒···没有什么比得上身边有件好武器。那么，就是它吗？}
+{223}{}{啊，火箭筒……没有什么比得上身边有件好武器。那么，就是它吗？}
 
 #{224}{}{No，that's it。Thanks。}
 {224}{}{不，就这样吧。谢谢。}
@@ -406,7 +406,7 @@
 {231}{}{是的，我还要领些别的东西。}
 
 #{232}{}{Hmmm···Powered Armor。Be sure to take care of it。I can't give out more than one set。Was there another item you needed？}
-{232}{}{啊···动力装甲。务必小心保养它。要多一套我就提供不出了。你还需要另外的物品吗？}
+{232}{}{啊……动力装甲。务必小心保养它。要多一套我就提供不出了。你还需要另外的物品吗？}
 
 #{233}{}{No，that's it。Thanks。}
 {233}{}{不，就这样吧。谢谢。}
@@ -462,8 +462,7 @@
 #{252}{}{Thank you。Bye。}
 {252}{}{谢谢你。再见。}
 
-#{253}{}{I would give it to you if I could。But I can't。Not without
- proper authorization。}
+#{253}{}{I would give it to you if I could。But I can't。Not without proper authorization。}
 {253}{}{如果能给的话我就把它给你了。但我不能，没有正确的授权，我就不能。}
 
 #{254}{}{You know Michael，you're probably one of the brightest guys
@@ -472,7 +471,7 @@
 {254}{}{你知道，迈克尔，你大概是我在这里交谈过的最聪明的家伙。我就不理解你为什么让我这么为难。我真的需要那个部件。}
 
 #{255}{}{Oh。。Well。I guess I understand。I don't know what I'm going to do，though。}
-{255}{}{哦···好的。我想我理解你。尽管我都不知道我要做些什么。}
+{255}{}{哦……好的。我想我理解你。尽管我都不知道我要做些什么。}
 
 #{256}{}{Just give it to me。}
 {256}{}{只管把它给我。}
@@ -508,7 +507,7 @@
 {265}{}{再见。}
 
 #{266}{}{Oh···yeah，well Kyle sent me。Could you check your terminal one more time。}
-{266}{}{哦···是的，嗯，凯尔派我来。你能再检查一次你的终端吗。}
+{266}{}{哦……是的，嗯，凯尔派我来。你能再检查一次你的终端吗。}
 
 #{267}{}{But Rhombus sent me。}
 {267}{}{但我是隆伯斯派来的。}
