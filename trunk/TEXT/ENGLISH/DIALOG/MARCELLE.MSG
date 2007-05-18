@@ -5,13 +5,13 @@
 {101}{}{你看见了一名蓝领女子。}
 
 #{102}{}{Thank god you're here! Some crazy guy has Sinthia held hostage. He's threatening to kill her! You've got to help.}
-{102}{}{感谢上帝你在这儿！有疯子抓住辛西娅当成人质。他威胁说要杀了她！你应该去帮帮她。}
+{102}{}{感谢上帝，你在这儿！有疯子抓住辛西娅当成人质。他威胁说要杀了她！你应该去帮帮她。}
 
 #{103}{}{Nah, don't bother me.}
 {103}{}{不，别烦我。}
 
 #{104}{}{Hmm. I'll check it out.}
-{104}{}{呣呣。我会去看看的。}
+{104}{}{唔。我会去看看的。}
 
 #{105}{}{Dung!}
 {105}{}{妈的！}
@@ -86,7 +86,7 @@
 {128}{}{哈，你也是。住的愉快。}
 
 #{129}{}{Okay, thanks. Your room is room #1. Follow me. Don't be shooting any guns in here, okay?}
-{129}{}{好的谢了。你的房间是一号。跟我来。别在这儿随便开枪，可以？}
+{129}{}{好的谢了。你的房间是一号。跟我来。别在这儿随便开枪，可以吗？}
 
 #{130}{}{Have a good stay.}
 {130}{}{住的愉快。}

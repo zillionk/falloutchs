@@ -1,5 +1,5 @@
 #{100}{}{You see a technician. He is working diligently for the Unity and the Master.}
-{100}{}{你看见一个技师。他正在勤奋的为教主的团体工作。}
+{100}{}{你看见一个技师。他正在勤奋的为主教的团体工作。}
 
 #{101}{}{We do the work of the Master.}
 {101}{}{我们为主教而工作。}
@@ -27,7 +27,7 @@
 
 #{205}{}{I have a message for the Master from his Lieutenant. I must see the
 Master now.}
-{205}{}{我从主教的中尉那里给主教带来了一个消息，我必须见主角。}
+{205}{}{我从主教的中尉那里给主教带来了一个消息，我必须见主教。}
 
 #{206}{}{The only news that I have is that you're about to become fertilizer.}
 {206}{}{唯一的消息就是你马上要变成原料了。}

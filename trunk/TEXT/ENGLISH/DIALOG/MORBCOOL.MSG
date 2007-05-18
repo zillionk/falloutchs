@@ -3,8 +3,8 @@
 # {102}{}{The pieces in the cooler are cut into small chunks, and cooled for shipping. Nobody's getting any transplants from these bite-size pieces.}
 # {103}{}{Body parts fill the cooler.}
 # {104}{}{The cooler is full of body parts, cut into small chunks and packed in ice. Odd.}
-{100}{}{你无法让自己通过这个地方。【morcool．msg】}
+{100}{}{你无法把各个部位拼凑成原来的样子。}
 {101}{}{冷库里装满了各种内脏器官和残肢断臂。}
 {102}{}{冷库里装满了残肢断臂，它们被切成小块，用冰包裹着，不知道这些是谁的。}
 {103}{}{冰柜里放满了各种内脏器官。}
-{104}{}{冷库里装满了残肢断臂，它们被切成小块，用冰包裹着．．奇怪。}
+{104}{}{冷库里装满了残肢断臂，它们被切成小块，用冰包裹着。奇怪。}

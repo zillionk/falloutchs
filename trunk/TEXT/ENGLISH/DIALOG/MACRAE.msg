@@ -106,7 +106,7 @@
 
 #{133}{}{Well it's been a wee bit quiet since the Blades helped out Adytum with the Regulators.  Me 
 #teaching services haven't been in such demand.}
-{133}{}{自从帮助利刃帮对抗内殿的管理者以后，这地区就稍微安宁了些。我的教学服务不能用在这方面上。}
+{133}{}{自从帮助利刃帮对抗内城的管理者以后，这地区就稍微安宁了些。我的教学服务不能用在这方面上。}
 
 #{134}{}{What do you teach?}
 {134}{}{你教什么？}

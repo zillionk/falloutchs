@@ -25,7 +25,7 @@
 
 #{108}{}{You haven't heard of us? I'm really surprised. You must not leave the Hub very often. You
 # should get out more. We're northwest of here, on the west side of the mountain range.}
-{108}{}{ÄãÃ»ÓĞÌıËµ¹ıÎÒÃÇ£¿ÎÒºÜ¾ªÑÈ¡£Äã²»ÄÜÒ»Ö±´ôÔÚ¹ş²ª³Ç¡£ÄãÓ¦¸Ãµ½´¦×ß×ß¡£ÎÒÃÇÔÚ¹ş²ªµÄÎ÷ÄÏ·½Ïò£¬Î÷±ßµÄÉ½ÂöÉÏ¡£}
+{108}{}{ÄãÃ»ÓĞÌıËµ¹ıÎÒÃÇ£¿ÎÒºÜ¾ªÑÈ¡£Äã²»ÄÜÒ»Ö±´ôÔÚ¹ş²ª³Ç¡£ÄãÓ¦¸Ãµ½´¦×ß×ß¡£ÎÒÃÇÔÚ¹ş²ª³ÇµÄÎ÷ÄÏ·½Ïò£¬Î÷±ßµÄÉ½ÂöÉÏ¡£}
 
 #{109}{}{I really appreciate you helping me, but why are you trying to lie to me? Do you not think
 # I know every member of our order?}
@@ -46,11 +46,11 @@
 
 #{114}{}{Oh, I'll be fine now, thanks. I have some friends here that I can stay with while I regain my strength. I'll try to send word to the Brotherhood to let them know that I am safe now, thanks to you. Bye}
 {114}{}{Å¶£¬ÎÒÏÖÔÚºÜºÃ£¬Ğ»Ğ»¡£ÎÒÓĞÒ»Ğ©ÅóÓÑÔÚÕâÀï£¬ËûÃÇ¿ÉÒÔÕÕ¹ËÎÒ¡£ÎÒ»áÊÔ×ÅÉÓ¿ÚĞÅµ½ĞÖµÜ»á¸æËßËûÃÇÎÒÏÖÔÚºÜ°²È«£¬Ğ»Ğ»Äã£¬ÔÙ¼û¡£}
-#{115}{}{How… Oh, I'm sorry. You must have passed that "test" the Elders made up. I completely forgot
+#{115}{}{How?Oh, I'm sorry. You must have passed that "test" the Elders made up. I completely forgot
 # about that. Well, my thanks goes even deeper. I'm glad you never gave up. My life could have been in jeopardy at any moment. It must have taken you a while to hunt me down. This city is huge. The obstacles you must have overcome.}
-{115}{}{Ê²Ã´£¿Å¶£¬¶Ô²»Æğ¡£ÄãÓ¦¸ÃÍ¨¹ıÁË³¤ÀÏµÄ¡°²âÊÔ¡±¡£ÎÒ¶¼ÍüÁË¡£ºÃ°É£¬·Ç³£¸ĞĞ»Äã¡£ºÜ¸ßĞËÄãÒ»Ö±¼á³Ö²»Ğ¸¡£ÎÒ×ÜÊÇ´¦ÔÚÎ£ÏÕÖĞ¡£ÔÙ³ÙÒ»»áÎÒ¾Í»á±»ËûÃÇ´òËÀ¡£Õâ¸öµØ·½ºÜ´ó¡£ÄãÒª´¦´¦Ğ¡ĞÄ¡£}
+{115}{}{Ê²Ã´£¿Å¶£¬¶Ô²»Æğ¡£ÄãÓ¦¸ÃÍ¨¹ıÁËÔªÀÏµÄ¡°²âÊÔ¡±¡£ÎÒ¶¼ÍüÁË¡£ºÃ°É£¬·Ç³£¸ĞĞ»Äã¡£ºÜ¸ßĞËÄãÒ»Ö±¼á³Ö²»Ğ¸¡£ÎÒ×ÜÊÇ´¦ÔÚÎ£ÏÕÖĞ¡£ÔÙ³ÙÒ»»áÎÒ¾Í»á±»ËûÃÇ´òËÀ¡£Õâ¸öµØ·½ºÜ´ó¡£ÄãÒª´¦´¦Ğ¡ĞÄ¡£}
 
-#{116}{}{Well, you know… I'm just that good.}
+#{116}{}{Well, you know?I'm just that good.}
 {116}{}{ÊÇµÄ£¬ÄãÖªµÀÂğ£¿ÎÒÄÇ½ö½öÊÇÔËÆøºÃ¡£}
 
 #{117}{}{Actually, it was quite easy. Talus knew where you went.}
@@ -62,7 +62,7 @@
 #{119}{}{Well, you're welcome. I'm just glad I found you.}
 {119}{}{²»ÓÃĞ»£¬ÎÒºÜ¸ßĞËÄÜÕÒµ½Äã¡£}
 
-#{120}{}{Oh… Well, I'm still very grateful.}
+#{120}{}{Oh?Well, I'm still very grateful.}
 {120}{}{Å¶£¿ºÃ°É£¬ÎÒÈÔÈ»ºÜ¸ĞĞ»Äã¡£}
 
 #{121}{}{I guess so. that was some fine handy work you did.}

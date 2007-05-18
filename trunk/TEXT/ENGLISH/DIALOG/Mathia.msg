@@ -29,7 +29,7 @@
 
 #{109}{}{No, no, not at all. He's a good guy. (Jokingly) Besides,
 #I wouldn't bad mouth him while he is standing next to me.}
-{109}{}{不，不，绝对不是。他是一个好人。（开玩笑地）此外，他站在我身边时我从不说他坏话。}
+{109}{}{不，不，绝对不是。他是一个好人。【开玩笑地】此外，他站在我身边时我从不说他坏话。}
 
 #{110}{}{So, what is it that you do for Maxson as his assistant.}
 {110}{}{那么，你身为马克松将军的助手都做什么？}
@@ -60,7 +60,7 @@
 {118}{}{抱歉，我还以为你是别的什么人。日安。}
 
 #{119}{}{Alright, let's go. (He grabs you by the arm)}
-{119}{}{好，我们走。（他抓住你的胳膊）}
+{119}{}{好，我们走。【他抓住你的胳膊】}
 
 #{120}{}{Uh huh.}
 {120}{}{呃呼。}
