@@ -66,7 +66,7 @@
 {121}{}{好的，谢谢了。}
 
 #{122}{}{You can't miss them. They're south of here, all barricaded in with that damn water tower.}
-{122}{}{你不会找不到的。他们在南边，都堵在见鬼的水塔那边了。}
+{122}{}{你不会找不到的。他们在南边，都待在见鬼的水塔那边了。}
 
 #{123}{}{So, what do you do around here?}
 {123}{}{那么，你在这边走动是为了什么？}
@@ -120,7 +120,7 @@ after commodity in a settlement 10 miles away.}
 
 #{139}{}{I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all 
 the new recruits. He's in the room right behind me. Go on in.}
-{139}{}{我听说你是个很疯狂的人，不过那正是我们现在所需要的，你得去和比奇谈谈，他欢迎所有的新人，他就在我身后右边的房间，进去就是了。}
+{139}{}{我听说你是个很疯狂的人，不过那正是我们现在所需要的，你得去和布奇谈谈，他欢迎所有的新人，他就在我身后右边的房间，进去就是了。}
 
 #{140}{}{I don't think I want a child killer on one of my caravans.}
 {140}{}{我可不想让一个杀小孩的禽兽成为我的商队伙伴。 }
@@ -133,26 +133,26 @@ the new recruits. He's in the room right behind me. Go on in.}
 
 #{143}{}{I guess accidents do happen. It is a pretty messed up world out there. I'm still not sure I trust you. Go ahead and talk to Butch. 
 He's in that room right there.}
-{143}{}{我能想到发生了什么事，外面的世界不是一般的糟糕，我仍然不能完全相信你，去和比奇谈，他就在前面的房间。 }
+{143}{}{我能想到发生了什么事，外面的世界不是一般的糟糕，我仍然不能完全相信你，去和布奇谈，他就在前面的房间。 }
 
 #{144}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Well, not around here, buddy. Go ahead and talk with Butch, 
 but I'll be keeping an eye on you. He's right through the door right behind me.}
-{144}{}{事故个鸡巴！我知道你是个什么鸟，为所欲为的混蛋，听着，别在我面前晃来晃去，滚去找比齐，我会看着你的，他就在前面的房间。}
+{144}{}{事故个鸡巴！我知道你是个什么鸟，为所欲为的混蛋，听着，别在我面前晃来晃去，滚去找布奇，我会看着你的，他就在前面的房间。}
 
 #{145}{}{My ass it was an accident. I know your type. Think you can do whatever you want. Well, not around here, lady. Go ahead and talk with Butch, 
 but I'll be keeping an eye on you. He's right through the door right behind me.}
-{145}{}{事故个鸡巴！我知道你是个什么鸟，为所欲为的混蛋，听着，别在我面前晃来晃去，滚去找比齐，我会看着你的，他就在前面的房间。 }
+{145}{}{事故个鸡巴！我知道你是个什么鸟，为所欲为的混蛋，听着，别在我面前晃来晃去，滚去找布奇，我会看着你的，他就在前面的房间。 }
 
 #{146}{}{You are one ruthless son of a bitch. We might need that, but that doesn't mean that I agree with your ways. Just don't touch a child around me, 
 or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the office right behind me.#}
-{146}{}{你真是个婊子养的，居然下的了手。或许我们需要你这样的人，但这并不代表我认可你他妈所做的一切，别动附近的孩子们，不然我就把你变回和你爹射墙上的兄弟一个样。滚去和比齐谈，他的办公室就在前面。 }
+{146}{}{你真是个婊子养的，居然下的了手。或许我们需要你这样的人，但这并不代表我认可你他妈所做的一切，别动附近的孩子们，不然我就把你变回和你爹射墙上的兄弟一个样。滚去和布奇谈，他的办公室就在前面。 }
 
 #{147}{}{You're looking for work? I've heard good things about you. We can always use someone of your reputation. Go on in and talk to Butch. He's through
  the door behind me.}
-{147}{}{您在找工作？我们已经听说了您做的很多好事。我们大门随时向您敞开，进去和比齐谈吧。他就在我后面的门里。}
+{147}{}{您在找工作？我们已经听说了您做的很多好事。我们大门随时向您敞开，进去和布奇谈吧。他就在我后面的门里。}
 
 #{148}{}{You're looking for work, are you? You look alright. Well, you should probably talk to Butch. He's through the door behind me.}
-{148}{}{你在找工作是吗？你看上去还不错，好吧，我想你得去找比奇谈，他就在我后面的门里。 }
+{148}{}{你在找工作是吗？你看上去还不错，好吧，我想你得去找布奇谈，他就在我后面的门里。 }
 
 #{149}{}{I thought you didn't want the job. What do you want?}
 {149}{}{我想你不是来找工作的。你想干吗？ }
@@ -167,10 +167,10 @@ or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the o
 {152}{}{没什么。}
 
 #{153}{}{Grudda!}
-{153}{}{ }
+{153}{}{啊哈！}
 
 #{154}{}{Get out of here you damn Skag!}
-{154}{}{滚出这儿，见鬼的斯盖格！}
+{154}{}{滚出这儿，你这个白痴！}
 
 #{155}{}{Fine. I wish you would make up you mind, I'm a busy man...Let me give you the details.}
 {155}{}{好的，我希望你能记住，我很忙的……我们来谈谈细节吧。 }
@@ -179,7 +179,7 @@ or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the o
 {156}{}{你简直就是个废物。快他妈的滚蛋。}
 
 #{157}{}{What are you talking to me for? I said to talk to Butch about the job. If he likes you, I'll fill you in on the details.}
-{157}{}{ }
+{157}{}{你还在这干吗？我说了去和布奇谈。如果他喜欢你，我就告诉你细节。 }
 
 #{158}{}{What? Haven't you left yet?}
 {158}{}{什么？你还没有走？}
@@ -200,7 +200,7 @@ or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the o
 {163}{}{抱歉，我要离开了。}
 
 #{164}{}{Rhoo?}
-{164}{}{ }
+{164}{}{嗯？}
 
 #{165}{}{Well, I didn't say it was going to be easy. Otherwise, we would have solved the problem a long time ago. Ask around. Get rough if you have to, but don't 
 draw blood. At least, not in public.}
@@ -212,7 +212,7 @@ draw blood. At least, not in public.}
 #{167}{}{The job pays 500 Hubbucks when you can tell Butch exactly what has been happening to all of the caravans that have
 # disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those
 # gun freaks at the Brotherhood of Steel. Butch thinks it's some Claw of death or something. Check with Beth, she would know more about that.}
-{167}{}{如果你能把失踪的商队的情况调查清楚并且告诉比齐的话，我付你500。去吧，找到你能找到的证据。我个人认为这是那些水商或者那些兄弟会的军火贩子做的。比齐则认为是死亡爪那一类的东西弄的。你可以去和beth谈谈，她知道更多。 }
+{167}{}{如果你能把失踪的商队的情况调查清楚并且告诉布奇的话，我付你５００哈勃币。去吧，找到你能找到的证据。我个人认为这是那些水商或者那些兄弟会的军火贩子做的。布奇则认为是死亡爪那一类的东西弄的。你可以去和贝斯谈谈，她知道更多。 }
 
 #{168}{}{Ok, but I don't know what you missed. There's not much to it.}
 {168}{}{好吧，但是我不知道你到底在找什么，你给的信息太少。}
@@ -241,7 +241,7 @@ technology, or something like that.  They're just a little to the northwest from
 {175}{}{你知道死亡爪的情况吗？}
 
 #{176}{}{Where's Beth?}
-{176}{}{BETH 在哪？ }
+{176}{}{贝斯在哪？ }
 
 #{177}{}{Thanks, bye.}
 {177}{}{谢谢，再见。}
@@ -279,7 +279,7 @@ only one we've hired so, it's ok.}
 {187}{}{猜想是不够的，我们需要证明。 }
 
 #{188}{}{Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.}
-{188}{}{beth就在外面右边的门里，他经营着我们的武器店，告诉她你为我们工作，你可以得到15%的折扣。 }
+{188}{}{贝斯就在外面右边的门里，她经营着我们的武器店，告诉她你为我们工作，你可以得到１５％的折扣。 }
 
 #{189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's 
 supposed to be. Just stick with reality, and you'll be fine.}
@@ -295,16 +295,16 @@ supposed to be. Just stick with reality, and you'll be fine.}
 {192}{}{没什么。}
 
 #{193}{}{Wha.}
-{193}{}{ }
+{193}{}{唔。 }
 
 #{194}{}{Grrr.}
-{194}{}{ }
+{194}{}{哼。}
 
 #{195}{}{Really? So, who are the bastards? The Water Merchants?}
 {195}{}{真的吗？好吧，告诉我那些混蛋是谁？水商们？ }
 
 #{196}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
-{196}{}{是的，就是他们！（后面不知道怎么翻了）}
+{196}{}{是的，就是他们！他们要搞你，他们在惦记你的……双头牛。}
 
 #{197}{}{Actually, it was a group of these HUGE mutants.}
 {197}{}{实际上，凶手是一群变种人。 }
@@ -325,7 +325,7 @@ supposed to be. Just stick with reality, and you'll be fine.}
 {202}{}{我知道是他们，你有证据吗？我要让那些混蛋血债血还。}
 
 #{203}{}{Uhh. No. I lost it. But, you can take my word on it.}
-{203}{}{额。没有。我把他们弄丢了。但是，你可以带上我的证词。 }
+{203}{}{呃。没有。我把他们弄丢了。但是，你可以带上我的证词。 }
 
 #{204}{}{Actually, it wasn't them. It was a bunch of huge mutants.}
 {204}{}{实际上，凶手是一群变种人。}
@@ -356,7 +356,7 @@ and we'll wipe them out.}
 {212}{}{一些变种人干掉了我的商队？真是个和死亡爪一样的好故事。}
 
 #{213}{}{I'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those...super mutant creatures.}
-{213}{}{我没有在开玩笑。我发现了他们并且杀了他们，并且我在其中一个身上发现了这块硬盘。。。超级变种生物。 }
+{213}{}{我没有在开玩笑。我发现了他们并且杀了他们，并且我在其中一个身上发现了这个磁盘……超级变种生物。 }
 
 #{214}{}{Well, check this holodisk out. I got it off one of the raiding mutants.}
 {214}{}{看看这个磁盘上的东西。我从一个变异生物身上得到的。}
