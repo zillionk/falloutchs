@@ -26,7 +26,7 @@
 {108}{}{好啊。}
 
 #{109}{}{I'm waiting for Garl to crush Shady Sands. I want some loot.}
-{109}{}{我在等伽尔去踏平荒漠小镇。我想搞点战利品。}
+{109}{}{我在等伽尔去踏平沙荫镇。我想搞点战利品。}
 
 #{110}{}{Welcome, friend.}
 {110}{}{欢迎，我的朋友。}
@@ -92,7 +92,7 @@
 {130}{}{真的？她长得什么样子？}
 
 #{131}{}{About 6 feet tall. Blonde. She's from Shady Sands.}
-{131}{}{大约六英尺高。金发碧眼。她从荒漠小镇来。}
+{131}{}{大约六英尺高。金发碧眼。她从沙荫镇来。}
 
 #{132}{}{Yeah, she's here. She's in the big house. You know, if we tell Garl, then he would want a piece of the bounty. You might want to think about that.}
 {132}{}{是的，她在这儿。她在大房子里。你看，如果我们告诉伽尔，那他就会分走一部分赏金。或许你应该考虑考虑。}

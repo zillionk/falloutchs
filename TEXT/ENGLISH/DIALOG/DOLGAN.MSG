@@ -5,9 +5,9 @@
 {102}{}{}
 {103}{}{}
 #{104}{}{You see a member of the Blades.}
-{104}{}{你看见刀锋的一个成员。}
+{104}{}{你看见利刃帮的一个成员。}
 #{105}{}{You see a member of the Blades.}
-{105}{}{你看见刀锋的一个成员。}
+{105}{}{你看见利刃帮的一个成员。}
 #{106}{}{You think that might be Books.}
 {106}{}{你以为那可能是书。}
 #{107}{}{You think that might be Scars.}
@@ -25,7 +25,7 @@
 #{113}{}{So, you think you can take on Tangler and his wimps? Here, I'll teach you to use that blade.}
 {113}{}{那么你认为你能接受唐格勒和他的懦夫？来吧，我要教你用这把刀。}
 #{114}{}{Now you are a little better at that. Go kick Tangler's butt into next year for me.}
-{114}{}{现在你做的更好了，现在去给我踢烂唐格勒(tangler)的屁股。}
+{114}{}{现在你做的更好了，现在去给我踢烂唐格勒的屁股。}
 #{115}{}{Great job on hacking those Rippers. What can I do for you?}
 {115}{}{消灭这些杀人狂，你做的很不错。我能为你做些什么？}
 #{116}{}{Can you teach me some more blade skills?}

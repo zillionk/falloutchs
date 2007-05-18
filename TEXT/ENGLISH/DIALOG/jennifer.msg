@@ -12,7 +12,7 @@
 #{103}{}{Some members of the Brotherhood might be offended if a
 # stranger . . . I mean, a new Initiate . . . approaches them
 # with a weapon.}
-{103}{}{如果一个陌生人．．．呃，我是说新兵．．．带着武器靠近某些兄弟会成员，他们会发火的。}
+{103}{}{如果一个陌生人……呃，我是说新兵……带着武器靠近某些兄弟会成员，他们会发火的。}
 
 #{104}{}{Good day, Initiate. How may I help you?}
 {104}{}{你好，新兵，我能帮你什么呢？}
@@ -230,19 +230,19 @@
 #{163}{}{Well, you are cute . . . but I don't think so. I don't think
 # it would be a good idea to get involved with an outsider,
 # anyways. You are cute, though, and somewhat attractive. }
-{163}{}{你是很帅．．．但是我不会和你那什么的。我想我不应该和一个外面来的人纠缠不清的。不过，你的确很帅，很有吸引力。}
+{163}{}{你是很帅……但是我不会和你那什么的。我想我不应该和一个外面来的人纠缠不清的。不过，你的确很帅，很有吸引力。}
 
 #{164}{}{I don't know if it's because you're an outsider or because
 # of your extreme . . . lack of tact? So, 'honey', is there
 # anything else I can do for you?}
-{164}{}{这个．．．我不知道是因为你是外来的，还是因为你太过．．．那个．．．直率了。那么，“甜心”，我还能为你做什么呢？}
+{164}{}{这个……我不知道是因为你是外来的，还是因为你太过……那个……直率了。那么，“甜心”，我还能为你做什么呢？}
 
 #{165}{}{Yeah, uh, I guess. Uh, who's in charge around here?}
 {165}{}{啊，对。谁是这里的主管？}
 
 #{166}{}{Uh, okay . . . um. How about some weapons then? Where can
 # I get my hands on some of those?}
-{166}{}{哦，好吧．．．这里有什么好武器么？我怎么才能拿到？}
+{166}{}{哦，好吧……这里有什么好武器么？我怎么才能拿到？}
 
 #{167}{}{Hmmph!}
 {167}{}{呼呼！}
@@ -252,7 +252,7 @@
 
 #{169}{}{That's . . . pretty funny. You are joking, I hope? Actually . . .
 # don't answer that. I don't think I want to know.}
-{169}{}{真是．．．有趣，你在开玩笑吧，是吧？实际上．．．不要这么说。我也不想知道了。}
+{169}{}{真是……有趣，你在开玩笑吧，是吧？实际上……不要这么说。我也不想知道了。}
 
 #{170}{}{Yeah, REAL funny. Almost as much as your face!}
 {170}{}{太有趣了，和你的脸蛋一样有趣！}

@@ -1,7 +1,7 @@
-#{100}{}{[More]}
-{100}{}{[更多]}
-#{101}{}{[Done]}
-{101}{}{[完成]}
+#{100}{}{【More】}
+{100}{}{【更多】}
+#{101}{}{【Done】}
+{101}{}{【完成】}
 #{102}{}{Shithead! You get hurt again, you stupid bastard!}
 {102}{}{笨蛋！你又弄疼我了，你个愚蠢的混蛋！}
 #{103}{}{Shithead! You get hurt again, you stupid bitch!}
@@ -35,7 +35,7 @@
 #{118}{}{Thanks for the moral support, doc.}
 {118}{}{谢谢你的人道援助，医生。}
 #{119}{}{I hope they get you, too . . .}
-{119}{}{我也希望他们干掉你......}
+{119}{}{我也希望他们干掉你……}
 #{120}{}{If they do, you'll go down first.}
 {120}{}{如果他那么做，你会第一个倒下。}
 #{121}{}{What is your problem, asshole? Maybe I put you to sleep, shithead!}
@@ -61,7 +61,7 @@
 #{131}{}{Fine! It's always patch you up! Fix you up! Asshole!}
 {131}{}{好啊！它总是能治好你！笨蛋！}
 #{132}{}{I hear they say very bad things about you . . .}
-{132}{}{我听他们说了一些对你很不好的事......}
+{132}{}{我听他们说了一些对你很不好的事……}
 #{133}{}{The enemies of the Master will stop at nothing to discredit the Faithful.}
 {133}{}{主教的敌人将会不惜一切来破坏你们的信仰。}
 #{134}{}{You swore an oath, doctor. Do your job.}
@@ -71,7 +71,7 @@
 #{136}{}{Heal me or die, doctor!}
 {136}{}{医好我，要么死，医生！}
 #{137}{}{This should do it . . .}
-{137}{}{这个应该可以......}
+{137}{}{这个应该可以……}
 #{138}{}{Owww!!}
 {138}{}{噢噢！！}
 #{139}{}{Ha ha ha!}
@@ -83,7 +83,7 @@
 #{142}{}{Go to hell! You wanna get fixed or you just wanna be an asshole?}
 {142}{}{去死吧！你想被医好还是变成个白痴！}
 #{143}{}{You loser! Why don't you just crawl out into the Glow and lick puddles? Stupid drunken addict asshole!}
- {143}{}{你个弱智！你为什么不爬到死亡谷去舔泥巴？愚蠢的该死的混蛋！}
+ {143}{}{你个弱智！你为什么不爬到闪光之地去舔泥巴？愚蠢的该死的混蛋！}
 #{144}{}{And maybe you need a doctor one day and the doctor won't be there. Psycho asshole! You wanna get fixed? Maybe I do something about shit in your brains, too!}
 {144}{}{也许某天你需要医生而医生不在。白痴！你想医好吗？也许我也要往你的脑子里塞点垃圾。}
 #{145}{}{Fine -- do it and shut up!}
@@ -129,7 +129,7 @@
 #{165}{}{Now comes the fun part!}
 {165}{}{现在是有趣的部分！}
 #{166}{}{This should do it . . .}
-{166}{}{应该这么做......}
+{166}{}{应该这么做……}
 #{167}{}{What a dork! I've heard more many screams from children! Ha ha ha!}
 {167}{}{真是个笨蛋！叫的像个小孩一样！哈哈哈！}
 #{168}{}{I made the bitch scream! Ha ha ha!}
@@ -147,7 +147,7 @@
 #{174}{}{Fine. But I hope I perform an autopsy on you by the end of the day!}
 {174}{}{好吧。但我希望今天之内能给你做个手术。}
 #{175}{}{Ow! You little . . .}
-{175}{}{噢！你这个......}
+{175}{}{噢！你这个……}
 #{176}{}{Now get out of here, and don't come back!}
 {176}{}{现在滚出去，别在回来了！}
 #{177}{}{Fine, I heal you!}
@@ -163,6 +163,6 @@
 #{182}{}{Five broken bones at least, and you've lost lots of blood. Being an idiot is hazardous to your health! You want to get fixed?}
 {182}{}{至少有五处骨折，而且你失血太多。忠告：做个白痴有损你的健康！你还想医好吗？}
 #{183}{}{Depends on the definition of "fix." You can treat me, doc.}
-{183}{}{基于”医好“的定义，你可以治疗我，医生。}
+{183}{}{基于“医好”的定义，你可以治疗我，医生。}
 #{184}{}{Me go.}
 {184}{}{我去。}

@@ -45,7 +45,7 @@
 {119}{}{多少钱？}
 #{120}{DECK_6}{
 #Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
-{120}{DECK_6}{噢，棒极了，标准行情是事前付５００个瓶盖，事后．．．再付２５００个。}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付５００个瓶盖，事后……再付２５００个。}
 #{121}{}{Where can I find this merchant?}
 {121}{}{在哪儿能找到这个商人？}
 #{122}{DECK_7}{

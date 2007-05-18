@@ -13,7 +13,7 @@
 
 #{105}{}{Through all the mutated flesh and muscle one of them looks familiar.
 # It's one of the scouts that was sent out by the Vault that never returned...}
-{105}{}{在一堆变种人的尸骨和肌肉组织中有一具看起来似乎很熟悉。它属于被避难所派出去但从未返回的侦察员之一．．．}
+{105}{}{在一堆变种人的尸骨和肌肉组织中有一具看起来似乎很熟悉。它属于被避难所派出去但从未返回的侦察员之一……}
 
 #{106}{}{Through all the mutated flesh and muscle you somehow recognize one of
 # the mutants to be Sean, one of the scouts sent out by your Vault a few months

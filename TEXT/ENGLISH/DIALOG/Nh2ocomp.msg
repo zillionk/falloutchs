@@ -64,4 +64,4 @@
 #{117}{}{After shutting down the Water Purification Computer, you can now
 # hear the repaired water pump working in the distance, bringing water up
 # from what must be a deep well under Necropolis.}
-{117}{}{关闭水控制计算机后，你能听见修复后的水泵在很远的地方运转，水从活死人镇很深的井下流了出来。}
+{117}{}{关闭水控制计算机后，你能听见修复后的水泵在很远的地方运转，水从大墓地很深的井下流了出来。}

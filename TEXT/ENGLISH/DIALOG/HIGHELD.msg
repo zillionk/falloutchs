@@ -160,7 +160,7 @@
 {146}{}{坦白说，你的报告未能证明他们对我们的威胁。你有什么证据能够表明他们怀有敌意。}
 
 #{147}{}{They have invaded Necropolis. They won't stop there. }
-{147}{}{他们侵略了活死人镇。他们不会停在那里。}
+{147}{}{他们侵略了大墓地。他们不会停在那里。}
 
 #{148}{}{They are gathering an army. A heavily armed army. They certainly aren't
 # going to just parade around. They intend to use it.}
@@ -195,7 +195,7 @@
 
 #{156}{}{That will only take care of one part of the problem. They're being led by a
 # group coming out of the Boneyard Cathedral.}
-{156}{}{这只能说明一部分问题。他们被枯骨之地大教堂的另一支小队领导。}
+{156}{}{这只能说明一部分问题。他们被晒骨场大教堂的另一支小队领导。}
 
 #{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
@@ -203,7 +203,7 @@
 
 #{158}{}{If they are being led by a group out of the Boneyard Cathdral, then chances are
 # they have a small army down there as well. }
-{158}{}{如果他们被枯骨之地的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
+{158}{}{如果他们被晒骨场的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
 
 #{159}{}{If we take them out in the north, then it leaves our south side vulnerable.
 # I can only spare a few men on this endeavor.}
@@ -217,7 +217,7 @@
 
 #{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard
 # Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{162}{}{好吧。你将在枯骨之地的大教堂和我为你挑选的两名圣骑士汇合，他们能帮助你进入。元老，谢谢你们花的时间。好运。}
+{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名圣骑士汇合，他们能帮助你进入。元老，谢谢你们花的时间。好运。}
 
 #{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}

@@ -24,7 +24,7 @@
 #{111}{}{Uhhh?}
 {111}{}{嗯？}
 #{112}{tand_2}{Well..how do you like our little town?  Bored yet?}
-{112}{tand_2}{好的...你觉得我们的小镇怎么样？有意思吗？}
+{112}{tand_2}{好的……你觉得我们的小镇怎么样？有意思吗？}
 #{113}{}{It's okay. Can I ask you a few questions, though?}
 {113}{}{那好吧。我还可以问你一些问题吗？}
 #{114}{}{Hell, yes. There's nothing to do here but watch the Brahma mate.}
@@ -212,7 +212,7 @@
 {186}{TAND_45}{是我。你以为是谁？}
 # {187}{TAND_46}{Razlo's the old guy on the east side of town.  He's a pretty
  # good doctor, though, even if he is a fossil. }
-{187}{TAND_46}{拉斯洛是镇东边的一个老家伙。他是个漂亮的好医生，虽然他很守旧。}
+{187}{TAND_46}{罗兹是镇东边的一个老家伙。他是个漂亮的好医生，虽然他很守旧。}
 # {188}{TAND_47}{Seth's the captain of the guards.  My father tried to set
  # us up once, but he is not my type.}
 {188}{TAND_47}{赛思是警卫队长。我爸爸曾经撮合过我们，但他不是我喜欢的类型。}

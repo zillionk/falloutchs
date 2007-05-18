@@ -3,9 +3,9 @@
 {101}{}{}
 {102}{}{}
 #{103}{}{You see a member of the Blades.}
-{103}{}{你看见刀锋的一个成员。}
+{103}{}{你看见利刃帮的一个成员。}
 #{104}{}{You see a member of the Blades.}
-{104}{}{你看见刀锋的一个成员。}
+{104}{}{你看见利刃帮的一个成员。}
 #{105}{}{You think that might be Books.}
 {105}{}{你以为那可能是书。}
 #{106}{}{You think that might be Scars.}

@@ -15,7 +15,7 @@
 #{107}{}{Eurrreh?}
 {107}{}{啊哈？}
 #{108}{}{If she is one of those women from Shady Sands, maybe you should look there. I just work here.}
-{108}{}{如果她也是来自沙城的女孩之一，也许你该去那边找找。我只是在这儿工作。}
+{108}{}{如果她也是来自沙荫镇的女孩之一，也许你该去那边找找。我只是在这儿工作。}
 #{109}{}{Oh. Well, thank you anyway.}
 {109}{}{噢，好吧，谢谢你。}
 #{110}{}{Can you fix my equipment for me?}

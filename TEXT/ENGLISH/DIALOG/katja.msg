@@ -24,7 +24,7 @@
 {106}{}{我也想问你同样的问题。}
 
 #{107}{}{And what, may I ask, are you doing in the Boneyards?}
-{107}{}{你能说说你在枯骨之地干什么么？}
+{107}{}{你能说说你在晒骨场干什么么？}
 
 #{108}{}{You ask a lot of questions.}
 {108}{}{你的问题很多啊。}
@@ -63,7 +63,7 @@
 #{119}{}{A water purification chip? Sorry, don't know anything about that. Don't
 # see much of that kind of tech here in the Boneyards, except maybe the stuff
 # Miles works on.}
-{119}{}{净水芯片？抱歉，我对此一无所知。枯骨之地没有什么高科技，除了麦尔斯，他经常捣腾一些高级货。}
+{119}{}{净水芯片？抱歉，我对此一无所知。晒骨场没有什么高科技，除了麦尔斯，他经常捣腾一些高级货。}
 
 #{120}{}{Well, thanks anyhow.}
 {120}{}{哦，歇歇。}
@@ -72,12 +72,12 @@
 {121}{}{麦尔斯？我怎么找到他？他会帮我么？}
 
 #{122}{}{Can you tell me more about the Boneyards, then?}
-{122}{}{那你再和我说说枯骨之地的事情吧。}
+{122}{}{那你再和我说说晒骨场的事情吧。}
 
 #{123}{}{Just a traveler. I've heard that one before. Nobody comes to the
 # Boneyard except those Hub merchants and people looking for a quick death at the
 # hands of the gangs. What are you really here for?}
-{123}{}{只是一个旅行者？这种话我也听过不少了。除了来混黑道想死得快的人和哈勃城的商人，没人愿意来枯骨之地。你到底是来做什么的？}
+{123}{}{只是一个旅行者？这种话我也听过不少了。除了来混黑道想死得快的人和哈勃城的商人，没人愿意来晒骨场。你到底是来做什么的？}
 
 #{124}{}{You're right. I'm looking for a water purification chip.}
 {124}{}{你说的不错，我是来找净水芯片的。}
@@ -96,7 +96,7 @@
 {128}{}{我在找净水芯片。}
 
 #{129}{}{I need more information about the Boneyard.}
-{129}{}{我还想知道些枯骨之地的事情。}
+{129}{}{我还想知道些晒骨场的事情。}
 
 #{130}{}{I need to know about the area around this city.}
 {130}{}{我想打听城里的一些地方。}
@@ -129,7 +129,7 @@
 #{139}{}{Adytum is my original home. A little too boring for me, though. It's a
 # fenced-off and self-sufficient town in the south end of the Boneyard, but not as
 # far as the Cathedral. We trade sometimes with the Hub.}
-{139}{}{内城区是我的老家，虽然有点闷。自我隔绝，自给自足，它处在枯骨之地的南区，但是要在大教堂北边一点。我们也和哈勃城做些买卖。}
+{139}{}{内城区是我的老家，虽然有点闷。自我隔绝，自给自足，它处在晒骨场的南区，但是要在大教堂北边一点。我们也和哈勃城做些买卖。}
 
 #{140}{}{I've dealt with them before. They're not too bad, as far as gangs go.
 # They have a hide-out in an old club, with some outposts. If you're careful you
@@ -151,14 +151,14 @@
 # a large library near the heart of the Boneyard. Why they haven't been wiped out
 # yet I can't say. They are lousy combatants and have no understanding of the real
 # world, but other than that they are polite and well-educated.}
-{143}{}{启示录信徒是一帮和平倡导者，他们住在枯骨之地中心区的一所大图书馆里。我不知道为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
+{143}{}{启示录信徒是一帮和平倡导者，他们住在晒骨场中心区的一所大图书馆里。我不知道为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
 
 #{144}{}{The Boneyard is a pretty hostile place. I've never had the opportunity to
 # leave, though I suppose I'd take it. Let's see . . . just south of here you have
 # the Cathedral. There's some sort of cult there, but I stay away from them.
 # Something sinister is going on there. Also, I've heard about the trading center
 # called the Hub, and caravans occasionally show up, but I've never been there.}
-{144}{}{枯骨之地是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众，我宁可离他们远一点。邪恶的东西在那里滋生。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃。}
+{144}{}{晒骨场是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众，我宁可离他们远一点。邪恶的东西在那里滋生。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃。}
 
 #{145}{}{I don't plan to stay in this place too much longer, myself.}
 {145}{}{我也不打算一个人在这个城市长呆。}
@@ -267,13 +267,13 @@
 
 #{178}{}{I learned how to be a scrapper from my time in the Boneyard. I'm good with
 # knives and submachine guns. My favorite is throwing knives, of course.}
-{178}{}{我在枯骨之地混的时候学习了打拳，我还会用刀和微冲。我最在行的是飞刀。}
+{178}{}{我在晒骨场混的时候学习了打拳，我还会用刀和微冲。我最在行的是飞刀。}
 
 #{179}{}{All right, although I don't feel right without a good knife.}
 {179}{}{好吧，尽管我没了好刀浑身不自在。}
 
 #{180}{}{You gain 200 experience points for picking up Katja, the Boneyard scav.}
-{180}{}{你让枯骨之地的盗贼卡佳加入了你的队伍，获得了２００点经验值。}
+{180}{}{你让晒骨场的盗贼卡佳加入了你的队伍，获得了２００点经验值。}
 
 #{181}{}{What do you want now?}
 {181}{}{你想做什么？}
@@ -393,7 +393,7 @@
 
 #{1101}{}{The Angel's Boneyard is all that's left of the old city of Los Angeles.
 # Mostly divided among warring factions, these days.}
-{1101}{}{枯骨之地是洛杉矶旧称的遗址，现在四分五裂的，各自为战。}
+{1101}{}{晒骨场是洛杉矶旧称的遗址，现在四分五裂的，各自为战。}
 
 #{1102}{}{The War brought misery and death all over the world. I sure hope that
 # something like that never happens again. But from what I've seen, there's not
@@ -483,7 +483,7 @@
 
 #{1129}{}{Ugh! The Deathclaws are all over in the Boneyard. I'd rather not even
 # think about them. Huge and aptly named.}
-{1129}{}{恶！这些死亡爪在枯骨之地到处都有。我想都不愿意想它们。身形巨大，“人”如其名。}
+{1129}{}{恶！这些死亡爪在晒骨场到处都有。我想都不愿意想它们。身形巨大，“人”如其名。}
 
 #{1130}{}{I don't know any more about that than you do.}
 {1130}{}{我知道的还不如你多。}
@@ -569,7 +569,7 @@
 #{1158}{}{I used to be a scav. We'd go out at night and try to find useful
 # stuff in the ruins of the Boneyard. Very dangerous job. I got sick of Adytum,
 # though.}
-{1158}{}{我以前就是拾荒的，我们晚上出动去枯骨之地遗迹翻东西，很危险的。但是我觉得内城区太无聊了。}
+{1158}{}{我以前就是拾荒的，我们晚上出动去晒骨场遗迹翻东西，很危险的。但是我觉得内城区太无聊了。}
 
 #{1159}{}{They're a group of cast-offs who live outside of Adytum.}
 {1159}{}{他们是内城区外面的流放者。}

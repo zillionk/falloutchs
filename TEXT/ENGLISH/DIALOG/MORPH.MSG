@@ -351,7 +351,7 @@
 {216}{}{没什么。我要走了。}
 
 #{217}{MORP42}{ The Children's vision now stretches from Adytum, to the Hub, Junktown, and now gently caresses Shady Sands.  Why do you ask? }
-{217}{MORP42}{圣童会的目光现在从内城区延伸，投向哈勃城，迦克镇，现在轻抚荒漠小镇。你为什么要问这个？}
+{217}{MORP42}{圣童会的目光现在从内城区延伸，投向哈勃城，迦克镇，现在轻抚沙荫镇。你为什么要问这个？}
 
 #{218}{}{Just wondering. Can I ask you a few more questions?}
 {218}{}{只是觉得奇怪。我能多问你几个问题吗？}

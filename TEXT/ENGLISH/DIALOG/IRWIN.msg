@@ -14,7 +14,7 @@
 {104}{}{好吧，好吧。没必要对我吼叫。}
 
 #{105}{}{Hmm... I don't know. It takes a different caliber of hero than you. Listen, why don't you come back when you have a little more experience under your belt?}
-{105}{}{呃．．．我不知道。它恐怕得需要比你更有实力的强者才能解决。听着，为什么不等你积累更多经验之后再回来呢？}
+{105}{}{呃……我不知道。它恐怕得需要比你更有实力的强者才能解决。听着，为什么不等你积累更多经验之后再回来呢？}
 
 #{106}{}{This is a tragedy, believe me. Nothing is the way it used to be. I have a small farm outside town and a few days ago a bunch of Raiders appeared out of nowhere and now use my home as their camp. They killed Pugsley, my donkey and they threatened #to kill me if I ever dare to come back.}
 {106}{}{这是场灾难，相信我。没有什么事会一帆风顺。我在城外有个小农场，几天前一伙歹徒突然在那里出现，并且占据了我的家作为他们的营地。他们已经杀了派斯依，我的驴子，并且威胁说如果敢再回去就一并干掉我。}

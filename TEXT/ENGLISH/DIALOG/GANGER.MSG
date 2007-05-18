@@ -30,7 +30,7 @@
 #{114}{}{So what are you doing here?}
 {114}{}{你又干吗？}
 #{115}{}{I ain't telling ya' that. Whadda ya' think I am, stupid? Now git . . .}
-{115}{}{那我是不会告诉你。你以为我是谁？白痴？给我滚．．．}
+{115}{}{那我是不会告诉你。你以为我是谁？白痴？给我滚……}
 #{116}{}{I'm supposed to make sure no one goes by. Dis is Zombie house.}
 {116}{}{我的任务是阻止闲杂人等过去. 这里是僵尸的地盘.}
 #{117}{}{What's a Zombie?}

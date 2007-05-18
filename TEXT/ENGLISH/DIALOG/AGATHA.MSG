@@ -8,7 +8,7 @@
 {107}{}{为什么？}
 {108}{}{什么意思？}
 {109}{}{我知道你会尽力的，亲爱的。找到坦蒂，帮她从那些野蛮人里逃出，让她回到亚拉德什身边。你会帮这个社区一个大忙，好人也会有好报。}
-{110}{}{亚拉德什很爱他的女儿。也正是这种爱使这个男人成为社区的支柱。失去这种爱，他会困惑，并且荒漠小镇肯定也会跟随如此……}
+{110}{}{亚拉德什很爱他的女儿。也正是这种爱使这个男人成为社区的支柱。失去这种爱，他会困惑，并且沙荫镇肯定也会跟随如此……}
 {111}{}{我会尽力的。再见。}
 {112}{}{我很想帮帮忙。}
 {113}{}{嗯……再见.}
@@ -24,7 +24,7 @@
 {123}{}{为什么你看起来这么疲倦？}
 {124}{}{别跟我说，老女人。}
 {125}{}{你需要的帮助超出了我的能力，我的孩子。愿达玛与你同在。}
-{126}{}{我的名字是阿加莎. 我是荒漠小镇的说书人。我的工作就是记录历史，让大家记住并且永不遗忘。}
+{126}{}{我的名字是阿加莎. 我是沙荫镇的说书人。我的工作就是记录历史，让大家记住并且永不遗忘。}
 {127}{}{给我讲一个故事。}
 {128}{}{好吧，随便。}
 {129}{}{能不遗忘真好。}
@@ -59,7 +59,7 @@
 #{107}{}{Why?}
 #{108}{}{What do you mean?}
 #{109}{}{I know you will do your best, dearie. Find 坦蒂, help her escape those beasts and return her to 亚拉德什. You will do this community a favor and build good karma as well.}
-#{110}{}{亚拉德什 loves his daughter very much. It is that love that makes him the man that he is and a pillar of this community. Without that love he would be lost, and 荒漠小镇 would surely follow . . .}
+#{110}{}{亚拉德什 loves his daughter very much. It is that love that makes him the man that he is and a pillar of this community. Without that love he would be lost, and 沙荫镇 would surely follow . . .}
 #{111}{}{I will do my best. Goodbye.}
 #{112}{}{I could use some help.}
 #{113}{}{Hmmm. We'll see.}
@@ -75,7 +75,7 @@
 # {123}{}{Why do you look so tired?}
 # {124}{}{Don't talk to me, old woman.}
 # {125}{}{You need more help than I can give you, child. May 达玛 be with you.}
-# {126}{}{My name is 阿加莎. I am the storyteller of 荒漠小镇. It is my job
+# {126}{}{My name is 阿加莎. I am the storyteller of 沙荫镇. It is my job
  # to keep the history so that we may remember and never forget.}
 # {127}{}{Tell me a story.}
 # {128}{}{Okay, whatever.}

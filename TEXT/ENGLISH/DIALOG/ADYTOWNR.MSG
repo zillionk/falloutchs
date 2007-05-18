@@ -1,7 +1,7 @@
 #{100}{}{You see an inhabitant of Adytown.}
 {100}{}{你看见一个内城区的居民。}
 #{101}{}{Looks like rain . . . as always.}
-{101}{}{天看起来要下雨了．．．看起来总是如此。}
+{101}{}{天看起来要下雨了……看起来总是如此。}
 #{102}{}{Sorry, have to go. Got work to do.}
 {102}{}{不好意思，要走了。有活要干。}
 #{103}{}{We don't get many outsiders here.}
@@ -11,9 +11,9 @@
 #{105}{}{I'd get back to the hub, if I were you.}
 {105}{}{如果我是你，我会回哈勃城。}
 #{106}{}{Good day . . . if that is what you can call it.}
-{106}{}{你好，天气不错．．．如果你这么认为的话。}
+{106}{}{你好，天气不错……如果你这么认为的话。}
 #{107}{}{Yeah . . . whatever.}
-{107}{}{嗯．．．随便。}
+{107}{}{嗯……随便。}
 #{108}{}{No time to talk.}
 {108}{}{没空聊。}
 #{109}{}{Can't talk right now.}

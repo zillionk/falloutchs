@@ -328,9 +328,9 @@
 #{259}{LOX_84}{Need to be a bit careful there.  The Rippers and the Blades like to carve you up just for fun.  While the town there, Adytum, just tries to stay alive.  If you find yourself traipsing around there and happen on the Blades, make sure to say cheers to Razor for me.  Thinking of her brings back memories, it does.}
 {259}{LOX_84}{在那你最好小心点。莱普士帮和利刃帮可能为了想找乐就把你剁了。那边，密室就是为了活命。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我的回忆，真的。}
 #{260}{LOX_85}{They're the scrapheads down in the Boneyard.  They've been fighting for years, and they don't even know what for anymore.  Bloody stupid it is.}
-{260}{LOX_85}{他们是枯骨之地的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{260}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
 #{261}{LOX_86}{Oh, what a woman!  She used to be a thief here, until she decided to move down south to the Boneyard.  Last I heard she joined up with the Blades.  Ah, well, brains weren't her strongest part.}
-{261}{LOX_86}{哦，那个女人！她过去是工会的成员，后来她决定南下去枯骨之地。最近听说她加入了利刃帮。啊，她确实脑子不太灵光。}
+{261}{LOX_86}{哦，那个女人！她过去是工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。啊，她确实脑子不太灵光。}
 #{262}{LOX_87}{Hmm, I haven't the foggiest.}
 {262}{LOX_87}{唔，我也不太清楚。}
 #{263}{LOX_88}{I really don't know.}
@@ -389,7 +389,7 @@
 # {1025}{}{鲍勃}
 # {1026}{}{兄弟会}
 # {1027}{}{Angels}
-# {1028}{}{枯骨之地}
+# {1028}{}{晒骨场}
 # {1029}{}{旅行商队}
 # {1030}{}{死爪}
 # {1031}{}{死亡之爪}
@@ -483,8 +483,8 @@
 {1116}{LOX_82}{目前有让人很不安的一伙人。他们整天到处肆意宣扬他们的死神理论，就好想这是自商人们的口袋破了洞之后的又一好事。他们可以廉价的帮你看病。我觉得很值。你可以在他们市中心的医院找到他们。}
 {1117}{LOX_83}{呃，又一群怪人。他们呆在他们北部的阴暗的大堡垒里，就等着下一次战争爆发。}
 {1118}{LOX_84}{在那你最好小心点。莱普士帮和利刃帮可能为了想找乐就把你剁了。那边，密室就是为了活命。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我的回忆，真的。}
-{1119}{LOX_85}{他们是枯骨之地的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
-{1120}{LOX_86}{哦，那个女人！她过去是工会的成员，后来她决定南下去枯骨之地。最近听说她加入了利刃帮。啊，她确实脑子不太灵光。}
+{1119}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{1120}{LOX_86}{哦，那个女人！她过去是工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。啊，她确实脑子不太灵光。}
 {1121}{LOX_71}{他们。牛屄烘烘的坐在他们位于市中心南部的水塔里边，为了每一滴从地上冒出来的水向我们收费。他们都该他妈的拖出去枪毙，绝对的。}
 {1122}{LOX_78}{大约三年前，一个商人南下去寻找其他城镇。他全身带着辐射归来，自称发现了范围巨大的辐射地域。谁知道呢，没准站前真有东西落在那。}
 {1123}{LOX_81}{你总能在商业市场的管理中心找到鲍勃。如果他还活着，他很可能在卖他的蜥蜴串。}

@@ -11,13 +11,13 @@
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{103}{}{老杂碎居然同意你来干活了？你他妈的一定是个很耐操的婊子啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、活死人镇和枯骨之地。}
+{103}{}{老杂碎居然同意你来干活了？你他妈的一定是个很耐操的婊子啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{104}{}{So, that old bastard gave you the okay to work for us, eh?  Well you must have balls of steel.
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{104}{}{老杂碎居然同意你来干活了？你他妈的一定是个很吊的鸟哥啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、活死人镇和枯骨之地。}
+{104}{}{老杂碎居然同意你来干活了？你他妈的一定是个很吊的鸟哥啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{105}{}{And the pay?}
 {105}{}{报酬如何？}
@@ -203,8 +203,8 @@
 
 {163}{}{钢铁兄弟会}
 {164}{}{迦克镇}
-{165}{}{活死人镇}
-{166}{}{枯骨之地}
+{165}{}{大墓地}
+{166}{}{晒骨场}
 
 #{167}{}{Never mind.  I have something I forgot to do. }
 {167}{}{算了，我还有自己的事情要做。}
@@ -243,7 +243,7 @@
 {178}{}{迦克镇的路线不长，你应该很快就能回来了。}
 
 #{179}{}{Watch your ass, Necropolis isn't a very friendly place.}
-{179}{}{路上小心，活死人镇不是友好的地方。}
+{179}{}{路上小心，大墓地不是友好的地方。}
 
 #{180}{}{Set's the leader of the town. At least he was the last time I was there.}
 {180}{}{赛特是镇里的领导，至少我上次去的时候还是。}
@@ -261,7 +261,7 @@
 
 #{184}{}{I'm told the Boneyard used to be a place called LA.  I don't know what the person's initials stand
 # for, but it's a cool place.}
-{184}{}{我知道枯骨之地以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
+{184}{}{我知道晒骨场以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
 
 #{185}{}{What the hell do you want?}
 {185}{}{你到底要干什么？}

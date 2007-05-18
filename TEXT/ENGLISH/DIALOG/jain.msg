@@ -98,7 +98,7 @@
 {132}{}{扯你娘的蛋。}
 
 #{133}{JAIN13}{Are you interested in converting to our faith? We can offer you what no one else can...}
-{133}{JAIN13}{你有兴趣改信我们的教义么？我可以给你其他人都不能给你的好处．．．}
+{133}{JAIN13}{你有兴趣改信我们的教义么？我可以给你其他人都不能给你的好处……}
 
 #{134}{}{And what's that?}
 {134}{}{是什么？}
@@ -224,7 +224,7 @@
 {174}{}{咂了啦？}
 
 #{175}{}{Feeties.}
-{175}{}{善布．．．}
+{175}{}{善布……}
 
 #{176}{JAIN31}{You have done what? You shall pay for your sin against the Holy Flame himself.}
 {176}{JAIN31}{你干了什么？你对圣火他老人家犯下了不可饶恕的罪行！你会遭到惩罚的。}

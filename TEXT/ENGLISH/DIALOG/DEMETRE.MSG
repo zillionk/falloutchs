@@ -83,7 +83,7 @@
 #{141}{}{Yeah! I like you! You're hired! Go talk to Keri in the next room, she'll assign you to a caravan.}
 {141}{}{是啊！我喜欢你！你被雇佣了！去和另一个房间的凯利谈谈，她会把你分到一个商队去。}
 #{142}{}{A water chip? Hmmm, haven't heard of one of those before. You might want to check with one of the shops outside -- they have lots of stuff. So, did you want a job?}
-{142}{}{净水芯片？姆，从没听说过这种东西。你也许可以去逛逛外面那些店铺--他们有很多东西。那么，你还要工作吗？}
+{142}{}{净水芯片？嗯，从没听说过这种东西。你也许可以去逛逛外面那些店铺--他们有很多东西。那么，你还要工作吗？}
 #{143}{}{Well, what's it pay?}
 {143}{}{那么，报酬怎么样？}
 #{144}{}{No, not really.}

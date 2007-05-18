@@ -85,7 +85,7 @@
 #{136}{}{You farted northwest?}
 {136}{}{你朝西北放屁？}
 #{137}{hrold10a}{[Laughs] Pretty good...Noo...}
-{137}{hrold10a}{【笑】很好．．．不过．．．}
+{137}{hrold10a}{【笑】很好……不过……}
 #{138}{HROLD11}{
 #We mounted an expedition.  God, Richard.  Richard Grey.  Led a small group of us up there.}
 {138}{HROLD11}{我们组织了一支探险队。我们的偶像，理查德。理查德·格瑞。在那里建立了一个小团体。}
@@ -167,7 +167,7 @@
 {171}{}{然后呢？}
 #{172}{HROLD23}{
 #To this day, I don't know.  He never made it back here, and...well I...couldn't face the wasteland again, so I...I never looked.}
-{172}{HROLD23}{直到今天，我也不知道。他从没回来，并且．．．我．．．再也不能看到废土了，因此我……我从没注意过。}
+{172}{HROLD23}{直到今天，我也不知道。他从没回来，并且……我……再也不能看到废土了，因此我……我从没注意过。}
 #{173}{}{What about you and Grey?}
 {173}{}{那你和格瑞呢？}
 #{174}{HROLD24}{
@@ -183,7 +183,7 @@
 #{178}{}{And you never saw Grey again?}
 {178}{}{并且为什么你从没有提起格瑞呢？}
 #{179}{hrold25a}{Didn't.  Got killed...[Laughs then coughs] God, I love that joke.}
-{179}{hrold25a}{不。被杀了．．．【笑然后咳嗽】天哪，我喜欢那个笑话。}
+{179}{hrold25a}{不。被杀了……【笑然后咳嗽】天哪，我喜欢那个笑话。}
 #{180}{}{Yeah, I can tell.}
 {180}{}{是的，我可以告诉你。}
 #{181}{HROLD26}{
@@ -194,11 +194,11 @@
 #{183}{}{Quite a great story.  Thanks.}
 {183}{}{真是个很好的故事。谢谢。}
 #{184}{hrold26a}{Well...Thanks for letting me tell it.}
-{184}{hrold26a}{好的．．．谢谢你让我讲了这么多。}
+{184}{hrold26a}{好的……谢谢你让我讲了这么多。}
 #{185}{}{So that was the short version?}
 {185}{}{那简短的故事呢？}
 #{186}{hrold26a}{Well . . . thanks for letting me tell it.}
-{186}{hrold26a}{好的．．．谢谢你让我讲了这么多。}
+{186}{hrold26a}{好的……谢谢你让我讲了这么多。}
 #{187}{hrold26b}{For me it was.}
 {187}{hrold26b}{对我来说那就是了。}
 #{188}{HROLD27}{
@@ -298,7 +298,7 @@
 #{227}{}{Nope}
 {227}{}{不}
 #{228}{hrold43a}{The whole thing?  Well...}
-{228}{hrold43a}{这就是整件事？好吧．．．}
+{228}{hrold43a}{这就是整件事？好吧……}
 #{229}{HROLD44}{
 #Oooh, well thanks.  Hope it wasn't too much of a strain. [coughs]}
 {229}{HROLD44}{哦，谢谢。希望它不会过度疲劳。【咳嗽】}
@@ -321,7 +321,7 @@
 #{238}{}{Great, thanks.}
 {238}{}{很好，谢谢。}
 #{239}{HROLD51}{Good luck to you...you're gonna need it.}
-{239}{HROLD51}{祝你好运．．．你会需要它的。}
+{239}{HROLD51}{祝你好运……你会需要它的。}
 #{240}{}{Could be.}
 {240}{}{也许。}
 #{241}{HROLD52}{You don't want to know about the Death Claw, and I ain't gonna be the one to tell ya.}
@@ -351,7 +351,7 @@
 #{253}{hrold202}{You might want to be more careful. [cough] I've heard that you've wasted several people recently.}
 {253}{hrold202}{你要小心点。【咳嗽】我听说这几天你干掉了几个人。}
 #{254}{hrold203}{Umm...Decker's looking for you.  He wants to talk. [cough]}
-{254}{hrold203}{嗯．．．德克在找你。他想和你谈话。【咳嗽】}
+{254}{hrold203}{嗯……德克在找你。他想和你谈话。【咳嗽】}
 #{255}{hrold204}{All I got is clothes and freedom, and the latter's debatable.}
 {255}{hrold204}{衣服和自由不能兼得，我更看重自由。}
 #{256}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
@@ -371,7 +371,7 @@
 #{263}{hrold307}{[Cough] Trouble.  Nothing but trouble.}
 {263}{hrold307}{【咳嗽】很糟糕。真的很糟糕。}
 #{264}{hrold400}{Well, like I said...}
-{264}{hrold400}{是的，就像我说的那样．．．}
+{264}{hrold400}{是的，就像我说的那样……}
 #{265}{}{Nothing, thanks.}
 {265}{}{没什么，谢谢。}
 

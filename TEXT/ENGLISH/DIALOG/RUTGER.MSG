@@ -373,7 +373,7 @@ and we'll wipe them out.}
 #{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's 
 see.厖Sorry, I didn't believe you. This does not bode well for the good guys. Well, here's your 500 H#ubbucks. Hell, make it 800, and thanks for the information! 
  If you need anymore work you will always be welcome.}
-{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆把。好吧，这里是你的５００哈伯币。靠，加到８００吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
+{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆把。好吧，这里是你的５００哈勃币。靠，加到８００吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
 
 #{219}{}{Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? 
 Was it the Water Merchants?}

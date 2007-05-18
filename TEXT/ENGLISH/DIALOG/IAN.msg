@@ -42,7 +42,7 @@
 # home now. Occasionally, I even get to visit Junktown or the Hub
 # to do some trading, since I'm the only person here who has ever
 # really left town.}
-{112}{}{我原来是哈勃城商人护卫队的一员。可是我在歹徒的一次袭击中受伤了。在伤势复原之前，我得一直待在这里。即便如此，我对外部世界的熟悉和积累的经验让我在这里也能发挥作用。荒漠小镇现在就是我的家。有时候，我也会去迦克镇或者哈勃城做些买卖，毕竟我是这儿唯一真正离开过城镇见识过世面的人。}
+{112}{}{我原来是哈勃城商人护卫队的一员。可是我在歹徒的一次袭击中受伤了。在伤势复原之前，我得一直待在这里。即便如此，我对外部世界的熟悉和积累的经验让我在这里也能发挥作用。沙荫镇现在就是我的家。有时候，我也会去迦克镇或者哈勃城做些买卖，毕竟我是这儿唯一真正离开过城镇见识过世面的人。}
 
 #{113}{}{You see Ian.}
 {113}{}{你看见伊恩。}
@@ -58,7 +58,7 @@
 
 #{117}{}{Shady Sands is a small but self-sufficient community. The only trouble
 # here is with the bandits and the Radscorpions.}
-{117}{}{荒漠小镇是一个很小，却能维持自给自足的城镇。这里唯一的问题就是那些歹徒和辐射蝎。}
+{117}{}{沙荫镇是一个很小，却能维持自给自足的城镇。这里唯一的问题就是那些歹徒和辐射蝎。}
 
 #{118}{}{Why are the Radscorpions trouble?}
 {118}{}{为什么那些辐射蝎会惹麻烦？}
@@ -101,10 +101,10 @@
 #{128}{}{There are three groups: the Khans, the Vipers, and the
 # Jackals. They pretty much hate each other, but they
 # all raid Shady Sands.}
-{128}{}{歹徒有三个部族:可汗，毒蛇和豺狼。他们彼此极端仇视，但共同的袭击目标都是荒漠小镇。}
+{128}{}{歹徒有三个部族:可汗，毒蛇和豺狼。他们彼此极端仇视，但共同的袭击目标都是沙荫镇。}
 
 #{129}{}{Tell me more about Shady Sands.}
-{129}{}{告诉我更多关于荒漠小镇的事。}
+{129}{}{告诉我更多关于沙荫镇的事。}
 
 #{130}{}{He has the confident, relaxed stance of an experienced fighter.}
 {130}{}{他非常自信，摆出一副身经百战的战士常有的轻松姿态。}
@@ -124,7 +124,7 @@
 {134}{}{告诉我关于辐射蝎的事。}
 
 #{135}{}{Tell me about Shady Sands.}
-{135}{}{告诉我关于荒漠小镇的事。}
+{135}{}{告诉我关于沙荫镇的事。}
 
 #{136}{}{Tell me about Seth.}
 {136}{}{告诉我关于赛思的事。}
@@ -140,7 +140,7 @@
 # Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west.
 # It's smaller, but still a good place to drop in for a drink. It's overseen by a
 # fellow by the name of Killian Darkwater, the local shopkeeper, sheriff, and mayor.}
-{139}{}{哈勃城是位于荒漠小镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安．达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
+{139}{}{哈勃城是位于沙荫镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安．达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
 
 #{140}{}{Thanks.}
 {140}{}{谢谢。}
@@ -245,7 +245,7 @@
 
 #{170}{}{Heard about some of these places before, but never been in one. Seems nice
 # and clean . . . a little too clean for my taste.}
-{170}{}{以前听说过那些地方，但从未去过任何一个。看起来很不错很干净．．．对我来说未免太干净了些。}
+{170}{}{以前听说过那些地方，但从未去过任何一个。看起来很不错很干净……对我来说未免太干净了些。}
 
 #{171}{}{Not that you asked me, but the man needs to give you a little breathing
 # room.}
@@ -270,7 +270,7 @@
 #
 
 #{175}{}{I thought the Boneyard was worse.}
-{175}{}{我觉得枯骨之地更糟。}
+{175}{}{我觉得晒骨场更糟。}
 
 
 
@@ -373,7 +373,7 @@
 
 #{1103}{}{A medium-sized town made of junk, overseen by a sherrif named Killian. It's
 # just a few days southwest of Shady Sands.}
-{1103}{}{一个由垃圾建成的中型城镇, 被一个叫做基利安的人监管。它在荒漠小镇的西南方只有几天的路程。}
+{1103}{}{一个由垃圾建成的中型城镇, 被一个叫做基利安的人监管。它在沙荫镇的西南方只有几天的路程。}
 
 #{1104}{}{The Hub is the biggest trading center in the New West. It's run primarily
 # by a group called the Water Merchants, but there are some other traders there, too.
@@ -387,7 +387,7 @@
 
 #{1106}{}{Most caravans come from the Hub. They travel all over the place. I worked
 # for a group called the Crimson Caravan before my untimely injury.}
-{1106}{}{大多数的商队来自哈伯城。他们到处旅行。我受伤之前是为一个叫作深红的商队工作。}
+{1106}{}{大多数的商队来自哈勃城。他们到处旅行。我受伤之前是为一个叫作深红的商队工作。}
 
 #{1107}{}{No idea what a water chip is. Sorry, friend.}
 {1107}{}{不清楚净水芯片是什么。对不起，朋友。}
@@ -479,7 +479,7 @@
 {1134}{}{对不起，小孩子不要知道的太多。}
 
 #{1135}{}{Yeah, there's some kids in Shady Sands. So? None of 'em are mine.}
-{1135}{}{是的，荒漠小镇是有一些小孩。那怎么了？没有一个是我的。}
+{1135}{}{是的，沙荫镇是有一些小孩。那怎么了？没有一个是我的。}
 
 #{1136}{}{Sorry, bud. Don't know much.}
 {1136}{}{对不起，小孩子不要知道的太多。}
@@ -506,7 +506,7 @@
 
 #{1144}{}{They're a sorry group of raiders who attack Shady Sands and think that
 # they're gonna take over the world or some such crap.}
-{1144}{}{他们是一群歹徒，并以为攻击荒漠小镇是为了接管这个世界。}
+{1144}{}{他们是一群歹徒，并以为攻击沙荫镇是为了接管这个世界。}
 
 #{1145}{}{She's Aradesh's daughter. She's pretty sweet, but I've got someone
 # waiting for me back home.}
@@ -539,7 +539,7 @@
 
 #{1154}{}{Aradesh is the leader of Shady Sands. A kind and patient man, although
 # he's kinda looney.}
-{1154}{}{亚拉德什是荒漠小镇的领袖。一个和蔼可亲的人，虽然他有点疯狂。}
+{1154}{}{亚拉德什是沙荫镇的领袖。一个和蔼可亲的人，虽然他有点疯狂。}
 
 #{1155}{}{Hey, if you need help, Razlo's the man to see. He's a great doctor.}
 {1155}{}{嗨，如果你需要帮助，去找罗兹，他是个伟大的医生。}
