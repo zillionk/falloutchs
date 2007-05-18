@@ -584,7 +584,7 @@
 {283}{}{我觉得就是你干的，如果你聪明的话，赶紧离开这个城市，要不就走不了了。}
 
 #{284}{}{I didn't think you wanted the job.  I hope it was just a misunderstanding. I'll pay you half, and be
-# grateful that I'm giving you anything. [Kane gives you 1500 hubbucks]}
+# grateful that I'm giving you anything. 【Kane gives you 1500 hubbucks】}
 {284}{}{我以为你不愿意干呢，大概是我误会你了。那就付你一半钱吧，你应该高兴，至少我们还会给你钱。【凯恩给了你1500块钱】}
 
 #{285}{}{Thanks.}
@@ -647,10 +647,10 @@
 # it and be sure you aren't seen, but if anyone does happen to see you make sure they don't live to tell
 # anyone about it.  Once you've finished your little errand come back here. One more thing.  Don't even think
 # about going to the police, that's the worst mistake you could ever make. If you can, try not attract their
-# attention when doing your work, they can be quite a pain sometimes. [Kane gives you 500 caps]}
+# attention when doing your work, they can be quite a pain sometimes. 【Kane gives you 500 caps】}
 {301}{}{那个商人和他老婆住在西边的高地，巴特街和桑德大道的交道口，很可能有保镖。悄悄地进去，别被人看见，如果被人看见了就灭他们的口。等你完事后回到我这里来。还有，别想着去警察那里告密，那将是一个大大的错误。尽量不要惊动警察，有时候他们确实很麻烦的。【凯恩给了你５００个瓶盖】}
 
-#{302}{}{Good work.  Here're your scripts for the completion of the first job. [Kane hands you 2500 hubbucks].}
+#{302}{}{Good work.  Here're your scripts for the completion of the first job. 【Kane hands you 2500 hubbucks】.}
 {302}{}{干得好，这是剩下的２５００个瓶盖。【凯恩给了你２５００个瓶盖】}
 
 #{303}{}{Nice work on the merchant.  I'm expecting the same results on your next job.  Here's your last payment
@@ -1155,7 +1155,7 @@
 #{460}{}{Huh?}
 {460}{}{呼？}
 
-#{461}{}{[Kane lowers his voice]  You cocked up the mission, you moron!  You were supposed to kill both of the Hightowers, not wound them for
+#{461}{}{【Kane lowers his voice】  You cocked up the mission, you moron!  You were supposed to kill both of the Hightowers, not wound them for
 # Christ sake!  The second you left the Heights they ran off with their guards.  Believe me, they didn't waste time packing either.
 #  God knows where they are now!}
 {461}{}{【凯恩压低了声音】你把事情办砸了，笨蛋！你应该把夫妻俩都干掉，而不是让他们受点伤，天那！你一离开高地，他们就和保镖一起跑了，还没忘记收拾行李，现在天才知道他们在哪里！}

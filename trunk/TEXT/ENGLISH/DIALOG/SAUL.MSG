@@ -22,7 +22,7 @@
 {109}{}{我的名字是}
 #{110}{}{. Just taking a look around.}
 {110}{}{。只是四周环顾。}
-#{111}{}{[Saul laughs heartily.] Why, I am a boxer!}
+#{111}{}{【Saul laughs heartily.】 Why, I am a boxer!}
 {111}{}{【索尔满怀激情地笑着。】为什么，我是一个拳手！}
 #{112}{}{Ah, I could kick your ass.}
 {112}{}{哈，我能踢你的屁股。}
@@ -40,9 +40,9 @@
 {121}{}{}
 {122}{}{}
 {123}{}{}
-#{124}{}{ [Saul laughs heartily.]}
+#{124}{}{ 【Saul laughs heartily.】}
 {124}{}{【索尔满怀激情地笑着。】}
-#{125}{}{ [Saul laughs threateningly.]}
+#{125}{}{ 【Saul laughs threateningly.】}
 {125}{}{【索尔险恶地笑着。】}
 #{126}{}{All right. This should be quick.}
 {126}{}{好的。这应该很快。}
@@ -136,7 +136,7 @@
 {162}{}{那个人在这儿干些什么？}
 #{163}{}{Can you tell me a little about your boss?}
 {163}{}{你能再告诉我一些关于你老板的事吗？}
-#{164}{}{[You pat your weapon] I'd like you to meet my little friend.}
+#{164}{}{【You pat your weapon】 I'd like you to meet my little friend.}
 {164}{}{【你轻拍你的武器】我想你见见我的小朋友。}
 #{165}{}{Thanks for chatting. See you around.}
 {165}{}{闲谈受益匪浅。别处见。}
@@ -151,7 +151,7 @@
 {169}{}{好，切记不要动手，嗯？}
 #{170}{}{She's very important to me.}
 {170}{}{她对我很重要。}
-#{171}{}{ [Saul frowns.] But she doesn't like my boxing. She doesn't seem to
+#{171}{}{ 【Saul frowns.】 But she doesn't like my boxing. She doesn't seem to
 # understand that it's what I want to do.}
 {171}{}{【索尔皱了皱眉。】但是她不喜欢我搞拳击。她不见得明白这是我想做的。}
 #{172}{}{She's concerned for your welfare. She probably can't stand to see you

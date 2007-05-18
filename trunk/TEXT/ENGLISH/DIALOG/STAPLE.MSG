@@ -67,11 +67,11 @@
 # Please leave.}
 {119}{}{很抱歉，不过我想你必须收起你那副纵火狂的嘴脸。请你离开。}
 
-#{120}{}{[Mrs Stapleton takes your money.]}
+#{120}{}{【Mrs Stapleton takes your money.】}
 {120}{}{【斯塔布雷顿夫人拿走了你的钱。】}
 
 #{121}{}{You are right, the Disk has seen better days.  Since that is the case, I will
-# accept 500 instead of my original price. [Mrs Stapleton takes your money.]}
+# accept 500 instead of my original price. 【Mrs Stapleton takes your money.】}
 {121}{}{你说得对，这个磁盘的确应该有更好些的样子。因此我决定接受５００块的价格。【斯塔布雷顿夫人拿走了你的钱。】}
 
 #{122}{}{Normally, I do not give in to such methods, but to protect my collection from such
@@ -79,7 +79,7 @@
 {122}{}{通常我不会害怕这种威胁，但为了保护我的收藏，我会给你磁盘。作为交换，我要求你今后不许回到这里。}
 
 #{123}{}{As I may have explained, you will need to use this and then access the information
-# through your PIP Boy.  [Mrs. Stapleton hands you the Holodisk]}
+# through your PIP Boy.  【Mrs. Stapleton hands you the Holodisk】}
 {123}{}{我也许说过，你必须要通过你的哔哔小子来阅读这个。【斯塔布雷顿夫人将磁盘交给你】}
 
 #{124}{}{You will have to excuse me, but I have research to do.}

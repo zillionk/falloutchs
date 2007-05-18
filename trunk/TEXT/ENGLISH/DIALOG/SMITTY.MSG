@@ -75,7 +75,7 @@
 #{122}{}{Yes, I can fix this. Give me some time.}
 {122}{}{没错，我能修这个。给我些时间。}
 
-#{123}{}{Here you are. [Smitty hands you the fixed parts.]}
+#{123}{}{Here you are. 【Smitty hands you the fixed parts.】}
 {123}{}{给你。【施密蒂将修好的零件交给你。】}
 
 #{124}{}{I already fixed the parts. You need to give them to Miles now.}
@@ -91,11 +91,11 @@
 #{127}{}{So you found yourself a plasma rifle!}
 {127}{}{你找到了一把电浆步枪？不错嘛！}
 
-#{128}{}{Hand it over and I'll take a look at it. [Smitty takes a plasma rifle
-# from you, pulls out his tools, and starts tinker with it.]}
+#{128}{}{Hand it over and I'll take a look at it. 【Smitty takes a plasma rifle
+# from you, pulls out his tools, and starts tinker with it.】}
 {128}{}{让我看看它。【拿起你的一把电浆步枪，抓起工具开始对它进行修理。】}
 
-#{129}{}{There, I think that does it. [Smitty hands you back your plasma rifle.]
+#{129}{}{There, I think that does it. 【Smitty hands you back your plasma rifle.】
 # Try that out for size.}
 {129}{}{我想我已经完成了。【施密蒂把你的电浆步枪还给你。】找个地方试试它吧。}
 

@@ -77,17 +77,17 @@
 # {300}{}{You see Lucy, a normal looking human female. She is wearing a crown.}
 # {301}{}{You see a human female. She is staring at your shoes.}
 # {302}{}{There is no place like home, no place like home, no place like home . . .
- # [pacing back and forth]}
+ # ¡¾pacing back and forth¡¿}
 # {303}{}{Hng!}
 # {304}{}{Stop that!}
 # {305}{}{What about this place? Isn't this your home?}
-# {306}{}{I agree. Completely and utterly. You're right . . . [she pauses for a
- # moment.] What did you say? Oh, never you mind.}
-# {307}{}{[looking at you intensely] I will slay you for that! I will make your
+# {306}{}{I agree. Completely and utterly. You're right . . . ¡¾she pauses for a
+ # moment.¡¿ What did you say? Oh, never you mind.}
+# {307}{}{¡¾looking at you intensely¡¿ I will slay you for that! I will make your
  # blood run red. Wait a minute. Blood is red, how can I make it run red? I
  # can't very well do that. Hmmm. I need to think about this. Go away!}
-# {308}{}{My home is, uh, yeah. Here. Yeah, it's here. This is my home! [she
- # jumps up and down] I am so happy! You can't believe how happy this makes me.
+# {308}{}{My home is, uh, yeah. Here. Yeah, it's here. This is my home! ¡¾she
+ # jumps up and down¡¿ I am so happy! You can't believe how happy this makes me.
  # I think I'm going to go punch the wall for a while.}
 # {309}{}{I'm busy. I almost have the solution to the environmental problems
  # fucking this world over, but I can't stop thinking about purple dinosaurs.

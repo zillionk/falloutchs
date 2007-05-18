@@ -56,8 +56,8 @@
 #{155}{}{Well, I am told that the Peace and Unity we seek for all creatures is unusual, but I hope this will not be the case for much longer.}
 #{156}{}{Now, if you'll excuse me, I must go back to meditating.}
 #{157}{}{I don't know. Perhaps he will reveal himself in time.}
-#{158}{}{[done]}
-#{159}{}{[more]}
+#{158}{}{¡¾done¡¿}
+#{159}{}{¡¾more¡¿}
 #{160}{}{Hello, sir. Can I help you?}
 #{161}{}{Hello, miss. Can I help you?}
 

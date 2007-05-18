@@ -43,7 +43,7 @@
 #{143}{}{Josh lived here with me... a... I...I mean us.  He knew the truth behind what was going on.  The Regulators told him if he ever tried to contact his father or return to Adytum that they would kill him.}
 #{144}{}{They killed him?  What did he do?}
 #{145}{}{I'm going to Adytum to check this out.}
-#{146}{}{Late one night he tried to sneak into town to tell his father what was really going on.  I was monitoring the Regulators radio transmissions the night that .. they.. he got ...caught. [She looks down and shakes her head slowly.] Here, it's all on this holodisk.}
+#{146}{}{Late one night he tried to sneak into town to tell his father what was really going on.  I was monitoring the Regulators radio transmissions the night that .. they.. he got ...caught. ¡¾She looks down and shakes her head slowly.¡¿ Here, it's all on this holodisk.}
 #{147}{}{Why haven't you given this to Josh's Father?}
 #{148}{}{It's not like any of us can even get close to Adytum. We'd be shot dead before we even reached the gates.}
 #{149}{}{Why don't I give him the disk?.}
@@ -51,7 +51,7 @@
 #{151}{}{You would risk your life to help us?}
 #{152}{}{Sure.  Anything to help.}
 #{153}{}{I might. I need to go  check things out before I do anything.}
-#{154}{}{Thank you.  This really could help us.  Good luck. [She hands you the holodisk.]}
+#{154}{}{Thank you.  This really could help us.  Good luck. ¡¾She hands you the holodisk.¡¿}
 #{155}{}{See you later.}
 #{156}{}{Very well. I hope you make the right decision.}
 #{157}{}{Goodbye.}
@@ -131,7 +131,7 @@
 #{231}{}{I have heard that the Regulators still control Adytum.  Are you not able to kill them all like you had hoped.}
 #{232}{}{Don't worry, I'll take care of it.}
 #{233}{}{I don't think I am going to be able to do it.}
-#{234}{}{We would go with you, but without weapons the Regulators would kill us all.  There might be another possibility [Razor ponders a moment]  If you could get the Gun Runners to supply us weapons then a number of us could go with you.}
+#{234}{}{We would go with you, but without weapons the Regulators would kill us all.  There might be another possibility ¡¾Razor ponders a moment¡¿  If you could get the Gun Runners to supply us weapons then a number of us could go with you.}
 #{235}{}{Sounds good.  I'll go talk to them.}
 #{236}{}{I'll try to take the Regulators out myself again.}
 #{237}{}{Hello again,  I've heard that you have been playing with the Regulators.  I wanted to thank you for getting rid of them.  My people will be able to live with the people of Adytum in freedom now.}

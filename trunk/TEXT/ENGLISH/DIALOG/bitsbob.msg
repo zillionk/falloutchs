@@ -118,8 +118,8 @@
 {158}{}{没什么。抱歉提起它。我还能为你做什么？}
 #{159}{}{Well, he's dead now, and my cash flow has increased because of it.}
 {159}{}{好吧，他现在死了，因为这个我的钱包也鼓了。}
-#{160}{}{Someone killed Decker.  We're in mourning. [snicker]}
-{160}{}{有人杀了德克。我们现在很悲伤。[窃笑]}
+#{160}{}{Someone killed Decker.  We're in mourning. 【snicker】}
+{160}{}{有人杀了德克。我们现在很悲伤。【窃笑】}
 #{161}{}{Someone shot Sheriff Greene.  Don't know about the deputy, though.}
 {161}{}{有人向治安官格瑞开枪。现在还不知道谁是代理治安官。}
 #{162}{}{Daren Hightower was murdered.  And all that money couldn't save him.  Ironic, ain't it?}

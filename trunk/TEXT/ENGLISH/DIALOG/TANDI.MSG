@@ -182,7 +182,7 @@
  # plans. }
 {174}{TAND_40}{什么！那就是你的计划。啊！好吧。不过要快。我听到他们谈话了而且我不喜欢他们的计划。}
 # {175}{TAND_41}{You?  Fight him?  You
- # got to be kidding me!  [Sigh] Listen, if you come up with another plan, let me
+ # got to be kidding me!  【Sigh】 Listen, if you come up with another plan, let me
  # know, okay? }
 {175}{TAND_41}{你？攻击他们？你在和我开玩笑吗！【叹气】听着，如果你还有其它计划，告诉我，好吗？}
 # {176}{TAND_42}{Oh, aren't we the sarcastic one?  Are you going to

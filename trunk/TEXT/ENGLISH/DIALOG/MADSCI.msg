@@ -64,7 +64,7 @@
 {119}{}{你下次跟我说话要尊敬点，否则你就再也无法讲话了！}
 
 #{120}{}{The Master's truth is revealed, resulting in increased psychic
-# ability. [shakes his head] But the poor souls become terminally insane and
+# ability. 【shakes his head】 But the poor souls become terminally insane and
 # must be sequestered and nullified to keep them from harming themselves or
 # others.}
 {120}{}{主教真理显示, 那能造成精神能力的增强。【摇头】但是可怜的灵魂变得极端疯狂，只能将他们隔离，并且无法保证他们不伤害自己或其它人。}
@@ -109,8 +109,8 @@
 #{133}{}{Vincent! Prepare our newest volunteer!}
 {133}{}{文森特！准备我们最新的志愿者！}
 
-#{134}{}{What? That's the most ludicrous thing I've ever heard! [looks at
-# you suspiciously] Who are you, really?}
+#{134}{}{What? That's the most ludicrous thing I've ever heard! 【looks at
+# you suspiciously】 Who are you, really?}
 {134}{}{什么？那是我听到的最可笑的事！【怀疑的看着你】你到底是谁？}
 
 #{135}{}{Oh, sorry. I've got to go now.}
@@ -134,7 +134,7 @@
 #{141}{}{Ah ha! An interloper! Just as I suspected. Vincent!}
 {141}{}{啊哈！一个闯入者！正如我猜测的。文森特！}
 
-#{142}{}{Who are you? And why are you wearing that suit? [to himself] I haven't
+#{142}{}{Who are you? And why are you wearing that suit? 【to himself】 I haven't
 # seen one of those in a long time.}
 {142}{}{你是谁？而且你为什么穿着那种衣服?【对他自己】我已经很久没有看到那些了。}
 
@@ -162,7 +162,7 @@
 #{149}{}{I've got to report back to the Master. I don't have time for this.}
 {149}{}{我必须回去报告主教。我没有时间为这个。}
 
-#{150}{}{[shakes his head] Alas, the poor souls become terminally insane and
+#{150}{}{【shakes his head】 Alas, the poor souls become terminally insane and
 # must be sequestered and nullified to keep them from harming themselves or
 # others.}
 {150}{}{【摇头】呀，可怜的灵魂变得极端疯狂，只能将他们隔离，并且无法保证他们不伤害自己或其它人。}
@@ -196,10 +196,10 @@
 #{301}{}{Zzzzzz}
 {301}{}{ＺＺｚｚｚ}
 
-#{302}{}{Huh! What? [rubs eyes] Vincent, remove this heathen from our chambers!}
+#{302}{}{Huh! What? 【rubs eyes】 Vincent, remove this heathen from our chambers!}
 {302}{}{哼！什么？【擦眼睛】文森特，把这个异教徒从我们的房间弄走！}
 
-#{303}{}{Huh? [snort] ...zzzzzzzzz}
+#{303}{}{Huh? 【snort】 ...zzzzzzzzz}
 {303}{}{哼？【喷鼻息】．．．ｚｚｚｚｚｚ}
 
 #{400}{}{You see Vincent. He is guarding the sleeping mads.}

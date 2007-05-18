@@ -256,8 +256,8 @@
  about.}
 {184}{}{在那发生之前，我还有几件别的事情想知道。}
 
-#{185}{LIEUT27}{[The Lieutenant sighs.] Haven't you figured it out yet? You're a prime normal. Soon you'll be one of us.}
-{185}{LIEUT27}{[中尉叹气。] 你还没有觉悟吗？你是一个原始的正常人类。很快你就会成为我们中的一员。}
+#{185}{LIEUT27}{【The Lieutenant sighs.】 Haven't you figured it out yet? You're a prime normal. Soon you'll be one of us.}
+{185}{LIEUT27}{【中尉叹气。】 你还没有觉悟吗？你是一个原始的正常人类。很快你就会成为我们中的一员。}
 
 #{186}{}{How does 'no way' sound?}
 {186}{}{“决不”听起来怎样？}

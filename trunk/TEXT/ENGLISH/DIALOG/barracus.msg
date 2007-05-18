@@ -6,10 +6,10 @@
 {102}{}{男子}
 #{103}{}{woman}
 {103}{}{女子}
-#{104}{}{[Done]}
-{104}{}{[完成]}
-#{105}{}{[More]}
-{105}{}{[更多]}
+#{104}{}{【Done】}
+{104}{}{【完成】}
+#{105}{}{【More】}
+{105}{}{【更多】}
 #{106}{}{Sorry man, but you passed the point of no return with us. Time to slam off!}
 {106}{}{对不起老兄，但你跟我们走上了一条不归路。该走了！}
 #{107}{}{Sorry woman, but you passed the point of no return with us. Time to slam off!}

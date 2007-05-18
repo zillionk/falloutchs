@@ -8,7 +8,7 @@
 {103}{}{他是我的敌人。我不得不杀了他。}
 #{104}{}{I'm sorry. I didn't know that he was so close to you.}
 {104}{}{我很抱歉。我不知道他与你那么接近你。}
-#{105}{}{You didn't have to kill him! [Sarah sobs.] Leave me alone.}
+#{105}{}{You didn't have to kill him! 【Sarah sobs.】 Leave me alone.}
 {105}{}{你不是非得杀了他！【莎拉发出呜咽声。】滚开。}
 #{106}{}{He was my lover. He was my best friend. I can't believe that you
 # did that to him.}

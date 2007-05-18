@@ -585,7 +585,7 @@ our drivers will hire you.}
 #{287}{}{Of course!  You don抰 need to talk to me. Just talk to our caravan driver.}
 {287}{}{当然！你不需要再来问我。你只要去和前门我们的领队说就行。}
 
-#{288}{}{[MORE]}
+#{288}{}{【MORE】}
 {288}{}{【更多】}
 
 #{289}{}{Well sure, we may be losing a lot of caravans, but it is a very small percentage of our total business. The chances of you being on a caravan that

@@ -75,5 +75,5 @@
 #{124}{}{You know what your mistake is? You give warnings. I don't. Die!}
 {124}{}{你知道你傻在哪里么？你会警告我，而我不会警告你的。看招！}
 
-#{125}{}{[done]}
+#{125}{}{【done】}
 {125}{}{【完成】}

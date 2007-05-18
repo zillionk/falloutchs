@@ -260,7 +260,7 @@
 # {197}{}{Thanks, what about some high-tech weapons?}
 {197}{}{谢谢，那高科技武器呢？}
 # {198}{}{Well I see we have a bright new addition to our order after all...
- # [Talus leers at you.] Don't get cocky with me, Initiate. I'm not in the
+ # 【Talus leers at you.】 Don't get cocky with me, Initiate. I'm not in the
  # mood nor have I the patience!}
 {198}{}{毕竟是我看见我们的队伍里又多了一个聪明的新人……【塔鲁斯与你同在。】不要在我面前托大，新兵。虽然我脾气好但也不要挑战我的耐性。}
 # {199}{}{I thought you were smarter than that. I don't have to give you

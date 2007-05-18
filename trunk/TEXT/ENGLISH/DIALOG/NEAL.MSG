@@ -58,7 +58,7 @@
 #{119}{}{Who're the jerks?}
 {119}{}{谁是性情古怪的人？}
 
-#{120}{}{[Neal looks at you quizzically for a moment.] Haven't you ever seen a bar
+#{120}{}{【Neal looks at you quizzically for a moment.】 Haven't you ever seen a bar
 # before, stranger? This is my place, the Skum Pitt. You buy drinks here. And you
 # tip me.}
 {120}{}{【尼尔上下打量了你一阵子。】你从没来过酒吧吗，我没见过你？这是我的地盘，萨姆·匹特。买饮料的话，要收小费。}
@@ -83,7 +83,7 @@
 # just finished losing their money there. Over in the other part of town you got
 # Killian's general store, and Marcelles's Crash House. Killian's a good guy, runs
 # a straight joint, carries everything you need. The Crash House is where you sleep
-# it off when you've been in here for too long. [Neal chuckles.]}
+# it off when you've been in here for too long. 【Neal chuckles.】}
 {126}{}{好吧，从我们这儿往西边是吉斯莫的赌场。你若不知道的话我倒要奇怪了；好多赌客在那里输光了身上的钱。镇子里还有基利安的杂货店，玛塞尔的旅店。基利安是个好人，他的店里有你想要的任何东西。旅店是你睡觉的地方，你会舍不得离开的。【尼尔吃吃的笑了。】}
 
 #{127}{}{Thanks. Can I get a drink?}

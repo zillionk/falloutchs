@@ -166,8 +166,8 @@
 {182}{}{那不是我的职责。现在离开吧。}
 #{183}{}{By the endurance of pain, by the acquisition of wisdom, and the performance of service. Pain is knowledge, Wisdom is obedience, and Service is courage. }
 {183}{}{通过对痛苦的忍耐，通过对智慧的获得，还有对效劳的体验。痛苦是知识，智慧是顺从，效劳是勇气。}
-#{184}{}{[More]}
-{184}{}{[更多]}
+#{184}{}{【More】}
+{184}{}{【更多】}
 #{185}{}{You must reject the Light that nearly destroyed us all, and pledge yourself to the Darkness in which all are equal. Now that I have told you this thing, go seek it. Seek the Master and his wisdom.}
 {185}{}{你必须拒绝那在附近毁灭我们全部的光，把你自己投入到万物平等的黑暗中。现在我已经告诉了你这件事，去寻找它吧。寻找主教和他的智慧。}
 #{186}{}{I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.}
@@ -242,7 +242,7 @@
 {221}{}{我做过，但是许多方法都被废除了因为它们使你在礼堂听见许多响亮的噪音。这是一个我痛苦的来源。幸运的是，我仍然能知道教徒们。现在，希望得到你的谅解，我要去准备他们的课程了。}
 #{222}{}{Uh?it is of course, a rare event, and the animal is given every chance to evolve. Now leave here! Leave here at once!}
 {222}{}{呃？它当然是，一个罕见的事件，并且这个动物被给予了许多进化的机会。现在离开这里！马上离开！}
-#{223}{}{[DONE]}
+#{223}{}{【DONE】}
 {223}{}{【完成】}
 #{224}{}{This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.}
 {224}{}{这个对能可能有点应用。带上这个标志。当你想通过的时候把它给隐形人看。它会让你见到墨菲斯神父的。}

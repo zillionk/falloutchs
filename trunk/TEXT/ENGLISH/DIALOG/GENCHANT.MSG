@@ -37,5 +37,5 @@
 #{112}{}{Hmm, that's not what I had in mind. You had better practice, my friend. Praise to the Master! Praise the Holy Flame!}
 {112}{}{呣呣，我心里可没这么想。你最好多练习练习，我的朋友。赞美主教！赞美圣焰！}
 
-#{113}{}{[Done]}
+#{113}{}{【Done】}
 {113}{}{【完成】}

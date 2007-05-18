@@ -65,7 +65,7 @@ Master now.}
 #{217}{}{The Lieutenant did not have time to give me one.}
 {217}{}{中尉没来得及给我发一个。}
 
-#{218}{}{Ah, humor, I like that. [pauses] I do not have one, obviously. Youneed to go get one from the braindrains on the second level. Unity prevails.}
+#{218}{}{Ah, humor, I like that. 【pauses】 I do not have one, obviously. Youneed to go get one from the braindrains on the second level. Unity prevails.}
 {218}{}{啊，有意思，我喜欢。【停顿】很明显我没有。你需要到二层的洗脑室去拿一个。教会万岁！}
 
 #{219}{}{Then he was a fool, or you are not who you seem to be. What is it?}

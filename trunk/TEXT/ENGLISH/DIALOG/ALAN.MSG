@@ -59,4 +59,4 @@
  # hand-to-hand combat, so I couldn't go. Um, the scouts, they go a lot farther,
  # sometimes all the way to the ´ó½ÌÌÃ, I think.}
 #{126}{}{No more questions, thanks.}
-#{127}{}{[More]}
+#{127}{}{¡¾More¡¿}

@@ -3,12 +3,12 @@
 #{102}{}{Afternoon, sir!}
 #{103}{}{Afternoon, ma'am!}
 #{104}{}{Good Evening.}
-#{105}{}{I know, I know . . . [whisper] she talks an awful lot doesn't she.}
+#{105}{}{I know, I know . . . ¡¾whisper¡¿ she talks an awful lot doesn't she.}
 #{106}{}{Welcome to Beth's Weapon Shop & Rumor Mill.}
 #{107}{}{Beth, someone's here to see you.}
 #{108}{}{Welcome to Beth's Palace of Pleasure.}
 #{109}{}{Do you come bearing gifts?}
-#{110}{}{[whisper] Don't tell her anything you don't want the whole city to know.}
+#{110}{}{¡¾whisper¡¿ Don't tell her anything you don't want the whole city to know.}
 #{111}{}{Again?}
 #{112}{}{Free weapons! Come and get them!}
 #{113}{}{Blue light special on aisle three.}

@@ -36,7 +36,7 @@
 #{110}{}{Well, just do it and get out of my way!}
 {110}{}{很好，该干什么干什么，别妨碍我！}
 
-#{111}{}{[Click] Okey-dokey! Restarting task.}
+#{111}{}{【Click】 Okey-dokey! Restarting task.}
 {111}{}{【点击】搞定！重新启动任务。}
 
 #{112}{}{Unit #462 is a cleaning model. Must finish cleaning and maintenance of
@@ -49,7 +49,7 @@
 #{114}{}{What do you have left to clean?}
 {114}{}{你要清理什么地方？}
 
-#{115}{}{Vat Control Room. [Click] End of list.}
+#{115}{}{Vat Control Room. 【Click】 End of list.}
 {115}{}{病毒槽控制室。【点击】结束列表。}
 
 #{116}{}{Heh. Finish your task.}

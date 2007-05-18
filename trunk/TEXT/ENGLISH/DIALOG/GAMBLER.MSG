@@ -16,7 +16,7 @@
 # I have developed a sure-fire system, because I have discovered
 # how Gizmo runs his tables, but I do not have the caps to
 # play.}
-#{111}{}{ [You get the feeling that he's trying to scam you.]}
+#{111}{}{ 【You get the feeling that he's trying to scam you.】}
 #{112}{}{Perhaps you can spare a few caps? I guarantee success.}
 #{113}{}{Sure, sounds good.}
 #{114}{}{No, thanks.}
@@ -79,7 +79,7 @@
 {108}{}{你说吉斯默有远见，什么远见啊？}
 {109}{}{这里赢钱的机会大吗？}
 {110}{}{我的朋友，我是讨厌出千的，但是没准你能帮我。我弄出了一套必胜大法，因为我已经弄清他们的门道了。只是我没有瓶盖。}
-{111}{}{ [你觉得他是在骗你。]}
+{111}{}{ 【你觉得他是在骗你。】}
 {112}{}{你有闲钱吗？我保证赚的。}
 {113}{}{当然，听起来不错。}
 {114}{}{还是算了。}

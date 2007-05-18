@@ -134,7 +134,7 @@
 # much of what happened.  But Dharma was watching over me, and I was
 # found by the people of Shady Sands.  I live here now.  Have you
 # spoken with Ian, yet?  He is a merchant guard who was hurt.  He is
-# recovering in the guardhouse over there. [She points to the east]
+# recovering in the guardhouse over there. 【She points to the east】
 # He is more widely travelled than I.}
 {136}{}{我对于外面的世界知道得相当少。我是在我的避难所被攻击时逃出来的。很不幸，我那时受了伤，所以不太记得究竟发生了什么。不过我活了下来，我被沙荫镇的人们救了。我现在住在这里。你和伊恩谈过吗？他是一个受了伤的商队守卫。他现在那边的警卫室疗伤。【她指向东边】他是个见多识广的人。}
 
@@ -192,7 +192,7 @@
 #{146}{}{Well, I take catnaps when you are not around.  Besides, I find the desert
 # air very invigorating and healthy.  And I never tire of looking at the
 # stars.  Can you imagine never seeing the night sky for your entire life?
-# [She pauses and looks at you] Oh, I guess you can.}
+# 【She pauses and looks at you】 Oh, I guess you can.}
 {146}{}{你不在这边的时候我会小睡一会。还有，沙漠的空气令人精神爽快，而且很健康。所以我可以整晚看星星都不累。你能想象一生都看不到夜晚天空的人吗？【她停下来看着你】哦，我想你能。}
 
 #{147}{}{Ah, yeah.  Thanks.}

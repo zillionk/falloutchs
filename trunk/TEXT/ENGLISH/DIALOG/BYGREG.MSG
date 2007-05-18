@@ -24,10 +24,10 @@
 {111}{}{来抓你？谁要来抓你？}
 #{112}{}{You certainly are paranoid, I'll talk to you later.}
 {112}{}{你确实是个妄想狂。我以后再和你谈。}
-#{113}{}{Well they are...You know don't you...The disease was just the start.  Now they're going to come and take as all.  But you are just like all the rest.  You won't believe me, and you'll be doomed.  You mark my words.   I'LL STILL BE HERE, and ALL OF THIS, INCLUDING YOU, WILL BE TAKEN.  TAKEN. [Greg grasps his head and curls up in a ball, squealing and thrashing about]}
-{113}{}{嗯，他们是...你知道吧...疾病只是开始。现在他们要来把我们都抓走。但你和其他人一样。你不相信我，你会遭厄运的。记住我的话吧。我会留在这里，而所有人，包括你，会被抓走。被抓走。[格雷格抓住他的头，全身蜷缩起来，边尖叫边乱挣。]}
-#{114}{}{Medication...Oh so you're one of them, trying to get me to take my medication again....Well you won't get me to.  I WON'T TAKE IT, NO, I WON'T.  THE VOICES, NO I WON'T, YOU CAN'T MAKE ME. [Greg close his eyes shut and clutches his head frantically, talking with the voices that only he can hear.]}
-{114}{}{药物治疗...喔，那么你是他们的人，想抓我在去用药...你抓不了我了。我不再吃药了，不，我不。那声音，不我不，你别碰我。[格雷格闭上眼睛，疯狂地抓住他的头，和只有他能听见的声音交谈。]}
+#{113}{}{Well they are...You know don't you...The disease was just the start.  Now they're going to come and take as all.  But you are just like all the rest.  You won't believe me, and you'll be doomed.  You mark my words.   I'LL STILL BE HERE, and ALL OF THIS, INCLUDING YOU, WILL BE TAKEN.  TAKEN. 【Greg grasps his head and curls up in a ball, squealing and thrashing about】}
+{113}{}{嗯，他们是...你知道吧...疾病只是开始。现在他们要来把我们都抓走。但你和其他人一样。你不相信我，你会遭厄运的。记住我的话吧。我会留在这里，而所有人，包括你，会被抓走。被抓走。【格雷格抓住他的头，全身蜷缩起来，边尖叫边乱挣。】}
+#{114}{}{Medication...Oh so you're one of them, trying to get me to take my medication again....Well you won't get me to.  I WON'T TAKE IT, NO, I WON'T.  THE VOICES, NO I WON'T, YOU CAN'T MAKE ME. 【Greg close his eyes shut and clutches his head frantically, talking with the voices that only he can hear.】}
+{114}{}{药物治疗...喔，那么你是他们的人，想抓我在去用药...你抓不了我了。我不再吃药了，不，我不。那声音，不我不，你别碰我。【格雷格闭上眼睛，疯狂地抓住他的头，和只有他能听见的声音交谈。】}
 #{115}{}{YOU CAN'T MAKE ME!}
 {115}{}{你别碰我！}
 #{116}{}{NOTHING YOU CAN DO WILL HELP!}

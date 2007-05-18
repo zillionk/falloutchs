@@ -77,7 +77,7 @@
 {122}{}{你们从哪里得到ＦＥＶ的？}
 
 #{123}{}{You will only leave here as part of the Unity, or a lost soul in Hell!
-# [pause] Besides, I sit down here with a bunch of converts. It felt good to get
+# 【pause】 Besides, I sit down here with a bunch of converts. It felt good to get
 # this off my chest.}
 {123}{}{你要么在这里成为统一体的成员，要么就会死得很难看！【停了一下】还有，我成天在这里和一帮子皈依者打交道，有些话真是不吐不快。}
 

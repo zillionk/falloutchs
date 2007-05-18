@@ -51,7 +51,7 @@
 {124}{Harry_06}{哦，呃，好吧。祝你……玩的高兴。}
 #{125}{Harry_07}{Harry think he beat your head now.}
 {125}{Harry_07}{哈里觉得哈里现在想打你的头。}
-#{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? [Mumbling]}
+#{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? 【Mumbling】}
 {126}{Harry_08}{哦哦哦……哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？【喃喃自语】}
 #{127}{}{I'm a new race of super mutant.}
 {127}{}{我是新品种的超级变种人。}
@@ -164,7 +164,7 @@
 {180}{Harry304}{哼！下贱。}
 #{181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
 {181}{Harry305}{靠。不知道为什么福想要正常人。他们都是混蛋！}
-#{182}{Harry306}{Here, dummy. [Sigh] You stupid?}
+#{182}{Harry306}{Here, dummy. 【Sigh】 You stupid?}
 {182}{Harry306}{这里，蠢货。【叹息】你白痴啊？}
 #{183}{Harry307}{The U' U' U' Un, I don't know.}
 {183}{Harry307}{这这这，我不知道。}

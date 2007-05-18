@@ -79,7 +79,7 @@
 #{122}{}{You're on your own, Sheriff.}
 {122}{}{你自己去吧，警长。}
 
-#{123}{}{Great! Here's the first part of your payment.  [The Sheriff hands you 300 caps]}
+#{123}{}{Great! Here's the first part of your payment.  【The Sheriff hands you 300 caps】}
 {123}{}{很好！这是你的前期报酬！【警长给了你３００个瓶盖】}
 
 #{124}{}{I'm ready.}
@@ -100,7 +100,7 @@
 #{129}{}{Bye.}
 {129}{}{再见。}
 
-#{130}{}{Great!  Here's the first part of your payment.  [The Sheriff gives you 300 caps]}
+#{130}{}{Great!  Here's the first part of your payment.  【The Sheriff gives you 300 caps】}
 {130}{}{很好！这是你的前期报酬！【警长给了你３００个瓶盖】}
 
 #{131}{}{What? Do you expect me to stand around and let him kill innocent people? I've a responsibility to this
@@ -239,7 +239,7 @@
 {172}{}{老天，这真是一场好斗啊！你干得不错。德克和凯恩死了，匪徒也会很快树倒猢狲散的。没有领导的组织是不长久的。没有人敢出头当新老板。}
 
 #{173}{}{Well, here's the rest of your reward.  Thanks again for your help.  This city owes you a debt of gratitidue.
-#  [The Sheriff hands you 1000 caps]}
+#  【The Sheriff hands you 1000 caps】}
 {173}{}{这是你剩下的报酬。多谢你的协助。这个城市欠你的情。【警察给了你１０００个瓶盖】}
 
 #{174}{}{We can leave as soon as you're ready.}

@@ -73,8 +73,8 @@
  # at the Military Base, so he isn't even around here. That keeps
  # the nuclear bomb from being set off under our beloved Master.}
 # {213}{}{Thanks for your time.}
-# {214}{}{[The large mutant peers at you for a moment, with bushy
- # eyebrows raised] I think you are asking too many questions.}
+# {214}{}{¡¾The large mutant peers at you for a moment, with bushy
+ # eyebrows raised¡¿ I think you are asking too many questions.}
 
 
 {100}{}{Õ¾×¡£¡}

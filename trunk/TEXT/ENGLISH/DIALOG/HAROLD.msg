@@ -1,7 +1,7 @@
 #{100}{}{You see Harold.}
 {100}{}{你看到哈罗德。}
 #{101}{HROLD0}{
-#Spare change, old friend, old pal?  Can you help a poor mutant down on his luck? [Cough]}
+#Spare change, old friend, old pal?  Can you help a poor mutant down on his luck? 【Cough】}
 {101}{HROLD0}{给点钱吧，老朋友，老熟人？你能给我这个僵尸带来好运吗？【咳嗽】}
 #{102}{}{Yeah, here's $25. Good luck to you.}
 {102}{}{好吧，这里是２５个瓶盖。祝你好运。}
@@ -24,7 +24,7 @@
 #{110}{}{You're welcome.}
 {110}{}{欢迎。}
 #{111}{HROLD3}{
-#[Cough] Rest of the Hubbers' been picking on me like a bad booger since I came back to town.  I can't leave, though.  When the deals are done [wheez] it's still my home.}
+#【Cough】 Rest of the Hubbers' been picking on me like a bad booger since I came back to town.  I can't leave, though.  When the deals are done 【wheez】 it's still my home.}
 {111}{HROLD3}{【咳嗽】自从我来到这个镇子那些哈勃教徒把我像垃圾一样对待。尽管这样，我仍然不能离开。虽然交易已经完成【咳嗽】但仍然是我的家。}
 #{112}{}{What happened to you?}
 {112}{}{你怎么了？}
@@ -33,7 +33,7 @@
 #{114}{}{Hope things get better. See you around.}
 {114}{}{希望事情会变得更好。再见。}
 #{115}{HROLD4}{
-#Well, after the Great War, my Vault was one of the first to open. [Takes a deep breath] Whew.  Long time.}
+#Well, after the Great War, my Vault was one of the first to open. 【Takes a deep breath】 Whew.  Long time.}
 {115}{HROLD4}{好吧，核战后，我的避难所是第一个打开的。【深呼吸】是啊，很久了。}
 #{116}{}{Tell me more about those days.}
 {116}{}{告诉我那时的事情。}
@@ -49,17 +49,17 @@
 #{121}{}{Do you realize how old that makes you?}
 {121}{}{你知道你走了多久？}
 #{122}{HROLD6}{
-#You know, [cough] I'm not real sure anymore.  West, I think.  Uh wait - east?  Ooh I don't know.  [Hacking cough]}
+#You know, 【cough】 I'm not real sure anymore.  West, I think.  Uh wait - east?  Ooh I don't know.  【Hacking cough】}
 {122}{HROLD6}{你知道，【咳嗽】我记不清了。西边，我想。哦等等--东边？哦我不知道了。【干咳】}
 #{123}{}{What did you do then?}
 {123}{}{然后呢？}
 #{124}{HROLD7}{
-#Well, I was a trader.  Did pretty good making a circuit between survivors.  Lost a lotta good people, though. [Coughs]}
+#Well, I was a trader.  Did pretty good making a circuit between survivors.  Lost a lotta good people, though. 【Coughs】}
 {124}{HROLD7}{好吧，我是个商人。我在幸存者之间贩卖一些物品。可是，很多人都死去了。【咳嗽】}
 #{125}{}{How?}
 {125}{}{多少钱？}
 #{126}{HROLD8}{
-#Gangers got'em.  Scavengers attacking the caravans.  And mutants, son of a dog, if they weren't springing up like rabbits with a mission. [cough] Had to have an army of guards with, just to do a deal.}
+#Gangers got'em.  Scavengers attacking the caravans.  And mutants, son of a dog, if they weren't springing up like rabbits with a mission. 【cough】 Had to have an army of guards with, just to do a deal.}
 {126}{HROLD8}{这个是工头给我的。那时流浪者袭击了商队。那些僵尸，狗娘养的，他们跑的比兔子还快。【咳嗽】真该让让军队来护送，来做交易吧。}
 #{127}{}{Didn't the guards help?}
 {127}{}{警卫帮忙了吗？}
@@ -71,7 +71,7 @@
 #{130}{}{How did you survive the mutant attacks?}
 {130}{}{你怎么幸免于难的？}
 #{131}{HROLD9A}{
-#Didn't.  Got killed. [Laughing cough] Love that joke.}
+#Didn't.  Got killed. 【Laughing cough】 Love that joke.}
 {131}{HROLD9A}{没有。被杀了。【笑着咳嗽】真喜欢那个笑话。}
 #{132}{}{Uh, yeah.}
 {132}{}{哦，耶。}
@@ -84,7 +84,7 @@
 {135}{}{为什么你不去那里？}
 #{136}{}{You farted northwest?}
 {136}{}{你朝西北放屁？}
-#{137}{hrold10a}{[Laughs] Pretty good...Noo...}
+#{137}{hrold10a}{【Laughs】 Pretty good...Noo...}
 {137}{hrold10a}{【笑】很好……不过……}
 #{138}{HROLD11}{
 #We mounted an expedition.  God, Richard.  Richard Grey.  Led a small group of us up there.}
@@ -126,7 +126,7 @@
 {153}{HROLD16}{好吧，看来你喜欢简略的说。我会尽快讲完。}
 #{154}{}{Thanks.}
 {154}{}{谢谢。}
-#{155}{hrold16a}{Lying to a poor old mutant.  What's the world coming to? [cough]}
+#{155}{hrold16a}{Lying to a poor old mutant.  What's the world coming to? 【cough】}
 {155}{hrold16a}{接近一个可怜的老僵尸。这个世界怎么了？【咳嗽】}
 #{156}{hrold17}{Little light on funds, huh?}
 {156}{hrold17}{给点钱吧，嗯？}
@@ -182,7 +182,7 @@
 {177}{}{你怎样幸免于难的？}
 #{178}{}{And you never saw Grey again?}
 {178}{}{并且为什么你从没有提起格瑞呢？}
-#{179}{hrold25a}{Didn't.  Got killed...[Laughs then coughs] God, I love that joke.}
+#{179}{hrold25a}{Didn't.  Got killed...【Laughs then coughs】 God, I love that joke.}
 {179}{hrold25a}{不。被杀了……【笑然后咳嗽】天哪，我喜欢那个笑话。}
 #{180}{}{Yeah, I can tell.}
 {180}{}{是的，我可以告诉你。}
@@ -214,7 +214,7 @@
 #{192}{}{Sorry, tough break. Thanks for the story.}
 {192}{}{抱歉，休息一下吧。谢谢你的故事。}
 #{193}{HROLD29}{
-#How the hell should I know?  Grey would've known if anybody could. [sigh] Anyway, that's how the deal went down.}
+#How the hell should I know?  Grey would've known if anybody could. 【sigh】 Anyway, that's how the deal went down.}
 {193}{HROLD29}{那是怎样的地狱？如果有人想知道那一定不是格瑞。【叹气】总之，他掉下去了。}
 #{194}{}{Thanks for the story.}
 {194}{}{谢谢你的故事。}
@@ -249,13 +249,13 @@
 #No, no.  It's too painful, even now.  Thanks for the help, friend.  Good luck to you.}
 {206}{HROLD35}{不，不。尽管这样，它仍然很痛苦。谢谢帮忙，朋友。祝你好运。}
 #{207}{HROLD36}{
-#You're in the Hub, right?  People who live in the Hub?  Hubbers.  Get it? [cough] Sheesh!  Thanks for the help and good luck...think you're gonna need it.}
+#You're in the Hub, right?  People who live in the Hub?  Hubbers.  Get it? 【cough】 Sheesh!  Thanks for the help and good luck...think you're gonna need it.}
 {207}{HROLD36}{你去过哈勃城，是吗？谁在哈勃城生活？哈勃教徒。真的吗？【咳嗽】谢谢你的帮助并祝你好运……我想你会用到它的。}
 #{208}{HROLD37}{
-#You're as bad as the rest of them. [Wheezing cough]}
+#You're as bad as the rest of them. 【Wheezing cough】}
 {208}{HROLD37}{你像他们一样坏。【喘气、咳嗽】}
 #{209}{HROLD38}{
-#Oh well, thanks anyway. [cough]}
+#Oh well, thanks anyway. 【cough】}
 {209}{HROLD38}{好的，谢谢。【咳嗽】}
 #{210}{HROLD39}{
 #Hey, can you help me out, friend?}
@@ -269,7 +269,7 @@
 #{214}{}{Uhhh?}
 {214}{}{嗯？}
 #{215}{HROLD40}{
-#Hey, 'preciate it!  Gotta admit, when I first saw you, [cough] I figured you might hassle me.}
+#Hey, 'preciate it!  Gotta admit, when I first saw you, 【cough】 I figured you might hassle me.}
 {215}{HROLD40}{嗨，老兄！不得不承认，当我第一次看见你的时候，【咳嗽】我就想你会同我谈话的。}
 #{216}{}{Why do you say that?}
 {216}{}{为什么你这样说？}
@@ -300,7 +300,7 @@
 #{228}{hrold43a}{The whole thing?  Well...}
 {228}{hrold43a}{这就是整件事？好吧……}
 #{229}{HROLD44}{
-#Oooh, well thanks.  Hope it wasn't too much of a strain. [coughs]}
+#Oooh, well thanks.  Hope it wasn't too much of a strain. 【coughs】}
 {229}{HROLD44}{哦，谢谢。希望它不会过度疲劳。【咳嗽】}
 #{230}{HROLD45}{Oooh, that thing.  Friend, that is nightmare city.  Why the hell you asking about that?}
 {230}{HROLD45}{哦，那就是了。朋友，那是个噩梦之城。为什么你问它的情况呢？}
@@ -330,11 +330,11 @@
 {242}{HROLD53}{好吧，听说一个叫德克的人那里有钢铁兄弟会从老城镇收集的资料。}
 #{243}{}{Thanks.}
 {243}{}{谢谢。}
-#{244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. [cough]}
+#{244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. 【cough】}
 {244}{HROLD54}{我不相信，但还是听说有一支变种人军队在那个地方。【咳嗽】}
 #{245}{}{Thanks.}
 {245}{}{谢谢。}
-#{246}{HROLD55}{Leave me alone. [cough]}
+#{246}{HROLD55}{Leave me alone. 【cough】}
 {246}{HROLD55}{离我远点。【咳嗽】}
 #{247}{}{I want to talk to you.}
 {247}{}{我会告诉你的。}
@@ -342,15 +342,15 @@
 {248}{}{这是一些钱。}
 #{249}{HROLD56}{Well, I don't wanta talk to you.  Go away!}
 {249}{HROLD56}{好吧，我不会告诉你的。滚开！}
-#{250}{HROLD57}{Don't want your money.  Go away. [cough]}
+#{250}{HROLD57}{Don't want your money.  Go away. 【cough】}
 {250}{HROLD57}{不要你的钱。滚开。【咳嗽】}
-#{251}{hrold200}{As much as I love trading, I don't have anything to exchange. [cough]}
+#{251}{hrold200}{As much as I love trading, I don't have anything to exchange. 【cough】}
 {251}{hrold200}{很好的交易，我没有东西来交换。【咳嗽】}
 #{252}{hrold201}{I need to sleep for a while.  I'm kinda tired.}
 {252}{hrold201}{我要睡一会。我有点累了。}
-#{253}{hrold202}{You might want to be more careful. [cough] I've heard that you've wasted several people recently.}
+#{253}{hrold202}{You might want to be more careful. 【cough】 I've heard that you've wasted several people recently.}
 {253}{hrold202}{你要小心点。【咳嗽】我听说这几天你干掉了几个人。}
-#{254}{hrold203}{Umm...Decker's looking for you.  He wants to talk. [cough]}
+#{254}{hrold203}{Umm...Decker's looking for you.  He wants to talk. 【cough】}
 {254}{hrold203}{嗯……德克在找你。他想和你谈话。【咳嗽】}
 #{255}{hrold204}{All I got is clothes and freedom, and the latter's debatable.}
 {255}{hrold204}{衣服和自由不能兼得，我更看重自由。}
@@ -360,7 +360,7 @@
 {257}{hrold301}{谁？他是个医生吗？我需要他的帮助，你知道的。}
 #{258}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
 {258}{hrold302}{变种人。不要担心他们对你说的话。}
-#{259}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. [cough] He's alright, I guess.}
+#{259}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. 【cough】 He's alright, I guess.}
 {259}{hrold303}{哦，他啊。他领导着盗贼团。好像叫罗宾·胡德。【咳嗽】他是对的，我猜。}
 #{260}{hrold304}{I've seen religions come and religions go, and I hope this one goes.  Soon.}
 {260}{hrold304}{我看到过一个宗教代替了另一个宗教，我希望这个被取代。立即。}
@@ -368,7 +368,7 @@
 {261}{hrold305}{是的，我来自避难所。有很多人，没有足够的食物和水。但你并不了解那有多苦，不是吗？}
 #{262}{hrold306}{Horrible.  The world just went insane.  Long ago, but I'll never forget it.  Never.}
 {262}{hrold306}{真可怕。这个世界都疯了。很久了，但是我不会忘记的。绝不会。}
-#{263}{hrold307}{[Cough] Trouble.  Nothing but trouble.}
+#{263}{hrold307}{【Cough】 Trouble.  Nothing but trouble.}
 {263}{hrold307}{【咳嗽】很糟糕。真的很糟糕。}
 #{264}{hrold400}{Well, like I said...}
 {264}{hrold400}{是的，就像我说的那样……}
@@ -383,10 +383,10 @@
 #
 
 #{266}{HROLD0}{Spare change, old friend, old pal? Can you help a poor mutant
-# down on his luck? [Cough]}
+# down on his luck? 【Cough】}
 {266}{HROLD0}{给点钱吧，老朋友，老熟人？你能给我这个僵尸带来好运吗？【咳嗽】}
 #{267}{HROLD0}{Spare change, old friend, old pal? Can you help a poor mutant
-# down on his luck? [Cough]}
+# down on his luck? 【Cough】}
 {267}{HROLD0}{给点钱吧，老朋友，老熟人？你能给我这个僵尸带来好运吗？【咳嗽】}
 #{268}{HROLD2}{Oh, kind of ya, friend. Very kind. You know, if I could
 # clear the gunk out of there, you, just might find a tear in Old Harold's eye.}
@@ -427,7 +427,7 @@
 {1101}{hrold301}{谁？他是个医生吗？我需要他的帮助，你知道的。}
 #{1102}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
 {1102}{hrold302}{变种人。不要担心他们对你说的话。}
-#{1103}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. [cough] He's alright, I guess.}
+#{1103}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. 【cough】 He's alright, I guess.}
 {1103}{hrold303}{哦，他啊。他领导着盗贼团。好像叫罗宾·胡德。【咳嗽】他是对的，我猜。}
 #{1104}{hrold304}{I've seen religions come and religions go, and I hope this one goes.  Soon.}
 {1104}{hrold304}{我看到过一个宗教代替了另一个宗教，我希望这个被取代。立即。}
@@ -435,7 +435,7 @@
 {1105}{hrold305}{是的，我来自避难所。有很多人，没有足够的食物和水。但你并不了解那有多苦，不是吗？}
 #{1106}{hrold306}{Horrible.  The world just went insane.  Long ago, but I'll never forget it.  Never.}
 {1106}{hrold306}{真可怕。这个世界都疯了。很久了，但是我不会忘记的。绝不会。}
-#{1107}{hrold307}{[Cough] Trouble.  Nothing but trouble.}
+#{1107}{hrold307}{【Cough】 Trouble.  Nothing but trouble.}
 {1107}{hrold307}{【咳嗽】很糟糕。真的很糟糕。}
 #{1108}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
 {1108}{hrold300}{聪明的家伙。是个医生和哲学家。很久以前他在我变异的地方领导着一只探险队。}

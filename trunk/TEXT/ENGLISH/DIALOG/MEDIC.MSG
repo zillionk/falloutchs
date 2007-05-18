@@ -114,7 +114,7 @@
 {156}{}{好的，你应该感觉好多了。出门在外多加小心。}
 #{157}{}{I heard what you did， saving the Vault。 Thank you。}
 {157}{}{我听说了你所做的一切，拯救了避难所。谢谢你。}
-#{158}{}{[More]}
+#{158}{}{【More】}
 {158}{}{【更多】}
 #{159}{}{The medic refuses to speak with you。}
 {159}{}{这医生拒绝和你说话。}

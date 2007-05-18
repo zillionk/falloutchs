@@ -17,7 +17,7 @@
 {116}{}{你没听说吗？坦蒂失踪了。我觉得她是被绑架了。亚拉德什忧心如焚。真是一件可怕的事……}
 {117}{}{听说你救了坦蒂。你做得很好。你的命很硬。我感觉你的未来很有希望。}
 {118}{}{我对坦蒂的事非常遗憾。她是一个那么有希望的女性。她应该活得更好的。}
-{119}{}{你好。你一定就是那个所有人都在谈论的外地人。[阿加莎叹息] 我有什么能帮你吗？}
+{119}{}{你好。你一定就是那个所有人都在谈论的外地人。【阿加莎叹息】 我有什么能帮你吗？}
 {120}{}{嗯.}
 {121}{}{你是谁？}
 {122}{}{你看起来很疲倦。这里出了什么问题吗？}
@@ -29,8 +29,8 @@
 {128}{}{好吧，随便。}
 {129}{}{能不遗忘真好。}
 {130}{}{我很抱歉，孩子。我现在很疲倦。我需要休息。请过会儿再来。}
-{131}{}{千真万确。[阿加莎盯了你一会儿。] 对于年轻人记住历史是好事，但是要在历史的洪流里扮演一个角色却是非常困难的。有些时候，我们所走的路在很久以前就已经就被某些事情所决定了。愿达玛与你同在。我必须休息一小会儿了。过会儿再来，当我有气力时，我们再谈。}
-{132}{}{谢谢你提到这点。我已经很老了，这就是为什么。我不能在晚上入睡。当我合上我的眼睛……[阿加莎停了一下.]但是我就是不能睡着。请你理解，我已经是一把老骨头的人了……}
+{131}{}{千真万确。【阿加莎盯了你一会儿。】 对于年轻人记住历史是好事，但是要在历史的洪流里扮演一个角色却是非常困难的。有些时候，我们所走的路在很久以前就已经就被某些事情所决定了。愿达玛与你同在。我必须休息一小会儿了。过会儿再来，当我有气力时，我们再谈。}
+{132}{}{谢谢你提到这点。我已经很老了，这就是为什么。我不能在晚上入睡。当我合上我的眼睛……【阿加莎停了一下.】但是我就是不能睡着。请你理解，我已经是一把老骨头的人了……}
 {133}{}{我很抱歉，我非常疲倦。请你过会儿再来好吗？}
 {134}{}{再见。}
 {135}{}{好吧。}
@@ -68,7 +68,7 @@
 #{116}{}{You have not heard? 坦蒂 is missing. I feel she was kidnapped. 亚拉德什 is most distraught. This is a terrible thing . . .}
 #{117}{}{I hear that you have saved 坦蒂. That was the right thing to do. Your karma is strong. I have high hopes for your future.}
 #{118}{}{I'm very sorry to hear about 坦蒂. She was such a bright young woman. She would have done good with her life.}
-#{119}{}{Hello. You must be the stranger everyone is talking about. [阿加莎 sighs.] How can I help you?}
+#{119}{}{Hello. You must be the stranger everyone is talking about. 【阿加莎 sighs.】 How can I help you?}
 # {120}{}{Hngh.}
 # {121}{}{Who are you?}
 # {122}{}{You look very tired. Is there anything wrong?}
@@ -82,13 +82,13 @@
 # {129}{}{It is good not to forget.}
 # {130}{}{I'm sorry, child, I am tired right now. I need my rest. Please come
  # back later.}
-# {131}{}{How very true. [阿加莎 stares at you for a moment.] It is good for
+# {131}{}{How very true. 【阿加莎 stares at you for a moment.】 It is good for
  # the young to remember, but it is very hard to act within the flow of history.
  # Sometimes, the very course we take is determined by events long ago. May 达玛
  # be with you. I must rest for a little while. Come back again, when I am stronger,
  # and we will speak again.}
 # {132}{}{Thank you for asking. I'm just old, that's all. I cannot sleep at night.
- # I close my eyes . . . [阿加莎 pauses.] But I get no rest. Please, it is
+ # I close my eyes . . . 【阿加莎 pauses.】 But I get no rest. Please, it is
  # just my old tired bones . . .}
 # {133}{}{I'm sorry, I'm very tired. Could you please come back later?}
 # {134}{}{Baba.}

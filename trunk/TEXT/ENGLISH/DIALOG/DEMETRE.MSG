@@ -238,8 +238,8 @@
 {218}{}{很抱歉，我只是在开玩笑！}
 #{219}{}{I'll do more than insult you!}
 {219}{}{我不光是要侮辱你们！}
-#{220}{}{Too late for apologies! [His face gets very red . . . then in a calm, controlled voice.] Get, before I make good on my threat!}
- {220}{}{说抱歉太迟了！[他的脸变得通红...然后平静下来，控制着语气。]走吧，在我发火以前！}
+#{220}{}{Too late for apologies! 【His face gets very red . . . then in a calm, controlled voice.】 Get, before I make good on my threat!}
+ {220}{}{说抱歉太迟了！【他的脸变得通红...然后平静下来，控制着语气。】走吧，在我发火以前！}
 #{221}{}{Is that your poor attempt at a threat?}
 {221}{}{这就是你那点可怜的怒火？}
 #{222}{}{It's not a threat! You're about to die!}
@@ -272,8 +272,8 @@
 {235}{}{哩罗？}
 #{236}{}{Roerow?}
 {236}{}{喔罗罗？}
-#{237}{}{Damn! You're missing out on some good action! I'm sure there are lots of people, creatures, and things waiting to attack the caravans! Nothing beats a good fire fight! Here - take this, it'll give you something to play with until the next caravan is ready to go. [He hands you a frag grenade.]}
-{237}{}{该死！你错过了行动的最佳时机！我肯定那儿有很多人、动物或什么东西等着突袭我们的商队！没什么能击败强力的炮火，给你，用这个，在下一队商队出发之前它能给你些消遣！[他给你一个碎片手榴弹]}
+#{237}{}{Damn! You're missing out on some good action! I'm sure there are lots of people, creatures, and things waiting to attack the caravans! Nothing beats a good fire fight! Here - take this, it'll give you something to play with until the next caravan is ready to go. 【He hands you a frag grenade.】}
+{237}{}{该死！你错过了行动的最佳时机！我肯定那儿有很多人、动物或什么东西等着突袭我们的商队！没什么能击败强力的炮火，给你，用这个，在下一队商队出发之前它能给你些消遣！【他给你一个碎片手榴弹】}
 #{238}{}{Damn! Do our caravans ever leave?}
 {238}{}{该死！我们的商队还没离开？}
 #{239}{}{What about your boat?}

@@ -16,7 +16,7 @@
 #{115}{}{Shut up! They'll think you're a crazy asshole! You gotta get yourself together!}
 #{116}{}{Lasher! You gotta kill Lasher! Save the kid! Poor little Flower Child. Poor me.}
 #{117}{}{Shut up you son of a bitch! Pull yourself together!}
-#{118}{}{[Singing off-key] Once, I was lost, and now I see! No more baptism now for me!}
+#{118}{}{¡¾Singing off-key¡¿ Once, I was lost, and now I see! No more baptism now for me!}
 #{119}{}{You know, I once overheard Morpheus shaking his fist at Nightkin. Or did I smell it?}
 #{120}{}{You're fools to cry for me. Never cry over spilled milk . . . or damaged goods.}
 #{121}{}{Does anyone know how to fix a toaster?}
@@ -127,7 +127,7 @@
 #{219}{}{That is life, man! It's like being drunk; look at it one way, and it's a piss poor #embarrassment! Look at it a different way and it feels great! But it's all the same thing! It's all #life!}
 #{220}{}{Ah ha! Ha! Ha! Ha! Ha! You're right! We're all stupid! Don't you get it? Ha! Ha! Ha!}
 #{221}{}{I'm a little bitter right now. Like Orange Pekoe left out in the rain. Ha! I like that #saying! I think I'll keep repeating it! I'm a little bitter right now. Like Orange Pekoe left out in #the rain . . .}
-#{222}{}{[MORE]}
+#{222}{}{¡¾MORE¡¿}
 
 
 
