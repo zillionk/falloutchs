@@ -21,13 +21,13 @@
 #{111}{}{What are you doing here?}
 {111}{}{你在这做什么呢？}
 #{112}{}{Hhrrrnnn.}
-{112}{}{Hhrrrnnn。}
+{112}{}{呵呵呵。}
 #{113}{}{Nothing. Honest.}
 {113}{}{没什么。老兄。}
 #{114}{}{I'm just looking around.}
 {114}{}{我随便逛逛。}
 #{115}{}{This! *smack*}
-{115}{}{这个！＊啧啧啧＊}
+{115}{}{这个！【啧啧啧】}
 #{116}{}{A moron. I think that you'd best get out of here. Otherwise,
 # you may become target practice.}
 {116}{}{白痴。我想你最好快离开这儿。不然，你会变成练习的靶子。}
@@ -45,14 +45,14 @@
 #{122}{}{I'm not up to anything.}
 {122}{}{我什么也不在乎。}
 #{123}{}{I'm up to THIS! *smack*}
-{123}{}{我在乎这个！＊啧啧啧＊}
+{123}{}{我在乎这个！【啧啧啧】}
 #{124}{}{Everyone knows there are no such things as Martians.
 # All real aliens are from Venus. Now, you die!}
 {124}{}{谁都知道没有火星人这玩意。所有真正的外星人是从金星来的。现在，你去死吧！}
 #{125}{}{Sure, and I'm the Queen of Mexico.}
 {125}{}{没错，我就是墨西哥女王。}
 #{126}{}{Honest. I want to stop the wars so I can help Adytum.}
-{126}{}{老兄。我要阻止争斗，所以会帮内殿区。}
+{126}{}{老兄。我要阻止争斗，所以会帮内城区。}
 #{127}{}{Your Majesty, I truly seek to end the wars.}
 {127}{}{兄台，我真的期待结束争斗。}
 #{128}{}{If your intelligence were greater, I would try to
@@ -81,7 +81,7 @@
 #{136}{}{I'd like to live here.}
 {136}{}{我喜欢在这里生活。}
 #{137}{}{I'm really a Ripper in disguise.}
-{137}{}{我真是个伪装的莱普士帮人。}
+{137}{}{我真是个伪装的电锯党人。}
 #{138}{}{I want to bring peace to the gangs.}
 {138}{}{我想给帮派们带来和平。}
 #{139}{}{Leaving.}

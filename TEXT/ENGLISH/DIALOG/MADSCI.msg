@@ -70,7 +70,7 @@
 {120}{}{主教真理显示, 那能造成精神能力的增强。【摇头】但是可怜的灵魂变得极端疯狂，只能将他们隔离，并且无法保证他们不伤害自己或其它人。}
 
 #{121}{}{Oh, how thoughtful of you...}
-{121}{}{哦，你真是深思熟虑啊．．．}
+{121}{}{哦，你真是深思熟虑啊……}
 
 #{122}{}{Where are they being kept？}
 {122}{}{他们被关在哪里？}
@@ -117,13 +117,13 @@
 {135}{}{哦，对不起。我现在必须走了。}
 
 #{136}{}{I'm a new..uh...guy.... I've been sent to find out how you are doing.}
-{136}{}{我是一个新．．．呃．．．人．．．我被派来看看你做得怎么样了。}
+{136}{}{我是一个新……呃……人……我被派来看看你做得怎么样了。}
 
 #{137}{}{I already told you, I've been sent by the Master to check up on you.}
 {137}{}{我已经告诉了您，是主教派我来检查你的。}
 
 #{138}{}{I've come to remove your spleen... without anesthetic!}
-{138}{}{我必须去除你的脾脏．．．没有麻醉剂！}
+{138}{}{我必须去除你的脾脏……没有麻醉剂！}
 
 #{139}{}{Alright, then. So how is it going?}
 {139}{}{那么好吧，事情进展如何？}
@@ -154,7 +154,7 @@
 
 #{147}{}{Oh, you know, when we got that last batch of pure-strain humans in...
 # I think there is still one in the holding pens. Why do you ask?}
-{147}{}{噢，您知道，当时我们让最近一批纯种人类进入．．．我认为在拘押栏中还剩一个。你为什么要问这个？}
+{147}{}{噢，您知道，当时我们让最近一批纯种人类进入……我认为在拘押栏中还剩一个。你为什么要问这个？}
 
 #{148}{}{No reason. How are the experiments going?}
 {148}{}{没有理由。实验是如何进行的？}
@@ -168,7 +168,7 @@
 {150}{}{【摇头】呀，可怜的灵魂变得极端疯狂，只能将他们隔离，并且无法保证他们不伤害自己或其它人。}
 
 #{151}{}{Oh, how thoughtful of you...}
-{151}{}{噢，你想的真周到啊．．．}
+{151}{}{噢，你想的真周到啊……}
 
 #{152}{}{You heartless bastard! I think I'll nullify your brain and sequester
 # it from the rest of your body! Die, you bastard!}
@@ -200,7 +200,7 @@
 {302}{}{哼！什么？【擦眼睛】文森特，把这个异教徒从我们的房间弄走！}
 
 #{303}{}{Huh? 【snort】 ...zzzzzzzzz}
-{303}{}{哼？【喷鼻息】．．．ｚｚｚｚｚｚ}
+{303}{}{哼？【喷鼻息】……ｚｚｚｚｚｚ}
 
 #{400}{}{You see Vincent. He is guarding the sleeping mads.}
 {400}{}{你看见文森特．他正在守卫疯狂者。}
