@@ -1,5 +1,5 @@
 #{100}{}{You see the Lieutenant of the Master's army.}
-{100}{}{你看见主宰军队里的中尉。}
+{100}{}{你看见主教军队里的中尉。}
 
 #{101}{LIEUT1}{Now what do we have here? I've been told you wish to divulge information of the utmost importance. I do hope so.}
 {101}{LIEUT1}{现在我们在这里谈点什么呢？我听说你愿意透露非常重要的情报，希望如此。}
@@ -31,7 +31,7 @@
 {109}{}{好的，我告诉你。它在山脉的另一边，往北很远的地方。你会在一块奇怪的，半圆形岩石的附近找到它……现在，给我什么回报？}
 
 #{110}{LIEUT1B}{I don't believe I offered. But I will give you my thanks for telling me where your Vault is. I'm sure the Master will be . . . ever so grateful.}
-{110}{LIEUT1B}{我真不敢相信我的出价。不过，我会对你说出避难所在哪里表示我的谢意。我确信主宰会……永远这样感谢的。}
+{110}{LIEUT1B}{我真不敢相信我的出价。不过，我会对你说出避难所在哪里表示我的谢意。我确信主教会……永远这样感谢的。}
 
 #{111}{LIEUT2}{How nice for us both. Now, if you please, the location of your Vault.}
 {111}{LIEUT2}{这样对我们双方多好啊。现在，如果你满意的话，说出你们避难所的位置吧。}
@@ -88,10 +88,10 @@
 {128}{}{现在就让我离开怎么样？}
 
 #{129}{LIEUT7}{My dear human, this is the great procreator! Here we'll make others of the master race and insure the Unity. It's all quite glorious, I assure you.}
-{129}{LIEUT7}{我亲爱的人类，这是伟大的创造者！在这里我们生产主宰种族的其他成员，确保我们的统一。我敢保证，它是无上光荣的。}
+{129}{LIEUT7}{我亲爱的人类，这是伟大的创造者！在这里我们生产“主宰之族”的其他成员，确保我们的“同一”。我敢保证，它是无上光荣的。}
 
 #{130}{}{Tell me about the Unity.}
-{130}{}{给我说说关于统一的事情。}
+{130}{}{给我说说关于“同一”的事情。}
 
 #{131}{}{Sounds like it. Why do you need all this to, uh, procreate?}
 {131}{}{听起来象那么回事。你们为什么需要所有这些东西来，嗯，生产？}
@@ -100,7 +100,7 @@
 {132}{}{那么，谁是主管？}
 
 #{133}{LIEUT8}{Presently, there is a slight . . . problem in the reproductive process. It's being attended to. For now, we must use the Vats to turn humans into Super Mutants. You'll experience that glory yourself momentarily.}
-{133}{LIEUT8}{目前，生产过程有一点小小的……麻烦。它在解决中。眼下，我们必须利用病毒槽把人类转变成超级变种人。那份光荣你即刻就会亲身体验。}
+{133}{LIEUT8}{目前，生产过程有一点小小的……麻烦。它在解决中。眼下，我们必须利用病毒槽把人类转变成超级变种人。那份光荣你即刻就会亲身体验到。}
 
 #{134}{}{Oh, goody. A few more questions before I . . . glow?}
 {134}{}{哦，好呀。在我体验光荣之前……再问你几个问题，好吗？}
@@ -112,7 +112,7 @@
 {136}{LIEUT9}{当然。我们有这个世界上的所有时间……相信我。}
 
 #{137}{LIEUT10}{The Unity is our goal. It is quite simple, really. Certainly, even you have noticed the steady downhill slide of civilization?}
-{137}{LIEUT10}{统一是我们的目标。它是十分简单的，真的。当然，甚至你也注意到了人类文明的逐步衰落吧？}
+{137}{LIEUT10}{“同一”是我们的目标。它是十分简单的，真的。当然，甚至你也注意到了人类文明的逐步衰落吧？}
 
 #{138}{}{Well ,yeah, but . . .}
 {138}{}{嗯，是的，不过……}
@@ -175,7 +175,7 @@
 {157}{}{但它是错误的！}
 
 #{158}{LIEUT18}{Oh, how disappointing. I'd so hoped you would see the light before . . . Well, when you are one of us, I'm certain you'll understand. Then you'll embrace the Unity.}
-{158}{LIEUT18}{哦，真令人失望。我多么希望你在……之前见到光明的前景，唔，当你成为我们的一员，我肯定你会理解的。那你就会拥护统一。}
+{158}{LIEUT18}{哦，真令人失望。我多么希望你在……之前见到光明的前景，唔，当你成为我们的一员，我肯定你会理解的。那你就会拥护“同一”。}
 
 #{159}{}{Never! It's evil. Evil, I tell you!}
 {159}{}{决不！它是邪恶的。邪恶的，我告诉你！}
@@ -184,7 +184,7 @@
 {160}{}{或许吧。我能多问几个问题吗？}
 
 #{161}{LIEUT19}{No war and no sickness. All Super Mutants are bound by the Unity. We are the hope for the world.}
-{161}{LIEUT19}{没有战争，没有疾病。所有的超级变种人因为统一结合在一起。我们是世界的希望。}
+{161}{LIEUT19}{没有战争，没有疾病。所有的超级变种人因为“同一”结合在一起。我们是世界的希望。}
 
 #{162}{}{Sounds delusional to me.}
 {162}{}{我听起来怎么稀里糊涂的。}
@@ -193,28 +193,28 @@
 {163}{}{你们怎么就成了世界的希望呢？}
 
 #{164}{LIEUT20}{We all work for the Master to uphold the glory of the Unity. He was the first, you see.}
-{164}{LIEUT20}{我们都替主宰效力，维护统一的荣耀。你知道的，他是先行者。}
+{164}{LIEUT20}{我们都替主教效力，维护“同一”的荣耀。你知道的，他是先行者。}
 
 #{165}{}{How did you come to work for him?}
 {165}{}{你怎么会来替他效力？}
 
 #{166}{}{What's the Unity?}
-{166}{}{统一是怎么回事？}
+{166}{}{“同一”是怎么回事？}
 
 #{167}{LIEUT21}{Fate. Luck of the draw. I was the strongest of my batch to be dipped in the virus, and I have always supported the ideals of the Unity and the Master, for he is right. And for my devotion, I have been rewarded.}
-{167}{LIEUT21}{命运。幸运之神的垂青。我是我那一批浸泡在病毒中最强壮的一个，我自始至终拥护统一的理想和我们的主宰，因为他是正确的。由于我的付出，我获得了回报。}
+{167}{LIEUT21}{命运。幸运之神的垂青。我是我那一批浸泡在病毒中最强壮的一个，我自始至终拥护“同一”的理想和我们的主教，因为他是正确的。由于我的付出，我获得了回报。}
 
 #{168}{}{What virus?}
 {168}{}{什么病毒？}
 
 #{169}{}{So what's this Master like?}
-{169}{}{那这个主宰象什么样呢？}
+{169}{}{那这个主教象什么样呢？}
 
 #{170}{LIEUT22}{Before the war, the humans made a virus called ＦＥＶ to create the perfect man. They were successful, as you can plainly see. The Master has been the first to truly utilize the ＦＥＶ to its full potential.}
-{170}{LIEUT22}{战前，人们合成了名叫ＦＥＶ的病毒来创造完美的人类。他们成功了，显然正如你见到的一样。主宰是真正发挥ＦＥＶ全部潜力的第一个。}
+{170}{LIEUT22}{战前，人们合成了名叫ＦＥＶ的病毒来创造完美的人类。他们成功了，显然正如你见到的一样。主教是真正发挥ＦＥＶ全部潜力的第一个。}
 
 #{171}{}{So where is this Master?}
-{171}{}{那这个主宰在哪里呢？}
+{171}{}{那这个主教在哪里呢？}
 
 #{172}{}{How does it work?}
 {172}{}{它是如何起作用的？}
@@ -229,10 +229,10 @@
 {175}{}{你认为你们是神吗？}
 
 #{176}{LIEUT24}{Is honesty conceit? We're the next step in evolution. Through our Unity, the world will survive. Where is the conceit in that?}
-{176}{LIEUT24}{是诚实的狂妄吧？我们是进化的下一个阶梯。通过我们的统一，世界幸存。就这点而言，那有什么狂妄呢？}
+{176}{LIEUT24}{是诚实的狂妄吧？我们是进化的下一个阶梯。通过我们的“同一”，世界幸存。就这点而言，那有什么狂妄呢？}
 
 #{177}{}{How about inside that grotesque head of yours?}
-{177}{}{你那颗怪脑袋里面到底装了些啥呢？}
+{177}{}{你那颗怪脑袋里面到底装了些什么？}
 
 #{178}{}{Well, whatever you say. Can I ask you a few more questions?}
 {178}{}{唔，你爱怎么说都行。我能再问几个问题吗？}
@@ -250,7 +250,7 @@
 {182}{LIEUT26}{哦，我想那远远超出了你的理解能力。但是别担心。不久，你睁开眼睛看到的将是全新的生活。}
 
 #{183}{}{What do you mean!?}
-{183}{}{你什么意思？！}
+{183}{}{你什么意思！？}
 
 #{184}{}{Before that happens, there's a couple of other things that I'm curious
  about.}
@@ -299,7 +299,7 @@
 {198}{}{那你怎么会知道这些呢？}
 
 #{199}{LIEUT32}{We have done extensive experiments on humans to reach this conclusion. My master has been searching for unopened Vaults to prove his theories. And now you've come along. How thoughtful of you.}
-{199}{LIEUT32}{我们在人类的身上做了大量试验得出了这个结论。我的主宰在寻找从未开放过的避难所来验证他的理论。而现在你出现了。你多么体贴人啊。}
+{199}{LIEUT32}{我们在人类的身上做了大量试验得出了这个结论。我的主教在寻找从未开放过的避难所来验证他的理论。而现在你出现了。你多么体贴人啊。}
 
 #{200}{}{You won't find it.}
 {200}{}{你们不会找到它。}
@@ -429,7 +429,7 @@
 {241}{}{你休想从我嘴里挖出点些什么！}
 
 #{242}{LIEUT43}{Why, when you become one of us, of course! I can't have a perfectly good prime normal and not make it one of the Chosen Ones, now can I? After you tell me where your Vault is.}
-{242}{LIEUT43}{为什么，在你成为我们中的一员的时候，当然可以！我不能拥有一个极其完美的原始正常人，不能让它成为获选者之一，现在我能吗？在你告诉你的避难所在哪里之后。}
+{242}{LIEUT43}{为什么，在你成为我们中的一员的时候，当然可以！我不能拥有一个极其完美的原始正常人，不能让它成为获选者之一，现在我能吗？在你告诉我你的避难所在哪里之后。}
 
 #{243}{}{Tell you? You're almost funny.}
 {243}{}{告诉你？你太可笑了。}
@@ -480,13 +480,13 @@
 {258}{LIEUT55}{你是个令人讨厌的渺小人类，不是吗？我再也不会多费口舌。}
 
 #{259}{LIEUT56}{The Unity is the goal of all Super Mutants. Through the ＦＥＶ virus, we will bring all of humanity together in peace.}
-{259}{LIEUT56}{统一是所有超级变种人的目标。借助ＦＥＶ病毒，我们会实现所有人类的大团结。}
+{259}{LIEUT56}{“同一”是所有超级变种人的目标。借助ＦＥＶ病毒，我们会实现所有人类的大团结。}
 
 #{260}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago. It is what makes us the Chosen Ones. But you will soon learn that, I assure you.}
-{260}{LIEUT57}{ＦＥＶ病毒数年前由主宰发明出来。是它让我们成为获选者。但我敢保证，你很快就会认识到那点。}
+{260}{LIEUT57}{ＦＥＶ病毒数年前由主教发明出来。是它让我们成为获选者。但我敢保证，你很快就会认识到那点。}
 
 #{261}{LIEUT58}{The Master is father to us all.}
-{261}{LIEUT58}{主宰是我们大家的创造者。}
+{261}{LIEUT58}{主教是我们大家的创造者。}
 
 #{262}{LIEUT59}{Nothing but a device to further our plans. No matter, all humans will be Chosen . . . or dead.}
 {262}{LIEUT59}{只不过是促进我们计划的一个手段而已。无论如何，所有的人类都会获选……或者死亡。}
@@ -501,7 +501,7 @@
 {265}{LIEUT62}{它们在战前建造。它们也是我们原始正常人的主要来源。}
 
 #{266}{LIEUT63}{Morpheus. It's quite amusing. He thinks he's so much more than just a slug the Master recruited to head his Children of the Cathedral nonsense. Ah, well. He, too, will be dipped in the Vats and he'll probably die a horrible death . . . I hope.}
-{266}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主宰收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
+{266}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
 
 #{267}{LIEUT64}{That's not important right now.}
 {267}{LIEUT64}{马上那就不重要了。}
@@ -527,7 +527,7 @@
 {980}{LIEUT64}{马上那就不重要了。}
 
 #{981}{LIEUT65}{That question is irrelevant to the Unity.}
-{981}{LIEUT65}{那个问题与统一无关。}
+{981}{LIEUT65}{那个问题与“同一”无关。}
 
 #{982}{LIEUT66}{I won't even dignify that with an answer.}
 {982}{LIEUT66}{我不屑回答。}
@@ -548,13 +548,13 @@
 {1008}{}{Virus}
 
 #{1100}{LIEUT56}{The Unity is the goal of all Super Mutants.  Through the ＦＥＶ virus, we will bring all of humanity together in peace.}
-{1100}{LIEUT56}{统一是所有超级变种人的目标。通过ＦＥＶ病毒，我们会实现所有人类的大团结。}
+{1100}{LIEUT56}{“同一”是所有超级变种人的目标。通过ＦＥＶ病毒，我们会实现所有人类的大团结。}
 
 #{1101}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
-{1101}{LIEUT57}{ＦＥＶ病毒是主宰数年前发明的。是它让我们成为获选者。但我敢保证，你很快就会认识到那点的。}
+{1101}{LIEUT57}{ＦＥＶ病毒是主教数年前发明的。是它让我们成为获选者。但我敢保证，你很快就会认识到那点的。}
 
 #{1102}{LIEUT58}{The Master is father to us all.}
-{1102}{LIEUT58}{主宰是我们所有人的创造者。}
+{1102}{LIEUT58}{主教是我们所有人的创造者。}
 
 #{1103}{LIEUT59}{Nothing but a device to further our plans.  No matter, all humans will be Chosen...or dead.}
 {1103}{LIEUT59}{只是促进我们计划的一个手段而已。无论如何，所有的人类都将被获选……或者死亡。}
@@ -569,12 +569,12 @@
 {1106}{LIEUT62}{它们在战前建造。它们也是我们原始正常人的主要来源。}
 
 #{1107}{LIEUT63}{Morpheus.  It's quite amusing.  He thinks he's so much more than just a slug the Master recruited to head his Children of the Cathedral nonsense.  Ah, well.  He, too, will be dipped in the Vats and he'll probably die a horrible death...I hope.}
-{1107}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主宰收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
+{1107}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
 
 #{1108}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
-{1108}{LIEUT57}{ＦＥＶ病毒是主宰数年前发明的。是它让我们成为获选者。不过，我敢保证，你很快就会认识到那一点。}
+{1108}{LIEUT57}{ＦＥＶ病毒是主教数年前发明的。是它让我们成为获选者。不过，我敢保证，你很快就会认识到那一点。}
 #{1109}{LIEUT65}{That question is irrelevant to the Unity.}
-{1109}{LIEUT65}{那个问题与统一无关。}
+{1109}{LIEUT65}{那个问题与“同一”无关。}
 
 #{1110}{LIEUT66}{I won't even dignify that with an answer.}
 {1110}{LIEUT66}{我不屑回答。}
