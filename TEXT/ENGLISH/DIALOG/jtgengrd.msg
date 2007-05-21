@@ -53,7 +53,7 @@
 {116}{}{哦，对不起。}
 
 #{117}{}{No way! I'm not putting down my shooters for nobody!}
-{117}{}{没门！我不会让任何人缴我的枪枪！}
+{117}{}{没门！我不会让任何人缴我的枪！}
 
 #{118}{}{You'd better behave, since it's the law, and I enforce the law.
 # Put your weapon away, don't draw it unless in self-defense, and
@@ -97,7 +97,7 @@
 
 #{129}{}{The guard stares at you for a moment. You see a look of recognition
 # on his face, and then he pulls his weapon.}
-{129}{}{（守卫瞪了你一阵子，似乎认出了你，掏出了武器。）}
+{129}{}{【守卫瞪了你一阵子，似乎认出了你，掏出了武器。】}
 
 #{130}{}{Well, uh, ok. Whatever. Just don't do anything out of line.}
 {130}{}{呃，好，不管怎样，别做出格的事情。}
@@ -128,4 +128,4 @@
 {138}{}{你有麻烦了……}
 
 #{139}{}{You Skulz are under arrest!}
-{139}{}{你们斯库兹帮都被逮捕了！}
+{139}{}{你们骷髅党都被逮捕了！}

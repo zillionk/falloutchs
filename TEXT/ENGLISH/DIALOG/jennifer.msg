@@ -2,7 +2,7 @@
 {100}{}{你看见詹妮佛。}
 
 #{101}{}{You see a Paladin.}
-{101}{}{你看见一名圣骑士。}
+{101}{}{你看见一名游侠。}
 
 #{102}{}{Excuse me, Brother. You should put away your weapon whenever
 # you are in the Brotherhood. We are a friendly order, but as
@@ -30,13 +30,13 @@
 {107}{}{噢噢哦噢噢哦！}
 
 #{108}{}{Could you tell me where I might find our High Elder?}
-{108}{}{你知道我在哪里可以找到资深长老么？}
+{108}{}{你知道我在哪里可以找到最高元老么？}
 
 #{109}{}{Who's in charge of this hole?}
 {109}{}{谁是这个破洞的管事？}
 
 #{110}{}{Where's this High Elder guy?}
-{110}{}{资深长老那厮在哪里？}
+{110}{}{最高元老那厮在哪里？}
 
 #{111}{}{Gruk!}
 {111}{}{咕噜！}
@@ -44,7 +44,7 @@
 #{112}{}{Maxson, the High Elder, can be found on the Fourth Floor.
 # If you take the other elevator down to level four, he should
 # be either in the Council Room or the Elders's rooms.}
-{112}{}{资深长老马克松在第四层。你可以坐另外那部电梯下去。他应该在会议室或者长老室。}
+{112}{}{最高元老马克松在第四层。你可以坐另外那部电梯下去。他应该在会议室或者元老室。}
 
 #{113}{}{You can ask one of the guards on that level; they should know
 # where he is at the moment.}
@@ -58,11 +58,11 @@
 
 #{116}{}{You should talk to Talus. He might be able to help you, or
 # at least tell you who to talk to.}
-{116}{}{你应该和塔卢斯说说。他也许能帮你，或者至少他会告诉你去和谁说。}
+{116}{}{你应该和塔鲁斯说说。他也许能帮你，或者至少他会告诉你去和谁说。}
 
 #{117}{}{During the day, Talus is normally supervising in the training hall.
 # Do you know where that is?}
-{117}{}{白天的时候，塔卢斯一般会在训练室督导，你知道训练室怎么走吧？}
+{117}{}{白天的时候，塔鲁斯一般会在训练室督导，你知道训练室怎么走吧？}
 
 #{118}{}{Yes, I do. Thank you.}
 {118}{}{知道，多谢了。}
@@ -112,7 +112,7 @@
 #{130}{}{Of course there are. Two of our five Elders are women, our master
 # scribe is a woman, and we have many other women in all the
 # different ranks.}
-{130}{}{没错，五大长老里有两人是女的，我们的总研究员芙蕾也是女的，各个职位上都有我们女性。}
+{130}{}{没错，五大元老里有两人是女的，我们的首席研究员弗蕾也是女的，各个职位上都有我们女性。}
 
 #{131}{}{The women of the Brotherhood are also called Brothers. We don't call
 # the women Sisters. This is the Brotherhood of Steel, after all,
@@ -121,7 +121,7 @@
 
 #{132}{}{Don't you find it peculiar that it is called the Brotherhood,
 # implying that its members consist solely of men?}
-{132}{}{你不觉得叫钢铁兄弟会很特别么，搞的好像这里只有男人似的。}
+{132}{}{你不觉得叫钢铁兄弟会很特别吗，搞的好像这里只有男人似的。}
 
 #{133}{}{But why is it called the Brotherhood, then?}
 {133}{}{那么为什么要叫做兄弟会呢？}
@@ -154,7 +154,7 @@
 {141}{}{那么我还能帮你什么？}
 
 #{142}{}{Yes, where can I find the High Elder?}
-{142}{}{我想找资深长老。}
+{142}{}{我想找最高元老。}
 
 #{143}{}{Where can I get better weapons?}
 {143}{}{我想要更好的武器。}
@@ -170,15 +170,15 @@
 #{146}{}{I think I'll have a talk with Vree. She might be able to give
 # some insight as to why our ancestors decided to call us the
 # Brotherhood of Steel.}
-{146}{}{我应该和芙蕾聊聊去，她应该知道为什么前辈们要起这样一个名字。}
+{146}{}{我应该和弗蕾聊聊去，她应该知道为什么前辈们要起这样一个名字。}
 
 #{147}{}{Who's Vree? One of the Elders?}
-{147}{}{谁是芙蕾？她是长老？}
+{147}{}{谁是弗蕾？她是元老？}
 
 #{148}{}{Vree's the Master Scribe. She is the one you should talk to
 # if you have any technical questions, but don't disturb her
 # during her meditations at night.}
-{148}{}{她是我们的总研究员，如果你有技术问题，就应该去问她，但是不要在她冥想的时候去打搅她。}
+{148}{}{她是我们的首席研究员，如果你有技术问题，就应该去问她，但是不要在她冥想的时候去打搅她。}
 
 #{149}{}{She almost always stays in her room, which is also occupied
 # by the mainframe on the third floor.}
@@ -210,7 +210,7 @@
 {156}{}{你说的对，我走了。}
 
 #{157}{}{Maxson, the High Elder. He's on the fourth floor.}
-{157}{}{高级长老马克松，在第四层。}
+{157}{}{高级元老马克松，在第四层。}
 
 #{158}{}{}
 {158}{}{}
@@ -270,7 +270,7 @@
 
 #{174}{}{Well, I guess I should talk to this High Elder person.
 # Where is he at?}
-{174}{}{好，我就去见见这个高级长老。他在哪里？}
+{174}{}{好，我就去见见这个高级元老。他在哪里？}
 
 #{175}{}{I would like to get some better weapons. Who do I talk
 # to about that?}
@@ -294,7 +294,7 @@
 
 #{181}{}{Well, yes, you are a member of the Brotherhood, but the Elders
 # have put a hold on all training of new Initiates.}
-{181}{}{没错，你是新成员了。但长老对于新兵训练有名额控制。}
+{181}{}{没错，你是新成员了。但元老对于新兵训练有名额控制。}
 
 #{182}{}{Why?}
 {182}{}{为什么？}
@@ -307,7 +307,7 @@
 # want to concentrate their resources on the ones that are already
 # far enough along in their training to make a difference if we
 # do have a big battle on our hands.}
-{184}{}{听说外面有邪恶的大军。长老们想用有限的训练资源使得那些原来基础不错的兄弟的武艺能上个台阶，如果有恶仗要打就能派上用场了。}
+{184}{}{听说外面有邪恶的大军。元老们想用有限的训练资源使得那些原来基础不错的兄弟的武艺能上个台阶，如果有恶仗要打就能派上用场了。}
 
 #{185}{}{We strongly believe that training a few fighters extremely
 # well is better than giving mediocre training to a bunch of
@@ -324,7 +324,7 @@
 # on the line every minute I'm out there. Don't you think I should
 # be given training if I want or need it, or do you only 'say'
 # it is your primary objective to 'save' lives?}
-{187}{}{我要在兄弟会外面执行任务的，对吧？外面很危险啊，每时每刻我都是脑袋别在裤腰带上干活。你难道不觉得我有理由在我需要的时候接受训练么，这难道符合你们减少伤亡的初衷？！}
+{187}{}{我要在兄弟会外面执行任务的，对吧？外面很危险啊，每时每刻我都是脑袋别在裤腰带上干活。你难道不觉得我有理由在我需要的时候接受训练么，这难道符合你们减少伤亡的初衷？}
 
 #{188}{}{Thank you for the suggestion, I'll take a look.}
 {188}{}{多谢你的建议，我会去看看的。}
@@ -337,7 +337,7 @@
 
 #{191}{}{Well, I'm only repeating what I was told. If you talk to Thomas
 # or Talus they might be able to make an exception.}
-{191}{}{我也是转述我听到的话，你可以和托马斯或者塔卢斯聊聊，也许你可以被特许训练。}
+{191}{}{我也是转述我听到的话，你可以和托马斯或者塔鲁斯聊聊，也许你可以被特许训练。}
 
 #{192}{}{Okay, thanks.}
 {192}{}{好，多谢。}
@@ -400,7 +400,7 @@
 
 #{211}{}{Why hello again. I hope things are well with you.
 # I hope you've talked to Vree.}
-{211}{}{又见面了，一切都还好吧，和芙蕾说过话了？}
+{211}{}{又见面了，一切都还好吧，和弗蕾说过话了？}
 
 #{212}{}{Hello, Brother }
 {212}{}{你好，}

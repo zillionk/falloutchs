@@ -1,5 +1,5 @@
 #{100}{}{You see Julianna.}
-{100}{}{你看见朱利安娜。}
+{100}{}{你看见茱莉亚娜。}
 
 #{101}{}{You see a simple Adytowner.}
 {101}{}{你看见一个普通的内城区居民。}
@@ -14,13 +14,13 @@
 {104}{}{你好。}
 
 #{105}{}{I have a message from Romero.}
-{105}{}{罗梅罗让我给你带信。}
+{105}{}{罗米欧让我给你带信。}
 
 #{106}{}{May I ask your name, miss?}
 {106}{}{你叫什么名字，小姐？}
 
 #{107}{}{I'm Julianna.}
-{107}{}{我是朱利安娜。}
+{107}{}{我是茱莉亚娜。}
 
 #{108}{}{Do you have a job here?}
 {108}{}{你有工作么？}
@@ -30,7 +30,7 @@
 
 #{110}{}{I do what Caleb asks. But I am really only able to do a little farming.
 # I don't have the skills to help Smitty or Miles out.}
-{110}{}{卡勒布让我做什么我就做什么。但我也就懂一点农作。帮不上施密提和麦尔斯的忙。}
+{110}{}{凯来布让我做什么我就做什么。但我也就懂一点农作。帮不上施密蒂和麦尔斯的忙。}
 
 #{111}{}{Tell me a bit about those others you mentioned.}
 {111}{}{你说的这些人，能多讲点他们的事情么？}
@@ -41,10 +41,10 @@
 
 #{113}{}{Well, Miles does chemistry, and he makes bullets and things.
 # Smitty is a craftsman who builds things like pots and knives.}
-{113}{}{麦尔斯是搞化学的，他做子弹之类的货。施密提是个手艺人，会做水壶和刀子。}
+{113}{}{麦尔斯是搞化学的，他做子弹之类的货。施密蒂是个手艺人，会做水壶和刀子。}
 
 #{114}{}{You have a message from Romero? What is it?}
-{114}{}{你有罗梅罗的消息？什么消息？}
+{114}{}{你有罗米欧的消息？什么消息？}
 
 #{115}{}{He says that he's through with you.}
 {115}{}{他说他和你没关系了。}
@@ -74,14 +74,14 @@
 #{123}{}{Oh! Thank you so much for your help! We have decided
 # to live here now, with the Followers, in peace.
 # Thank you for supporting our love.}
-{123}{}{哦！太感谢你了！我们打算住在这里，和启示录信徒和平相处。感谢你支持我们的结合。}
+{123}{}{哦！太感谢你了！我们打算住在这里，和末世论者和平相处。感谢你支持我们的结合。}
 
 #{124}{}{I cannot live without him!}
 {124}{}{没了他我还怎么活啊……}
 
 #{125}{}{Julianna draws a knife and plunges it into herself!}
-{125}{}{（朱利安娜掏出一把刀插进了自己的心窝！）}
+{125}{}{【茱莉亚娜掏出一把刀插进了自己的心窝！】}
 
 #{126}{}{You gain 250 for assisting the star-crossed lovers with the delivery of
 # Romero's locket to Julianna.}
-{126}{}{你帮助罗梅罗把盒子送给朱利安娜，成全了一对坎坷爱人，你获得２５点经验值。}
+{126}{}{你帮助罗米欧把盒子送给茱莉亚娜，成全了一对坎坷爱人，你获得２５点经验值。}

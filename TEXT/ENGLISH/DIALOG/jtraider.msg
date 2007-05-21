@@ -5,7 +5,7 @@
 {101}{}{站住！别过来！我会杀了她的，真的！}
 
 #{102}{}{Nung!}
-{102}{}{布布！}
+{102}{}{不不！}
 
 #{103}{}{Don't do it!}
 {103}{}{不要这样！}
@@ -133,7 +133,7 @@
 
 #{143}{}{I won't listen to you. You're just going to trick me with
 # your words. I don't believe you. Go away.}
-{143}{}{我不会听你的。你想用话来套我上当。我不相信你，你滚！}
+{143}{}{我不会听你的。你想用话来套我上当。我不相信你，快滚！}
 
 #{144}{}{You might have a point. Prove it to me.}
 {144}{}{有点道理，你说说看。}
@@ -189,7 +189,7 @@
 {159}{}{我不会开枪的，相信我。}
 
 #{160}{}{Nothing, you'll just have to believe what I say.}
-{160}{}{你只能信任我一把了。}
+{160}{}{你只能信任我一次了。}
 
 #{161}{}{No way! I don't trust you!}
 {161}{}{没门！我不信任你！}
@@ -259,7 +259,7 @@
 
 #{183}{}{Your carefully-placed blow knocks the raider unconscious. He collapses
 # like a rag doll.}
-{183}{}{你精准的重击打昏了强盗，他像条死狗一样坍倒了。}
+{183}{}{你精准的重击打昏了强盗，他像条死狗一样晕倒了。}
 
 #{184}{}{You might be able to sneak up on the raider if you're careful.}
 {184}{}{如果小心点，你可以悄悄过去打昏这个强盗。}

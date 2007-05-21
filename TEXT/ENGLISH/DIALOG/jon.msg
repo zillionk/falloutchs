@@ -22,7 +22,7 @@
 
 #{107}{}{What is it out here? Is there any place in the wasteland
 # that doesn't have a gang problem?}
-{107}{}{那又怎么了？废土上有不存在黑帮的地方么？}
+{107}{}{那又怎么了？废土上有不存在黑帮的地方吗？}
 
 #{108}{}{I've dealt with a few.}
 {108}{}{我和他们打过些交道。}
@@ -44,7 +44,7 @@
 # We're a humble, god fearing town that is only trying to survive, and these
 # . . . these . . . monsters . . . prey on us . . .
 # 【He whispers under his breath】 and our children . . .}
-{113}{}{很好。那你就应该知道他们有多残忍和血腥。利刃帮是最坏的一伙。我们这个镇子一向与世无争，不惹事生非，只想好好活下去，但是这些……这些……畜生！他们（激动地喘气）劫掠我们，甚至残害我们的孩子……}
+{113}{}{很好。那你就应该知道他们有多残忍和血腥。利刃帮是最坏的一伙。我们这个镇子一向与世无争，不惹事生非，只想好好活下去，但是这些……这些……畜生！他们【激动地喘气】劫掠我们，甚至残害我们的孩子……}
 
 #{114}{}{Yeah, yeah, that's great. What's the job entail and what's it worth to ya?}
 {114}{}{好，好，工作的内容和报酬呢？}
@@ -64,7 +64,7 @@
 # of the night with dynamite strapped to his body to blow up the Regulator's
 # barracks . . . no doubt to weaken us enough so that they could launch
 # a full scale attack.}
-{117}{}{管理者们可以抵挡他们的正面大规模进攻，但他们也只能做到这点了。利刃帮半夜可以潜入我们的城区，杀死镇民，绑架我们的孩子……（他停下，平复了一下情绪，接着说）上周还有一个匪徒浑身绑了炸药半夜钻进北门，想把管理者的兵营炸掉……显然，他们是为了削弱我们，打算以后全面进攻。}
+{117}{}{管理者们可以抵挡他们的正面大规模进攻，但他们也只能做到这点了。利刃帮半夜可以潜入我们的城区，杀死镇民，绑架我们的孩子……【他停下，平复了一下情绪，接着说】上周还有一个匪徒浑身绑了炸药半夜钻进北门，想把管理者的兵营炸掉……显然，他们是为了削弱我们，打算以后全面进攻。}
 
 #{118}{}{What happened to him?}
 {118}{}{那个匪徒呢？}
@@ -156,7 +156,7 @@
 
 #{145}{}{What is it out here? Is there any place in the wasteland that
 # doesn't have a gang problem?}
-{145}{}{那又怎么了？废土上有不存在黑帮的地方么？}
+{145}{}{那又怎么了？废土上有不存在黑帮的地方吗？}
 
 #{146}{}{I've dealt with a few.}
 {146}{}{我和他们打过些交道。}
@@ -250,7 +250,7 @@
 #{173}{}{【As he listens to the holodisk he begins to shake and turn red.
 # You think he might drop dead on the spot from sheer hate.】
 # I'll kill all of you fucking bastards!}
-{173}{}{（他听着磁碟上的声音，身子开始发抖，脸涨得通红，你感觉他随时都可能因为愤怒昏厥而死。）我要把你们这些杂种都杀了！}
+{173}{}{【他听着磁碟上的声音，身子开始发抖，脸涨得通红，你感觉他随时都可能因为愤怒昏厥而死。】我要把你们这些杂种都杀了！}
 
 #{174}{}{You bastard! You've brought the devils in to our home!}
 {174}{}{你这个杂种！你把魔鬼带进了我的家门！}
@@ -277,7 +277,7 @@
 {181}{}{你是谁？}
 
 #{182}{}{I'm Jon Zimmerman, mayor of Adytum.  What's it to you?}
-{182}{}{我是内城的市长，琼·齐默曼，你有什么事？}
+{182}{}{我是内城的市长，贾森·齐默曼，你有什么事？}
 
 #{183}{}{Hello.}
 {183}{}{你好。}
@@ -289,7 +289,7 @@
 {185}{}{多谢。}
 
 #{186}{}{My son can now rest in peace.}
-{186}{}{我儿终于可以安息了。}
+{186}{}{我儿子终于可以安息了。}
 
 #{187}{}{My son is revenged.}
 {187}{}{我儿子的仇终于报了！}

@@ -18,7 +18,7 @@
 
 #{106}{}{Ack! You must be Dumb Fred, Merciless Killer of the Dirt. Please
 # don't kill me!}
-{106}{}{啊！你就是“笨蛋”富雷德，肮脏血腥的杀手！不要杀我！}
+{106}{}{啊！你就是“笨蛋”弗雷德，肮脏血腥的杀手！不要杀我！}
 
 #{107}{}{Here. Here. Take this. It's all I have.}
 {107}{}{拿走，拿走，这是我的全部家当了。}
@@ -76,7 +76,7 @@
 #{124}{}{Some goons. They say they work for the Casino Boss, but I never
 # saw him. One was called Izo, I think, and the other was some big Guido
 # looking guy. Damn cheaters.}
-{124}{}{两个流氓。他们自称是赌场老板的手下，但是我从来没见过老板。有一个家伙叫依佐，还有一个总是一付老是了不起的样子。两个骗子。}
+{124}{}{两个流氓。他们自称是赌场老板的手下，但是我从来没见过老板。有一个家伙叫艾佐，还有一个总是一付老是了不起的样子。两个骗子。}
 
 #{125}{}{Why do you owe them so much money?}
 {125}{}{你怎么会欠他们那么多？}

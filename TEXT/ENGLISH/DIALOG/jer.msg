@@ -82,7 +82,7 @@
 
 #{126}{}{I transfer the human purity reports for the surrounding areas. But
 # you should know this. 【looking suspicious】 Who are you?}
-{126}{}{我负责递送周边地区人类基因纯度的报告。你应该知道的。（可疑地看着你）你是谁？}
+{126}{}{我负责递送周边地区人类基因纯度的报告。你应该知道的。【可疑地看着你】你是谁？}
 
 #{127}{}{I was sent here by Morpheus with a message for the Master.}
 {127}{}{我是墨菲斯派来给主教送信的。}
@@ -110,7 +110,7 @@
 
 #{134}{}{Please forgive me. I apologize for questioning you. Please carry on
 # about your business, and if I can be of any service let me know.}
-{134}{}{对不起对不起，我道歉，我不该问您问题的。您轻便吧，如有差遣，小人定当效犬马之劳。}
+{134}{}{对不起对不起，我道歉，我不该问您问题的。您请便吧，如有差遣，小人定当效犬马之劳。}
 
 #{135}{}{I do not know who you are, and you do not belong here. Guards!!!}
 {135}{}{我不知道你是谁，你不属于这里。卫兵！！！！}
@@ -170,7 +170,7 @@
 {152}{}{我还想再问几个问题？}
 
 #{153}{}{I'll leave. I'll leave. But not until I blow your brains out.}
-{153}{}{我走，我走，等我先把你脑花敲出来！}
+{153}{}{我走，我走，等我先把你脑浆敲出来！}
 
 #{154}{}{How did you get in here?! What are you doing sneaking around?}
 {154}{}{你是怎么进来的？！你鬼鬼祟祟干什么？}
@@ -255,7 +255,7 @@
 {179}{}{没事，多谢。}
 
 #{180}{}{I would like to ask you a few more questions, brother.}
-{180}{}{我还想问你几个问题？、。}
+{180}{}{我还想问你几个问题，兄弟。}
 
 #{181}{}{Yes, and a very important job it is. And do you understand the
 # importance of your duties to the Master and all of us?}
@@ -265,7 +265,7 @@
 # untainted humans untouched by radiation. I was the one who brought the
 # Master the final news of a possible Lost Vault. It may still have pure-strain
 # humans in it.}
-{182}{}{当然。我随时向主教带来最新最新的未受辐射的纯种人类。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能存有纯种人类。}
+{182}{}{当然。我随时向主教带来最新最新的未受辐射的纯种人类。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能有纯种人类存在。}
 
 #{183}{}{Yes, my brother. You do understand. Thank you. That is all.}
 {183}{}{好，看来你是明白的，就这样了。}
