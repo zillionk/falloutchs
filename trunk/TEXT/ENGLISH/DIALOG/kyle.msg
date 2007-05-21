@@ -146,7 +146,7 @@
 #{143}{}{Not General Maxson, his grandfather, Roger Maxson. I heard you
 # brought back a disk that told what happened to the guys who rebelled
 # against him and went down there to recover the lost technology.}
-{143}{}{不是马克松将军，是他爷爷鲁格·马克松。我听说你找回了一张磁片，上面记录了当年那些背叛鲁格·马克松的叛军们去寻找古代科技的事情。}
+{143}{}{不是马克松将军，是他爷爷鲁格·马克松。我听说你找回了一块磁盘，上面记录了当年那些背叛鲁格·马克松的叛军们去寻找古代科技的事情。}
 
 #{144}{}{Yeah, I guess I did. I'm }
 {144}{}{没错，是我找到的。我叫}
@@ -162,7 +162,7 @@
 {147}{}{是啊，那些混球，没想到他们真派你去那里找东西。}
 
 #{148}{}{And all they gave me for my trouble was a handful of ammo!}
-{148}{}{他们只是给了我一些自弹！}
+{148}{}{他们只是给了我一些子弹！}
 
 #{149}{}{Hey, initiate, got anything for me?}
 {149}{}{嘿，新兵，你拿到了？}
@@ -178,7 +178,7 @@
 
 #{153}{}{No shit. And here I thought you was smart. I told ya that guy
 # had official forms for brains.}
-{153}{}{我靠。我以为你能聪明地搞定的。我跟你说了，那个军需官就是脑泡子里长了表格了！}
+{153}{}{我靠。我以为你能聪明地搞定的。我跟你说了，那个军需官就是脑子里长了表格了！}
 
 #{154}{}{Watch who you call an idiot.}
 {154}{}{你说话小心点。}

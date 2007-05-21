@@ -2,16 +2,16 @@
 {100}{}{你看到劳拉。}
 
 #{102}{laura0m}{Hello, my brother. May I be of service this glorious day?}
-{102}{laura0m}{嗨，我的兄弟。在这美好的一天里需要我的服务么？}
+{102}{laura0m}{嗨，我的兄弟。在这美好的一天里需要我的服务吗？}
 
 #{104}{laura0f}{Hello, my sister. May I be of service this glorious day?}
-{104}{laura0f}{嗨，我的姐妹。在这美好的一天里需要我的服务么？}
+{104}{laura0f}{嗨，我的姐妹。在这美好的一天里需要我的服务吗？}
 
 #{105}{}{Are you Laura?}
 {105}{}{你是劳拉吗？}
 
 #{106}{}{Can I ask you a few questions about the Children?}
-{106}{}{我能问你一点关于教徒的问题么？}
+{106}{}{我能问你一点关于教徒的问题吗？}
 
 #{107}{}{What kind of "services" do you offer?}
 {107}{}{你能提供什么样的“服务”？}
@@ -36,7 +36,7 @@
 {116}{laura3}{妮可尔？很抱歉。我想我不认识有人叫这个名字。}
 
 #{117}{}{Well, she told me to tell you 'Red Rider'.}
-{117}{}{哦，她让我对你说‘红色骑手’。}
+{117}{}{哦，她让我对你说“红骑士”。}
 
 #{118}{}{Sure you do! She sent me!}
 {118}{}{你当然认识！她派我过来的！}
@@ -65,7 +65,7 @@
 
 #{130}{laura14}{Oh, I'm hardly an authority. You should see Morpheus,
 # the High Priest. I'm sure he can help you much more than I.}
-{130}{laura14}{啊，我还算不上是权威。你应该去找主教莫菲斯。我确定他能比我帮你更多。}
+{130}{laura14}{啊，我还算不上是权威。你应该去找神父墨菲斯。我确定他能比我帮你更多。}
 
 #{132}{laura15}{But I only meant . . . oh . . . I have to go now.}
 {132}{laura15}{可我的意思是……呃……我要走了。}
@@ -108,7 +108,7 @@
 {148}{}{有没有暗道通向教堂的密室？}
 
 #{149}{}{What have you learned about The Master?}
-{149}{}{你调查到主宰的什么了？}
+{149}{}{你调查到主教的什么了？}
 
 #{150}{}{What are the Children's plans?}
 {150}{}{教徒们的计划是？}
@@ -127,7 +127,7 @@
 
 #{157}{laura25}{I followed Morpheus down a back secret staircase.
 # The guy activates a secret door at the bottom.}
-{157}{laura25}{我跟踪了莫非斯到了一个秘密的楼梯，那家伙用按钮启动了一个密门。}
+{157}{laura25}{我跟踪了墨菲斯到了一个秘密的楼梯，那家伙用按钮启动了一个密门。}
 
 #{158}{}{Then what?}
 {158}{}{然后呢？}
@@ -171,7 +171,7 @@
 
 #{178}{laura31}{Believe me, if you've seen the Nightkin,
 # you'd know why. Unless you're stupid.}
-{178}{laura31}{相信我，如果你见了“隐身人”你就知道为什么了。除非你是笨蛋。}
+{178}{laura31}{相信我，如果你见了“隐形人”你就知道为什么了。除非你是笨蛋。}
 
 #{179}{}{Maybe I am, but I'm not scared.}
 {179}{}{也许我是，但我不害怕。}
@@ -183,8 +183,7 @@
 # middle of this day in and day out.
 # You have a problem with how I do this,
 # you just keep it to yourself. Ya got it?}
-{182}{laura32}{啊，我知道这很有趣。听着,我一天到晚冒着危险。你还对我的作为有看法，
-好自为之吧，你丫明白了么？}
+{182}{laura32}{啊，我知道这很有趣。听着，我一天到晚冒着危险。你还对我的作为有看法，好自为之吧，你明白了吗？}
 
 #{183}{}{What are you going to do, whine some more?}
 {183}{}{你还要做什么，继续诉苦吗？}
@@ -219,8 +218,7 @@
 # snuck up and looked at the alter when nobody was
 # looking. And there's a device underneath with
 # wires and a big lens.}
-{195}{laura35}{哈……相信我，这仅仅是开始，然后在没人注意的时候，
-我偷偷溜到圣坛。那下面有个带着电线和长杆的装置。}
+{195}{laura35}{哈……相信我，这仅仅是开始，然后在没人注意的时候，我偷偷溜到圣坛。那下面有个带着电线和长杆的装置。}
 
 #{196}{}{Probably a holo-projector of some kind.}
 {196}{}{可能是某种全息投影机。}
@@ -230,7 +228,7 @@
 
 #{199}{laura36}{So I'm pretty sure this Master is flesh and blood.
 # And I also think I know where he is.}
-{199}{laura36}{那么我很确定主宰是有血肉的。而且我想我也知道他在哪里。}
+{199}{laura36}{那么我很确定主教是有血肉的。而且我想我也知道他在哪里。}
 
 #{200}{}{Where?}
 {200}{}{在哪？}
@@ -239,8 +237,7 @@
 # secret staircase leading below the Church. And he
 # enters a secret door with some kind of key. I think
 # the Master is down there.}
-{202}{laura37}{每次有段时间，莫非斯都会走过教堂后面的一段秘密楼梯。
-而且他用某种钥匙进入一扇密门。我想主宰就在那下面。}
+{202}{laura37}{每次有段时间，墨菲斯都会走过教堂后面的一段秘密楼梯。而且他用某种钥匙进入一扇密门。我想主教就在那下面。}
 
 #{203}{}{Can you show me this staircase right now?}
 {203}{}{你现在可以告诉我这段楼梯在哪么？}
@@ -252,8 +249,7 @@
 # earth should be 'purged of the infidels,' and
 # other crap like that. I think they're planning
 # to take over everything!}
-{206}{laura38}{这才可怕呢。莫非斯总是布道说要“净化异端”和其它的废话。
-我想他们计划要毁掉所有东西}
+{206}{laura38}{这才可怕呢。墨菲斯总是布道说要“净化异端”和其它的废话。我想他们计划要毁掉所有东西！}
 
 #{207}{}{Can they do it?}
 {207}{}{他们能行吗？}
@@ -264,11 +260,10 @@
 #{210}{laura39}{Now you know, it could be. I mean, they have
 # enough members, and the different hospitals
 # in the towns are stocked full of weapons and explosives.}
-{210}{laura39}{现在你知道了，他们可以。我的意思是，他们有足够的成员，
-在不同的城里都有医院，还囤积着大量的武器和炸药。}
+{210}{laura39}{现在你知道了，他们可以。我的意思是，他们有足够的成员，在不同的城里都有医院，还囤积着大量的武器和炸药。}
 
 #{211}{}{We must tell the Followers.}
-{211}{}{我们应该通知信徒们。}
+{211}{}{我们应该通知末世论者。}
 
 #{212}{}{What are you going to do?}
 {212}{}{你要做什么？}
@@ -288,7 +283,7 @@
 
 #{220}{laura42}{Well, I'm going to go warn Nicole.
 # And hopefully, the Followers can send help to the other towns.}
-{220}{laura42}{啊，我要去通知妮可尔。希望信徒们可以帮助其它的镇子。}
+{220}{laura42}{啊，我要去通知妮可尔。希望末世论者可以帮助其它的镇子。}
 
 #{221}{}{I'd like to ask a few more questions first.}
 {221}{}{我想先问些别的问题。}
@@ -300,7 +295,7 @@
 {224}{laura43}{内城区，那个镇子在地狱中没有机会的。}
 
 #{225}{}{What about the Followers?}
-{225}{}{信徒们怎么样？}
+{225}{}{末世论者怎么样？}
 
 #{226}{}{Can I help Adytum?}
 {226}{}{我能帮助内城区么？}
@@ -313,12 +308,12 @@
 {229}{}{好。你计划做什么？}
 
 #{230}{}{Can I help Adytum in any way?}
-{230}{}{我能帮内城区任何忙么}
+{230}{}{我能帮内城区任何忙吗？}
 
 #{232}{laura45}{Yeah, you can help 'em by getting to the Master. 'Bite the
 # head off the snake and it won't coil around you,' as my grandmother used
 # to say. She was kind of a handful.}
-{232}{laura45}{耶，你可以帮他们对付主宰。我祖母常说：“打蛇打七寸”，她很有见地哦。}
+{232}{laura45}{耶，你可以帮他们对付主教。我祖母常说：“打蛇打七寸”，她很有见地哦。}
 
 #{233}{}{How do I get to him?}
 {233}{}{我该怎么接近他？}
@@ -339,7 +334,7 @@
 {240}{laura47}{内城区已经沦陷了。哈勃城是下一个。}
 
 #{241}{}{What're the Followers doing during this?}
-{241}{}{那时候信徒们在做什么？}
+{241}{}{那时候末世论者在做什么？}
 
 #{242}{}{Damn. What can I do?}
 {242}{}{可恶。我能做什么？}
@@ -354,7 +349,7 @@
 
 #{247}{laura49}{They've already taken out the Hub and Adytum!
 # I think the Followers are next, so we're preparing our defense.}
-{247}{laura49}{他们已经拿下了哈勃城和内城区！我想信徒们就是下一个，所以我们在准备防御。}
+{247}{laura49}{他们已经拿下了哈勃城和内城区！我想末世论者就是下一个，所以我们在准备防御。}
 
 #{248}{}{Why are you here then?}
 {248}{}{你为什么还在这？}
@@ -373,7 +368,7 @@
 {254}{laura51}{教徒们在所有的地方建起了医院。哼。我想他们想获得人们的信任。}
 
 #{255}{}{Is it working?}
-{255}{}{这管用么？}
+{255}{}{这管用吗？}
 
 #{256}{}{Is there anyway to stop them?}
 {256}{}{有什么办法阻止他们？}
@@ -393,7 +388,7 @@
 
 #{263}{laura53}{For one thing, people seem to disappear a lot
 # around here, while the number of Nightkin are slowly growing.}
-{263}{laura53}{首先，附近的人失踪了很多。同时“隐身人”的数量在大大增加。}
+{263}{laura53}{首先，附近的人失踪了很多。同时“隐形人”的数量在大大增加。}
 
 #{264}{}{Why?}
 {264}{}{为什么？}
@@ -405,10 +400,10 @@
 {267}{laura54}{我不知道。这就是你在这里要调查的，是吗？}
 
 #{269}{laura55}{Find the Master and stop him!}
-{269}{laura55}{找到主宰，阻止他！}
+{269}{laura55}{找到主教，阻止他！}
 
 #{270}{}{What have you found out about this Master?}
-{270}{}{关于主宰，你知道了些什么？}
+{270}{}{关于主教，你知道些什么？}
 
 #{271}{}{I will.}
 {271}{}{我会的。}
@@ -418,7 +413,7 @@
 
 #{275}{laura57}{Actually, it's a good way to manipulate people,
 # and this Master is damn good at it.}
-{275}{laura57}{实际上，这是个操控人心的好办法，而且这个该死的主宰很擅长。}
+{275}{laura57}{实际上，这是个操控人心的好办法，而且这个该死的主教很擅长。}
 
 #{276}{}{No, I meant that's the stupidest thing I've heard from you.
 # You're paranoid, aren't you?}
@@ -538,7 +533,7 @@
 {323}{}{哦，我不知道你在说什么。}
 
 #{324}{}{She leads the Followers. Pretty strong-willed. I trust her.}
-{324}{}{她领导着信徒们。相当坚强。我相信她。}
+{324}{}{她领导着末世论者。相当坚强。我相信她。}
 
 #{325}{}{The others are all so nice! It's wonderful here.
 # We belong, we do good work . . .}
@@ -549,7 +544,7 @@
 {326}{}{噢，他们像这个世界的枯萎病。大多数是些废物，少数是单纯的邪恶。}
 
 #{327}{}{Adytum, isn't that a town west of here?}
-{327}{}{内城区，不是西边的那个成真么？}
+{327}{}{内城区，不是西边的那个城镇吗？}
 
 #{328}{}{Adytum's a bit west from here. And the people there
 # . . . well, they're a little paranoid, so don't
@@ -565,40 +560,40 @@
 
 #{331}{}{Oh, I can't begin to describe him. Morpheus leads us.
 # He can do justice to your question.}
-{331}{}{哦，我不能形容他。莫非斯领导我们。他能对你的问题作出回答。}
+{331}{}{哦，我不能形容他。墨菲斯领导我们。他能对你的问题作出回答。}
 
 #{332}{}{Ah yes, the Master, he's the god these nuts worship. Personally, I
 # don't think he's a god, just somebody into manipulating everyone.}
-{332}{}{啊是的，主宰，他是这些傻瓜崇拜的神。就我个人来说，我不认为他是个神，只是操控人群的某个人。}
+{332}{}{啊是的，主教，他是这些傻瓜崇拜的神。就我个人来说，我不认为他是个神，只是操控人群的某个人。}
 
 #{333}{}{Nightkin? I don't know what you're talking about.}
-{333}{}{“隐身人？”我不知道你在说什么。}
+{333}{}{“隐形人？”我不知道你在说什么。}
 
 #{334}{}{They're the big, ugly enforcers of the Master
 # and Morpheus.}
-{334}{}{他们是主宰和莫非斯手下又大、又丑的执行者。}
+{334}{}{他们是主教和墨菲斯手下又大、又丑的执行者。}
 
 #{335}{}{The what?}
 {335}{}{什么？}
 
 #{336}{}{What, you couldn't figure out that's the Master?}
-{336}{}{什么，你弄不明白这是主宰？}
+{336}{}{什么，你弄不明白这是主教？}
 
 #{337}{}{It's the big place at the north end of the church,
 # where Morpheus does all his ceremonies. I've been there,
 # it's wonderful!}
-{337}{}{是教堂北端的一个大地方，莫非斯在那举行所有的仪式。我去过那，太奇妙了！}
+{337}{}{是教堂北端的一个大地方，墨菲斯在那举行所有的仪式。我去过那，太奇妙了！}
 
 #{338}{}{It's at the north end of the church.
 # I've watched Morpheus perform his little circus act there.}
-{338}{}{是教堂北端的一个大地方，我看见过莫非斯在那做他的小把戏。}
+{338}{}{是教堂北端的一个大地方，我看见过墨菲斯在那做他的小把戏。}
 
 #{339}{}{Oh, you cannot go there. That's where Morpheus contemplates.}
-{339}{}{噢，你不能过去。那是莫非斯冥想的地方。}
+{339}{}{噢，你不能过去。那是墨菲斯冥想的地方。}
 
 #{340}{}{That's where Morpheus and his cronies hang out.
 # No one's allowed up there, though.}
-{340}{}{那是莫非斯和他的亲信在的地方。而其他人不允许出现。}
+{340}{}{那是墨菲斯和他的亲信在的地方。而其他人不允许出现。}
 
 #{341}{}{They have proven themselves to the Church. The rest of us aspire to that.}
 {341}{}{他们向教堂证明了自己。我们其他人也在努力去做。}
@@ -670,20 +665,20 @@
 
 #{1104}{laura79}{Oh, I can't begin to describe him. Morpheus leads us.
 # He can do justice to your question.}
-{1104}{laura79}{哦，我不能形容他。莫非斯领导我们。他能对你的问题作出回答。}
+{1104}{laura79}{哦，我不能形容他。墨菲斯领导我们。他能对你的问题作出回答。}
 
 #{1105}{laura80}{Nightkin? I don't know what you're talking about.}
-{1105}{laura80}{“隐身人？”我不知道你在说什么。}
+{1105}{laura80}{“隐形人？”我不知道你在说什么。}
 
 #{1106}{laura81}{The what?}
 {1106}{laura81}{什么？}
 
 #{1107}{laura82}{It's the big place at the north end of the church,
 # where Morpheus does all his ceremonies. I've been there, it's wonderful!}
-{1107}{laura82}{是教堂北端的一个大地方，莫非斯在那举行所有的仪式。我去过那，太奇妙了！}
+{1107}{laura82}{是教堂北端的一个大地方，墨菲斯在那举行所有的仪式。我去过那，太奇妙了！}
 
 #{1108}{laura83}{Oh, you cannot go there. That's where Morpheus contemplates.}
-{1108}{laura83}{噢，你不能过去。那是莫非斯冥想的地方。}
+{1108}{laura83}{噢，你不能过去。那是墨菲斯冥想的地方。}
 
 #{1109}{laura84}{They have proven themselves to the Church. The rest of us aspire to that.}
 {1109}{laura84}{他们向教堂证明了自己。我们其他人也在努力去做。}
@@ -698,5 +693,5 @@
 {1112}{laura81}{什么？}
 
 #{1113}{laura80}{Nightkin? I don't know what you're talking about.}
-{1113}{laura80}{“隐身人？”我不知道你在说什么。}
+{1113}{laura80}{“隐形人？”我不知道你在说什么。}
 

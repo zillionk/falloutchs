@@ -35,7 +35,7 @@
 #{111}{}{The surface of Necropolis and the water is controlled
 # by Set and his Ghouls. We are a much more peaceful group - which
 # disgusts Set.}
-{111}{}{大墓地城的地表和水源都被赛特和他的手下控制了，我们是相比而言更爱好和平的一群，这就激怒了赛特。}
+{111}{}{大墓地的地表和水源都被赛特和他的手下控制了，我们是相比而言更爱好和平的一群，这就激怒了赛特。}
 
 #{112}{}{Who is this Set?}
 {112}{}{谁是赛特？}
@@ -155,7 +155,7 @@
 
 #{145}{}{Do you mean these parts? (You show the parts you found to the
 # Ghoul Leader)}
-{145}{}{你是说这些零件么？（你把捡到的零件给他看）}
+{145}{}{你是说这些零件么？【你把捡到的零件给他看】}
 
 #{146}{}{The sewers there are filled with monsters, and none of my people
 # that I have sent to retrieve them have come back. Are you willing to
@@ -203,7 +203,7 @@
 {158}{}{对，这里。}
 
 #{159}{}{Yeah, but I've decided to forget about fixing the Water Pump.}
-{159}{}{没错，但是我不打算去修那个劳什子水泵了。}
+{159}{}{没错，但是我不打算去修那个什么水泵了。}
 
 #{160}{}{Well it looks like you may need some help with the parts. Here
 # are some books that we have found littered around. They may help you.

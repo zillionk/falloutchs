@@ -26,7 +26,7 @@
 {108}{}{啊。}
 
 #{109}{}{No sweat off my back.  Just seein' if I could be neighborly like. 【Lemmy turns away】}
-{109}{}{没事没事，我就是看看我们能不能以后和睦相处。（莱米转身去了）}
+{109}{}{没事没事，我就是看看我们能不能以后和睦相处。【莱米转身去了】}
 
 #{110}{}{Well, you look like a businessman.  And I'm a businessman, and I thought we could, ah, discuss, ah, business.}
 {110}{}{你看起来像生意人。我也是。我们，嘿嘿，也许可以做一笔。}
@@ -44,7 +44,7 @@
 {114}{}{我们都有需求，也许我可以帮你呢。你需要什么？}
 
 #{115}{}{Well, I'm really looking for a Water Chip.  I need to get one back to my people.}
-{115}{}{我找一个芯片，我需要它来拯救人民。}
+{115}{}{我在找一个净水芯片，我需要它来拯救人民。}
 
 #{116}{}{Needs, huh?  I understand needs, but what might you know about satiating these needs?}
 {116}{}{需求？我知道需求，但是你知道怎么满足需求？}
@@ -93,13 +93,13 @@
 
 #{130}{}{So, you think I might know a little more about those Water Chip things, huh?  Well, you might be right.
 #  It's gonna' cost you, though.  I think 500 bottle caps oughta' do it.}
-{130}{}{你觉得我知道这个净水芯片的事情，啊？太对了！不过，要收你点费用，500瓶盖怎么样？}
+{130}{}{你觉得我知道这个净水芯片的事情，啊？太对了！不过，要收你点费用，５００瓶盖怎么样？}
 
 #{131}{}{Alright, what's the info?}
 {131}{}{好，告诉我你知道的。}
 
 #{132}{}{I'll give you 400 instead.}
-{132}{}{我给你400吧。}
+{132}{}{我给你４００吧。}
 
 #{133}{}{I think you need to tell me, right now, and without the freakin' caps!}
 {133}{}{你现在就告诉我，马上！我一个子儿也不给！}
@@ -109,14 +109,14 @@
 
 #{135}{}{Now, now.  I wouldn't be the man I am if I gave information away for less than it's
 # worth.  Come back when you've got the caps.}
-{135}{}{啧啧，贱卖不是我的风格，等你凑够了回来找我吧。}
+{135}{}{啧啧，如果我给你的消息少就说明它不值钱。等你凑够了瓶盖再回来找我吧。}
 
 #{136}{}{Trying to intimidate poor old Lemmy, huh?  Well, I's not afraid of the likes of you.
 # I'll just be seein' you around.}
 {136}{}{想要威胁我莱米这样的可怜老人？我不怕你这样的家伙，我走了。}
 
 #{137}{}{【Lemmy takes your money】}
-{137}{}{（莱米拿走了你的钱）}
+{137}{}{【莱米拿走了你的钱】}
 
 #{138}{}{Well, that's fair enough.  I'll take that instead.}
 {138}{}{好吧，那就这个价钱。}
@@ -127,7 +127,7 @@
 #{140}{}{Well, so here's what I know about the Water Chips.  The thing I've heard is that they all used
 # to come from the Vaults.  So if I was lookin' for one, I'd find out where the rest of these Vaults were.
 # I'm not sure where all the Vaults are exactly, but I've heard that there are about 4 around here somewhere's.}
-{140}{}{那我就告诉你吧。所有芯片都是避难所的，我要是想找芯片呢，就会去找那些避难所。我不知道这些避难所在哪里，但我知道这附近有4个。}
+{140}{}{那我就告诉你吧。所有芯片都是避难所的，我要是想找芯片呢，就会去找那些避难所。我不知道这些避难所在哪里，但我知道这附近有４个。}
 
 #{141}{}{I want to ask you a few more questions.}
 {141}{}{我还要问你几个问题。}
@@ -148,7 +148,7 @@
 {146}{}{你知道消失的商队么？}
 
 #{147}{}{Well, I'm looking for a certain commodity, if you know what I mean.}
-{147}{}{我在找一种日用品，你明白么。}
+{147}{}{我在找一种日用品，你明白吗。}
 
 #{148}{}{Nothing right now.}
 {148}{}{现在没有。}
@@ -163,13 +163,13 @@
 {151}{}{谢了。}
 
 #{152}{}{Missing caravans, huh?  Well, I might be knowin' a bit about those.  It's gonna cost you 300 caps, though.}
-{152}{}{消失的商队？我也许知道些，你要花300瓶盖。}
+{152}{}{消失的商队？我也许知道些，你要花３００瓶盖。}
 
 #{153}{}{Alright, what do you know?}
 {153}{}{好。你知道什么？}
 
 #{154}{}{I'll give you 240.}
-{154}{}{我给你240吧。}
+{154}{}{我给你２４０吧。}
 
 #{155}{}{I think you need to tell me, right now, and without the freakin' caps!}
 {155}{}{你现在就告诉我，马上，别提那什么臭钱！}
@@ -217,23 +217,23 @@
 
 #{168}{}{Exactly.  So I'm thinking... only for you of course... 1000 caps so youse can talks to this guy
 # without him blowing your head off first.}
-{168}{}{太对了，我觉得……大概1000块钱就可以让这个人和你好好聊天而不是直接一枪打在你脑袋上。}
+{168}{}{太对了，我觉得……大概１０００块钱就可以让这个人和你好好聊天而不是直接一枪打在你脑袋上。}
 
 #{169}{}{Alright, I'll pay your price.}
 {169}{}{很好，我付你这笔钱。}
 
 #{170}{}{How about 800 caps instead?}
-{170}{}{800怎么样？}
+{170}{}{８００怎么样？}
 
 #{171}{}{Because you like me so much Lemmy, why don't you just do it for free? 【As you flex your muscles】}
-{171}{}{你这么和我要好，干嘛不免费带我去呢？（你抖了抖野猪般的肌肉）}
+{171}{}{你这么和我要好，干嘛不免费带我去呢？【你抖了抖野猪般的肌肉】}
 
 #{172}{}{Can't afford that.}
 {172}{}{付不起。}
 
 #{173}{}{Well, what you gotta' do is find your way over to Old Town.  Over there is a guy
 # named Vance.  Just talk to him.  Like I said, I'll let him know you're coming.}
-{173}{}{呃，你去旧城区，找一个叫旺斯的家伙，和他说，就可以了。}
+{173}{}{呃，你去旧城区，找一个叫万斯的家伙，和他说，就可以了。}
 
 #{174}{}{You're all heart.  Can I ask you a few more things?}
 {174}{}{你真热心，我还能问点事儿么？}

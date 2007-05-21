@@ -35,7 +35,7 @@
 {111}{}{唔呼。}
 
 #{112}{Kill1m}{Welcome to Junktown, stranger. What can I help you with?}
-{112}{Kill1m}{欢迎你来到伽克镇，陌生人。你想要什么？}
+{112}{Kill1m}{欢迎你来到迦克镇，陌生人。你想要什么？}
 
 #{113}{Kill1f}{Hello, darlin'. What can I get ya?}
 {113}{Kill1f}{你好，小可爱，想要做什么呢？}
@@ -69,7 +69,7 @@
 
 #{123}{Kill02}{The name's Killian. Killian Darkwater. I'm the mayor of this fine
 # town. And who might you be?}
-{123}{Kill02}{我是基利安，全名基利安·黑水。我是这个美丽城市的市长。你是？}
+{123}{Kill02}{我是基利安，全名基利安·达克沃特。我是这个美丽城市的市长。你是？}
 
 #{124}{}{I'm }
 {124}{}{我是}
@@ -108,7 +108,7 @@
 {135}{Kill04}{好好好，随你怎么说，你想要什么？}
 
 #{136}{Kill05}{Oh yeah, sure you do. And when you were a baby, your crib was a safe.}
-{136}{Kill05}{是啊！没错！你丫小时候还在锁柜里吃奶呢。}
+{136}{Kill05}{是啊！没错！你小时候还在锁柜里吃奶呢。}
 
 #{137}{}{No, no. It's called a Vault. It protected us
 # from the war. It's been full of people for 80 years!}
@@ -137,7 +137,7 @@
 #{143}{Kill09}{Well, ya got the Hub southwest. Don't go south, though. That'd be Necropolis;
 # the, uh . . . climate's bad there, rain or shine. If you understand what I'm
 # saying.}
-{143}{Kill09}{往西南走是哈勃城，可别往南走，那里是僵尸城。那里……那里不管晴天雨天，总是阴森森的，你明白我的意思吧。}
+{143}{Kill09}{往西南走是哈勃城，可别往南走，那里是大墓地。那里……那里不管晴天雨天，总是阴森森的，你明白我的意思吧。}
 
 #{144}{}{Well, thanks for the information. Can I ask you a few more questions?}
 {144}{}{多谢你的信息。我还能问你几个问题么？}
@@ -157,7 +157,7 @@
 #{149}{Kill11}{Well, Junktown's not much, but it's home. Mostly we trade with
 # people or let 'em forget their troubles for a bit.
 # Of course, we have our share of problems.}
-{149}{Kill11}{伽克镇不是很大，但这里是我们的家。我们在这里做买卖，外面惹了麻烦的人也可以在这里休闲一下。当然，我们也有自己的麻烦。}
+{149}{Kill11}{迦克镇不是很大，但这里是我们的家。我们在这里做买卖，外面惹了麻烦的人也可以在这里休闲一下。当然，我们也有自己的麻烦。}
 
 #{150}{}{Problems?}
 {150}{}{自己的麻烦？}
@@ -175,12 +175,12 @@
 # they've been pretty quiet lately. Inside, trouble's been from the Skulz.
 # And I hear of some strange things happening down by the Hub, but
 # they haven't affected us yet, knock on my mother-in-law's head.}
-{154}{Kill12}{外部的麻烦呢，我们经常和可汗帮有点事情要处理。最近他们还算老实。内部麻烦主要是斯库兹帮。我还听说哈勃城出了事，但是还没有影响到这里，至少我丈母娘还没有什么感觉。}
+{154}{Kill12}{外部的麻烦呢，我们经常和可汗帮有点事情要处理。最近他们还算老实。内部麻烦主要是骷髅党。我还听说哈勃城出了事，但是还没有影响到这里，至少我丈母娘还没有什么感觉。}
 
 #{155}{Kill13b}{Oh, we got tons to do. The Skum Pitt's on the east side, by the
 # entrance. Great drinkin' place. Gizmo's is near there. And if you're hurtin', Doc
 # Morbid's your man.}
-{155}{Kill13b}{很多啊。东边靠城门的Skum Pitt酒吧是个喝酒的好地方。吉斯莫的赌场也在那附近。如果挂了彩，就去找莫彼得医生。}
+{155}{Kill13b}{很多啊。东边靠城门的萨姆·匹特酒吧是个喝酒的好地方。吉斯莫的赌场也在那附近。如果挂了彩，就去找莫彼得医生。}
 
 #{156}{}{Thanks.}
 {156}{}{多谢。}
@@ -193,13 +193,13 @@
 {158}{Kill14}{如果你嫌我们这里太闷，可以走啊。是吧，伙计？}
 
 #{159}{}{Better than nothing, I guess.}
-{159}{}{聊胜于无吧。}
+{159}{}{总比什么都没有强吧。}
 
 #{160}{}{Then there won't be anything exciting in town.}
 {160}{}{那你们这里可就真是没啥好玩的了。}
 
 #{161}{Kill15}{By a damn sight.}
-{161}{Kill15}{那可不。}
+{161}{Kill15}{当然。}
 
 #{162}{Kill16}{Oh, you obviously have me confused with someone who has to take
 # your lip. Why don't you come back when your mama teaches you some manners.}
@@ -216,7 +216,7 @@
 
 #{165}{Kill23}{You have to wear a recorder and tape Gizmo confessing, or plant
 # this wire tap in his office. Either way, and we got him.}
-{165}{Kill23}{你要么用录音机把他的话录下来，要么把这个窃听器安到他办公室里，无论哪种办法，我们就可以搞定他。}
+{165}{Kill23}{你要么用录音机把他的话录下来，要么把这个窃听器安到他办公室里，无论哪种办法，我们都可以搞定他。}
 
 #{166}{Kill24}{Well, howdy! What can I do for you today?}
 {166}{Kill24}{嗨，你好啊，今天你想要什么？}
@@ -335,7 +335,7 @@
 #{202}{Kill48}{Now, if I get proof, the people of Junktown will kick him out.
 # Way I figure it, you need to either plant a bug at his place or wear a wire
 # and get him to confess to you. Can you handle that?}
-{202}{Kill48}{如果我有证据，伽克镇的人就会把他赶出城去。我的办法是，你把窃听器安在他办公室或者用录音机录下他的自供，你能搞定么？}
+{202}{Kill48}{如果我有证据，迦克镇的人就会把他赶出城去。我的办法是，你把窃听器安在他办公室或者用录音机录下他的自供，你能搞定吗？}
 
 #{203}{}{Whoa. Sounds kinda dangerous . . .}
 {203}{}{哦，看起来有点危险那……}
@@ -349,7 +349,7 @@
 
 #{206}{Kill49}{I'm not gonna lie to you, it will be dangerous. But I'll owe you
 # one, and Killian Darkwater always pays his debts.}
-{206}{Kill49}{我不想骗你，这的确是有点危险。但我会记住你的这份人情，我，基利安·黑水，一定会还你这份人情的。}
+{206}{Kill49}{我不想骗你，这的确是有点危险。但我会记住你的这份人情，我，基利安·达克沃特，一定会还你这份人情的。}
 
 #{207}{}{You sure you can't find someone else?}
 {207}{}{你真找不到其他人来办这个事情了？}
@@ -488,7 +488,7 @@
 #{246}{Kill68}{Well Vinnie, he's one of the problem children. He leads a group
 # of punks called the Skulz. Still, they pay rent, and they haven't bothered
 # anyone too much.}
-{246}{Kill68}{维尼是个问题少年。他领着一群朋克，自称什么斯库兹帮。还好，他们还是缴纳租金的，也没有带来太多的麻烦。}
+{246}{Kill68}{维尼是个问题少年。他领着一群朋克，自称什么骷髅党。还好，他们还是缴纳租金的，也没有带来太多的麻烦。}
 
 #{247}{Kill69}{Well, Doc owns a little place in the middle of the town. Does
 # a nice patch job if you need it. Fairly reasonable prices.}
@@ -496,12 +496,12 @@
 
 #{248}{Kill70}{The Skulz are a bunch of punks who work for Gizmo. They don't cause
 # that much trouble, but me and Lars keep an eye on them.}
-{248}{Kill70}{斯库兹帮是为吉斯莫跑腿的一帮混混，他们没惹出太大的事情，但是我和拉尔斯一直盯着他们。}
+{248}{Kill70}{骷髅党是为吉斯莫跑腿的一帮混混，他们没惹出太大的事情，但是我和拉尔斯一直盯着他们。}
 
 #{249}{Kill71}{Well, the Khans are a bunch of bullies who live outside to the
 # east. They've been trying to take over Junktown for as long as I can
 # remember, but they never make it past the gates.}
-{249}{Kill71}{可汗帮住在城外东边的地方，他们是一群强盗，从我记事以来一直想拿下我们伽克镇，不过从来都没得逞。}
+{249}{Kill71}{可汗帮住在城外东边的地方，他们是一群强盗，从我记事以来一直想拿下我们迦克镇，不过从来都没得逞。}
 
 #{250}{Kill72}{The Vipers are a crazy bunch from up north. They worship snakes, or
 # something.}
@@ -554,7 +554,7 @@
 #{261}{Kill82}{Where've you been for the last 100 years? In a closet? My father used
 # to tell me stories about the War. His father was a soldier before starting
 # Junktown.}
-{261}{Kill82}{你过去100年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
+{261}{Kill82}{你过去１００年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
 
 #{262}{Kill83}{Well, there're some rumors coming up from the Hub. Caravans
 # disappearing, people being butchered, even some talk of big green monsters
@@ -581,10 +581,10 @@
 
 #{269}{}{You gain 600 experience points for your part in the defeat of Killian.
 # Junktown will never be the same.}
-{269}{}{你击败了基利安，获得了600点经验值，伽克镇的未来改变了。}
+{269}{}{你击败了基利安，获得了６００点经验值，迦克镇的未来改变了。}
 
 #{270}{}{You gain 500 experience points for securing Gizmo's confession.}
-{270}{}{你获取了吉斯莫的证词，得到500点经验值。}
+{270}{}{你获取了吉斯莫的证词，得到５００点经验值。}
 
 #{271}{}{I'm here to take you in, Gizmo. This time, I've got the proof I need.}
 {271}{}{我来这里抓你，吉斯莫，这次我有充分的证据。}
@@ -693,7 +693,7 @@
 #{1103}{Kill68}{Well Vinnie, he's one of the problem children. He leads a group
 # of punks called the Skulz. Still, they pay the rent, and they haven't bothered
 # anyone too much.}
-{1103}{Kill68}{维尼是个问题少年。他领着一群朋克，自称什么斯库兹帮。还好，他们还是缴纳租金的，也没有带来太多的麻烦。}
+{1103}{Kill68}{维尼是个问题少年。他领着一群朋克，自称什么骷髅党。还好，他们还是缴纳租金的，也没有带来太多的麻烦。}
 
 #{1104}{Kill69}{Well, Doc owns a little place in the middle of the town. Does
 # a nice patch job if you need it. Fairly reasonable prices.}
@@ -701,12 +701,12 @@
 
 #{1105}{Kill70}{The Skulz are a bunch of punks who work for Gizmo. They don't cause
 # that much trouble, but me and Lars keep an eye on them.}
-{1105}{Kill70}{斯库兹帮是为吉斯莫跑腿的一帮混混，他们没惹出太大的事情，但是我和拉尔斯一直盯着他们。}
+{1105}{Kill70}{骷髅党是为吉斯莫跑腿的一帮混混，他们没惹出太大的事情，但是我和拉尔斯一直盯着他们。}
 
 #{1106}{Kill71}{Well, the Khans are a bunch of bullies who live outside to the
 # east. They've been trying to take over Junktown for as long as I can
 # remember, but they never make it past the gates.}
-{1106}{Kill71}{可汗帮住在城外东边的地方，他们是一群强盗，从我记事以来一直想拿下我们伽克镇，不过从来都没得逞。}
+{1106}{Kill71}{可汗帮住在城外东边的地方，他们是一群强盗，从我记事以来一直想拿下我们迦克镇，不过从来都没得逞。}
 
 #{1107}{Kill72}{The Vipers are a crazy bunch from up north. They worship snakes, or
 # something.}
@@ -759,7 +759,7 @@
 #{1118}{Kill82}{Where've you been for the last 100 years? In a closet? My father used
 # to tell me stories about the War. His father was a soldier before starting
 # Junktown.}
-{1118}{Kill82}{你过去100年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
+{1118}{Kill82}{你过去１００年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
 
 #{1119}{Kill83}{Well, there're some rumors coming up from the Hub. Caravans
 # disappearing, people being butchered, even some talk of big green monsters

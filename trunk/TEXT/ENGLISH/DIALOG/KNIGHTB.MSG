@@ -10,7 +10,7 @@
 # {109}{}{I'd like to get my hands on those raiders. Show them what thieves deserve.}
 # {110}{}{That's it . . . what? Oh, sorry. I can't talk right now.}
 # {111}{}{I wonder what would happen if I . . . huh? Oh, you made me lose my train of thought.}
-{100}{}{爵士}
+{100}{}{骑士}
 {101}{}{我一直在想以前的涡沦式引擎是什么样的。}
 {102}{}{小伙子，我希望我们有一辆汽车。}
 {103}{}{你知道那个男人已经登山月球了吗？或者……至少我认为他们是那么说的。}

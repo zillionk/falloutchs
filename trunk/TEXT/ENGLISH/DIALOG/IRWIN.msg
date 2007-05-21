@@ -44,7 +44,7 @@
 {114}{}{我现在还没时间处理这件事。}
 
 #{115}{}{Oh, thank you so much. I am sorry I don't have any riches to give to you, but here, take this rifle for saving my home.}
-{115}{}{喔，太感谢你了。我很抱歉没有什么财产可以馈赠于你，但是这个，请接受这把步枪作为拯救了我的家的报酬。}
+{115}{}{喔，太感谢你了。我很抱歉没有什么财产可以馈赠于你，但是这个，请接受这把枪作为拯救了我的家的报酬。}
 
 #{116}{}{You're trying to fool me, right? Please don't play with me. Come back and let me know when it is really safe to get back into my home, will you?}
 {116}{}{你是在开玩笑，对吗？请不要愚弄我。请等我的家真正安全的时候再回来告诉我，好吗？}
@@ -70,7 +70,7 @@
 {300}{}{见上帝去吧!}
 
 #{301}{}{Get him... dead!}
-{301}{}{干掉...他！}
+{301}{}{干掉……他！}
 
 #{302}{}{You have just had your last cheesebread!}
 {302}{}{这将是你最后的晚餐！}

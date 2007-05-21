@@ -66,7 +66,7 @@
 {119}{}{净水芯片？抱歉，我对此一无所知。晒骨场没有什么高科技，除了麦尔斯，他经常捣腾一些高级货。}
 
 #{120}{}{Well, thanks anyhow.}
-{120}{}{哦，歇歇。}
+{120}{}{哦，谢谢。}
 
 #{121}{}{Miles? Where can I find him, and could he help?}
 {121}{}{麦尔斯？我怎么找到他？他会帮我么？}
@@ -102,16 +102,16 @@
 {130}{}{我想打听城里的一些地方。}
 
 #{131}{}{What can you tell me about the Blades?}
-{131}{}{你能和我说说利刃帮么？}
+{131}{}{你能和我说说利刃帮吗？}
 
 #{132}{}{What can you tell me about the Rippers?}
-{132}{}{你能说说莱普士帮么？}
+{132}{}{你能说说电锯党吗？}
 
 #{133}{}{What can you tell me about the Gun Runners?}
-{133}{}{你能和我说说军火商的事情么？}
+{133}{}{你能和我说说军火商的事情吗？}
 
 #{134}{}{What can you tell me about the Followers?}
-{134}{}{你能说说那些启示录信徒的事情么？}
+{134}{}{你能说说那些末世论者的事情么？}
 
 #{135}{}{What can you tell me about Adytum?}
 {135}{}{你能说说内城区的事情么？}
@@ -139,7 +139,7 @@
 #{141}{}{The Rippers are just plain ferocious. They're an inbred bunch that
 # delights in torture and murder. I stay away from them, and you should, too.
 # They actually put fuckin' land mines around their fortress.}
-{141}{}{莱普士帮就是一群混球。他们是热衷于杀戮和折磨的土杂种。我尽量会离他们远一点，你也最好别惹他们。他们居然还在总部周围布上了可恶的地雷。}
+{141}{}{电锯党就是一群混球。他们是热衷于杀戮和折磨的杂种。我尽量会离他们远一点，你也最好别惹他们。他们居然还在总部周围布上了可恶的地雷。}
 
 #{142}{}{The Gun Runners used to be a real gang, but they went soft. They started
 # setting up a deal where they trade weapons that they get from their victims or buy
@@ -151,14 +151,14 @@
 # a large library near the heart of the Boneyard. Why they haven't been wiped out
 # yet I can't say. They are lousy combatants and have no understanding of the real
 # world, but other than that they are polite and well-educated.}
-{143}{}{启示录信徒是一帮和平倡导者，他们住在晒骨场中心区的一所大图书馆里。我不知道为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
+{143}{}{末世论者是一帮和平倡导者，他们住在晒骨场中心区的一所大图书馆里。我不知道为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
 
 #{144}{}{The Boneyard is a pretty hostile place. I've never had the opportunity to
 # leave, though I suppose I'd take it. Let's see . . . just south of here you have
 # the Cathedral. There's some sort of cult there, but I stay away from them.
 # Something sinister is going on there. Also, I've heard about the trading center
 # called the Hub, and caravans occasionally show up, but I've never been there.}
-{144}{}{晒骨场是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众，我宁可离他们远一点。邪恶的东西在那里滋生。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃。}
+{144}{}{晒骨场是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众，我宁可离他们远一点。邪恶的东西在那里滋生。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃城。}
 
 #{145}{}{I don't plan to stay in this place too much longer, myself.}
 {145}{}{我也不打算一个人在这个城市长呆。}
@@ -185,7 +185,7 @@
 #{152}{}{This area's overrun with the three gangs - the Blades, Rippers, and Gun
 # Runners - as well as serving as home for the Followers and for my own home,
 # Adytum.}
-{152}{}{这个地区有三大帮派－－利刃邦，莱普士帮和军火商－－还有启示录信徒以及我的老家内城区。}
+{152}{}{这个地区有三大帮派－－利刃帮，电锯党和军火商－－还有末世论者以及我的老家内城区。}
 
 #{153}{}{All right, looks like we've got a little ass-kicking to do!}
 {153}{}{很好，似乎有不少烂人可以消遣呢。}
@@ -406,7 +406,7 @@
 
 #{1104}{}{The Followers of the Apocalypse preach peace and tolerance. Too bad it
 # just doesn't cut it in this world.}
-{1104}{}{启示录信徒们宣扬和平和忍耐，可惜在这样的世界，这些东西早就不流行了。}
+{1104}{}{末世论者们宣扬和平和忍耐，可惜在这样的世界，这些东西早就不流行了。}
 
 #{1105}{}{The Cathedral is a monumental structure south of Adytum by about a day's
 # walk or so. It's run by a weird cult that worships some sort of dark god.}
@@ -446,7 +446,7 @@
 {1116}{}{我知道的还不如你多。}
 
 #{1117}{}{You should go see the medic at the Followers if you need healing.}
-{1117}{}{如果受伤了，你应该去找启示录信徒的医生看看。}
+{1117}{}{如果受伤了，你应该去找末世论者的医生看看。}
 
 #{1118}{}{Weren't the Vaults like big underground shelters?}
 {1118}{}{避难所就像是地下的掩体啊。}
@@ -473,7 +473,7 @@
 {1125}{}{沙荫镇？没听说过。}
 
 #{1126}{}{The Hub's a huge trading center, with all sorts of stores and merchants.}
-{1126}{}{哈勃是大型交易中心，有各种店铺和商家。}
+{1126}{}{哈勃城是大型交易中心，有各种店铺和商家。}
 
 #{1127}{}{I don't know any more about that than you do.}
 {1127}{}{我知道的还不如你多。}
@@ -576,7 +576,7 @@
 
 #{1160}{}{She's the leader of the Followers. An intelligent woman, and good
 # hearted, too.}
-{1160}{}{他是启示录信徒的头儿，很聪明的女人，心很好。}
+{1160}{}{她是末世论者的头儿，很聪明的女人，心很好。}
 
 #{1161}{}{I don't know any more about that than you do.}
 {1161}{}{我知道的还不如你多。}

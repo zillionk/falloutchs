@@ -142,7 +142,7 @@
 
 #{143}{}{They have destroyed Shady Sands. They kill anyone in their path. I never
 # dreamt such ferocity existed. We are all doomed . . .}
-{143}{}{他们踏平了沙荫镇。他们一路不留活口。我没见过这么凶残的行径。我们都活不了了。}
+{143}{}{他们踏平了沙荫镇。他们一路不留活口。我没见过这么凶残的行径。我们都活不了了……}
 
 #{144}{}{Murdering dog!}
 {144}{}{杀人狂！}
