@@ -1,5 +1,5 @@
 # {100}{}{You see Jasmine。}
-{100}{}{你看到佳斯敏。}
+{100}{}{你看到茉莉。}
 # {101}{}{Excuse me, sir, this person is a member of one of the merchant guilds。}
 {101}{}{对不起，先生，这个人是某个商业公会的一员。}
 # {102}{}{Let me get this straight; you're shooting my boss and my friends, and you want to talk? Get bent!}
@@ -14,7 +14,7 @@
 # some minor traps, so be careful。 Here are some lockpicks and a couple of flares to make your job a little 
 # easier。。 And a bottle of Nuka-Cola。  Try not to kill Mr。 Hightower。  He's one of our "favorite" people。 You 
 # got all that?}
-{105}{}{欢迎来到盗贼之家，我是佳斯敏。我来是帮你更容易的潜入达伦·海托的宅邸。他的宅邸就座落在山上，至少有２个守卫２４小时值勤。项链很可能在保险箱里，上面可能还有几个捕获。这是几个开锁器和一对闪光弹,能让你的任务简单些。。。还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
+{105}{}{欢迎来到盗贼之家，我是茉莉。我来是帮你更容易的潜入达伦·海托的宅邸。他的宅邸就座落在山上，至少有２个守卫２４小时值勤。项链很可能在保险箱里，上面可能还有几个捕获。这是几个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
 # {106}{}{What do you mean by "favorite。"}
 {106}{}{“最喜爱”？你什么意思？}
 # {107}{}{Lockpicks and Flares? That's all。}
@@ -36,9 +36,9 @@
 # {117}{}{Hi again。 If you've got the necklace, you'll have to give it to Mr。 Loxley before # you get your reward。}
 {117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克斯尼先生才能拿到报酬。}
 # {118}{}{Well done, lad。  Here's your reward。  【Jasmine gives you 3000 bucks】}
-{118}{}{干的不错，小伙子，这是你的报酬。【佳斯敏给你３０００个瓶盖】}
+{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你３０００个瓶盖】}
 # {119}{}{Well done, miss。  Here's your reward。  【Jasmine gives you 3000 bucks】}
- {119}{}{干的不错，小妞，这是你的报酬。【佳斯敏给你３０００个瓶盖】}
+ {119}{}{干的不错，小妞，这是你的报酬。【茉莉给你３０００个瓶盖】}
 # {121}{}{By the way, here's a little something extra to help you out in your future　felonious forays。}
 {121}{}{顺便，送你点额外的小礼物，希望能在你日后杀人放火的时候用的着。}
 # {122}{}{Hello again。}
@@ -69,6 +69,6 @@
 # {133}{}{We warned you, but you didn't listen。 Too bad about that hearing problem。}
 {133}{}{我们警告过你，但你置若罔闻，听到发生这种事真是糟透了。}
 # {134}{}{Pfah! A real thief lives on her wits。 We're being generous with you miss。 Now scat!}
-{134}{}{哼，真正的盗贼是靠头脑混饭吃的，我们会对你客气点的小妞，现在快滚！}
+{134}{}{哼，真正的盗贼是靠头脑混饭吃的，我们会对你客气点的。小妞，现在快滚！}
 # {135}{}{【Jasmine hands you a set of Electronic Lockpicks】}
-{135}{}{【佳斯敏给你一个电子开锁器】}
+{135}{}{【茉莉给你一个电子开锁器】}

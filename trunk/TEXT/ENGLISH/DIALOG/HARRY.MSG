@@ -275,13 +275,13 @@
 #{1117}{Harry306}{Here, dummy. Hmpf. You stupid?}
 {1117}{Harry306}{这里，蠢货。哼。你白痴啊？}
 #{1118}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
-{1118}{}{他福管（副官），我的头儿。别告诉他。哈里在聊天。}
+{1118}{}{他福管【副官】，我的头儿。别告诉他。哈里在聊天。}
 #{1119}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
-{1119}{}{他福管（副官），我的头儿。别告诉他。哈里在聊天。}
+{1119}{}{他福管【副官】，我的头儿。别告诉他。哈里在聊天。}
 #{1120}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
-{1120}{}{他福管（副官），我的头儿。别告诉他。哈里在聊天。}
+{1120}{}{他福管【副官】，我的头儿。别告诉他。哈里在聊天。}
 #{1121}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
-{1121}{}{他福管（副官），我的头儿。别告诉他。哈里在聊天。}
+{1121}{}{他福管【副官】，我的头儿。别告诉他。哈里在聊天。}
 #{1122}{Harry200}{Not have to tell you anything!}
 {1122}{Harry200}{什么都不能告诉你！}
 #{1123}{Harry200}{Not have to tell you anything!}

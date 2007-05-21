@@ -1,5 +1,5 @@
 #{100}{}{You see Jain}
-{100}{}{你看见简恩。}
+{100}{}{你看见杰伊。}
 
 #{101}{JAIN00}{Why do you disturb an elder of the Cathedral?}
 {101}{JAIN00}{你为什么要来打扰一位大教堂高级牧师？}
@@ -14,13 +14,13 @@
 {104}{}{观光的。}
 
 #{105}{}{Mom?}
-{105}{}{妈米？}
+{105}{}{妈咪？}
 
 #{106}{JAIN01}{I am hardly your mother.}
 {106}{JAIN01}{我不是你妈妈。}
 
 #{107}{}{Nuh-uh?}
-{107}{}{不系？}
+{107}{}{不是？}
 
 #{108}{}{Poopie!}
 {108}{}{巴巴！}
@@ -65,7 +65,7 @@
 {121}{JAIN09}{从你的言辞中看不到一点悔改的意思，只有异端邪说，你会被净化的，然后永远地被人遗忘。}
 
 #{122}{JAIN10}{Then why are you here? What would bring you to the Children of the Cathedral?}
-{122}{JAIN10}{那你在这里做什么呢？你来我们教堂之子有何贵干？}
+{122}{JAIN10}{那你在这里做什么呢？你来我们大教堂有何贵干？}
 
 #{123}{}{I am a seeker of knowledge. I would like to learn more.}
 {123}{}{我是知识的追寻者，我想学习。}
@@ -77,13 +77,13 @@
 {125}{}{来随便看看。}
 
 #{126}{JAIN11}{Are you a Child?}
-{126}{JAIN11}{你是我们教堂之子的一员么？}
+{126}{JAIN11}{你是我们教徒的一员么？}
 
 #{127}{}{Lady, do I look that young to you?}
 {127}{}{老姐，你看我是那么年轻的人么？}
 
 #{128}{}{Am I one of the Children of the Cathedral? No.}
-{128}{}{我是不是教堂之子的一员？不是。}
+{128}{}{我是不是大教堂教徒的一员？不是。}
 
 #{129}{}{I am a devout believer.}
 {129}{}{我是一个虔诚的信徒。}
@@ -131,25 +131,25 @@
 {143}{}{对不起。}
 
 #{144}{JAIN18}{When the Children walk the reborn land, your kind will vanish, heretic. Leave now.}
-{144}{JAIN18}{当我们大教堂的孩子们在重生之地兴盛时，便是汝等杂碎消亡的时候，走开！}
+{144}{JAIN18}{当我们大教堂教徒在重生之地兴盛时，便是你们这些垃圾消亡的时候，走开！}
 
 #{145}{JAIN19}{I am not completely devoid of humor, but leading the Children is something I take seriously. Please remember that.}
-{145}{JAIN19}{我不是没有幽默感的人，但领导教堂之子是一个很严肃的事情，你要记住。}
+{145}{JAIN19}{我不是没有幽默感的人，但领导教徒是一个很严肃的事情，你要记住。}
 
 #{146}{}{Sorry, I'm not that familiar with the Children.}
-{146}{}{对不起，我对大教堂之子不是很熟悉。}
+{146}{}{对不起，我对教徒不是很熟悉。}
 
 #{147}{}{OK. Bye.}
 {147}{}{好吧，再见。}
 
 #{148}{JAIN20}{You are in the right place for spiritual fulfillment. The Children of the Cathedral seek a peaceful resolution of our world's problems and could use your help.}
-{148}{JAIN20}{这里就是精神“实现”的地方。教堂之子寻求世界问题的和平解决，你也许可以帮上点忙。}
+{148}{JAIN20}{这里就是精神“实现”的地方。教徒寻求世界问题的和平解决，你也许可以帮上点忙。}
 
 #{149}{}{What are the Children's plans for mutants?}
-{149}{}{教堂之子打算如何对待变种种族？}
+{149}{}{教徒打算如何对待变种种族？}
 
 #{150}{}{How can Children find peace in this wasteland?}
-{150}{}{教堂之子怎么样在荒原实现和平？}
+{150}{}{教徒怎么样在荒原实现和平？}
 
 #{151}{JAIN21}{Those that can be brought into the fold, shall be. Those that resist will suffer.}
 {151}{JAIN21}{那些愿意合作的可以在圈栏里苟活，那些抵抗的会很惨。}
@@ -167,7 +167,7 @@
 {155}{}{呃，我走了。}
 
 #{156}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
-{156}{JAIN22}{只要有坚定不移的信念，我们教堂之子就无往不利，我们不会失败的。}
+{156}{JAIN22}{只要有坚定不移的信念，我们教徒就无往不利，我们不会失败的。}
 
 #{157}{}{Good. I hope you don't.}
 {157}{}{好，我也希望你们不会失败。}
@@ -179,7 +179,7 @@
 {159}{}{好，再见。}
 
 #{160}{JAIN26}{Blasphemer! This is a Holy House! How could you think such a thing?}
-{160}{JAIN26}{亵渎者！这里是圣所！你怎么能想这些？}
+{160}{JAIN26}{亵渎者！这里是圣地！你怎么能想这些？}
 
 #{161}{}{Relax, I didn't mean it!}
 {161}{}{别紧张啊，我随口说的啊。}
@@ -197,10 +197,10 @@
 {165}{}{这个地方该生点火，暖和。}
 
 #{166}{}{And to you, Priestess Jain. Goodbye.}
-{166}{}{也祝福你，简恩牧师，再见了。}
+{166}{}{也祝福你，杰伊牧师，再见了。}
 
 #{167}{}{Ug luk to ruk?}
-{167}{}{啥猪啥？}
+{167}{}{什么猪？}
 
 #{168}{}{Ooook!}
 {168}{}{噢噢！}
@@ -260,7 +260,7 @@
 {186}{JAIN27}{愿圣火保佑你，我的孩子。}
 
 #{187}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
-{187}{JAIN22}{只要有坚定不移的信念，我们教堂之子就无往不利，我们不会失败的。}
+{187}{JAIN22}{只要有坚定不移的信念，我们教徒就无往不利，我们不会失败的。}
 
 #{188}{JAIN201}{That is not an appropriate question.}
 {188}{JAIN201}{这不是一个合适的问题。}

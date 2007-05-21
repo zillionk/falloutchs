@@ -3,7 +3,7 @@
 #{101}{}{Can I help you?}
 {101}{}{我能帮你吗？}
 #{102}{}{wHant see miStr tOwer!}
-{102}{}{想尖托先生！}
+{102}{}{我想见海托先生！}
 #{103}{}{Yes.  I'm here to see Mr. Hightower.}
 {103}{}{是的。我来见海托先生。}
 #{104}{}{I have an appointment with Mr. Hightower and I'm running very late.}
@@ -28,7 +28,7 @@
  Go on in.}
 {113}{}{哦，你这家伙有麻烦啦！海托先生讨厌赴约迟到的人！我要让他本人训你一顿。进去吧。}
 #{114}{}{You're not getting in here.  Beat it, skag!}
-{114}{}{你不能进去！滚开，烟屁股！}
+{114}{}{你不能进去！滚开，贱货！}
 #{115}{}{I don't want any trouble here, so you'd better leave now.}
 {115}{}{我不想有任何麻烦，所以你还是走吧。}
 #{116}{}{Get lost!}
