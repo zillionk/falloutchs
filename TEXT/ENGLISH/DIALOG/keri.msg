@@ -1,8 +1,8 @@
 #{100}{}{You see Keri.}
-{100}{}{Äã¿´¼û¿ËÀû¡£}
+{100}{}{Äã¿´¼û¿­Àû¡£}
 
 #{101}{}{Who the hell are you?  If you want a job you'll need to talk to Demetre.}
-{101}{}{ÄãËüÄïµÄÊÇË­£¿ÕÒ¹¤×÷È¥ºÍµÂÃ×´ŞËµ£¡}
+{101}{}{ÄãËüÄïµÄÊÇË­£¿ÕÒ¹¤×÷È¥ºÍ´÷Ã×µÂËµ£¡}
 
 #{102}{}{I said to talk to my dad if you want a job, not me.}
 {102}{}{ÎÒËµ¹ıÁË£¬ÕÒ¹¤×÷µÄ»°È¥ºÍÎÒ°Ö°ÖËµ£¬±ğ·³ÎÒ¡£}
@@ -11,13 +11,13 @@
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{103}{}{ÀÏÔÓËé¾ÓÈ»Í¬ÒâÄãÀ´¸É»îÁË£¿ÄãËûÂèµÄÒ»¶¨ÊÇ¸öºÜÄÍ²ÙµÄæ»×Ó°¡¡£ÎÒºÜĞÀÉÍ£¬µ«Òª¿´ÄãµÄ±íÏÖÁË¡£ÎÒÃÇÃ¿¸öÔÂ³ö·¢Á½´Î£¬3ºÅºÍ17ºÅ£¬ÄãÄÜÀ´°É¡£ÎÒÃÇÈ¥ËÄ¸öÖ÷ÒªÃ³Ò×µã£º¸ÖÌúĞÖµÜ»á¡¢åÈ¿ËÕò¡¢´óÄ¹µØºÍÉ¹¹Ç³¡¡£}
+{103}{}{ÀÏÔÓËé¾ÓÈ»Í¬ÒâÄãÀ´¸É»îÁË£¿ÄãËûÂèµÄÒ»¶¨ÊÇ¸öºÜÄÍ²ÙµÄæ»×Ó°¡¡£ÎÒºÜĞÀÉÍ£¬µ«Òª¿´ÄãµÄ±íÏÖÁË¡£ÎÒÃÇÃ¿¸öÔÂ³ö·¢Á½´Î£¬£³ºÅºÍ£±£·ºÅ£¬ÄãÄÜÀ´°É¡£ÎÒÃÇÈ¥ËÄ¸öÖ÷ÒªÃ³Ò×µã£º¸ÖÌúĞÖµÜ»á¡¢åÈ¿ËÕò¡¢´óÄ¹µØºÍÉ¹¹Ç³¡¡£}
 
 #{104}{}{So, that old bastard gave you the okay to work for us, eh?  Well you must have balls of steel.
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{104}{}{ÀÏÔÓËé¾ÓÈ»Í¬ÒâÄãÀ´¸É»îÁË£¿ÄãËûÂèµÄÒ»¶¨ÊÇ¸öºÜµõµÄÄñ¸ç°¡¡£ÎÒºÜĞÀÉÍ£¬µ«Òª¿´ÄãµÄ±íÏÖÁË¡£ÎÒÃÇÃ¿¸öÔÂ³ö·¢Á½´Î£¬3ºÅºÍ17ºÅ£¬ÄãÄÜÀ´°É¡£ÎÒÃÇÈ¥ËÄ¸öÖ÷ÒªÃ³Ò×µã£º¸ÖÌúĞÖµÜ»á¡¢åÈ¿ËÕò¡¢´óÄ¹µØºÍÉ¹¹Ç³¡¡£}
+{104}{}{ÀÏÔÓËé¾ÓÈ»Í¬ÒâÄãÀ´¸É»îÁË£¿ÄãËûÂèµÄÒ»¶¨ÊÇ¸öºÜµõµÄÄñ¸ç°¡¡£ÎÒºÜĞÀÉÍ£¬µ«Òª¿´ÄãµÄ±íÏÖÁË¡£ÎÒÃÇÃ¿¸öÔÂ³ö·¢Á½´Î£¬£³ºÅºÍ£±£·ºÅ£¬ÄãÄÜÀ´°É¡£ÎÒÃÇÈ¥ËÄ¸öÖ÷ÒªÃ³Ò×µã£º¸ÖÌúĞÖµÜ»á¡¢åÈ¿ËÕò¡¢´óÄ¹µØºÍÉ¹¹Ç³¡¡£}
 
 #{105}{}{And the pay?}
 {105}{}{±¨³êÈçºÎ£¿}
@@ -25,10 +25,10 @@
 #{106}{}{Uh.}
 {106}{}{ÎØ¡£}
 
-#{107}{}{Our pay's the best, 600 scripts, and yes, that is for each way… but you don't have to do both.  This
-# is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders… or worse.  We'll have no
+#{107}{}{Our pay's the best, 600 scripts, and yes, that is for each way?but you don't have to do both.  This
+# is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders?or worse.  We'll have no
 # sissies on my caravans and you better have plenty of ammo.}
-{107}{}{ÎÒÃÇµÄĞ½Ë®×î¸ß¡£600¿é£¬Ã»´í£¬µ¥³Ì600¿é¡£²»¹ı£¬ÄãÒ²²»±ØÀ´»Ø¶¼¸ú×Å¡£ÉÌ¶ÓµÄÂÃĞĞÊÇºÜÎ£ÏÕµÄ£¬¿Ï¶¨»áÓö¼ûÇ¿µÁµÄ»òÕß¸ü¿ÉÅÂµÄ¶«Î÷¡£ÎÒÃÇµÄ¶ÓÎéÀïÃ»ÓĞµ¨Ğ¡¹í£¬Äã×îºÃ´ø×ãµ¯Ò©¡£}
+{107}{}{ÎÒÃÇµÄĞ½Ë®×î¸ß¡££¶£°£°¿é£¬Ã»´í£¬µ¥³Ì£¶£°£°¿é¡£²»¹ı£¬ÄãÒ²²»±ØÀ´»Ø¶¼¸ú×Å¡£ÉÌ¶ÓµÄÂÃĞĞÊÇºÜÎ£ÏÕµÄ£¬¿Ï¶¨»áÓö¼ûÇ¿µÁµÄ»òÕß¸ü¿ÉÅÂµÄ¶«Î÷¡£ÎÒÃÇµÄ¶ÓÎéÀïÃ»ÓĞµ¨Ğ¡¹í£¬Äã×îºÃ´ø×ãµ¯Ò©¡£}
 
 #{108}{}{ We're leaving today.  Are you interested?}
 {108}{}{ÎÒÃÇ½ñÌì×ß£¬ÄãÓĞĞËÈ¤Ã´£¿}
@@ -76,9 +76,9 @@
 #{123}{}{Ug.}
 {123}{}{ÎØ¡£}
 
-#{124}{}{Ha, I thought you were a coward!  Well… if you brave'n up, stop by and I might still give you a job. We
+#{124}{}{Ha, I thought you were a coward!  Well?if you brave'n up, stop by and I might still give you a job. We
 # leave on the 3rd and 17th, you can just show up that day if you like.  We can always use more guns.}
-{124}{}{¹ş£¬ÎÒ»¹ÒÔÎªÄãÊÇ¸öµ¨Ğ¡¹íµÄ£¡ÄÇÃ´£¬Èç¹ûÄã¹»ÖÖ£¬ÏÂ´ÎÀ´ÕÒÎÒ£¬ÎÒ¸øÄã¹¤×÷¡£ÎÒÃÇÃ¿¸öÔÂ3ºÅºÍ17ºÅ³ö·¢£¬ÄãÄÇÌìÀ´¾ÍÊÇÁË¡£ÎÒÃÇ´ÓÀ´¶¼ÊÇĞèÒªÈË²ÅµÄ¡£}
+{124}{}{¹ş£¬ÎÒ»¹ÒÔÎªÄãÊÇ¸öµ¨Ğ¡¹íµÄ£¡ÄÇÃ´£¬Èç¹ûÄã¹»ÖÖ£¬ÏÂ´ÎÀ´ÕÒÎÒ£¬ÎÒ¸øÄã¹¤×÷¡£ÎÒÃÇÃ¿¸öÔÂ£³ºÅºÍ£±£·ºÅ³ö·¢£¬ÄãÄÇÌìÀ´¾ÍÊÇÁË¡£ÎÒÃÇ´ÓÀ´¶¼ÊÇĞèÒªÈË²ÅµÄ¡£}
 
 #{125}{}{You just love to waste my time, don't you.}
 {125}{}{ÄãÊÇ²»ÊÇÏëÀË·ÑÎÒÊ±¼ä°¡¡£}
@@ -95,22 +95,22 @@
 #{129}{}{I said to lay off the drugs, bitch!}
 {129}{}{ĞÑĞÑÄãµÄ¶¾£¡}
 
-#{130}{}{Well now… I hate to say it but… I've heard of you.  Are you as tough in private as in public?  Let's
-# see… (She leads you around a corner)}
-{130}{}{ÄÇÃ´¡­¡­Õâ¸ö¡­¡­ÎÒÌıËµ¹ıÄã¡£ÄãË½µ×ÏÂÒ²ºÍÄãÔÚÍâÃæÄÇÑùÇ¿º·Ã´£¿ÎÒÃÇÊÔÊÔ£¿£¨Ëı°ÑÄãÁìµ½ÁËÒ»¸öÎŞÈËµÄµØ·½£©}
+#{130}{}{Well now?I hate to say it but?I've heard of you.  Are you as tough in private as in public?  Let's
+# see?(She leads you around a corner)}
+{130}{}{ÄÇÃ´¡­¡­Õâ¸ö¡­¡­ÎÒÌıËµ¹ıÄã¡£ÄãË½µ×ÏÂÒ²ºÍÄãÔÚÍâÃæÄÇÑùÇ¿º·Ã´£¿ÎÒÃÇÊÔÊÔ£¿¡¾Ëı°ÑÄãÁìµ½ÁËÒ»¸öÎŞÈËµÄµØ·½¡¿}
 
 #{131}{}{(On the way back she slips you a few things.)}
-{131}{}{£¨»ØÀ´µÄÂ·ÉÏ£¬ËıÈû¸øÁËÄãÒ»µã¶«Î÷¡££©}
+{131}{}{¡¾»ØÀ´µÄÂ·ÉÏ£¬ËıÈû¸øÁËÄãÒ»µã¶«Î÷¡£¡¿}
 
 #{132}{}{Well, you can last for QUITE a while.}
 {132}{}{°¡£¬ÄãÕæÊÇÄÜ¼á³ÖºÃ³¤Ò»»áÄØ¡£}
 
-#{133}{}{Well, you ‘are' interesting and ‘very' different from most people… show me what you've got tough guy.
+#{133}{}{Well, you ‘are' interesting and ‘very' different from most people?show me what you've got tough guy.
 # (She leads you around a corner)}
-{133}{}{ÄãÊÇ¸öºÜÓĞÈ¤µÄÈË£¬ºÍÆäËûÈË²»Ò»Ñù°É£¿ÈÃÎÒÀ´¿´¿´ÄãµÄÄÜÄÍ£¬°ôĞ¡»ï¡££¨Ëı°ÑÄãÁìµ½ÁËÒ»¸öÎŞÈËµÄµØ·½£©}
+{133}{}{ÄãÊÇ¸öºÜÓĞÈ¤µÄÈË£¬ºÍÆäËûÈË²»Ò»Ñù°É£¿ÈÃÎÒÀ´¿´¿´ÄãµÄÄÜÄÍ£¬°ôĞ¡»ï¡£¡¾Ëı°ÑÄãÁìµ½ÁËÒ»¸öÎŞÈËµÄµØ·½¡¿}
 
 #{134}{}{(One the way back she slips you a few things.)}
-{134}{}{£¨»ØÀ´µÄÂ·ÉÏ£¬ËıÈû¸øÁËÄãÒ»µã¶«Î÷¡££©}
+{134}{}{¡¾»ØÀ´µÄÂ·ÉÏ£¬ËıÈû¸øÁËÄãÒ»µã¶«Î÷¡£¡¿}
 
 #{135}{}{Well, you can last for QUITE a while.}
 {135}{}{°¡£¬ÄãÕæÊÇÄÜ¼á³ÖºÃ³¤Ò»»áÄØ¡£}
@@ -140,7 +140,7 @@
 #{143}{}{Hey Pops, this dumb shit didn't learn a lesson the first time. He tried to steal from me again. Let's pummel him.}
 {143}{}{µÜĞÖÃÇ£¬Õâ¼Ò»ï²»³¤¼ÇĞÔ£¬ËûÓÖÏëÍµÎÒµÄ¶«Î÷£¬×áËû£¡}
 
-#{144}{}{Well… I know how easy it is to be tempted to steal, but… Hell, I'll give you a chance.  Don't show your
+#{144}{}{Well?I know how easy it is to be tempted to steal, but?Hell, I'll give you a chance.  Don't show your
 # face around here again and I won't call the cops.  Now beat it.}
 {144}{}{àÅ£¬ÎÒÖªµÀÄãµÄÊÖ·¸¼ú£¬ÎÒÔÙ¸øÄãÒ»´Î»ú»á£¬¸Ï½ô´ÓÎÒÑÛÇ°ÏûÊ§£¬Òª²»ÎÒº°¾¯²ìÁË£¬¹ö£¡}
 
@@ -221,7 +221,7 @@
 #{171}{}{Cool, it'll just take a few minutes to get the psychos together.}
 {171}{}{ºÃ£¬ÔÙµÈ¼¸·ÖÖÓ£¬ËùÓĞ·è×Ó¾Í»á¼¯ºÏÍê±Ï¡£}
 
-#{172}{}{Brotherhood of Steel, here we come! Well… I'm not going with you, but you know what I mean.}
+#{172}{}{Brotherhood of Steel, here we come! Well?I'm not going with you, but you know what I mean.}
 {172}{}{¸ÖÌúĞÖµÜ»á£¡ÎÒÃÇÀ´Ò²£¡ËäÈ»ÎÒ²»¸úÄãÈ¥£¬µ«ÊÇÄãÖªµÀÎÒÒª±í´ïµÄÒâË¼ÊÇ°É¡£}
 
 #{173}{}{Okay, get out of my face already.  Those Brotherhood fanatics are waiting for you.}
@@ -287,7 +287,7 @@
 #{192}{}{I'm lucky?  You're lucky I don't pound your face in!}
 {192}{}{ÎÒÒªÇìĞÒ£¿Äã²ÅÓ¦¸ÃÇìĞÒÎÒÃ»°ÑÄãÁ³º»±âÁË£¡}
 
-#{193}{}{Hey!  I had places to go and… stuff!}
+#{193}{}{Hey!  I had places to go and?stuff!}
 {193}{}{ºÙ£¬ÎÒÓĞµØ·½ÒªÈ¥£¬ÎÒÒ²ÓĞÊÂÇéÒª×öµÄÂï¡£}
 
 #{194}{}{Hey!  You didn't say I couldn't leave!  It's not like they were in the middle of combat.}
@@ -341,6 +341,7 @@
 {209}{}{ºÙ£¬ÄãÀ´ÔçÁË¡£ÏÂ´Î³ö·¢µÄÊ±¼äÊÇ}
 
 {210}{}{3ºÅ}
+
 {211}{}{17ºÅ}
 
 #{212}{}{. Come back then if you still want the damn job.  I really don't care if you show or not.  But if you
