@@ -2,7 +2,7 @@
 {100}{}{你看见一个尖嘴猴腮的年轻人。}
 
 #{101}{}{You see Jason Zimmerman.}
-{101}{}{你看见杰森·齐默曼。}
+{101}{}{你看见贾森·齐默曼。}
 
 #{102}{}{Hey, are you from really far away? Have you had a lot
 # of adventures?}
@@ -12,7 +12,7 @@
 {103}{}{是的，我是从北方的避难所来的。}
 
 #{104}{}{Actually, I'm from Mars. Want to see my firelance?}
-{104}{}{实际上，我是从火星来的。想看看我的火焰长枪么？}
+{104}{}{实际上，我是从火星来的。想看看我的火焰长枪吗？}
 
 #{105}{}{I've had some adventures.}
 {105}{}{我是经历了不少事情。}
@@ -21,7 +21,7 @@
 {106}{}{其实没经历过什么。}
 
 #{107}{}{Uh, far. Vault.}
-{107}{}{呃，远远的，逼难锁。}
+{107}{}{呃，远远的，逼难所。}
 
 #{108}{}{Oh. I thought someone who'd been through the wastes
 # outside would be, well, smarter. Never mind.}
@@ -31,7 +31,7 @@
 # he can get the farms working, so that we don't have to
 # sell bullets to the Hub. I never thought much about it
 # until Smitty pointed out that the bullets he made were }
-{109}{}{麦尔斯说你替他找到了零件，他可以让农田运作起来了，我们不必再卖子弹给哈勃城了。我以前从来没有考虑过这件事情，后来是施密提说他造的子弹被}
+{109}{}{麦尔斯说你替他找到了零件，他可以让农田运作起来了，我们不必再卖子弹给哈勃城了。我以前从来没有考虑过这件事情，后来是施密蒂说他造的子弹被}
 
 #{110}{}{sold to the Hub, who sold them to the gangs. I guess you
 # found a good solution.}
@@ -73,13 +73,13 @@
 {119}{}{有个名人说过：“冒险就是某些人在很远的地方遭罪。”}
 
 #{120}{}{Huh. The Hub merchants talk about radscorpions and stuff.}
-{120}{}{呵，哈勃的商人说起过辐射蝎之类的东西。}
+{120}{}{呵，哈勃城的商人说起过辐射蝎之类的东西。}
 
 #{121}{}{Actually, it's mostly just desert.}
 {121}{}{实际上，看到的主要都是荒漠。}
 
 #{122}{}{Well, actually, there are all sorts of monsters out there.}
-{122}{}{世纪上，外面全是各种怪兽。}
+{122}{}{事实上，外面全是各种怪兽。}
 
 #{123}{}{Really? What kinds of monsters have you fought?}
 {123}{}{是吗？你和哪些怪物干过架？}
@@ -90,7 +90,7 @@
 #{125}{}{Yeah, the Hub guards said that there are lots of radioactive
 # mutant things living in the desert. Monster hunting must be
 # a real blast!}
-{125}{}{是啊，哈勃来的保镖说荒漠里有很多辐射异变的怪物，杀怪物肯定是一个很刺激的事情！}
+{125}{}{是啊，哈勃城来的保镖说荒漠里有很多辐射变异的怪物，杀怪物肯定是一个很刺激的事情！}
 
 #{126}{}{Yes, it's a real kick!}
 {126}{}{对，很爽的。}
@@ -113,7 +113,7 @@
 
 #{131}{}{What, are you some kind of weirdo or something? Caleb never
 # should have let you in the gates!}
-{131}{}{什么，你是变态么？卡勒布是怎么让你进城门的？！}
+{131}{}{什么，你是变态吗？凯来布是怎么让你进城门的？！}
 
 #{132}{}{That's cool. All we have here is this stupid well
 # and those underground farms that Miles keeps trying
@@ -163,7 +163,7 @@
 #{146}{}{I thought that it would be fun to leave Adytum and
 # explore the world. But the Rippers caught me and
 # have been holding me here. Please, help me!}
-{146}{}{我想离开内城区出去冒险是一件很好玩的事情。但是莱普士帮抓住了我，把我关在这里，拜托，帮帮我！}
+{146}{}{我想离开内城区出去冒险是一件很好玩的事情。但是电锯党抓住了我，把我关在这里，拜托，帮帮我！}
 
 #{147}{}{All right, let's get out of here!}
 {147}{}{好吧，我们一起出去！}

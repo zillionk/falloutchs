@@ -37,7 +37,7 @@
 
 #{112}{}{ before we can heal you.
 # Is this acceptable?}
-{112}{}{ 才能给你治伤。可以么？}
+{112}{}{ 块才能给你治伤。可以么？}
 
 #{113}{}{Yes.}
 {113}{}{好。}
@@ -74,7 +74,7 @@
 
 #{124}{}{You do not have enough money. If you donate all you can, we
 # will heal you. Is this acceptable?}
-{124}{}{你的钱不够，那你捐出所有的钱，我们还是愿意给你治疗的，可以么？}
+{124}{}{你的钱不够，那你捐出所有的钱，我们还是愿意给你治疗的，可以吗？}
 
 #{125}{}{Yes.}
 {125}{}{好。}
@@ -83,7 +83,7 @@
 {126}{}{不。}
 
 #{127}{}{If you donate all you can, we will heal you. Is this acceptable?}
-{127}{}{捐出你所有的钱，我们就给你治疗的，可以么？}
+{127}{}{捐出你所有的钱，我们就给你治疗的，可以吗？}
 
 #{128}{}{Yes.}
 {128}{}{好。}

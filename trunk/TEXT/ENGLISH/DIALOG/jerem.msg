@@ -82,7 +82,7 @@
 
 #{126}{}{I transfer the human purity reports for the surrounding areas. But
 # you should know this. 【looking suspicious】 Who are you?}
-{126}{}{我负责递送周边地区人类基因纯度的报告。你应该知道的。（可疑地看着你）你是谁？}
+{126}{}{我负责递送周边地区人类基因纯度的报告。你应该知道的。【可疑地看着你】你是谁？}
 
 #{127}{}{I was sent here by Morpheus with a message for the Master.}
 {127}{}{我是墨菲斯派来给主教送信的。}
@@ -255,7 +255,7 @@
 {179}{}{没事，多谢。}
 
 #{180}{}{I would like to ask you a few more questions, brother.}
-{180}{}{我还想问你几个问题？、。}
+{180}{}{我还想问你几个问题，兄弟。}
 
 #{181}{}{Yes, and a very important job it is. And do you understand the
 # importance of your duties to the Master and all of us?}
@@ -265,7 +265,7 @@
 # untainted humans untouched by radiation. I was the one who brought the
 # Master the final news of a possible Lost Vault. It may still have pure-strain
 # humans in it.}
-{182}{}{当然。我随时向主教带来最新最新的未受辐射的纯种人类。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能存有纯种人类。}
+{182}{}{当然。我随时向主教带来最新的未受辐射的纯种人类。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能有纯种人类存在。}
 
 #{183}{}{Yes, my brother. You do understand. Thank you. That is all.}
 {183}{}{好，看来你是明白的，就这样了。}

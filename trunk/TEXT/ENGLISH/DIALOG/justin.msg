@@ -1,5 +1,5 @@
 #{100}{}{You see Sheriff Justin Greene.}
-{100}{}{你看见治安警长贾斯丁·格林。}
+{100}{}{你看见治安警长贾斯丁·格瑞。}
 
 #{101}{}{Awe, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me
 # from blowing you away on the spot. I suggest you leave our town--Right now. And stay away from our children.}
@@ -7,26 +7,26 @@
 
 #{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{102}{}{你好，先生！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
+{102}{}{你好，先生！我是贾斯丁·格瑞，这个城市的警长。我能帮你什么么？}
 
 #{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{103}{}{你好，女士！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
+{103}{}{你好，女士！我是贾斯丁·格瑞，这个城市的警长。我能帮你什么么？}
 
 #{104}{}{Well, spit it out!}
-{104}{}{说出来！}
+{104}{}{很好，说出来！}
 
 #{105}{}{Decker tried to hire me to kill some merchant and his wife.}
 {105}{}{德克要我去杀一个商人和商人的老婆！}
 
 #{106}{}{Decker tried to hire me to kill someone named Jain.}
-{106}{}{德克要我去杀简恩！}
+{106}{}{德克要我去杀杰伊！}
 
 #{107}{}{Nothing, sorry.}
 {107}{}{没事，对不起。}
 
 #{108}{}{Sorry, I can't tell you. I'd be dead.}
-{108}{}{对不起，我不能告诉你，我会死菜的。}
+{108}{}{对不起，我不能告诉你，我会死的。}
 
 #{109}{}{Well, thank you. We try our best. It's really tough in a city this size, but we do the best we can with
 # what we've got. It's hard when the thugs have better firepower than you do.}
@@ -120,7 +120,7 @@
 {135}{}{他没有做任何事情。}
 
 #{136}{}{We were in the Falcon, and there were a lot of people around.}
-{136}{}{我们当时在马耳他之鹰酒吧，好多人在场。}
+{136}{}{我们当时在马耳他猎鹰酒吧，好多人在场。}
 
 #{137}{}{I'm sorry. Decker's been playing us all against each other for years. I don't know who to trust any more.
 # I really could use your help, though. It'll be rough, but I'll pay you 1300 scripts. 300 now and 1000 when
@@ -236,7 +236,7 @@
 #{172}{}{Man, that was one hell of a battle!  You did well in there.  Now that Decker and Kane are gone the rest of the
 # Underground will fall very shortly.  Without leadership, organizations like that can't last.  Nobody around here is smart
 # enough to take up the reigns.}
-{172}{}{老天，这真是一场好斗啊！你干得不错。德克和凯恩死了，匪徒也会很快树倒猢狲散的。没有领导的组织是不长久的。没有人敢出头当新老板。}
+{172}{}{老天，这真是一场好斗啊！你干得不错。德克和肯恩死了，匪徒也会很快树倒猢狲散的。没有领导的组织是不长久的。没有人敢出头当新老板。}
 
 #{173}{}{Well, here's the rest of your reward.  Thanks again for your help.  This city owes you a debt of gratitidue.
 #  【The Sheriff hands you 1000 caps】}
