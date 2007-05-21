@@ -59,7 +59,7 @@
 {116}{}{你有什么要汇报？}
 
 #{117}{}{I've found a base guarded by heavily armed mutants. It looks pretty bad.}
-{117}{}{我发现了一个由全副武装变种人守卫的基地。它看相当不好。}
+{117}{}{我发现了一个由全副武装变种人守卫的基地。它看起来相当不好。}
 
 #{118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and
 # don't come back until you have a FULL report.}
@@ -160,7 +160,7 @@
 {146}{}{坦白说，你的报告未能证明他们对我们的威胁。你有什么证据能够表明他们怀有敌意。}
 
 #{147}{}{They have invaded Necropolis. They won't stop there. }
-{147}{}{他们侵略了大墓地。他们不会停在那里。}
+{147}{}{他们侵略了大墓地。他们不会停留在那里。}
 
 #{148}{}{They are gathering an army. A heavily armed army. They certainly aren't
 # going to just parade around. They intend to use it.}
@@ -199,7 +199,7 @@
 
 #{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{157}{}{好吧。你将在军事基地和我为你挑选的三名圣骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
+{157}{}{好吧。你将在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
 
 #{158}{}{If they are being led by a group out of the Boneyard Cathdral, then chances are
 # they have a small army down there as well. }
@@ -210,18 +210,18 @@
 {159}{}{如果我们从北方带他们出去，那我们的南边会很容易受到攻击。我只能尽量在这留一些人。}
 
 #{160}{}{Give me a few Paladins to take out their base to the north.}
-{160}{}{给我几名圣骑士去攻取他们的北方基地。}
+{160}{}{给我几名骑士去攻取他们的北方基地。}
 
 #{161}{}{Give me a few Paladins to take out their base to the south.}
-{161}{}{给我几名圣骑士去攻取他们的南方基地。}
+{161}{}{给我几名骑士去攻取他们的南方基地。}
 
 #{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard
 # Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名圣骑士汇合，他们能帮助你进入。元老，谢谢你们花的时间。好运。}
+{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，谢谢你们花的时间。好运。}
 
 #{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{163}{}{好吧。你将在军事基地和我为你挑选的三名圣骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
+{163}{}{好吧。你将在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
 
 #{164}{}{Obviously we made a mistake. Elders, I am sorry for wasting your time. Would someone
 # please remove this mental abomination?}
@@ -234,4 +234,4 @@
 {166}{}{因为你得到钢铁兄弟会的帮助，你获得了}
 
 #{167}{}{ experience points for convincing the Brotherhood to help.}
-{167}{}{经验值。}
+{167}{}{点经验值。}

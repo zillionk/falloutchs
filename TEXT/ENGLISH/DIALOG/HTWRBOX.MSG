@@ -7,7 +7,7 @@
 #{103}{}{While opening the strongbox, you detected and disarmed a trap.}
 {103}{}{开保险柜时，你发现并解除了一个陷阱。}
 #{104}{}{While opening the strongbox, you detected a trap, but accidentally set it off.}
-{104}{}{开保险柜时，你发现了一个陷阱，但是以外地触发了。}
+{104}{}{开保险柜时，你发现了一个陷阱，但是意外的触发了。}
 #{105}{}{While opening the strongbox, you detected a trap, but failed to disarm it.}
 {105}{}{开保险柜时，你发现了一个陷阱，但是没能解除它。}
 #{106}{}{The strongbox is already unlocked.}
@@ -25,7 +25,7 @@
 #{112}{}{You find a trap on the strongbox.}
 {112}{}{你在保险柜上发现一个陷阱。}
 #{113}{}{While searching the strongbox for traps, you accidentally set one off.}
-{113}{}{你在保险柜上搜索陷阱时触意外发了一个陷阱。}
+{113}{}{你在保险柜上搜索陷阱时意外的触发了一个陷阱。}
 #{114}{}{You find nothing while searching the strongbox for traps.}
 {114}{}{你在保险柜上没找到任何陷阱。}
 #{115}{}{You successfully disarmed the trap.}

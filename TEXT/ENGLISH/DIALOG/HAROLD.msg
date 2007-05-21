@@ -60,7 +60,7 @@
 {125}{}{多少钱？}
 #{126}{HROLD8}{
 #Gangers got'em.  Scavengers attacking the caravans.  And mutants, son of a dog, if they weren't springing up like rabbits with a mission. 【cough】 Had to have an army of guards with, just to do a deal.}
-{126}{HROLD8}{这个是工头给我的。那时流浪者袭击了商队。那些僵尸，狗娘养的，他们跑的比兔子还快。【咳嗽】真该让让军队来护送，来做交易吧。}
+{126}{HROLD8}{这个是工头给我的。那时流浪者袭击了商队。那些僵尸，狗娘养的，他们跑的比兔子还快。【咳嗽】真该让军队来护送，来做交易吧。}
 #{127}{}{Didn't the guards help?}
 {127}{}{警卫帮忙了吗？}
 #{128}{}{Where were the mutants coming from?}

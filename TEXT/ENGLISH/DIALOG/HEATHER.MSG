@@ -3,7 +3,7 @@
 # job of confusing the matter for people. Elusive and evasive. She will play
 # on anything that you give her to work with.
 
-{100}{}{你看见末世论的哨兵希瑟。}
+{100}{}{你看见末世论者的哨兵希瑟。}
 {101}{}{你在干什么？}
 {102}{}{见鬼！}
 # moronic line for This

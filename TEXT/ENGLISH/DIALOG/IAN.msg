@@ -140,7 +140,7 @@
 # Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west.
 # It's smaller, but still a good place to drop in for a drink. It's overseen by a
 # fellow by the name of Killian Darkwater, the local shopkeeper, sheriff, and mayor.}
-{139}{}{哈勃城是位于沙荫镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安．达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
+{139}{}{哈勃城是位于沙荫镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安·达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
 
 #{140}{}{Thanks.}
 {140}{}{谢谢。}
@@ -161,7 +161,7 @@
 {144}{}{嗯，没事。别担心，伊恩。}
 
 #{145}{}{You can leave now.}
-{145}{}{ 你现在可以离开了。}
+{145}{}{你现在可以离开了。}
 
 #{146}{}{Can you give me directions to the Hub and Junktown?}
 {146}{}{你能指引我怎么去哈勃城和迦克镇吗？}
@@ -235,7 +235,7 @@
 
 #{167}{}{Ah, now the Maltese Falcon is the place to be. Good music, good drinks,
 # and good company.}
-{167}{}{啊哈，这里就是马耳它之鹰。上等的音乐，上等的美酒，还有上等的伙伴。}
+{167}{}{啊哈，这里就是马耳他猎鹰。上等的音乐，上等的美酒，还有上等的伙伴。}
 
 #{168}{}{That is one ugly son of a bitch!}
 {168}{}{你他妈狗娘养的杂种！}
@@ -378,7 +378,7 @@
 #{1104}{}{The Hub is the biggest trading center in the New West. It's run primarily
 # by a group called the Water Merchants, but there are some other traders there, too.
 # It's a booming town, but there's a lot of political fighting between the traders.}
-{1104}{}{哈勃城是西方最大的贸易中心。它主要是由一伙称为水商人的团体管理，但那里也有其它一些商人，它是一个急速发展城镇，但是在商人之间有许多政治上的争斗}
+{1104}{}{哈勃城是西方最大的贸易中心。它主要是由一伙称为水商人的团体管理，但那里也有其它一些商人，它是一个急速发展城镇，但是在商人之间有许多政治上的争斗。}
 
 #{1105}{}{There are several different groups of raiders out there. The most organized
 # group is called the Khans; they seem to think they can conquer the world or

@@ -1,8 +1,8 @@
 #{100}{}{You see Jake of the Followers.}
-{100}{}{你看见启示录信徒杰克。}
+{100}{}{你看见末世论者信徒杰克。}
 
 #{101}{}{You see a Follower of the Apocalypse.}
-{101}{}{你看见启示录的一名信徒。}
+{101}{}{你看见末世论者的一名信徒。}
 
 #{102}{}{Welcome, my friend! How might I help you today?}
 {102}{}{欢迎，我的朋友！你想要什么？}
@@ -17,7 +17,7 @@
 {105}{}{听说你们需要帮忙。有什么麻烦事？}
 
 #{106}{}{What can you tell me about the Followers?}
-{106}{}{你能说说启示录信徒的事情么？}
+{106}{}{你能说说末世论者信徒的事情么？}
 
 #{107}{}{You want to help. I don't think you are good enough to
 # help me out. Go talk to Neil.}
@@ -28,20 +28,20 @@
 {108}{}{我也想和你来一架，但是我还要帮妮可尔做很多事情。}
 
 #{109}{}{Figures. You looked like a wimp to me anyways.}
-{109}{}{没错，你看起来就是一个杂鱼啊。}
+{109}{}{没错，你看起来就是一个垃圾啊。}
 
 #{110}{}{Suit yourself. Good bye.}
 {110}{}{随你了，再见。}
 
 #{111}{}{How did a wimp like you become second in command?}
-{111}{}{你这样一个杂鱼怎么能当了二把手呢？}
+{111}{}{你这样一个垃圾怎么能当了二把手呢？}
 
 #{112}{}{Hey. Just because I don't want to fight doesn't mean I'm a
 # wimp. I just don't feel like it.}
 {112}{}{嘿，我不想和你打不代表我就怕了你，我现在没心情。}
 
 #{113}{}{I was right. Just a wimp.}
-{113}{}{我说的没错，你就是杂鱼。}
+{113}{}{我说的没错，你就是垃圾。}
 
 #{114}{}{Some of us will use our brains to get further in this world.
 # A lot can be settled with peace and thinking.}

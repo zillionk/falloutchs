@@ -39,7 +39,7 @@
 #{119}{}{It's been a pleasure meeting you }
 {119}{}{见到你很高兴}
 #{120}{}{.  Now my assistant Leon will see you out of my home.}
-{120}{}{。现在我的助手李昂会送你走的。}
+{120}{}{。现在我的助手利昂会送你走的。}
 #{121}{}{I don't know any Bob, but I'll take the 100 caps and you can leave.}
 {121}{}{我不认识任何叫鲍勃的，但是我将收下这１００瓶盖，你可以离开了。}
 #{122}{}{Go to hell!}

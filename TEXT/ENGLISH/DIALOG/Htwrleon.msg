@@ -14,7 +14,7 @@
 {104}{}{我来干吗关你什么事情？}
 
 #{105}{}{Ok.  But I'm watching you.  He's in his office.}
-{105}{}{好吧，但是我得盯着你。他在办公室里}
+{105}{}{好吧，但是我得盯着你。他在办公室里。}
 
 #{106}{}{Thank you.}
 {106}{}{谢谢。}
@@ -35,7 +35,7 @@
 {111}{}{态度？我让你看看什么是态度！！！}
 
 #{112}{}{Whatever it is, you can tell me.  Mr. H is busy right now.}
-{112}{}{无聊如何，你得先告诉我，海托先生现在很忙！}
+{112}{}{无论什么事，你得先告诉我，海托先生现在很忙！}
 
 #{113}{}{Why do you have to be so difficult?}
 {113}{}{为什么你这么难缠？}
@@ -63,14 +63,14 @@
 
 #{121}{}{Again?  What a fool Decker is.  Well?... I guess he's not as big a fool as the guys he hires for these jobs.  See here,
 # check out my gun.}
-{121}{}{又来了？迪克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
+{121}{}{又来了？德克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
 
 #{122}{}{【Leon shows you the side of his gun where 5 deep scratch marks are visible.】}
 {122}{}{【利昂给你看他在枪上的五道划痕。】}
 
 #{123}{}{Each one of these marks is for a past attempt on Hightower's life.  I bagged each and every one of them.  Tell me...
 # do you know what this fool Decker hired looks like?}
-{123}{}{每条划痕都标志着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我……谁还敢听迪克的话到这来送死？}
+{123}{}{每条划痕都标志着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我……谁还敢听德克的话到这来送死？}
 
 #{124}{}{No.}
 {124}{}{不。}
