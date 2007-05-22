@@ -61,7 +61,7 @@
 {119}{}{你愿意付多少钱？}
 
 #{120}{gizmo_6}{I would, but there must be no connection between me and Killian's unfortunate demise.}
-{120}{gizmo_6}{我会的，但是我和基利安的完蛋之间不能牵扯上。}
+{120}{gizmo_6}{我会的，但是我在基利安的完蛋之前不能牵扯上。}
 
 #{121}{}{Makes sense. Sure, I'll do it.}
 {121}{}{合情合理。当然，我会干的。}
@@ -70,7 +70,7 @@
 {122}{}{行，我会做这事的。}
 
 #{123}{}{What a coward. Afraid people won't like you? Too late.}
-{123}{}{真是胆小鬼。害怕别人不喜欢你么？太迟了。}
+{123}{}{真是胆小鬼。害怕别人不喜欢你吗？太迟了。}
 
 #{124}{}{How much you willing to pay?}
 {124}{}{你愿意付多少钱？}
@@ -291,7 +291,7 @@
 {195}{}{那是当然。那么这活儿就说定了。}
 
 #{196}{}{Could you say that again please . . . this time in my coat pocket?}
-{196}{}{请再说一边可以么，这次}
+{196}{}{请再说一遍可以吗……这次有多少？}
 
 #{197}{}{Well, um . . . No, I can't.}
 {197}{}{好吧，呃……不，我不能。}
@@ -356,7 +356,7 @@
 {216}{gizmo_48}{嘿，我只说一次！}
 
 #{217}{}{You gain 600 experience points for your work in the defeat of Gizmo. May the bastard rest in pieces.}
-{217}{}{由于在打倒吉斯莫的战斗中做出的贡献，你获得了６００经验值。愿这混蛋的碎片能够安息。}
+{217}{}{由于在打倒吉斯莫的战斗中做出的贡献，你获得了６００点经验值。愿这混蛋的碎片能够安息。}
 
 #{218}{}{This is easily the most corpulent individual you have ever seen.}
 {218}{}{这无疑是你看到过的最肥胖的人。}

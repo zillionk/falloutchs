@@ -1,5 +1,5 @@
 #{100}{}{You see a Paladin.}
-{100}{}{你见到了一名骑士。}
+{100}{}{你看见了一名游侠。}
 
 #{101}{}{Sorry, can't talk, Initiate.}
 {101}{}{抱歉，没空聊天，新兵。}
@@ -23,7 +23,7 @@
 {107}{}{小心，外面的世界非常危险。}
 
 #{108}{}{I think my armor has a spot on it!}
-{108}{}{我想我的装甲上有个聚光灯！}
+{108}{}{我的护甲好像脏了！}
 
 #{109}{}{The Brotherhood is great. I haven't had any experience outside of it, but it couldn't possibly get better than this.}
 {109}{}{兄弟会非常棒。我没有在外面混过，但是其他地方肯定不会比这里好。}
@@ -44,8 +44,8 @@
 {114}{}{无论何时都要保持身心的最佳状态，新兵。}
 
 #{115}{}{Being a Paladin isn't just combat, my son.}
-{115}{}{做个骑士可不只是打打杀杀，孩子。}
+{115}{}{做个游侠可不只是打打杀杀，小伙子。}
 
 #{116}{}{Being a Paladin isn't just combat, my lady.}
-{116}{}{做个骑士可不只是打打杀杀，小姐。}
+{116}{}{做个游侠可不只是打打杀杀，小姐。}
 
