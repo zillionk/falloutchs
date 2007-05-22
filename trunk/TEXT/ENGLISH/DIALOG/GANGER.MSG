@@ -1,7 +1,7 @@
 #{100}{}{You see a ghoul gang member.}
 {100}{}{你看到僵尸团伙的一员。}
 #{101}{}{What are you doing here? Answer wisely - this could be your only chance . . .}
-{101}{}{你在这里干吗？放聪明点——你只有一次机会. . .}
+{101}{}{你在这里干吗？放聪明点——你只有一次机会……}
 #{102}{}{I'm looking for the boss.}
 {102}{}{我在找老大。}
 #{103}{}{This building is condemned - I've come to serve final notice.}
@@ -38,7 +38,7 @@
 #{118}{}{Well, you have a nice day.}
 {118}{}{好吧，好好度过快活的一天。}
 #{119}{}{Not a what . . . A WHO. We are the Zombies. If we do good, Set'll make us one of his guards. Now that's all I'm gonna tell you.}
-{119}{}{别说我们僵尸是“什么东西”，应该问“谁”. . .如果我们做的好，赛特会升我们做他的守卫。这就是我能告诉你的一切。}
+{119}{}{别说我们僵尸是“什么东西”，应该问“谁”……如果我们做的好，赛特会升我们做他的守卫。这就是我能告诉你的一切。}
 #{120}{}{Why do you want to be one of his guards?}
 {120}{}{你为什么想要成为他的一个守卫？}
 #{121}{}{Bye.}
