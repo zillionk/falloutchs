@@ -1,23 +1,23 @@
 #{100}{}{The Raider is too frightened of Garl to speak to you anymore.}
-{100}{}{劫匪是如此的惧怕伽尔以至于不敢再和你说话了。}
+{100}{}{歹徒是如此的惧怕伽尔以至于不敢再和你说话了。}
 
 #{101}{}{You see a tough desert Raider.}
-{101}{}{你看见一名凶恶的沙漠劫匪。}
+{101}{}{你看见一名凶恶的沙漠歹徒。}
 
 #{102}{}{It's the Death-Hand. He's returned!}
-{102}{}{那是死手。他回来了！}
+{102}{}{那是死亡之手。他回来了！}
 
 #{103}{}{Excuse me, Death-Hand. I'm sorry to disturb you.}
-{103}{}{抱歉，死手。很遗憾打扰你。}
+{103}{}{抱歉，死亡之手。很遗憾打扰你。}
 
 #{104}{}{Have you come back to kill your son?}
-{104}{}{你回来是为了杀了你的儿子么？}
+{104}{}{你回来是为了杀了你的儿子吗？}
 
 #{105}{}{Aiyeee! A ghost!}
 {105}{}{哎呀呀！鬼魂！}
 
 #{106}{}{The dead walk again! The Death-Hand has returned!}
-{106}{}{死者再次行走于世间！死手回来了！}
+{106}{}{死者再次行走于世间！死亡之手回来了！}
 
 #{107}{}{Well met.}
 {107}{}{来得好，欢迎。}
@@ -38,16 +38,16 @@
 {112}{}{把它收起来，除非你想惹麻烦。}
 
 #{113}{}{Do you want to party?}
-{113}{}{你想干一场么？}
+{113}{}{你想干一场吗？}
 
 #{114}{}{Oh, a tough one, huh?}
 {114}{}{哦，一个顽固的家伙，嗯哼？}
 
 #{115}{}{Garl Death-Hand loves his warriors. Put that thing away and go talk to him.}
-{115}{}{死手伽尔珍爱他的战士。把家伙收起来，去和他谈谈吧。}
+{115}{}{死亡之手伽尔珍爱他的战士。把家伙收起来，去和他谈谈吧。}
 
 #{116}{}{So, you think you're tough, huh? Mess with me and we'll both find out.}
-{116}{}{你觉得你够狠，嗯？和我耍耍，咱们就知道到底咋样了。}
+{116}{}{你觉得你够狠，嗯？那就让我们俩来试试谁更历害。}
 
 #{117}{}{I don't like your looks.}
 {117}{}{我不喜欢你的眼神。}
@@ -59,7 +59,7 @@
 {119}{}{你要什么？}
 
 #{120}{}{I'm looking for a woman named Tandi. Seen her?}
-{120}{}{我在寻找一名叫做坦蒂的女人。见过她么？}
+{120}{}{我在寻找一名叫做坦蒂的女人。见过她吗？}
 
 #{121}{}{Nothing. Just looking around.}
 {121}{}{没什么。只是四处看看。}

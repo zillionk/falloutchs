@@ -43,7 +43,7 @@
 #{121}{}{I'm glad you are doing well.}
 {121}{}{你一切顺利我感到很高兴。}
 # {122}{}{You look OK to me. All those rumors must be untrue.}
-{122}{}{你看起来挺好。 那些传言一定是 假的。}
+{122}{}{你看起来挺好。那些传言一定是假的。}
 #{123}{}{Hi }
 {123}{}{嗨 }
 #{124}{}{. Keep up the good work.}
@@ -77,9 +77,9 @@
 #{138}{}{See you around.}
 {138}{}{回头见。}
 #{139}{}{Have you talked to the Overseer recently?}
-{139}{}{你最近和管理者谈话了吗？}
+{139}{}{你最近和所长谈话了吗？}
 #{140}{}{The Overseer is very concerned about the status of your mission.}
-{140}{}{管理者非常关心你任务的状况。}
+{140}{}{所长非常关心你任务的状况。}
 #{141}{}{You need to hurry. We can't afford any failure on your part.}
 {141}{}{你要快点。我们无法经受你的失败带来的灾难。}
 #{142}{}{I hope you are doing the best you can.}
