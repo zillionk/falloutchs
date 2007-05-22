@@ -1,2 +1,2 @@
-{100}{}{There seems to be a large amount of foot traffic in the area, possibly leading to the manhole cover.}
-#{100}{}{你走过那片区域看起来有很多可能是探井盖的东西。}
+#{100}{}{There seems to be a large amount of foot traffic in the area, possibly leading to the manhole cover.}
+{100}{}{你走过那片区域看起来有很多可能是探井盖的东西。}
