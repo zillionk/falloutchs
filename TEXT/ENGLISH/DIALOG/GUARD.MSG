@@ -16,4 +16,4 @@
 #{107}{}{So you think you can handle a Rad Scorpion, huh?}
 {107}{}{所以你认为你能对付得了一只蝎子，哼？}
 #{108}{}{You don't look very tough to me.}
-{108}{}{在我看起来你一点也不强悍。}
+{108}{}{在我看来你一点也不强悍。}

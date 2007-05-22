@@ -1,5 +1,5 @@
 #{100}{}{Hey! Whaddya think you're doing?!}
-{100}{}{嘿！你觉得你在干啥？！}
+{100}{}{嘿！你觉得你在干什么？！}
 #{101}{}{Hey, you got any Nuka Cola?}
 {101}{}{嘿！你有核子可乐吗？}
 #{102}{}{Business is good.}

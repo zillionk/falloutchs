@@ -1,7 +1,7 @@
 #{100}{}{A Junktown guard.}
 {100}{}{一个迦克镇卫兵。}
 #{101}{}{This is Junktown. Nice place to live, as long as you stay on our good side}
-{101}{}{这里是迦克镇。只要你总是看到好的一面，这里是一个适合居住的地方。}
+{101}{}{这里是迦克镇。如果你站在我们这边，这里就是一个适合居住的地方。}
 #{102}{}{Watch out for Gizmo and his cronies.}
 {102}{}{小心吉斯莫和他的人。}
 #{103}{}{I like my boss.}
@@ -18,7 +18,7 @@
 #{108}{}{Uh oh.}
 {108}{}{呃 哦。}
 #{109}{}{Your weapon, idiot. Killian won't take your arms away, but you'd better damn well keep them in your holster.}
-{109}{}{你的武器，白痴。基利安不会缴你的械，但是你最好把你的枪乖乖地放在套子里。}
+{109}{}{你的武器，白痴。基利安不会缴你的械，但是你最好把你的枪乖乖地收起来。}
 #{110}{}{Oh, sorry.}
 {110}{}{哦，对不起。}
 #{111}{}{No way! I'm not putting down my shooters for nobody!}
@@ -44,6 +44,6 @@
 #{121}{}{Hey you, no weapons! And I don't care if your momma dropped you on your head as a kid. No weapons.}
 {121}{}{嘿，你！收起武器！我不管你妈会不会像教训小孩一样敲你的脑袋。收起你的武器！}
 #{122}{}{Dorf!}
-{122}{}{Dorf!}
+{122}{}{哈!}
 #{123}{}{You earn 150 experience points for killing the guard.}
-{123}{}{因为杀死卫兵你得到150点经验值。}
+{123}{}{因为杀死卫兵你得到１５０点经验值。}
