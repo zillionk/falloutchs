@@ -43,13 +43,13 @@
 #{122}{}{My, you don't enjoy life much. I'll help you end it.}
 {122}{}{嘿，你不珍惜自己的性命，我来帮你结束它。}
 #{123}{}{You found me. Now, walk or die!}
-{123}{}{你找到我了。现在，回去要不死！}
+{123}{}{你找到我了。你可以当作没看到，不然就去死！}
 #{124}{}{I think I'll walk.}
 {124}{}{我想我该走了。}
 #{125}{}{I'd rather live.}
 {125}{}{我更想活着。}
 #{126}{}{What's the word on the Rippers?}
-{126}{}{关于杀人者有些什么消息？}
+{126}{}{关于电锯党有些什么消息？}
 #{127}{}{They're gonna kill ya!}
 {127}{}{他们会杀了你！}
 #{128}{}{They're dead. See?}
@@ -57,10 +57,10 @@
 #{129}{}{Nothing yet.}
 {129}{}{仍然什么也没有。}
 #{130}{}{Great. Go take it to Razor.}
-{130}{}{很好。把它带给刀手。}
+{130}{}{很好。把它带给剃刀。}
 #{131}{}{Don't lie to me. Get out!}
 {131}{}{不要对我撒谎。出去！}
 #{132}{}{Then get your butt out of here and can the bastard!}
 {132}{}{那么就离开这儿并干掉那个混蛋！}
 #{133}{}{Yo, homie! Nice job you did on the Rippers!}
-{133}{}{噢！关于那些杀人者你做的很不错！}
+{133}{}{噢！关于那些电锯党你做的很不错！}

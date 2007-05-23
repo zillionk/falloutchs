@@ -1,5 +1,5 @@
 #{100}{}{You see Dugan, the Nuka-Cola addict of the Blades.}
-{100}{}{你看见杜冈，利刃帮核子可乐的上瘾者。}
+{100}{}{你看见杜根，利刃帮核子可乐的上瘾者。}
 #{101}{}{You see a very tall thin man with glasses. He has a bottle of Nuka-Cola clutched in his hand.}
  {101}{}{你看见一个很高的戴着眼镜的男子。他手里拿着一瓶核子可乐。}
 #{102}{}{Yes?}
@@ -33,11 +33,11 @@
 #{116}{}{It is the stuff of life . . . Well actually, if I don't drink it on an hourly basis I get a splitting headache.}
 {116}{}{这是生命之源……说实在的，如果我一个小时不喝这个东西我就会头痛的要命。}
 #{117}{}{So? 【Dugan raises his eyebrows at you.】}
-{117}{}{那么？【杜冈对你扬起眉毛】}
+{117}{}{那么？【杜根对你扬起眉毛】}
 #{118}{}{About 5 litres a day.}
 {118}{}{大概一天5升。}
 #{119}{}{Razor's the woman you'll want to talk to.}
-{119}{}{你该和刀手的女人谈谈。}
+{119}{}{你该和剃刀那女人谈谈。}
 #{120}{}{I am the dumbest person I've ever met - well, besides you. Get out of here!}
 {120}{}{我是这世上最蠢的人---当然，除了你。滚出去！}
 #{121}{}{I need another Nuka-Cola!}
