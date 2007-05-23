@@ -1,5 +1,5 @@
 #{100}{}{You see a devout Children of the Cathedral Member.}
-{100}{}{你看到一名教堂之子的虔诚信徒。}
+{100}{}{你看到一名大教堂的虔诚教徒。}
 
 #{101}{}{We offer healing of the body to heal the spirit. Can I help you?}
 {101}{}{我们可以帮助治疗受伤的身体和精神，你需要帮助？}
@@ -36,7 +36,7 @@
 {111}{}{嗯，你被辐射了。抱歉，我们治不了这个。}
 
 #{113}{}{We require a donation of $}
-{113}{}{我们需要你的捐助}
+{113}{}{我们需要你捐助}
 
 #{114}{}{ before we can heal you. Is this acceptable?}
 {114}{}{个瓶盖才能给你治伤。可以么？}
@@ -72,11 +72,11 @@
 {124}{}{谢谢，我的孩子，那我们开始治疗吧。}
 
 #{125}{}{There you go. Peace and blessings of the Children go with you.}
-{125}{}{好了。愿教堂之子的和平和祝福永远伴随你。}
+{125}{}{好了。愿教徒的和平和祝福永远伴随你。}
 
 #{126}{}{You do not have enough money. If you donate all you can, we
 # will heal you. Is this acceptable?}
-{126}{}{你的钱不够，那你捐出所有的钱，我们还是愿意给你治疗的，可以么？}
+{126}{}{你的钱不够，那你捐出所有的钱，我们还是愿意给你治疗的，可以吗？}
 
 #{127}{}{Yes.}
 {127}{}{好。}
@@ -85,7 +85,7 @@
 {128}{}{不。}
 
 #{129}{}{If you donate all you can, we will heal you. Is this acceptable?}
-{129}{}{捐出你所有的钱，我们就给你治疗的，可以么？}
+{129}{}{捐出你所有的钱，我们就给你治疗的，可以吗？}
 
 #{130}{}{Yes.}
 {130}{}{好。}
@@ -100,7 +100,7 @@
 #{133}{}{We are the Children of the Cathedral. We live and work amongst those
 # unfortunates living in the wasteland. If you ever get to the Boneyard,
 # stop by the Cathedral.}
-{133}{}{我们是教堂的教徒。我们和废土上受难的人们一起生活和奋斗。如果你到了晒骨场，可以去教堂参观一下。}
+{133}{}{我们是大教堂的教徒。我们和废土上受难的人们一起生活和奋斗。如果你到了晒骨场，可以去教堂参观一下。}
 
 #{134}{}{Thank you.}
 {134}{}{谢谢。}
@@ -164,7 +164,7 @@
 #{1103}{}{The boneyard is a breeding ground of hatred. There are
 # the Followers of the Apocalypse, the gangs: The Rippers, The Blades,
 # and The Gunrunners, and a small settlement called Adytum. }
-{1103}{}{晒骨场是滋生恨意的地方。那里有启示录信徒、莱普士帮、利刃帮、军火商，还有一个很小的内城区。}
+{1103}{}{晒骨场是滋生恨意的地方。那里有末世论者、电锯党、利刃帮、军火商，还有一个很小的内城区。}
 
 #{1104}{}{They are people who seek to destroy the peace which
 # the Master is trying to set forth.}

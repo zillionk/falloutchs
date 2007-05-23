@@ -1,5 +1,5 @@
 #{100}{}{This computer monitors the machines maintaining the Vault.}
-{100}{}{这个电脑监控避难所的所有仪器设施的工作状况。}
+{100}{}{这个电脑监控着避难所所有仪器设施的工作状况。}
 
 #{101}{}{Most of your computer access has been removed by order
 # of the Vault AI system.}

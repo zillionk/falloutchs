@@ -28,7 +28,7 @@
 
 #{109}{}{Aradesh is our current elder. With his experience he helps to
 # lead the community.}
-{109}{}{亚德拉什是我们现在的领导。他的经验很丰富，足堪此任。}
+{109}{}{亚拉德什是我们现在的领导。他的经验很丰富，足堪此任。}
 
 #{110}{}{Hi.}
 {110}{}{嗨！}
