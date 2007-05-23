@@ -7,10 +7,11 @@
  {102}{}{德克没空和你说话。干你的活呆会儿再来。}
 #{103}{DECK_1}{
 #So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
-{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我的礼貌在哪？你叫什么名字？}
+{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}
 #{104}{}{I am }
-{104}{}{是我。}
-{105}{}{.}
+{104}{}{我是}
+
+{105}{}{。}
 #{106}{}{What business is it of yours?}
 {106}{}{你们的生意是什么？}
 #{107}{DECK_2}{
@@ -22,7 +23,7 @@
 {109}{}{没什么特别。}
 #{110}{DECK_3}{
 #Background:  There's a certain merchant who's . . . how to phrase this . . . not cooperating fully with the Underground.}
-{110}{DECK_3}{背景：有个特别的商人...怎样购买...不要完全和地下组织合作。}
+{110}{DECK_3}{背景：有个特别的商人……怎样购买……不要完全和地下组织合作。}
 #{111}{}{And the job?}
 {111}{}{工作呢？}
 #{112}{DECK_4}{
@@ -31,14 +32,14 @@
 #{113}{}{You mean kill them?}
 {113}{}{你是说杀了他们？}
 #{114}{}{How much for the job?}
-{114}{}{干这活儿开多少钱？}
+{114}{}{干这活儿多少钱？}
 #{115}{}{I can't do that!}
 {115}{}{我不能这么做！}
 #{116}{DECK_5}{
 #All a matter of semantics, but yes.  Kill them.  Will you take the job?}
 {116}{DECK_5}{只是语义上的差别罢了，不过没错，杀了他们，你肯干吗？}
 #{117}{}{Umm, sure -- why not?}
-{117}{}{姆...当然--为什么不做呢？}
+{117}{}{唔……当然--为什么不做呢？}
 #{118}{}{No! That would be wrong!}
 {118}{}{不！这是不对的！}
 #{119}{}{How much?}
@@ -69,7 +70,7 @@
 {129}{}{通过。}
 #{130}{DECK_10}{
 #I must confess feeling a bit . . . disappointed in you.  But these things happen.  You will remember this is confidential.  Good day.}
-{130}{DECK_10}{我必须得承认...对你有点失望。但这些事会发生，你要记住这是秘密，再见。}
+{130}{DECK_10}{我必须得承认……对你有点失望。但这些事会发生，你要记住这是秘密，再见。}
 #{131}{DECK_11}{
 #It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
 {131}{DECK_11}{这是标准的行情，事前５００个瓶盖，事成后再付２５００，你肯做吗？}
@@ -79,7 +80,7 @@
 {133}{}{是的，我做。}
 #{134}{DECK_12}{
 #Very nice.  The merchant lives in the Heights, on Barter Street and Thunder Avenue.  Your initial pay will be handed to you on your way out.}
-{134}{DECK_12}{很好，这商人住在高地，在交易街和桑德大道上。在你出去时会先付一部分报酬给你。}
+{134}{DECK_12}{很好，这商人住在高地，在商业街和桑德大道上。在你出去时会先付一部分报酬给你。}
 #{135}{DECK_13}{Everything is my business in the Hub.  Either tell me, or you may leave.}
 {135}{DECK_13}{哈勃镇的每件事都和我有关，要不你告诉我，要不你就走。}
 #{136}{}{My name is }
@@ -88,9 +89,9 @@
 #{138}{}{I'm not telling you anything.}
 {138}{}{我不会告诉你任何事。}
 #{139}{DECK_14}{I see . . . My assistant will show you to the door.}
-{139}{DECK_14}{我知道了...我的助手会告诉你门在哪儿。}
+{139}{DECK_14}{我知道了……我的助手会告诉你门在哪儿。}
 #{140}{DECK_15}{I'm very proud of you.  You're ruthless, an attribute I admire.  Kane will give you your payment.  I hope you're available in the future.}
-{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，不过我喜欢。卡恩会把你的报酬给你，我希望你以后做的更好。}
+{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，不过我喜欢。肯恩会把你的报酬给你，我希望你以后做的更好。}
 #{141}{}{Can I ask you a few questions?}
 {141}{}{我能问你几个小问题吗？}
 #{142}{}{Thanks.}
@@ -112,13 +113,13 @@
 #{150}{}{Thanks for the information. Can I ask you a few more questions?}
 {150}{}{谢谢你提供的信息，我能再问你几个问题吗？}
 #{151}{DECK_18}{You're in the Maltese Falcon.  There's also the All in One Store, the Armory, the Friendly Lending Company, the police and, unfortunately, the Children of the Cathedral hospital.}
-{151}{DECK_18}{你正位于马尔他之鹰。这儿全部的东西还包括商店，武器店，友善的借贷公司，很不幸，还有大教堂医院的小孩们。}
+{151}{DECK_18}{你正位于马耳他猎鹰。这儿全部的东西还包括商店，武器店，友好借贷公司，警察，很不幸，这还有大教堂医院的教徒。}
 #{152}{}{Doesn't sound like you're a fan of the Children. What's up?}
-{152}{}{看起来你和这些小孩相处的不好，怎么了？}
+{152}{}{看起来你和这些教徒相处的不好，怎么了？}
 #{153}{}{Thanks. Can I ask you some more questions?}
 {153}{}{谢谢，我能再问你几个问题吗？}
 #{154}{DECK_19}{They . . . encroach.  Let's leave it at that, shall we?}
-{154}{DECK_19}{他们...侵占。别谈这个了，好吗？}
+{154}{DECK_19}{他们……侵占。别谈这个了，好吗？}
 #{155}{}{Okay. Can I ask you a few more questions?}
 {155}{}{谢谢，我能再问你几个问题吗？}
 #{156}{DECK_20}{I'm not a tour guide.  Go see for yourself.}
@@ -136,7 +137,7 @@
 #{162}{}{Nothing. Can I ask you some more questions?}
 {162}{}{没什么，我能再问你几个问题吗？}
 #{163}{DECK_23}{You are arrogant.  My assistant will show you through . . . I mean . . . to the door.}
-{163}{DECK_23}{你太傲慢了，我的助手会把你...我的意思是...带到门那去。}
+{163}{DECK_23}{你太傲慢了，我的助手会把你……我的意思是……带到门那去。}
 #{164}{deck_24}{No.}
 {164}{deck_24}{不。}
 #{165}{}{Well, can I ask you something else?}
@@ -158,7 +159,7 @@
 #{173}{}{Sounds scary. I don't think I'm interested.}
 {173}{}{听起来很可怕，我没什么兴趣。}
 #{174}{DECK_28}{As you may know, the Children of the Cathedral have been gaining influence in this town, and frankly, I won't stand for it.}
-{174}{DECK_28}{你也许知道，大教堂的小孩们正改变着这个城镇。坦白说，我不会支持这么做！}
+{174}{DECK_28}{你也许知道，大教堂的教徒们正改变着这个城镇。坦白说，我不会支持这么做！}
 #{175}{}{So what do you want me to do?}
 {175}{}{那么你要我做什么？}
 #{176}{DECK_29}{A small matter.  Kill the High Priestess, Jain.  Once she's gone, this little nuisance will be ended.  Interested?}
@@ -172,7 +173,7 @@
 #{180}{}{Okay.}
 {180}{}{好的。}
 #{181}{DECK_31}{Talk to Kane on your way out.  He'll provide you with details.}
-{181}{DECK_31}{当你走时和卡恩谈谈，他会告诉你细节。}
+{181}{DECK_31}{当你走时和肯恩谈谈，他会告诉你细节。}
 #{182}{DECK_32}{And killing the merchant wasn't?}
 {182}{DECK_32}{没有杀了商人？}
 #{183}{}{Well, all right, I'll do it.}
@@ -194,23 +195,23 @@
 #{191}{DECK_36}{Then we have nothing more to discuss.}
 {191}{DECK_36}{那么我们没什么好说的了。}
 #{192}{DECK_37}{Exceptional job.  I believe the religious faction shall not interfere anymore.  Speak with Kane for your reward.  My thanks -- and I will certainly keep you in mind in the future.}
-{192}{DECK_37}{干的不错，我相信这些小宗教团体不会再打扰我了。去和卡恩拿你的报酬。谢谢你--我会记住你的。}
+{192}{DECK_37}{干的不错，我相信这些小宗教团体不会再打扰我了。去和肯恩拿你的报酬。谢谢你--我会记住你的。}
 #{193}{DECK_38}{Put that down.}
 {193}{DECK_38}{把它放下。}
 #{194}{DECK_39}{I am quite a patient man, but even I have limits.  Kane, teach this simpleton a lesson.}
-{194}{DECK_39}{我的忍耐是有限度的！卡恩，教训一下这个白痴。}
+{194}{DECK_39}{我的忍耐是有限度的！肯恩，教训一下这个白痴。}
 #{195}{DECK_40}{Stop that.}
 {195}{DECK_40}{住手！}
 #{196}{DECK_42}{Talk to Kane about that.  He can tell you more.}
 {196}{DECK_42}{去找卡恩，他会告诉你更多东西。}
 #{197}{DECK_43}{As I said . . .}
-{197}{DECK_43}{正如我所说。。。}
+{197}{DECK_43}{正如我所说……}
 #{198}{DECK_44}{Like I said . . .}
-{198}{DECK_44}{就像我所说。。。}
+{198}{DECK_44}{就像我所说……}
 #{199}{DECK_45}{I already told you . . .}
-{199}{DECK_45}{我已经告诉你了...}
+{199}{DECK_45}{我已经告诉你了……}
 #{200}{DECK_46}{Weren't you listening to me?  I said . . .}
-{200}{DECK_46}{你没听我的吗？我说...}
+{200}{DECK_46}{你没听我的吗？我说……}
 #{201}{DECK_47}{Be advised: I am unaccustomed to repeating myself.}
 {201}{DECK_47}{警告你：我不喜欢重复说过的话。}
 #{202}{DECK_48}{I will not say that again.}
