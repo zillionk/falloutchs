@@ -149,7 +149,7 @@
 #{170}{}{What's wrong with stealing?}
 {170}{}{偷东西咋了？}
 #{171}{}{Oh, that's different!  Give him hell!}
-{171}{}{哦，那就另当别论咯！好好教训他！}
+{171}{}{哦，那就另当别论了！好好教训他！}
 #{172}{}{Are ya' daft? That's a quick way to rot away in a cell or get exiled without any food, clothing, or
 # weapons.}
 {172}{}{你傻啊，我有个好办法，就是把他关到牢里让他慢慢烂掉，或者干脆放逐他，不给吃的，不给穿的，更不给武器。}
@@ -192,7 +192,7 @@
 {189}{}{你这个白痴。}
 #{190}{}{Well (he pauses looking off into space) . . . maybe yer right, partner.
  # I'll keep that in mind but I ain't promisin' ya' anything.}
-{190}{}{嗯，（他停下来往四周看了看）……也许你是对的，伙计。我会考虑的，但是我不敢保证。}
+{190}{}{嗯，【他停下来往四周看了看】……也许你是对的，伙计。我会考虑的，但是我不敢保证。}
 #{191}{}{Are ya' kiddin'? That'd just make'm more defiant! My ways may not be
  # perfect but at least I know it'll make'm stronger and more responsible.}
 {191}{}{你在开玩笑吧？那只会让我更加目空一切！我的方法或许不是最好的，但至少这可以让我变得更强，更有责任感。}
@@ -236,7 +236,7 @@
 #{212}{}{Talk to the Merchants if you want a job. I'm not hiring.}
 {212}{}{要工作的话跟那些商人说。我这里不招人。}
 #{213}{}{Why don't ya' go play in the Maltese Falcon? I'm busy.}
-{213}{}{你干嘛不去『马尔他猎鹰』那儿玩玩啊，我忙着呢。}
+{213}{}{你干嘛不去“马耳他猎鹰”那儿玩玩啊，我忙着呢。}
 #{214}{}{What the hell are you doing here?  Get out!}
 {214}{}{你到底要干嘛？滚！}
 #{215}{}{I said get out! I'm not joke'n!  I'll blow yer frigg'n head off!}
