@@ -5,13 +5,13 @@
 {101}{}{你看见查克，吉普赛的算命师。}
 
 #{102}{}{Hello, stranger. May I be of service?}
-{102}{}{你好陌生人。我们帮你啥？}
+{102}{}{你好陌生人。我能帮你什么？}
 
 #{103}{}{Uugh!}
 {103}{}{喔！}
 
 #{104}{}{I'm just looking around, thanks.}
-{104}{}{就看看，谢谢。}
+{104}{}{我就是看看，谢谢。}
 
 #{105}{}{I'm getting to know the people of Adytum.}
 {105}{}{我想了解一些内城区的人。}
@@ -86,7 +86,7 @@
 {128}{}{我信。信则灵，不信则不灵。}
 
 #{129}{}{No offense, but it sounds like a load of superstition.}
-{129}{}{老实说，我觉得有点像封建迷信活动。}
+{129}{}{老实说，我觉得有点像迷信活动。}
 
 #{130}{}{Well, I guess we each have our own beliefs.}
 {130}{}{哈，我们都有自己的信仰吧。}
@@ -169,7 +169,7 @@
 {153}{}{祝你好运！}
 
 #{154}{}{What is going on with the DeathClaws?}
-{154}{}{死亡主是怎么回事？}
+{154}{}{死亡爪是怎么回事？}
 
 #{155}{}{They infest an area North-East from here, and can often take
 # the lives of people given the task of trading with the Gun Runners.}
@@ -202,7 +202,7 @@
 
 #{163}{}{I don't agree.  I have come across many gangs and raiders in my travels.
 # They've become petty killers and thieves. I think that we all risk that eventually.}
-{163}{}{我不同意，我在路上预见很多匪徒和强盗，他们就是彻头彻尾的杀手和坏蛋。我们最后都会走上这条路的。}
+{163}{}{我不同意，我在路上遇见很多歹徒和强盗，他们就是彻头彻尾的杀手和坏蛋。我们最后都会走上这条路的。}
 
 #{164}{}{Perhaps you're right. Certainly those who survive will be stronger.}
 {164}{}{也许你说的对，生存下来的人的确是强壮的。}
@@ -226,7 +226,7 @@
 {169}{}{嗯？}
 
 #{170}{}{Just stopping by to say hello.}
-{170}{}{路过，问你好。}
+{170}{}{路过，问声好。}
 
 #{171}{}{I'm looking for a little advice.}
 {171}{}{我想向你咨询。}

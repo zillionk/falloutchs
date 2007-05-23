@@ -34,7 +34,7 @@
 
 #{111}{}{Keep trying. I believe in you. I know you will do everything you can
 # to save us.}
-{111}{}{（继续吧，我信任你，我知道你会尽力的。}
+{111}{}{继续吧，我信任你，我知道你会尽力的。}
 
 #{112}{}{Who do you think might be involved?}
 {112}{}{谁跟这件事有关？}

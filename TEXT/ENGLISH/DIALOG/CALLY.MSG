@@ -1,4 +1,4 @@
 #{100}{}{You see Cally.}
 #{101}{}{You're good enough to sneak in here, but dumb enough to show yourself? Too bad!}
 {100}{}{你看见卡里。}
-{101}{}{能混进来算你有点本事，但你还敢现身，真是个白痴。你惨啦！}
+{101}{}{能混进来算你有点本事，但你还敢现身，真是个白痴。你惨了！}

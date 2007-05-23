@@ -1,5 +1,5 @@
 #{100}{}{You see before you a Nightkin.}
-{100}{}{你看见一名夜之团成员。}
+{100}{}{你看见一名隐形人成员。}
 
 #{101}{}{Die!}
 {101}{}{死！}
@@ -13,22 +13,22 @@
 
 #{104}{}{I just wanted to compliment you on the great looking hump on your back.
 # Your breath could use some work, though . . .}
-{104}{}{我只是想说，你背上的驼峰好好帅哦，当然，这可能对你的呼吸不好。}
+{104}{}{我只是想说，你背上的驼峰好帅啊，当然，这可能对你的呼吸不好。}
 
 #{105}{}{Could you direct me to the man in charge?}
-{105}{}{你能领我去见你们的头儿么？}
+{105}{}{你能领我去见你们的头儿吗？}
 
 #{106}{}{Man, you could use a drink worse than me!}
 {106}{}{老兄，你比我更需要来两杯。}
 
 #{107}{}{I'm not leaving!}
-{107}{}{我不走！}
+{107}{}{我不会离开！}
 
 #{108}{}{Okay. Me leave.}
-{108}{}{好吧，偶走。}
+{108}{}{好吧，我走。}
 
 #{109}{}{It is unwise to play games with the Nightkin. Get out of here!}
-{109}{}{和我们夜之团斗嘴可不是好玩的，快滚！}
+{109}{}{和我们隐形人斗嘴可不是好玩的，快滚！}
 
 #{110}{}{I do not think so.}
 {110}{}{我倒不觉得。}
@@ -37,7 +37,7 @@
 {111}{}{那就让你死得痛快！}
 
 #{112}{}{Do you not listen? It is unwise to ignore the Nightkin.}
-{112}{}{你没听见吗！藐视夜之团是很不明智的。}
+{112}{}{你没听见吗！藐视隐形人是很不明智的。}
 
 #{113}{}{I must talk with you. It's urgent!}
 {113}{}{我有事要和你说，是急事！}

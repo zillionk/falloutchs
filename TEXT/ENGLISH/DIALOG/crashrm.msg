@@ -1,5 +1,5 @@
 #{100}{}{【You are in your room. Do you want to rest here until tomorrow morning?】}
-{100}{}{你在你自己的房间里。你想睡觉到明天早上么？}
+{100}{}{【你在你自己的房间里。你想睡觉到明天早上吗？】}
 
 #{101}{}{【Yes】}
 {101}{}{【是】}
