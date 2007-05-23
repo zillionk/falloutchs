@@ -105,7 +105,7 @@
 #{153}{}{You screamed like a castrated pig! Ha ha ha!}
 {153}{}{你叫的就像是头被阉割的猪！哈哈哈！}
 #{154}{}{You are an idiot! Quality, not quantity! You think the Nightkin care when they're outnumbered? Go cry to your mother, you little baby! Now, do you want to get better or not?}
-{154}{}{你这个白痴！质量，不是数量！你认为当夜行人(Nightkin)数量上超出时他们会在乎吗？去你妈的怀里哭吧，小朋友！现在，你想不想更好点？}
+{154}{}{你这个白痴！质量，不是数量！你认为当隐行人数量上超出时他们会在乎吗？去你妈的怀里哭吧，小朋友！现在，你想不想更好点？}
 #{155}{}{Be quiet or I'll take out your vocal cords! Debark you like dog! Ha ha ha! Now you wanna get well or not?}
 {155}{}{安静点！否则我拔掉你的舌头！叫得像条狗一样！哈哈哈！现在你想要更好点吗？}
 #{156}{}{I'm a doctor, not a cheerleader! You need healing or not?}
@@ -119,11 +119,11 @@
 #{160}{}{Just take a look and see what's busted first.}
 {160}{}{尽管试试看是什么先坏掉。}
 #{161}{}{Nightkin prefer to do that. I give them drugs sometimes. Nobody pays attention to Doctor Wu. They're all assholes! Now, you wanna get fixed up?}
-{161}{}{隐身人很喜欢这么做。有时我给他们毒品。没人注意到吴医生。他们都是混蛋！现在，你还想医好吗？}
+{161}{}{隐行人很喜欢这么做。有时我给他们毒品。没人注意到吴医生。他们都是混蛋！现在，你还想医好吗？}
 #{162}{}{Patch it, doc!}
 {162}{}{贴上它，医生！}
 #{163}{}{If the Nightkin don't trust you, neither do I. I'm outta here.}
-{163}{}{如果隐身人不相信你，我也一样。我要走了。}
+{163}{}{如果隐行人不相信你，我也一样。我要走了。}
 #{164}{}{Idiot! Cathedral very busy! Unity keeps Doctor Wu very busy! Now, you wanna get fixed up?}
 {164}{}{笨蛋！大教堂很忙！团队使吴医生非常忙！现在你还想医好吗？}
 #{165}{}{Now comes the fun part!}

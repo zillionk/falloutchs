@@ -31,7 +31,7 @@
 #{115}{}{What can you tell me about this camp?}
 {115}{}{关于这个营地你能告诉我些什么？}
 #{116}{}{It is run by Garl Death-Hand. He is a fearsome and remorseless leader. He makes sure that we all survive the harsh reality of the desert.}
-{116}{}{这儿由死亡之拳伽尔控制，他是个可怕和冷酷的首领。他能确保我们能在沙漠这个不毛之地活下来。}
+{116}{}{这儿由死亡之手伽尔控制，他是个可怕和冷酷的首领。他能确保我们能在沙漠这个不毛之地活下来。}
 #{117}{}{I'm looking for a woman named Tandi. Have you seen her?}
 {117}{}{我在找一个叫坦蒂的女子，你见过她吗？}
 #{118}{}{Can you fix my equipment for me?}
@@ -41,4 +41,4 @@
 #{120}{}{You are that new friend of Garl's, are you not? What do you want?}
 {120}{}{你是伽尔的新朋友对吗？你想要什么？}
 #{121}{}{Hmm. Your equipment seems to be functional. I have more important tasks.}
-{121}{}{姆，你的装备看起来还能用，我还有更重要的事情做。}
+{121}{}{哟，你的装备看起来还能用，我还有更重要的事情做。}

@@ -1,9 +1,9 @@
 #{100}{}{You see Demetre.}
 {100}{}{你看见戴米德。}
 #{101}{}{Hey there! How are you doin'? The name's Demetre, Demetre Romara, head of the best damn caravan in the wastes. Are you lookin' for a job?}
-{101}{}{嗨！你好啊！我是戴米德，戴米德.罗玛拉，废土上最好的商队的首领。你想找活干吗？}
+{101}{}{嗨！你好啊！我是戴米德，戴米德·罗玛拉，废土上最好的商队的首领。你想找活干吗？}
 #{102}{}{Hmmm, you don't look very strong at all, but... you MUST be great with guns then to have survived the outside! Hell, you're probably one mean fighter when the time comes!}
-{102}{}{姆，你毕竟看起来不是很强壮，但...为了在野外生存下去你一定对用枪很在行！是啊，到时候你也许会是个优秀的战士！}
+{102}{}{姆，你毕竟看起来不是很强壮，但……为了在野外生存下去你一定对用枪很在行！是啊，到时候你也许会是个优秀的战士！}
 #{103}{}{You look pretty fit.}
 {103}{}{你看起来很健康。}
 #{104}{}{You look pretty strong.}
@@ -127,7 +127,7 @@
 #{163}{}{Please, can I have another job?}
 {163}{}{我能要另一个工作吗？}
 #{164}{}{Huta?}
-{164}{}{胡塔（Huta)？}
+{164}{}{嗯？}
 #{165}{}{I said we won't hire you!}
 {165}{}{我说过了我们不会雇佣你的！}
 #{166}{}{Sorry, I'm done takin' risks with you!}
@@ -143,7 +143,7 @@
 #{171}{}{Hell, I don't hire drug addicts! If you want a job you better sober up!}
 {171}{}{去，我不会雇佣瘾君子！如果你想要个工作的话最好清醒过来！}
 #{172}{}{I'm no drug add . . . I mean . . . Arg!}
-{172}{}{我不是瘾君...我的意思是...啊欠！}
+{172}{}{我不是瘾君……我的意思是……啊欠！}
 #{173}{}{Blah!}
 {173}{}{放屁！}
 #{174}{}{Doing drugs are we? Hell, it's a good thing we aren't hiring your ass again!}
@@ -227,7 +227,7 @@
 #{213}{}{Okay.}
 {213}{}{好的。}
 #{214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her when you want another job. Some day . . . hopefully soon, I'll be able to retire and she'll take over for me.}
-{214}{}{是的，她是我的骄傲和快乐！难道她不漂亮吗？当你想要工作时尽管去找她。过些日子...但愿没多久，我能退休而她来接替我。}
+{214}{}{是的，她是我的骄傲和快乐！难道她不漂亮吗？当你想要工作时尽管去找她。过些日子……但愿没多久，我能退休而她来接替我。}
 #{215}{}{You can't if you're both dead!}
 {215}{}{除非你们都死了，否则这是不可能的！}
 #{216}{}{Okay, thanks.}
@@ -239,7 +239,7 @@
 #{219}{}{I'll do more than insult you!}
 {219}{}{我不光是要侮辱你们！}
 #{220}{}{Too late for apologies! 【His face gets very red . . . then in a calm, controlled voice.】 Get, before I make good on my threat!}
- {220}{}{说抱歉太迟了！【他的脸变得通红...然后平静下来，控制着语气。】走吧，在我发火以前！}
+ {220}{}{说抱歉太迟了！【他的脸变得通红……然后平静下来，控制着语气。】走吧，在我发火以前！}
 #{221}{}{Is that your poor attempt at a threat?}
 {221}{}{这就是你那点可怜的怒火？}
 #{222}{}{It's not a threat! You're about to die!}

@@ -27,7 +27,7 @@
 #{114}{}{Now you are a little better at that. Go kick Tangler's butt into next year for me.}
 {114}{}{现在你做的更好了，现在去给我踢烂唐格勒的屁股。}
 #{115}{}{Great job on hacking those Rippers. What can I do for you?}
-{115}{}{消灭这些杀人狂，你做的很不错。我能为你做些什么？}
+{115}{}{消灭这些电锯党，你做的很不错。我能为你做些什么？}
 #{116}{}{Can you teach me some more blade skills?}
 {116}{}{你能教我更多用刀的技巧吗？}
 #{117}{}{How can I get into the Gun Runners?}
