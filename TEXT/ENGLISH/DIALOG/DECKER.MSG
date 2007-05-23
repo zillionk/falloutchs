@@ -203,7 +203,7 @@
 #{195}{DECK_40}{Stop that.}
 {195}{DECK_40}{住手！}
 #{196}{DECK_42}{Talk to Kane about that.  He can tell you more.}
-{196}{DECK_42}{去找卡恩，他会告诉你更多东西。}
+{196}{DECK_42}{去找肯恩，他会告诉你更多东西。}
 #{197}{DECK_43}{As I said . . .}
 {197}{DECK_43}{正如我所说……}
 #{198}{DECK_44}{Like I said . . .}
@@ -223,17 +223,17 @@
 #{205}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
 {205}{DECK_51}{我母亲，是我知道的最好的女人，她给我出了这个主意--整个哈勃镇上最好的娱乐建筑。}
 #{206}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
-{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人夏洛特知道更多东西。}
+{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
 #{207}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {207}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{208}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
-{208}{DECK_54}{夏洛特来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
+{208}{DECK_54}{哈罗德来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
 #{209}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
 {209}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
 #{210}{DECK_56}{He's the head of the Water Merchants.}
 {210}{DECK_56}{他是纯水商人们的头头。}
 #{211}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
-{211}{DECK_57}{在小孩们占据医院之前他们一直控制着那儿，现在他们又在货仓出没--这很奇怪。你可以在商人集市的西北角找到他们。}
+{211}{DECK_57}{在教徒占据医院之前他们一直控制着那儿，现在他们又在货仓出没--这很奇怪。你可以在商人集市的西北角找到他们。}
 #{212}{DECK_58}{He's the head of the Crimson Caravan.}
 {212}{DECK_58}{他是深红商队的头头}
 #{213}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
@@ -249,19 +249,19 @@
 #{218}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
 {218}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
 #{219}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
-{219}{DECK_65}{老城区占了整个东边，烟鬼们（the skags)就住在那儿。}
+{219}{DECK_65}{老城区占了整个东边，那帮家伙就住在那儿。}
 #{220}{DECK_66}{Most merchants live there.  Simply go west from here.}
 {220}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
 #{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {221}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
-{222}{DECK_68}{墨菲斯是大教堂的小孩们的头，他住在埋骨之地的下面。}
+{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在大墓地的下面。}
 #{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
-{223}{DECK_69}{在哈勃镇，她现在是大教堂的孩子们的头。我相信状况很快就会改变。}
+{223}{DECK_69}{在哈勃镇，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
-{224}{DECK_70}{孩子们的伪造物之一。他可能是下等神位，或什么东西。}
+{224}{DECK_70}{他是大教堂教徒的其中之一，根据推测他可能是神的陪衬，或什么东西。}
 #{225}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
-{225}{DECK_71}{这是一个出售...展销武器的小地方，由远行商队控制。}
+{225}{DECK_71}{这是一个出售……展销武器的小地方，由远行商队控制。}
 #{226}{DECK_72}{Just out the door and to the north.  You can't miss it.}
 {226}{DECK_72}{快出门朝北走，你不会错过它的。}
 #{227}{DECK_73}{That's not important.}
@@ -287,9 +287,9 @@
 #{233}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
 {233}{DECK_26}{再问个好，我的朋友。我还有另外一个工作给你，有兴趣吗？}
 #{234}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
-{234}{DECK_34}{我曾对你抱了多大的希望！我不能忍受你警告了那些小孩。卡恩，带走我们的朋友并教会如何保持沉默。}
+{234}{DECK_34}{我曾对你抱了多大的希望！我不能忍受你警告了那些小孩。肯恩，带走我们的朋友并教会如何保持沉默。}
 #{235}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
-{235}{DECK_34}{我曾对你抱了多大的希望！我不能忍受你警告了那些小孩。卡恩，带走我们的朋友并教会如何保持沉默。}
+{235}{DECK_34}{我曾对你抱了多大的希望！我不能忍受你警告了那些小孩。肯恩，带走我们的朋友并教会如何保持沉默。}
 
 # Decker Tell-Me-Abouts generic responses{980}{DECK_73}{That's not important.}
 {980}{DECK_73}{那不重要。}
@@ -309,7 +309,7 @@
 {1004}{}{Justin}
 # {1004}{}{贾斯汀}
 {1005}{}{Harold}
-# {1005}{}{夏洛特}
+# {1005}{}{哈罗德}
 {1006}{}{Merchants}
 # {1006}{}{商人}
 {1007}{}{Daren}
@@ -384,11 +384,11 @@
 #{1002}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
 {1002}{DECK_51}{我母亲，是我知道的最好的女人，她给我出了这个主意--整个哈勃镇上最好的娱乐建筑。}
 #{1003}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
-{1003}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人夏洛特知道更多东西。}
+{1003}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
 #{1004}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {1004}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{1005}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
-{1005}{DECK_54}{夏洛特来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
+{1005}{DECK_54}{哈罗德来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
 #{1006}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
 {1006}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
 #{1007}{DECK_56}{He's the head of the Water Merchants.}
