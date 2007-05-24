@@ -14,7 +14,7 @@
 
 #{104}{}{It would be reassuring to have my own quarters back.
 # Please find somewhere else to live.}
-{104}{}{背后有个家让我感到安心。还是请另寻它处吧。}
+{104}{}{把我的宿舍拿回来能让我感到安心。你们还是请另寻它处吧。}
 
 #{105}{}{Hng.}
 {105}{}{哼。}
@@ -49,7 +49,7 @@
 
 #{114}{}{Gee, I didn't think you would still care about this place from what
 # I've heard. You have a good day. We'll go back to her mothers' place.}
-{114}{}{哦，听起来你还根本不在乎这个地方。祝你好运，我们搬回到她母亲那里去。}
+{114}{}{哦，我听别人说你根本不在乎这个地方，看来是我错了。祝你好运，我们搬回到她母亲那里去。}
 
 #{115}{}{We really like it here.}
 {115}{}{我们真的很喜欢这里。}
