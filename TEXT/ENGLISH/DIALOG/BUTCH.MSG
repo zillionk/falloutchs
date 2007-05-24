@@ -197,7 +197,7 @@
 #{198}{}{Anything else?}
 {198}{}{还有别的吗？}
 #{199}{BUTCH33}{Got the Children of the Cathedral's hospital over on the west side of Downtown. And then, of course, you got the Water Merchants south, and the Crimson Caravan west.}
-{199}{BUTCH33}{ 在市区的西边有大教堂教徒的医院。当然了，南边有纯水商队，西边还有深红商队。}
+{199}{BUTCH33}{ 在市中心的西边有大教堂教徒的医院。当然了，南边有纯水商队，西边还有深红商队。}
 #{200}{}{Thanks.}
 {200}{}{多谢。}
 #{201}{BUTCH34}{Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard to the south.}
@@ -383,7 +383,7 @@
 #{288}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
 {288}{BUTCH80}{他掌管纯水商队。他就是一个肮脏、贪婪的杂种。}
 #{289}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
-{289}{BUTCH81}{你可以在市区的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
+{289}{BUTCH81}{你可以在市中心的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
 #{290}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
 {290}{BUTCH82}{他是深红商队的老板。如果你问我的话，他是个疯子。}
 #{291}{BUTCH83}{Don't you know where your own feet are?}
@@ -429,7 +429,7 @@
 #{311}{butch103}{Last I heard, he's the mayor of Adytum.}
 {311}{butch103}{我最近听说，他是内城区的总管。}
 #{312}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
-{312}{butch104}{嗯，他们在市区的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
+{312}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
 #{313}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
 {313}{butch105}{他领导晒骨场的大教堂教徒。}
 #{314}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
@@ -568,7 +568,7 @@
 #{1107}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
 {1107}{BUTCH80}{他掌管纯水商队。他就是一个肮脏、贪婪的杂种。}
 #{1108}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
-{1108}{BUTCH81}{你可以在市区的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
+{1108}{BUTCH81}{你可以在市中心的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
 #{1109}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
 {1109}{BUTCH82}{他是深红商队的老板。如果你问我的话，他是个疯子。}
 #{1110}{BUTCH83}{Don't you know where your own feet are?}
@@ -614,7 +614,7 @@
 #{1127}{butch103}{Last I heard, he's the mayor of Adytum.}
 {1127}{butch103}{我最近听说，他是内城区的总管。}
 #{1128}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
-{1128}{butch104}{嗯，他们在市区的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
+{1128}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
 #{1129}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
 {1129}{butch105}{他领导着晒骨场的大教堂教徒。}
 #{1130}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
