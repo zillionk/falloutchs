@@ -20,7 +20,7 @@
 {106}{}{你叫什么？}
 
 #{107}{}{What can you tell me about your village?}
-{107}{}{你能说说你们村的事情么？}
+{107}{}{你能说说你们村的事情吗？}
 
 #{108}{}{What are you doing?}
 {108}{}{你是做什么的？}
@@ -34,7 +34,7 @@
 #{111}{}{Our village is small, but we support ourselves. Aside from
 # the attacks by raiders and the occasional Rad Scorpion,
 # we have no problems. Aradesh is a good leader.}
-{111}{}{我们村不大，但是能够自给自足。除了强盗来袭，或者偶尔来点辐射蝎，我们这里没什么大事。亚拉德什是我们的好领袖。}
+{111}{}{我们村不大，但是能够自给自足。除了歹徒来袭，或者偶尔来点辐射蝎，我们这里没什么大事。亚拉德什是我们的好领袖。}
 
 #{112}{}{I am a farmer. We irrigated the desert many years ago.
 # Although the wasteland is harsh, it is possible to
