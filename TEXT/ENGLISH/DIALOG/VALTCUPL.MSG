@@ -49,7 +49,7 @@
 
 #{114}{}{Gee, I didn't think you would still care about this place from what
 # I've heard. You have a good day. We'll go back to her mothers' place.}
-{114}{}{哦，我听别人说你根本不在乎这个地方，看来是我错了。祝你好运，我们搬回到她母亲那里去。}
+{114}{}{不是吧，我还真以为像听说的那样，你不在乎这个地方呢。那就告辞了，我们搬回到她母亲那里去。}
 
 #{115}{}{We really like it here.}
 {115}{}{我们真的很喜欢这里。}
