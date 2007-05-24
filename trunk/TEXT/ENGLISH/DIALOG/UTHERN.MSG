@@ -1,8 +1,8 @@
 #{100}{}{You see before you Uthern, leader of the Super Mutants.}
-{100}{}{你看到面前的阿德姆，变种人的领袖。}
+{100}{}{站在你面前的是乌森，变种人的领袖。}
 
 #{101}{}{Normie! How dare you enter the confines of your betters?}
-{101}{}{正常人！你怎么敢这么无理的进入你长辈的地方？}
+{101}{}{正常人！你怎么敢进入高等人的地盘？}
 
 #{102}{}{Huh?}
 {102}{}{唔？}
@@ -11,53 +11,53 @@
 {103}{}{你这人渣永远比不上人类！}
 
 #{104}{}{Die Mutie!!}
-{104}{}{死变种！！}
+{104}{}{去死，烂变种！！}
 
 #{105}{}{Really? You claim yourself better, but what proof do you have?}
 {105}{}{真的？你认为你自己更好，但是你有什么证明？}
 
 #{106}{}{If you consider yourself one better than the rest, you run into the fallacy of over generalization.}
-{106}{}{假如你认为自己比别人更好，你遇上了很严重的错误。}
+{106}{}{假如你认为自己比别人更好，你就犯了以偏概全的错误。}
 
 #{107}{}{It's a wonder your race survived as long as it has. I will start with you in the cleansing.}
 {107}{}{你的种族存在这么久是个奇迹。我将以你的净化开始。}
 
 #{108}{}{You only prove my point by using inane comments as such. I personally would not wish you in my sight, but my master would have words with you.}
-{108}{}{你仅仅用这样愚蠢的解释表明自己的看法。我不希望你在我视野里，但我的主教有话和你说。}
+{108}{}{你这样的疯话正好说明了我刚才所说的话是正确的。我本人真不想再看见你这副嘴脸，但我们的主教有话和你说。}
 
 
 #{109}{}{Show me your master.}
 {109}{}{带我见你们的主教。}
 
 #{110}{}{Try these words -- Drop dead!}
-{110}{}{尝试这些话－－走开！}
+{110}{}{那我就换个说法－－你去死！}
 
 #{111}{}{Surely one of your intellect can see that such things will solve nothing.}
-{111}{}{的确用你百分之一的智力就能明白那事情没有解决。}
+{111}{}{再白痴的你也肯定会明白这是没有用的。}
 
 #{112}{}{With pleasure.}
-{112}{}{很高兴。}
+{112}{}{很荣幸。}
 
 #{113}{}{Are you claiming that talk will solve nothing? You are more foolish than I thought.}
-{113}{}{你要求的谈话没有解决问题吗？我认为你是很愚蠢。}
+{113}{}{你是说谈话不能解决问题？你比我料想的还蠢。}
 
 #{114}{}{Though you are foolish, I was referring to your manner of delivering words.}
-{114}{}{尽管你愚蠢，我按照你的方式传话。}
+{114}{}{我所指的是你的说话态度，说了也没用，你这么笨不会明白的。}
 
 #{115}{}{Ah, the fool finally realizes something.}
-{115}{}{啊哈，傻瓜最后做的事情。}
+{115}{}{啊哈，傻瓜最后还是开了点窍。}
 
 #{116}{}{Words will only do so much. This will solve more.}
-{116}{}{仅仅这么多话。这将更多的解释。}
+{116}{}{废话就只能到此为止了。这个更管用。}
 
 #{117}{}{I begin to think you may have a bit of superior blood in you yet. Let me find out for certain.}
-{117}{}{我开始想你可能仍然有一些少量的纯种血液。让我查查看。}
+{117}{}{我觉得你身上可能还有一些高级血统。我要确认一下。}
 
 #{118}{}{He does indeed, for death shall be your saving grace.}
 {118}{}{他的确做了, 死亡将是你最为可取之处。}
 
 #{119}{}{The simplest of proofs for you. I am smarter, stronger, and quicker than you are. Would you care for a test of my skills?}
-{119}{}{这就是给你最简单证明。我比你更灵活，更强壮，更快。你要不要对我的能力来个测试？}
+{119}{}{最简单的证据就是：我比你更灵活，更强壮，更快。你要不要对我的能力来个测试？}
 
 #{120}{}{No, thanks. I believe you.}
 {120}{}{不，谢谢。我相信你。}
@@ -66,7 +66,7 @@
 {121}{}{你忘记了傲慢，愚蠢，丑陋。}
 
 #{122}{}{Sure. Let's see what you can do.}
-{122}{}{的确。让我们看看你能做些什么。}
+{122}{}{很好。我倒要看看你有什么能耐。}
 
 #{123}{}{Good. Would you like a chance at gaining greater powers?}
 {123}{}{很好。你想获取更强大的能力吗？}
@@ -78,34 +78,34 @@
 {125}{}{不可能！}
 
 #{126}{}{I'm not sure about this.}
-{126}{}{我对这个没有把握。}
+{126}{}{我没想好。}
 
 #{127}{}{Die!}
 {127}{}{死！}
 
 #{128}{}{Then i will take you to my master.}
-{128}{}{然后我将拿你去见我的主教。}
+{128}{}{那么我带你去见我的主教。}
 
 #{129}{}{It almost seems a pity. No matter, this won't take long.}
-{129}{}{这似乎很遗憾的事情. 无论如何，这都不能持续多久。}
+{129}{}{这似乎是很遗憾的事情。不要紧，这过程不会要多久的。}
 
 #{130}{}{Offered all the power in the world and still frightened. I will help you with your decision.}
-{130}{}{在这个世界里就算拥有再强的力量也会恐惧。我将对你的决定提供帮助。}
+{130}{}{即将拥有世界上最强大的力量，居然你也会恐惧。我来帮你下决心吧。}
 
 #{131}{}{Comments such as those only prove how much more intelligent i am than you. Now, you shall pay for your insolence!}
-{131}{}{仅仅那些就能证明我比你有多么的聪明。现在，你将为你的傲慢无礼付出代价！}
+{131}{}{你的话正好证明了我比你更聪明。现在，你将为你的傲慢无礼付出代价！}
 
 #{132}{}{Do you accept credit cards, or only caps?}
-{132}{}{你是接受信用卡，或者只是钱？}
+{132}{}{你是接受信用卡，或者只是现金？}
 
 #{133}{}{Never!!}
 {133}{}{绝不！！}
 
 #{134}{}{Sorry, I'm a little low on caps right now. Can I get a raincheck?}
-{134}{}{对不起，我现在就有一些钱，我能获得一个伊甸园创造器吗?}
+{134}{}{对不起，我现在钱不多，不够的部分以后我还给你怎么样?}
 
 #{135}{}{What? I think I can generalize this much -- you are coming with me now.}
-{135}{}{什么？我想我能概括这么多－－你现在将和我一起。}
+{135}{}{什么？我想我能概括这么多－－你现在跟我走。}
 
 #{136}{}{How nice to see you again. I was told that you were roaming around here. I have orders to bring you in.}
-{136}{}{再次见到你很高兴。我告诉过你围着这里移动。我向你提出命令。}
+{136}{}{再次见到你很高兴。我听说你在这里巡逻，上头有命令给你。}
