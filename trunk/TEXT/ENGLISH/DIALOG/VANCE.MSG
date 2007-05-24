@@ -62,7 +62,7 @@
 {120}{}{我能为你做点什么？}
 
 #{121}{}{want morE.}
-{121}{}{要更多.}
+{121}{}{要更多。}
 
 #{122}{}{I would like to buy some more stuff.}
 {122}{}{我想再多买点别的东西。}
@@ -89,7 +89,7 @@
 {129}{}{我这就走。}
 
 #{130}{}{That's Justin and Chad.  They're here to make sure nobody causes any trouble.}
-{130}{}{是贾斯廷和乍得。他们保证没人在这里惹麻烦。}
+{130}{}{是贾斯廷和查德。他们保证没人在这里惹麻烦。}
 
 #{131}{}{They look like a couple of pansies.}
 {131}{}{他们看起来像一对娘娘腔。}
@@ -149,7 +149,7 @@
 {149}{}{没事。再见。}
 
 #{150}{}{Don't use it all in one place.}
-{150}{}{在哪都不要用这个东西。}
+{150}{}{不要一次都用完了。}
 
 #{151}{}{Thanks.}
 {151}{}{谢谢。}
