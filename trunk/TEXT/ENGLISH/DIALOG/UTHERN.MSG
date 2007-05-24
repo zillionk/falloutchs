@@ -108,4 +108,4 @@
 {135}{}{什么？我想我能概括这么多－－你现在跟我走。}
 
 #{136}{}{How nice to see you again. I was told that you were roaming around here. I have orders to bring you in.}
-{136}{}{再次见到你很高兴。我听说你在这里巡逻，上头有命令给你。}
+{136}{}{再次见到你很高兴。我听说你在这附近转悠，上头有命令，让我带你去觐见。}
