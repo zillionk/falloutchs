@@ -28,7 +28,7 @@
 {110}{}{哦, 你现在就去死吧！}
 
 #{111}{}{You human. Me mutant. Mutant kill human.}
-{111}{}{你是人类。俺是变种人。变种人要杀人类。}
+{111}{}{你是人类。我是变种人。变种人要杀人类。}
 
 #{112}{}{How can you do that? What about the force field?}
 {112}{}{你怎么杀？有力场你怎么过来？}
