@@ -100,7 +100,7 @@
 {140}{}{卡波特}                                         #Cabbot
 {141}{}{大教堂教徒}               #  Childmem
 {142}{}{德克}                                         #Decker
-{143}{}{长老}                                          #Elder
+{143}{}{元老}                                          #Elder
 {144}{}{吉斯莫}                                          #Gizmo
 {145}{}{哈罗德}                                         #Harold
 {146}{}{杰伊}                                           #Jain
@@ -836,7 +836,7 @@
 {514}{}{巴克}                                           #Baka.int
 {515}{}{地窖的侦察兵}                               # scoutc.int
 {516}{}{迟钝的侦察兵}                                # scoutf.int
-{517}{}{“启示录”狂热者}                     # FollMap.int
+{517}{}{末世论狂热者}                     # FollMap.int
 {518}{}{计算机}                                       # SemiComp
 {519}{}{发光的地鼠}                                 # RadRat
 {520}{}{冰箱}                                  # NGarFrdg
@@ -1300,7 +1300,7 @@
 {737}{}{井口}                                        # Ady2Cell.int
 {738}{}{梯子}                                         # Cell2Ady.int
 {739}{}{吉斯莫的警卫}                                  # GizGuard.int
-{740}{}{莱普士帮小头目}                                  # ripper.int
+{740}{}{电锯党小头目}                                  # ripper.int
 {741}{}{全息磁盘}                                       # MutDisk.int
 {742}{}{死亡爪}                                      # DethClaw.int
 {743}{}{死亡爪的蛋}                                # Deathspr.int
@@ -1659,7 +1659,7 @@
 {917}{}{赶车的人}                               # CarvLead.int
 {918}{}{书柜}                                       # GenBCase.int
 {919}{}{一流的游侠}                          # BroInvad.int
-{920}{}{“启示录”预言派的侦察兵}                                 # FolInvad.int
+{920}{}{末世论者的侦察兵}                                 # FolInvad.int
 {921}{}{迈克}                                           # Mike.int
 {922}{}{万斯}                                          # Vance.int
 {923}{}{吸毒者}                                    # Junkie.int
@@ -1796,7 +1796,7 @@
 {994}{}{力场发生器}                            # Emiter1a.int
 {995}{}{力场}                                    # Field1a.int
 {996}{}{力场发生器}                            # Emiter1a.int
-{997}{}{Pain Field}                                     # PainFeld.int
+{997}{}{力场}                                     # PainFeld.int
 {998}{}{力场}                                    # Field1a.int
 {999}{}{力场发生器}                            # Emiter1a.int
 {1000}{}{力场}                                   # Field1a.int
