@@ -1,13 +1,13 @@
 #{100}{}{You have enraged Barry！}
-{100}{}{你把巴里激怒啦！}
+{100}{}{你把巴里激怒了！}
 #{101}{}{You see Barry。}
 {100}{}{你看见巴里。}
 #{102}{}{Hey！ Only ghouls get a water ration。}
 {100}{}{嘿！只有僵尸才有水配额的规定。}
 #{103}{}{I'm gonna get you for waking me up！}
-{103}{}{我将要因为你而一直醒着！}
+{103}{}{我想让你使我变得清醒！}
 #{104}{}{The mutant ignores you。}
-{104}{}{这个变种人无视你。}
+{104}{}{这个变种人不理你。}
 
 {1000}{}{Chip}
 {1001}{}{Necropolis}

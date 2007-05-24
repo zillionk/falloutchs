@@ -11,7 +11,7 @@
 #{105}{}{What can you tell me about Decker?}
 {105}{}{你能跟我说说德克的情况吗？}
 #{106}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
-{106}{}{我想我们该谈一谈有关莫彼得一声和你那些秘密原料的事。}
+{106}{}{我想我们该谈一谈有关莫彼得医生和你那些秘密原料的事。}
 #{107}{}{Do you know anything about the missing caravans?}
 {107}{}{关于失踪的商队，你知道些什么吗？}
 #{108}{}{What, me trouble? What gives you that impression?}
@@ -19,7 +19,7 @@
 #{109}{}{Me hungry! Grrrr!}
 {109}{}{我饿了！呃啊！}
 #{110}{}{Hi. Welcome to Bob's Iguana Bits, the family eating place. May I take your order?}
-{110}{}{嗨！欢迎到"鲍勃的蜥蜴料理"，吃饭的好地方。要来点什么？}
+{110}{}{嗨！欢迎到“鲍勃的蜥蜴料理”，吃饭的好地方。要来点什么？}
 #{111}{}{Gimme an iguana on a stick.}
 {111}{}{给我一串烤蜥蜴。}
 #{112}{}{What can you tell me about a water chip?}
@@ -31,7 +31,7 @@
 #{115}{}{Do you know anything about the missing caravans?}
 {115}{}{关于失踪的商队，你知道些什么吗？}
 #{116}{}{Anything interesting happening in the Hub?}
-{116}{}{ 哈勃发生了什么有趣的事吗？}
+{116}{}{哈勃城发生了什么有趣的事吗？}
 #{117}{}{Me hungry! Grrrr!}
 {117}{}{我饿了！呃啊！}
 #{118}{}{Sorry, we're all out of iguana.}
@@ -63,11 +63,11 @@
 #{131}{}{Do you know anything about the missing caravans?}
 {131}{}{关于失踪的商队，你知道些什么吗？}
 #{132}{}{Anything interesting happening in the Hub?}
-{132}{}{ 哈勃发生了什么有趣的事吗？}
+{132}{}{哈勃城发生了什么有趣的事吗？}
 #{133}{}{Me hungry! Grrrr!}
 {133}{}{我饿了！呃啊！}
 #{134}{}{Mr. Decker is a distinguished businessman in a less than distinguished business. Anything else?}
-{134}{}{ 德克先生是一个高尚的商人，却从事着并不高尚的行业。还有别的吗？}
+{134}{}{德克先生是一个高尚的商人，却从事着并不高尚的行业。还有别的吗？}
 #{135}{}{I want information on Doc Morbid.}
 {135}{}{我想知道有关莫彼得医生的情况。}
 #{136}{}{Gimme an iguana on a stick.}
@@ -79,13 +79,13 @@
 #{139}{}{Gimme an iguana on a stick.}
 {139}{}{给我一串烤蜥蜴。}
 #{140}{}{Tell me a little about the water merchants.}
-{140}{}{跟我说一点有关运水商人的情况。}
+{140}{}{跟我说一点有关纯水商队的情况。}
 #{141}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
 {141}{}{我想我们该谈一谈有关莫彼得医生和你那些秘密原料的事。}
 #{142}{}{Do you know anything about the missing caravans?}
 {142}{}{有关失踪的商队，你知道些什么吗？}
 #{143}{}{Anything interesting happening in the Hub?}
-{143}{}{ 哈勃发生了什么有趣的事吗？}
+{143}{}{哈勃城发生了什么有趣的事吗？}
 {144}{}{Me hungry! Grrrr!}
 {144}{}{我饿了！呃啊！}
 #{145}{}{I don't know what you抮e talking about. Okay. I'll pay you one hundred bucks if you keep your mouth shut. Take it and get out.}
@@ -109,7 +109,7 @@
 #{154}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
 {154}{}{我想我们该谈一谈有关莫彼得医生和你那些秘密原料的事。}
 #{155}{}{Anything interesting happening in the Hub?}
-{155}{}{ 哈勃发生了什么有趣的事吗？}
+{155}{}{哈勃城发生了什么有趣的事吗？}
 #{156}{}{Nothing. Sorry to bring it up. I just hear stories. Now is there anything else I can do for you?}
 {156}{}{没什么。我很抱歉提起它。我只是听到了传言。我还能为你做什么？}
 #{157}{}{Gimme an iguana on a stick.}
@@ -123,21 +123,21 @@
 #{161}{}{Do you know anything about the missing caravans?}
 {161}{}{关于失踪的商队，你知道些什么吗？}
 #{162}{}{Anything interesting happening in the Hub?}
-{162}{}{ 哈勃发生了什么有趣的事吗？}
+{162}{}{哈勃城发生了什么有趣的事吗？}
 #{163}{}{Someone killed Decker. We're in mourning, at least until the Hub runs out of booze.}
-{163}{}{有人杀了德克。我们现在很悲伤，至少在哈勃的酒被喝光之前。}
+{163}{}{有人杀了德克。我们现在很悲伤，至少在哈勃城的酒被喝光之前。}
 #{164}{}{Someone shot Sheriff Greene. Don't know about the deputy though.}
 {164}{}{有人向治安官格瑞开枪。现在还不知道谁是代理治安官。}
 #{165}{}{Daren Hightower was murdered. And all that money couldn't save him. Ironic, ain't it?}
-{165}{}{ 达伦.海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
+{165}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{166}{}{Someone's really pissed off someone important, because I hear that there's a big hit out on some poor sod.}
 {166}{}{有人把个大人物惹毛了，因为我听说要收拾一个可怜的家伙。}
 #{167}{}{Someone stole a necklace from the Hightowers. Man, did they ever make a big mistake. They're dead for sure.}
 {167}{}{有人从海托家里偷了一条项链。老兄，他们犯了大错。他们死定了！}
 #{168}{}{Someone killed Jain over at the Cathedral. I hear she was a real bitch!}
-{168}{}{有人在大教堂杀了简。我听说她是一个真正的婊子！}
+{168}{}{有人在大教堂杀了杰伊。我听说她是一个真正的婊子！}
 #{169}{}{Well, the only new thing is that the Children of the Cathedral have taken over the Hospital. It's pretty boring around here lately. Mind you, they're a strange crowd.}
-{169}{}{嗯，唯一的新闻是大教堂之子接管了医院。最近这里很无聊。你要小心，他们这一伙人很怪。}
+{169}{}{嗯，唯一的新闻是大教堂教徒接管了医院。最近这里很无聊。你要小心，他们这一伙人很怪。}
 #{170}{}{Anything else?}
 {170}{}{还要别的吗？}
 #{171}{}{Gimme an iguana on a stick.}
@@ -163,7 +163,7 @@
 #{181}{}{Do you know anything about the missing caravans?}
 {181}{}{关于失踪的商队，你知道些什么吗？}
 #{182}{}{Anything interesting happening in the Hub?}
-{182}{}{哈勃发生了什么有趣的事吗？}
+{182}{}{哈勃城发生了什么有趣的事吗？}
 #{183}{}{Me want another iguana!}
 {183}{}{我还要再来一串烤蜥蜴！}
 #{184}{}{Me stuffed! URRRP!}
@@ -181,7 +181,7 @@
 #{190}{}{Do you know anything about the missing caravans?}
 {190}{}{有关失踪的商队，你知道些什么吗？}
 #{191}{}{Anything interesting happening in the Hub?}
-{191}{}{哈勃发生了什么有趣的事吗？}
+{191}{}{哈勃城发生了什么有趣的事吗？}
 #{192}{}{Me want another iguana!}
 {192}{}{我还要再来一串烤蜥蜴！}
 #{193}{}{Me stuffed! URRRP!}
@@ -197,7 +197,7 @@
 #{198}{}{Do you know anything about the missing caravans?}
 {198}{}{关于失踪的商队，你知道些什么吗？}
 #{199}{}{Anything interesting happening in the Hub?}
-{199}{}{ 哈勃发生了什么有趣的事吗？}
+{199}{}{哈勃城发生了什么有趣的事吗？}
 #{200}{}{Me hungry! Grrrr!}
 {200}{}{我饿了！呃啊！}
 #{201}{}{You greedy son of a bitch!}
@@ -207,7 +207,7 @@
 #{203}{}{All right, you win. Here's your money. Take it and don't come back!}
 {203}{}{好吧，你赢了。这是你的钱。拿去，别再回来了！}
 #{204}{}{I'd change your mind if I were you, friend. People have died for less in the Hub. Now get out and don't come back!}
-{204}{}{朋友，我是你的话就改主意。在哈勃是很容易丧命的。}
+{204}{}{朋友，我是你的话就改主意。在哈勃城是很容易丧命的。}
 #{205}{}{Maybe I've been using some questionable portions. But it's not like I'm committing murder. Like Morbid's stuff is already dead, ain't it?}
 {205}{}{也许我是用了一些可疑的东西。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{206}{}{I'm sure it is, Bob. And I'm sure the police will agree.}

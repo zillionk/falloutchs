@@ -1,5 +1,5 @@
 #{100}{}{Hey buddy, can you spare some change?}
-{100}{}{嘿伙计,能不能给点零花钱用用？}
+{100}{}{嘿伙计，能不能给点零花钱用用？}
 #{101}{}{I'm tryin' to drink here!}
 {101}{}{我正在这里喝酒呢！}
 #{102}{}{I don't feel so good.}

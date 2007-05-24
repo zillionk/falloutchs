@@ -1,2 +1,2 @@
 #{100}{}{Unless it has been looted, there should be an uzi around here somewhere. }
-{100}{}{除非被抢劫了，要不然这里该有一支乌兹枪的。}
+{100}{}{除非被抢劫了，要不然这里该有一支乌兹冲锋枪的。}

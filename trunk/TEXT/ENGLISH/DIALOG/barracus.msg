@@ -67,17 +67,17 @@
 #{133}{}{Fine. The first one of us who says that word dies. Bargain?}
 {133}{}{好吧。我们中谁先说那个词的就得死。怎么样？}
 #{134}{}{Hello, miss. I am Ton, 2,000 pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.}
-{134}{}{你好，小姐。我是唐，主教的最强的战士。我也被FEV改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
+{134}{}{你好，小姐。我是唐，主教的最强的战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
 #{135}{}{No way in hell.}
 {135}{}{决不可能。}
 #{136}{}{That's a little too fast. Let's get to know each other first.}
 {136}{}{这有点太快了。我们先互相了解一下。}
 #{137}{}{Hello. I've been evolved by the FEV so that anyone that annoys me dies. Stop annoying me, little man.}
-{137}{}{你好。我被FEV改造了，所以任何烦我的人都得死。别烦我，小子。}
+{137}{}{你好。我被ＦＥＶ改造了，所以任何烦我的人都得死。别烦我，小子。}
 #{138}{}{Check it out somewhere else. Ton don't like your company.}
 {138}{}{去别的地方吧。唐不喜欢你陪着。}
 #{139}{}{Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.}
-{139}{}{好吧。你想开门见山？有时候杀人是必须的。有时候我甚至喜欢杀人。但是我听说你酷爱杀人. . . 任何时候。每次我碰到一个疯子，不是他死，就是唐死。唐现在还活着。所以你还是去别的地方吧。}
+{139}{}{好吧。你想开门见山？有时候杀人是必须的。有时候我甚至喜欢杀人。但是我听说你酷爱杀人……任何时候。每次我碰到一个疯子，不是他死，就是唐死。唐现在还活着。所以你还是去别的地方吧。}
 #{140}{}{Man, I could learn to like you. You're either an incredible asshole,or you got guts. Either way is fine with Ton, as long as you don't jam me up. You want to join up?}
 {140}{}{老兄，我可能会喜欢上你。你要不是个英雄，就是个混蛋。两样唐都喜欢，只要你不给我惹麻烦。你想加入我们吗？}
 #{141}{}{Whatever happened to peace and love?}
@@ -103,7 +103,7 @@
 #{151}{}{I just wanted to talk.}
 {151}{}{我只想说话。}
 #{152}{}{You're dead . . .}
-{152}{}{你去死. . .}
+{152}{}{你去死……}
 #{153}{}{Shit! You're dumber than the zombies! Just get out of here!}
 {153}{}{操！你比僵尸还愚蠢！快滚吧！}
 #{154}{}{The Master wants peace, and he wants us to get it for him, so we're going to have fun. Capiche?}
@@ -121,7 +121,7 @@
 #{160}{}{It's not healthy to ask the wrong question, compadre. They have all the answers they want you to hear. People who ask the wrong questions, or people who screw up, well, they don't stay around here very long.}
 {160}{}{兄弟，别问错问题。他们只告诉你他们想说的事。问错问题的人，惹麻烦的人，嗯，他们在这里都呆不长。}
 #{161}{}{I do my job. They like it when I do my job. They like it when street trash and Followers stop breathing. It lets the Nightkin do other things. Don't mess with me . . . it ain't healthy.}
-{161}{}{我做我的事。他们喜欢我做事。他们喜欢街上到处是垃圾，信徒们干个没完。这让夜之团能去做别的事。别把我扯进去. . .这不好。}
+{161}{}{我做我的事。他们喜欢我做事。他们喜欢街上到处是垃圾，末世论者干个没完。这让隐形人能去做别的事。别把我扯进去……这不好。}
 #{162}{}{What are you doing dressed like a zombie? If you got the 'tude, you gotta let it show!}
 {162}{}{你穿得像个僵尸干什么？如果你有礼貌，你得把它表示出来！}
 #{163}{}{I don't care about the clothes, man. I just want to know what's going on here!}
@@ -135,7 +135,7 @@
 #{167}{}{It ain't 'tude. It's a way of death.}
 {167}{}{这不是你的礼貌. 这是想找死。}
 #{168}{}{We don't drink in here. Nightkin don't like it. You better get a few more clues before you talk to Ton again.}
-{168}{}{我们在这里不喝酒。夜之团不喜欢。你最好在和唐谈话前找到更多的线索。}
+{168}{}{我们在这里不喝酒。隐形人不喜欢。你最好在和唐谈话前找到更多的线索。}
 #{169}{}{You're crazy! I could almost like you, except that I have the feeling that people who hang around you don't live long. Get the hell out of here.}
 {169}{}{你疯了！我差不多喜欢你了，不过我感觉和你扯上关系的人都活不长。快给我出去。}
 #{170}{}{You stand around this for months and you go crazy as them. What do you want from Ton?}
@@ -181,11 +181,11 @@
 #{190}{}{Okay, I'll join up.}
 {190}{}{好吧，我加入。}
 #{191}{}{Someone should put them out of their misery. Like me . . .}
-{191}{}{总得有人把他们从不幸中解救出来。就像我. . .}
+{191}{}{总得有人把他们从不幸中解救出来。就像我……}
 #{192}{}{When we get the word, we go out and kill people. People like the Followers or some of the more dangerous gang types.}
-{192}{}{我们一得到命令，就出去杀人。杀那些信徒或者更危险一点的匪帮之类。}
+{192}{}{我们一得到命令，就出去杀人。杀那些末世论者或者更危险一点的帮派之类。}
 #{193}{}{So the Followers are a problem?}
-{193}{}{所以信徒是个问题？}
+{193}{}{所以末世论者是个问题？}
 #{194}{}{This sounds pretty sick to me.}
 {194}{}{这听起来很恶心。}
 #{195}{}{Who needs the word? Why not just kill them?}
@@ -193,7 +193,7 @@
 #{196}{}{Fine. Do what you want. But I'd get out before it becomes unhealthy around here.}
 {196}{}{好吧。随你干什么。不过我得在这里变糟之前离开。}
 #{197}{}{You annoying little piece of shit. You're worse than a Junktowner, you coward. Get the hell out.}
-{197}{}{你这讨厌的杂种。你比迦克城的人还坏。滚出去。}
+{197}{}{你这讨厌的杂种。你比迦克镇的人还坏。滚出去。}
 #{198}{}{What else is there to know? I get to eat well, sleep in peace and kill some of the people who used to screw me over. You want something more from life?}
 {198}{}{还要知道什么？我吃得好，睡得好，杀了以前惹我的人。你还能从生活中得到更多吗？}
 #{199}{}{Who knows? Who cares? I get to eat well, sleep in peace and kill some of the people who used to screw me over. You want something more from life?}
@@ -229,7 +229,7 @@
 #{214}{}{Well baby, what's going on is that there are a lot of zombies chanting, a lot of people dying and the Children are going to take over everything. And there's you and me and nothing else matters!}
 {214}{}{好了宝贝，发生了什么？发生的就是许多僵尸在唱圣歌，许多人死了，大教堂教徒要接管所有东西。还有就是你和我，没别的了！}
 #{215}{}{But Barracas, darling, surely there's more going on than that . . .}
-{215}{}{但是巴拉卡斯，亲爱的，肯定还有更多的事发生了. . .}
+{215}{}{但是巴拉卡斯，亲爱的，肯定还有更多的事发生了……}
 #{216}{}{Oh, Ton!}
 {216}{}{喔，唐！}
 #{217}{}{Forget it, creep. You ain't my type.}
@@ -237,11 +237,11 @@
 #{218}{}{Nothing else matters? Hell no! I wanna hear about the dying part!}
 {218}{}{没别的了？喔，不！我想知道关键的！}
 #{219}{}{Unfortunately, this is the worst place on earth to experience what Ton does best. Too many zombies cramp my style. I'll let you know when I think about some place more convenient . . .}
-{219}{}{很不幸，这是地球上最糟的体验唐所做的事的地方。僵尸太多了，我不能随便就说。等我想到一个更安全的地方再跟你说. . .}
+{219}{}{很不幸，这是地球上最糟的体验唐所做的事的地方。僵尸太多了，我不能随便就说。等我想到一个更安全的地方再跟你说……}
 #{220}{}{You'll find out soon enough what happens upstairs. If you tough, you get through it fine. It happened to Ton, and Ton is just fine!}
 {220}{}{你很快就会知道楼上发生了什么。如果你够强，你会很安全地通过。唐就是这样，唐现在很安全！}
 #{221}{}{Uh . . . I didn't say anything. You forget what Ton told you or Ton will make you forget, permanently!}
-{221}{}{喔. . . 我什么也没说。你最好忘了唐和你说的话，要不然唐就会让你永远地忘记的！}
+{221}{}{喔……我什么也没说。你最好忘了唐和你说的话，要不然唐就会让你永远地忘记的！}
 #{222}{}{They used to be whiners. But Ton talks too much. You get out of my face.}
 {222}{}{他们以前也是哀诉者。但是唐说的太多了。你快走吧。}
 #{223}{}{Fine. You stay low-profile until I give you the word. Then we have fun.}
@@ -253,13 +253,13 @@
 #{226}{}{Who the hell knows? Maybe it's just Morpheus pulling the strings. Things are good, and if this dries up, Ton goes somewhere else.}
 {226}{}{谁他妈知道？也许只是墨菲斯在拉绳子。情况还不错，要是这里不行了，唐就到别的地方去。}
 #{227}{}{Well, don't get too eager. Even with the Nightkin, it's still tough fighting. But if we play it smart, we get out ahead. That's the only thing Ton cares about.}
-{227}{}{好了，别太激动。就算是和夜之团, 那也是很困难的战斗。但是如果我们干得聪明，我们就能搞定。那是唐唯一关心的事。}
+{227}{}{好了，别太激动。就算是和隐形人, 那也是很困难的战斗。但是如果我们干得聪明，我们就能搞定。那是唐唯一关心的事。}
 #{228}{}{The conversion isn't easy. You see these people, all these zombies? They used to be like you and me. Ton survived. These people didn't. But why should Ton care about you?}
 {228}{}{昄依并不简单。你看见这些人了，这些僵尸?他们以前就和你我一样。唐幸免了。这些人没有。不过我为什么要管你呢？}
 #{229}{}{You don't like the way Ton talk? Then Ton kill you!}
 {229}{}{你不喜欢唐说话的方式？那么唐要杀了你！}
 #{230}{}{Ton go through it fine. I . . . uh . . . I . . . uh . . . Ton . . . Ton just fine.}
-{230}{}{唐安全地通过了。我. . . 喔. . . 我 . . . 喔. . . 唐 . . . 唐很安全。}
+{230}{}{唐安全地通过了。我……喔……我……喔……唐……唐很安全。}
 #{231}{}{I used to be with the Dead Dog gang. Always hungry, always tired. This place is much better for Ton. Why should I worry about anyone else? Nobody ever worry about me.}
 {231}{}{我以前在死狗帮。总是很饿，总是很累。这地方对唐来说好多了。我为什么要替别人担心？从来没人担心过我。}
 #{232}{}{You greedy asshole! Get outta here before Ton kills you!}
@@ -267,7 +267,7 @@
 #{233}{}{Then get out of here now, before it's too late.}
 {233}{}{那么现在快滚，不然就晚了。}
 #{234}{}{Nothing important as you and me. Unfortunately, this is the worst place on earth to experience what Ton does best. Too many zombies cramp my style. I'll let you know when I think about some place more convenient . . .}
-{234}{}{没什么事有你我重要。很不幸，这是地球上最糟的体验唐所做的事的地方。僵尸太多了，我不能随便就说。等我想到一个更安全的地方再跟你说. . .}
+{234}{}{没什么事有你我重要。很不幸，这是地球上最糟的体验唐所做的事的地方。僵尸太多了，我不能随便就说。等我想到一个更安全的地方再跟你说……}
 #{235}{}{Why you manipulative bitch! Nobody screws with Ton like that!}
 {235}{}{你这婊子要干嘛！没人敢对唐这样！}
 
