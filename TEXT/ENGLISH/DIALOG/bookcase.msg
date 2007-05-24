@@ -3,7 +3,7 @@
 #{101}{}{You take a book down, examine it and quickly replace it on the shelf.  The shelf itself seems very sturdy.}
 {101}{}{你拿下一本书，查看了一下，又很快地放回书架。书架本身看上去很坚固。}
 #{102}{}{You find a hidden latch.}
-{102}{}{你发现一个隐藏的门闩}
+{102}{}{你发现一个隐藏的门闩。}
 #{103}{}{That does nothing.}
 {103}{}{那做不了什么。}
 #{104}{}{The wall next to the bookshelf quietly slides out of the way.}

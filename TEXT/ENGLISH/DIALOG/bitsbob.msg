@@ -1,5 +1,5 @@
 #{100}{}{You see Bob, proprietor of Bob's Iguana Bits.}
-{100}{}{你看见鲍勃，鲍勃蜥蜴烧烤的老板。}
+{100}{}{你看见鲍勃，“鲍勃蜥蜴料理”的老板。}
 #{101}{}{Ok, Ok, I've got your money.}
 {101}{}{好了，好了，我准备好给你的钱了。}
 #{102}{}{I've got more expenses.  I need to increase the payment.}
@@ -17,7 +17,7 @@
 #{108}{}{I'm sorry.  I ain't payin' no more.  Do what you want with me.}
 {108}{}{对不起，我不会付钱了。你想怎么着就怎么着吧。}
 #{109}{}{Bob, I thought we were pals!  In fact, I was thinking about giving you a promotion in my organization.  Instead, you betray me.  This is very disappointing...}
-{109}{}{鲍勃，我还以为我们是朋友！事实上。我还想提拔你呢。而你，却背叛了我。这太让我失望了... }
+{109}{}{鲍勃，我还以为我们是朋友！事实上。我还想提拔你呢。而你，却背叛了我。这太让我失望了……}
 #{110}{}{Bob, why should I take no for an answer?  Especially from a scumbag like you?}
 {110}{}{鲍勃，我怎么能让人对我说不？尤其是像你这样的烂人？}
 #{111}{}{Glad to see you're standing up for yourself.}
@@ -35,7 +35,7 @@
 #{117}{}{Hey, I don't want any trouble!}
 {117}{}{嘿，我不想惹什么麻烦！}
 #{118}{}{Hi!  Welcome to Bob's Iguana Bits, the family eating place.  Can I take your order?}
-{118}{}{嗨！欢迎到鲍勃蜥蜴烧烤，吃饭的好地方。要来点什么？}
+{118}{}{嗨！欢迎到“鲍勃蜥蜴料理”，吃饭的好地方。要来点什么？}
 #{119}{}{Forget it.}
 {119}{}{没什么。}
 #{120}{}{You are?  Well, Ok...}
@@ -65,7 +65,7 @@
 #{132}{}{I could go for some prime cut right now.  I'll even pay for it.}
 {132}{}{这会我就来烤肉块吧。我只付得起这个。}
 #{133}{}{Uhh... Me no hungry now.}
-{133}{}{喔...我现在不饿。}
+{133}{}{喔……我现在不饿。}
 #{134}{}{Fine!  Take your money and get out!}
 {134}{}{好了！拿上你的钱快走吧！}
 #{135}{}{You can stick it!  I ain't ever payin' you!  Get lost!}
@@ -95,9 +95,9 @@
 #{147}{}{Hmm, smell good!  Me want prime!}
 {147}{}{呣, 闻起来不错！我要烤精华的！}
 #{148}{}{Never seen any of them around here.  Water Merchants don't need 'em.}
-{148}{}{这里从没见过这种东西。运水商不会需要它们的。}
+{148}{}{这里从没见过这种东西。纯水商队不会需要它们的。}
 #{149}{}{Water Merchants?}
-{149}{}{运水商？}
+{149}{}{纯水商队？}
 #{150}{}{Mr. Decker is a distinguished businessman in a less than distinguished business.  Anything else?}
 {150}{}{德克先生是一个高尚的商人，却干着不那么高尚的行业。还要别的吗？}
 {151}{}{}
@@ -109,7 +109,7 @@
 #{154}{}{Your secret ingredients.  How fresh does the corpse have to be before it develops a bitter aftertaste?  Do you use mutants, humans, or a mix?}
 {154}{}{你的秘密原料。那些尸体变味前新鲜吗？你是用变种人，还是人类，或者混着用？}
 #{155}{}{I found an invoice in Doc Morbid's lair.  An invoice for dead bodies...}
-{155}{}{我在莫彼得医生的老窝里找到一张发货单。死尸的发货单...}
+{155}{}{我在莫彼得医生的老窝里找到一张发货单。死尸的发货单……}
 #{156}{}{If you've got a memory loss, I can talk to the sheriff.}
 {156}{}{如果你失忆了，我可以去和治安官谈谈。}
 #{157}{}{Prime Choice Select is made of people!!!!  It's made of people!!!}
@@ -123,13 +123,13 @@
 #{161}{}{Someone shot Sheriff Greene.  Don't know about the deputy, though.}
 {161}{}{有人向治安官格瑞开枪。现在还不知道谁是代理治安官。}
 #{162}{}{Daren Hightower was murdered.  And all that money couldn't save him.  Ironic, ain't it?}
-{162}{}{达伦.海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
+{162}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{163}{}{Someone stole a necklace from the Hightowers.  Man, did they ever make a big mistake.  They're dead for sure!}
 {163}{}{有人从海托家里偷了一条项链。老兄，他们犯了大错。他们死定了！}
 #{164}{}{Someone killed Jain over at the Cathedral.  I hear she was a real pain in the butt!}
-{164}{}{有人在大教堂杀了简。我听说她是条真正的母狗！}
+{164}{}{有人在大教堂杀了杰伊。我听说她是条真正的母狗！}
 #{165}{}{Well, the only new thing is that the Children of the Cathedral has taken over the Hospital.  It's pretty boring around here lately.}
-{165}{}{嗯，唯一的新闻是大教堂之子接管了医院。最近这里很无聊。}
+{165}{}{嗯，唯一的新闻是大教堂教徒接管了医院。最近这里很无聊。}
 #{166}{}{Anything else?}
 {166}{}{还要什么？}
 #{167}{}{Man, I'm gonna be out of business in a week.  Anything else, oh high and mighty?}
@@ -151,33 +151,33 @@
 #{175}{}{Smart choice.  You could stand to lose a few pounds.}
 {175}{}{聪明的选择。你可以光站着就减掉几磅肉。}
 #{176}{}{Wh...what!  Oh, I see, you're joking...}
-{176}{}{什...什么！喔，我明白了，你是在开玩笑...}
+{176}{}{什……什么！喔，我明白了，你是在开玩笑……}
 #{177}{}{Of course I am...}
-{177}{}{当然我是...}
+{177}{}{当然我是……}
 #{178}{}{No, I'm not.  I'm going to see that you pay for your crime.}
 {178}{}{不，不是。我是来惩罚你的罪行。}
 #{179}{}{No, I'm not.  And I want a piece of the action.}
 {179}{}{不，不是。我是要你意思一下。}
 #{180}{}{You must be new in town if you're asking me about the Water Merchants.  Water is life, and you don't get much more powerful than life and death.}
-{180}{}{如果你会问我运水商队的事，那你一定是刚到这城里。水是生命，你不可能得到比掌握生死还大的权力了。}
+{180}{}{如果你会问我纯水商队的事，那你一定是刚到这城里。水是生命，你不可能得到比掌握生死还大的权力了。}
 #{181}{}{Who's in charge of the Water Merchants?}
-{181}{}{谁是运水商队的头？}
+{181}{}{谁是纯水商队的头儿？}
 #{182}{}{If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it.  Anything else?}
-{182}{}{在哈勃，如果有什么事情牵扯到不幸和痛苦，那么不是德克在操纵就是他想操纵。还要什么？}
+{182}{}{在哈勃城，如果有什么事情牵扯到不幸和痛苦，那么不是德克在操纵就是他想操纵。还要什么？}
 #{183}{}{I don't know what you're talking about, and I don't appreciate your slander!  I suggest you don't show your face in here again.}
 {183}{}{我不知道你在说什么，我也不喜欢你的诬蔑！我希望你不要再来了}
 #{184}{}{Don't do that!  Fine, I've been using some questionable portions.  But it's not like I'm committing murder.  Doc Morbid's stuff is already dead, isn't it?}
 {184}{}{不要那样做！好吧，我是用了一些可疑的东西。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{185}{}{I'm sure it is, Bob.  Have a nice day...}
-{185}{}{我想是的，鲍勃。再见...}
+{185}{}{我想是的，鲍勃。再见……}
 #{186}{}{Cannibalism is a crime against humanity, Bob.  I'm going to see that you pay for it.}
 {186}{}{吃人是违背人性的罪行，鲍勃。我是来惩罚你的。}
 #{187}{}{Maybe it is.  Maybe it isn't.  I don't care.  I want a piece of the action.}
 {187}{}{也许是。也许不是。我不在乎。我想要你意思一下。}
 #{188}{}{Not so loud!  I don't need you saying that all over the Hub...}
-{188}{}{别那么大声！我不想让你喊得全哈勃都知道...}
+{188}{}{别那么大声！我不想让你喊得全哈勃城都知道……}
 #{189}{}{I guess I was rude.  Have a nice day...}
-{189}{}{我想我有点无礼。再见...}
+{189}{}{我想我有点无礼。再见……}
 #{190}{}{You know, the police station is just across the street.  I really should take a little walk.}
 {190}{}{你知道，警察局就在街对面。我真该过去一趟。}
 #{191}{}{I can get even louder.  But I can also shut up.  Noise is cheap, silence is expensive.}
@@ -241,19 +241,19 @@
 #{220}{}{I don't think I'll blackmail you.  Carry on.}
 {220}{}{我想我不会勒索你的。就这样吧。}
 #{221}{}{I'd change your mind if I were you, friend.  People have died for less in the Hub.}
-{221}{}{朋友，我是你的话就改主意。在哈勃是很容易丧命的。}
+{221}{}{朋友，我是你的话就改主意。在哈勃城是很容易丧命的。}
 #{222}{}{Fine.  It's a deal. }
 {222}{}{好吧。就这样。}
 #{223}{}{ bucks, due every five days.  I guess I'll see you in five...}
-{223}{}{ 块，五天到期。我想我们五天后再见...}
+{223}{}{ 块，五天到期。我想我们五天后再见……}
 #{224}{}{No way I'm going for that.  I can't afford more than what I'm paying you now.}
 {224}{}{那没办法。我付不起比现在更多的钱了。}
 #{225}{}{Too bad, Bob.  I'd hate to start singing.}
 {225}{}{太糟了，鲍勃。我讨厌唱歌。}
 #{226}{}{Fine.  We'll stay with the current arrangement... for now.}
-{226}{}{好吧。暂时...我们就按目前的协议吧。}
+{226}{}{好吧。暂时……我们就按目前的协议吧。}
 #{227}{}{Can you afford a funeral, Bob?}
-{227}{}{你付得起一个葬礼么，鲍勃？}
+{227}{}{你付得起一个葬礼吗，鲍勃？}
 #{228}{}{Fine.  Maybe it would be good if our paths didn't cross again.}
 {228}{}{好吧。也许我们以后别再打交道了。}
 #{229}{}{You may be a songbird, but I'm the golden goose.  You ain't gonna sing, not when I'm the only goose you've got.  Now get out!}
@@ -273,7 +273,7 @@
 #{236}{}{What, me trouble?  What gives you that impression?}
 {236}{}{什么，我有麻烦？你从哪里看出来的？}
 #{237}{}{Anything interesting happening in the Hub?}
-{237}{}{哈勃发生了什么有趣的事吗？}
+{237}{}{哈勃城发生了什么有趣的事吗？}
 #{238}{}{Me hungry!  Grrrrr!}
 {238}{}{我饿了！呃啊！}
 #{239}{}{Terrible business.  Those poor people.  Oh, those poor people.  Losing their lives in such a ghastly way!  Is there anything else I can do for you?  Like feed you, perhaps?}

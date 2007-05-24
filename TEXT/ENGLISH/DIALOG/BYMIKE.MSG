@@ -7,7 +7,7 @@
 #{103}{}{Hi again, what can I do for you?}
 {103}{}{嗨，我能为你做什么？}
 #{104}{}{Can you tell me a little bit about the Boneyard?}
-{104}{}{你能告诉我一点有关曝骨场的事吗？}
+{104}{}{你能告诉我一点有关晒骨场的事吗？}
 #{105}{}{Who are you?}
 {105}{}{你是谁？}
 #{106}{}{Why do you all live here?}
@@ -15,13 +15,13 @@
 #{107}{}{Nothing, thanks.}
 {107}{}{没什么，谢谢。}
 #{108}{}{Sure.  To the south is Adytum, over to the north-east you'll find the Gun Runners, but you'll have to get through the Deathclaws to get to them.  To the west is the Followers of the Apocalypse, and to the Far South I've heard there is some kind of church.}
-{108}{}{当然。这里南边是内城，去东北边你能找到枪手帮 ，但是你得通过死亡爪 才能到那里。西边是启示录派 的信徒，而在最南边我听说有个教堂。}
+{108}{}{当然。这里南边是内城区，去东北边你能找到军火商，但是你得通过死亡爪才能到那里。西边是末世论者，而在最南边我听说有个大教堂。}
 #{109}{}{I'm Michael.  My wife, Christine, and I live here as Blades and help with what we can.}
-{109}{}{我是迈克尔。这是我妻子，克力斯廷。我住在这里，作为Blades 的成员，尽我们所能帮助他们。}
+{109}{}{我是迈克尔。这是我妻子，克力斯廷。我住在这里，作为利刃帮的成员，尽我们所能帮助别人。}
 #{110}{}{It is not as bad as it seems.  The Regulators and the Deathclaws can cause problems, but our leader, Razor, has helped us a great deal over the past months.  And more recently, MacRae has been showing us how to protect ourselves better.}
-{110}{}{这里没有看上去那么糟。Regulators 和Deathclaws 是大麻烦，但我们的头，剃刀，在过去几个月帮了我们很大的忙。最近，MacRae 在教我们怎样更好地保护自己。}
+{110}{}{这里没有看上去那么糟。管理者和死亡爪是大麻烦，但我们的头儿，剃刀，在过去几个月帮了我们很大的忙。最近，麦克雷在教我们怎样更好地保护自己。}
 #{111}{}{Thank you for helping us clean out the Regulators from Adytum.  Here are is what we can spare to help you further on your travels.}
-{111}{}{谢谢你帮我们在内城清除了蝎子 。这是我们能拿得出来帮你的一点东西。}
+{111}{}{谢谢你帮我们在内城区清除了大蝎子 。这是我们能拿得出来帮你的一点东西。}
 #{112}{}{It wasn't a problem. Thanks for the supplies.}
 {112}{}{这不是问题。谢谢你的补给。}
 #{113}{}{You are welcome, and keep the supplies for yourself.}

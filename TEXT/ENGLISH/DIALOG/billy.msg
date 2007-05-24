@@ -23,7 +23,7 @@
 #{111}{}{Oh, okay.}
 {111}{}{喔，好的。}
 #{112}{}{Nothing . . . I mean, I'm taking care of the brahmin.}
-{112}{}{没什么. . . 我是说，我在照看双头牛。}
+{112}{}{没什么……我是说，我在照看双头牛。}
 #{113}{}{What's the spear for? Are they dangerous?}
 {113}{}{这根矛是用来干什么的？它们很危险吗？}
 #{114}{}{What's a brahmin?}
@@ -77,13 +77,13 @@
 #{139}{}{Okay.}
 {139}{}{好吧。}
 #{140}{}{Aaaaaarg!}
-{140}{}{Aaaaaarg!}
+{140}{}{啊啊啊啊!}
 #{141}{}{Rhu?}
-{141}{}{Rhu?}
+{141}{}{嗯?}
 #{142}{}{Please don't, I'm already in enough trouble.}
 {142}{}{请别这样，我已经有大麻烦了。}
 #{143}{}{I AM working hard!}
-{143}{}{我干地很努力！}
+{143}{}{我干的很努力！}
 #{144}{}{I'm sorry, I didn't mean that. He's just trying to help you.}
 {144}{}{对不起，我不是那个意思。他只是想帮你。}
 #{145}{}{No you aren't, you lazy little skeev!}
@@ -91,19 +91,19 @@
 #{146}{}{Okay. }
 {146}{}{好吧。}
 #{147}{}{Yea, maybe you're right . . . actually, he seems pretty cool, but I wish he wouldn't yell at me so much.}
-{147}{}{是的，也许你是对的. . . 实际上，他看起来很酷，但我希望他不要动不动就朝我吼叫。}
+{147}{}{是的，也许你是对的……实际上，他看起来很酷，但我希望他不要动不动就朝我吼叫。}
 #{148}{}{Yea, right.}
 {148}{}{是的，是这样。}
 #{149}{}{Up yours, you old fart!}
 {149}{}{去你的，你个老混蛋！}
 #{150}{}{Up yours, you old hag!}
-{150}{}{去你的,你个老巫婆！}
+{150}{}{去你的，你个老巫婆！}
 #{151}{}{WOW! I can live on this for the rest of my life! Thanks a lot, mister!}
 {151}{}{哇！下半辈子我可以靠这个过了！太感谢了，先生！}
 #{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, ma'am!}
 {152}{}{哇！下半辈子我可以靠这个过了！太感谢了，女士！}
 #{153}{}{WOW! Thanks . . . Well? . . . You're just trying to get me in trouble again!}
-{153}{}{哇！谢. . .嗯？. . .你是想再给我惹上麻烦！}
+{153}{}{哇！谢……嗯？……你是想再给我惹上麻烦！}
 #{154}{}{Please don't talk to me, Dan is really mad.}
 {154}{}{请别跟我说话，丹真的很愤怒。}
 #{155}{}{Don't worry. I had a talk with him, he'll try to be nicer to you.}
@@ -111,7 +111,7 @@
 #{156}{}{And he should be! You're a terrible kid!}
 {156}{}{他该这样！你是一个可怕的孩子！}
 #{157}{}{Wac.}
-{157}{}{Wac.}
+{157}{}{恩.}
 #{158}{}{Hi!}
 {158}{}{嗨！}
 #{159}{}{Those girls over there sure are dumb.}
@@ -121,7 +121,7 @@
 #{161}{}{Brahmin are cool.}
 {161}{}{双头牛很酷。}
 #{162}{}{Dan's taking me to the Falcon if I do a good job.}
-{162}{}{如果我干得好，丹会把我介绍给马耳他之鹰酒吧。}
+{162}{}{如果我干得好，丹会把我介绍给马耳他猎鹰酒吧。}
 #{163}{}{Dan's going to take me on a caravan some day!}
 {163}{}{将来丹会带我进商队！}
 #{164}{}{I'm going to be an adventurer when I grow up.}
@@ -137,9 +137,9 @@
 #{169}{}{Just stopping by to see how things are going. Bye.}
 {169}{}{只是过来看看情况怎么样。再见。}
 #{170}{}{Arg!}
-{170}{}{Arg!}
+{170}{}{啊!}
 #{171}{}{Ta.}
-{171}{}{Ta.}
+{171}{}{哈.}
 #{172}{}{I'd better get back to work.}
 {172}{}{我得回去干活了。}
 #{173}{}{Those girls over there sure are dumb.}
@@ -149,7 +149,7 @@
 #{175}{}{I'm going to be an adventurer when I grow up.}
 {175}{}{我长大以后要当一个冒险家。}
 #{176}{}{Brahmin sure do shi . . . uh, poop a lot.}
-{176}{}{双头牛确实. . .唔，放很多屁。}
+{176}{}{双头牛确实……唔，放很多屁。}
 #{177}{}{I can't talk right now.}
 {177}{}{我现在不能说话。}
 #{178}{}{I don't want to get in trouble.}
