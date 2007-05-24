@@ -169,7 +169,7 @@
 {113}{}{钢铁兄弟会}                          // BROHDENT.MAP
 {114}{}{钢铁兄弟会}                          // BROHD12.MAP
 {115}{}{钢铁兄弟会}                          // BROHD34.MAP
-{116}{}{荒漠小镇}                          // CAVES.MAP
+{116}{}{沙荫镇}                          // CAVES.MAP
 {117}{}{大教堂}                            // CHILDRN1.MAP
 {118}{}{大教堂}                            // CHILDRN2.MAP
 {119}{}{城市废墟}									 // CITY1.MAP
@@ -177,9 +177,9 @@
 {121}{}{海边} 										 // COAST2.MAP
 {122}{}{荒凉的沙漠}										 // COLATRUK.MAP
 {123}{}{荒凉的沙漠}										 // FSAUSER.MAP
-{124}{}{强盗营地}                              // RAIDERS.MAP
-{125}{}{沙漠小镇}                          // SHADYE.MAP
-{126}{}{沙漠小镇}                          // SHADYW.MAP
+{124}{}{歹徒营地}                              // RAIDERS.MAP
+{125}{}{沙荫镇}                          // SHADYE.MAP
+{126}{}{沙荫镇}                          // SHADYW.MAP
 {127}{}{闪光之地}											 // GLOWENT.MAP
 {128}{}{晒骨场}                             // LAADYTUM.MAP
 {129}{}{晒骨场}                             // LAFOLLWR.MAP
