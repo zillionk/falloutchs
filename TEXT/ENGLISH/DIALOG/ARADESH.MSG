@@ -345,11 +345,11 @@
 
 #{202}{Ara_29}{Ummm, yes, yes, yes, yes, yes! Please talk to Razlo. He
 #possesses far more information on these creatures than I.}
-{202}{Ara_29}{嗯，是是是是是！请跟罗兹谈谈。他比我更清楚那种生物的事情。}
+{202}{Ara_29}{嗯，是，是，是，是，是！请跟罗兹谈谈。他比我更清楚那种生物的事情。}
 
 #{203}{Ara_30}{As Dharma said, 'Those who tend their own flock,
 #know the shepherd.'}
-{203}{Ara_30}{如达玛所说，“自发团结过得人才知道领导的可贵。”}
+{203}{Ara_30}{如达玛所说，“自发团结过的人才知道领导的可贵。”}
 
 #{204}{}{I know it's hard for you to trust, but I would like
 #to help.}
@@ -404,7 +404,7 @@
 {218}{Ara_36}{是，是。嗯。祝你在这愉快。}
 
 #{219}{Ara_37}{Ahh, wanderer. How goes the search for my daughter?}
-{219}{Ara_37}{啊，旅行者。寻找我女儿有什么进展么？}
+{219}{Ara_37}{啊，旅行者。寻找我女儿有什么进展吗？}
 
 #{220}{}{Sorry, but I haven't found her. I will, though.}
 {220}{}{抱歉，不过我还没有找到她。不过我会的。}
@@ -459,14 +459,14 @@
 # responsible - retribution for our resistance to
 # them. Take this spear. It was found where my daughter
 # was last seen.}
-{235}{Ara_40}{赛思和我相信是其中一个强盗帮干的——我们抵抗他们的报应。拿上这把矛。这是我在女儿最后被看见的地方找到的。}
+{235}{Ara_40}{赛思和我相信是其中一伙歹徒干的——我们抵抗他们的报应。拿上这把矛。这是我在女儿最后被看见的地方找到的。}
 
 #{236}{}{Okay, I'll check it out.}
 {236}{}{好的，我会去查查。}
 
 #{237}{Ara_40A}{Please, talk to Seth. He knows much about these
 # raiders. And God speed, wanderer.}
-{237}{Ara_40A}{请和赛思谈谈。他知道很多关于强盗的事。十万火急啊，旅行者。}
+{237}{Ara_40A}{请和赛思谈谈。他知道很多关于歹徒的事。十万火急啊，旅行者。}
 
 #{238}{Ara_41}{Of course, I will reward you. Bring her and you
 # will receive 500 in Hub Script. Will you help me?}
@@ -519,7 +519,7 @@
 
 #{252}{Ara_50}{She is my daughter. It is she that makes this hard
 # life worth living.}
-{252}{Ara_50}{它是我的女儿，就是因为她，这里一切艰苦的生活都是值得的}
+{252}{Ara_50}{它是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
 
 #{253}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
 # he can heal it. I would wager he is just a little
@@ -538,12 +538,12 @@
 #{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
 # the Khans.}
-{256}{Ara_54}{哼，嗯，嗯。太糟了。据我们所知附近就有两伙强盗。他们自称毒蛇和可汗。}
+{256}{Ara_54}{哼，嗯，嗯。太糟了。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
 
 #{257}{Ara_55}{Be very careful with such as these. Raiders who are
 # fanatically  religious can be quite dangerous. No one
 # here knows of their base.}
-{257}{Ara_55}{对这些人要尤其小心。那些狂热迷信的强盗非常危险。这里也没人知道他们的老巢在哪。}
+{257}{Ara_55}{对这些人要尤其小心。那些狂热迷信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
 
 #{258}{Ara_56}{Umm, yes, yes. The Khans are nastier then the Vipers,
 # let me tell you. These barbarians attack from the
@@ -567,7 +567,7 @@
 {263}{Ara_61}{毒蛇帮和可汗帮都用矛。我们在他们的进攻里知道的。}
 
 #{264}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
-{264}{Ara_62}{你会在镇前面找到它，赛斯八成就在那里。}
+{264}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
 
 #{265}{Ara_63}{No one knows for certain, but the packs seem to be
 # coming from the northeast.}
@@ -661,12 +661,12 @@
 #{1104}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
 # the Khans.}
-{1104}{Ara_54}{哼，嗯，嗯。太糟了。据我们所知附近就有两伙强盗。他们自称毒蛇和可汗。}
+{1104}{Ara_54}{哼，嗯，嗯。太糟了。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
 
 #{1105}{Ara_55}{Be very careful with such as these. Raiders who are
 # fanatically  religious can be quite dangerous. No one
 # here knows of their base.}
-{1105}{Ara_55}{对这些人要尤其小心。那些狂热迷信的强盗非常危险。这里也没人知道他们的老巢在哪。}
+{1105}{Ara_55}{对这些人要尤其小心。那些狂热迷信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
 
 #{1106}{Ara_56}{Umm, yes, yes. The Khans are nastier then the Vipers,
 # let me tell you. These barbarians attack from the
@@ -690,7 +690,7 @@
 {1110}{Ara_61}{毒蛇帮和可汗帮都用矛。我们在他们的进攻里知道的。}
 
 #{1111}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
-{1111}{Ara_62}{你会在镇前面找到它，赛斯八成就在那里。}
+{1111}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
 
 #{1112}{Ara_63}{No one knows for certain, but the packs seem to be
 # coming from the northeast.}
@@ -701,7 +701,7 @@
 {1113}{Ara_57}{它们都是恶心的动物。当心它们的尾巴。那些毒素不好好治疗可是会要你命的。}
 
 #{1114}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
-{1114}{Ara_62}{你会在镇前面找到它，赛斯八成就在那里。}
+{1114}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
 
 #{1115}{Ara_52}{A fine young man, Seth. Captain of our guards. He
 # is likely to be at the Guard House. }

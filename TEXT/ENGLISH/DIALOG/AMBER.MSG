@@ -1,10 +1,10 @@
-{100}{}{你看见安柏尔，“启示录”预言派的一个教师。}
+{100}{}{你看见安柏尔，末世论者的一个教师。}
 {101}{}{现在是我休息的时候。请在晚上再来。}
 {102}{}{欢迎，高贵的旅行者。你是来这里钻研的吗？}
 {103}{}{不。我事实上只是来这里杀戮。}
 {104}{}{这要看你想教我什么。}
 {105}{}{是的，我愿意学。}
-{106}{}{我非常遗憾听到你这么说。“启示录”预言派相信和平是不计任何代价的。因为这点，我已经自愿放弃使用暴力。晚安。}
+{106}{}{我非常遗憾听到你这么说。末世论者相信和平是不计任何代价的。因为这点，我已经自愿放弃使用暴力。晚安。}
 {107}{}{我擅长多种的语言和艺术。或许你想学其中的一项？}
 {108}{}{抱歉，不过我需要知道能帮助我生存的事情。}
 {109}{}{我没有时间花在这种东西上。走了。}
@@ -22,7 +22,7 @@
 {122}{}{好吧，我会教你关于生存的一些方法。}
 {123}{}{你学得很快。愿你的考验能启发你。和平与你同在。}
 {124}{}{你并没有说服我。我认为你寻求把我的能力用在不良之处。晚安。}
-{125}{}{啊，一个想学习艺术的学生现在在世界上已经很罕见了，不过或许你还有希望。每首歌都比较长，你愿意听么？}
+{125}{}{啊，一个想学习艺术的学生现在在世界上已经很罕见了，不过或许你还有希望。每首歌都比较长，你愿意听吗？}
 {126}{}{自黑暗中觉醒.}
 {127}{}{亚尔河之歌.}
 {128}{}{阿耳忒弥斯的回忆.}
@@ -46,13 +46,13 @@
 
 
 
-#{100}{}{You see 安柏尔, a teacher for the “启示录”预言派.}
+#{100}{}{You see 安柏尔, a teacher for the 末世论者.}
 #{101}{}{Now is when I rest. Please, come back during the evening.}
 #{102}{}{Welcome noble traveler. Have you come here to study?}
 #{103}{}{No. I really came here just to kill things.}
 #{104}{}{Depends on what you want to teach me.}
 #{105}{}{Yes, I am willing to learn.}
-#{106}{}{I am truly sorry to hear that. The “启示录”预言派 believe in peace at all costs. For that reason, I have renounced violence. Good evening.}
+#{106}{}{I am truly sorry to hear that. The 末世论者 believe in peace at all costs. For that reason, I have renounced violence. Good evening.}
 #{107}{}{I am skilled in many of the languages and arts. Perhaps you would like to learn one of those?}
 #{108}{}{I'm sorry, but I need to know things which will help me survive.}
 #{109}{}{I have no time for that type of stuff. I'm gone.}
