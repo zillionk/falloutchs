@@ -45,7 +45,7 @@
 
 #{113}{}{That slob can't even stand up by himself. We're the muscle in this town.
 #We take what we want.}
-{113}{}{那团烂泥甚至不能自己站起来。我们才是这个城镇的铁腕力量，想干啥就干啥。}
+{113}{}{那团烂泥甚至不能自己站起来。我们才是这个城镇的老大，想干啥就干啥。}
 
 #{114}{}{I see.}
 {114}{}{我知道了。}
@@ -188,7 +188,7 @@
 
 #{157}{}{That'll show that old fuck. Thanks for taking care of him for us.
 #[Vinnie gets a tear in his eye.] You're a Skul, now.}
-{157}{}{老混蛋死得好。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于骷髅党了。}
+{157}{}{老混蛋死有余辜。谢谢你帮我们收拾他。【维尼眼睛有点湿润】现在，你是骷髅党的人了。}
 
 #{158}{}{Uh, all right . . . meet us later, but don't take too long.}
 {158}{}{啊，很好……我们到时候见，不要让我们等太久。}
