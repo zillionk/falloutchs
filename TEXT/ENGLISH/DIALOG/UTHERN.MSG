@@ -102,7 +102,7 @@
 {133}{}{绝不！！}
 
 #{134}{}{Sorry, I'm a little low on caps right now. Can I get a raincheck?}
-{134}{}{对不起，我现在钱不多，打个折吧?}
+{134}{}{对不起，我现在钱不多，下次来还有优惠么?}
 
 #{135}{}{What? I think I can generalize this much -- you are coming with me now.}
 {135}{}{什么？我想我能概括这么多－－你现在跟我走。}
