@@ -8,7 +8,7 @@
 {102}{}{允许访问。命令？}
 
 #{103}{}{Display security codes.}
-{103}{}{显示安全，密码。}
+{103}{}{显示安全码。}
 
 #{104}{}{Search logs.}
 {104}{}{搜索日志。}
@@ -123,7 +123,7 @@
 #male units and two female units. All individuals suffering from FEV exposure.
 #Vital signs are within normal parameters. FEV process on all subjects is
 #approxiamtely 50% complete. Expect full FEV transformation within 12 hours.}
-{143}{}{患者当前情况如下：ＦＥＶ病毒批次＃２３８７２－Ａ有四名男性单元和两名女性单元。所有个体受到ＦＥＶ病毒的感染。生命体征在正常范围内。每个对象体内ＦＥＶ病毒进程大约５０％。预计１２小时内ＦＥＶ病毒转化全部完成。}
+{143}{}{患者当前情况如下：ＦＥＶ病毒批次＃２３８７２－Ａ包括四名男性感染者和两名女性感染者。所有个体受到ＦＥＶ病毒的感染。生命体征在正常范围内。每个对象体内ＦＥＶ病毒进程大约５０％。预计１２小时内ＦＥＶ病毒转化全部完成。}
 
 #{144}{}{I think something is happening to one of the patients. Is there anything
 #I can do?}
@@ -136,13 +136,13 @@
 {146}{}{可用选项：}
 
 #{147}{}{Status report on individual patients.}
-{147}{}{单例患者情况报告。}
+{147}{}{具体患者情况报告。}
 
 #{148}{}{Shut down life support systems.}
 {148}{}{关闭生命维持系统。}
 
 #{149}{}{Increase dosage of original DNA strands of subjects to 100%.}
-{149}{}{增大对象的原始ＤＮＡ链比例至１００％}
+{149}{}{增大对象的原始ＤＮＡ链剂量比例至１００％}
 
 #{150}{}{Log off.}
 {150}{}{退出登录。}
@@ -151,7 +151,7 @@
 {151}{}{请输入授权代码。}
 
 #{152}{}{Authorization 3578X287A.}
-{152}{}{授权 ３５７８Ｘ２８７Ａ。}
+{152}{}{授权３５７８Ｘ２８７Ａ。}
 
 #{153}{}{Z876342BCD}
 {153}{}{Ｚ８７６３４２ＢＣＤ}
@@ -173,7 +173,7 @@
 {158}{}{终止ＦＥＶ病毒批次＃２３８７２－Ａ的生命维持系统。}
 
 #{159}{}{Increase original DNA strand dosage to 100% on all subjects.}
-{159}{}{增大所有对象的原始ＤＮＡ链比例至１００％}
+{159}{}{增大所有对象的原始ＤＮＡ链剂量比例至１００％}
 
 #{160}{}{Access granted. Which patient file would you like to examine?}
 {160}{}{允许访问。你想检查哪位患者的档案？}
@@ -228,14 +228,14 @@
 
 #{174}{}{Are you sure you wish to increase the dosage? Auto-correction will be
 #disabled if you do this.}
-{174}{}{你确定你想要增大比例吗？如果这样，自动校正将被禁止。}
+{174}{}{你确定你想要增大剂量比例吗？如果这样，自动校正将被禁止。}
 
 #{175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has
 #been disabled.}
-{175}{}{增大所有对象的原始ＤＮＡ链比例至１００％。警告：自动校正已被禁止。}
+{175}{}{增大所有对象的原始ＤＮＡ链剂量比例至１００％。警告：自动校正已被禁止。}
 
 #{176}{}{You manage to get an interface screen out of the vats control computer.}
-{176}{}{你想办法从病毒槽控制计算机上获取一个控制界面。}
+{176}{}{你进入了病毒槽控制计算机的一个控制界面。}
 
 #{177}{}{You try to use the computer, but are unable to get any useful information
 #out of it.}
@@ -247,7 +247,7 @@
 
 #{179}{}{The explosion destroys the vat control system. Without regulation,
 #it will certainly cycle out of control in minutes.}
-{179}{}{爆炸破坏了病毒槽控制系统。它经常毫无规律的在几分钟内连续失去控制。}
+{179}{}{爆炸破坏了病毒槽控制系统。由于电压紊乱，计算机会在几分钟内失控。}
 
 #{180}{}{You slide the security card across the terminal's reader. The terminal
 #clicks and whirrs, and an unencrypted screen comes up.}
