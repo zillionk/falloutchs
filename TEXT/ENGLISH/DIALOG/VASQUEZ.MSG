@@ -61,7 +61,7 @@
 
 #{118}{}{Did you know that I have a bounty on my head?
 # It is too small, however.}
-{118}{}{你知道有人悬赏我的人头么？无论如何，这太少了。}
+{118}{}{你知道有人悬赏我的人头么？不过，赏金太少了点。}
 
 #{119}{}{Ah, my friend. It is good to see you again.}
 {119}{}{啊，我的朋友。很高兴再见到你。}
@@ -88,4 +88,4 @@
 
 #{126}{}{You should not have done that, my soon to be dead
 # friend.}
-{126}{}{你不该这么做的，我的找死朋友。}
+{126}{}{你不该这么做的，自寻死路的朋友。}
