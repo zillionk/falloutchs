@@ -1,7 +1,7 @@
 #{100}{}{You see Deputy Fry.}
-{100}{}{你看见副手弗雷。}
+{100}{}{你看见代理警长佛莱。}
 #{101}{}{Hello friend. Deputy Tony Fry at your service.}
-{101}{}{你好，副手托尼.弗雷为你效劳。}
+{101}{}{你好，代理警长托尼·佛莱为你效劳。}
 #{102}{}{What is this place?}
 {102}{}{这是什么地方？}
 #{103}{}{Get out of my way or they'll have to plant you six feet under.}
@@ -15,7 +15,7 @@
 #{107}{}{Ack!}
 {107}{}{啊！}
 #{108}{}{Oh, a newcomer!  Welcome to the Hub!  I thought you were part of the caravans. Did you come in with them?}
-{108}{}{噢，新来的！欢迎来到哈勃镇！我还以为你是商队的人。你和他们一块来的吗？}
+{108}{}{噢，新来的！欢迎来到哈勃城！我还以为你是商队的人。你和他们一块来的吗？}
 #{109}{}{Yes.}
 {109}{}{是的。}
 #{110}{}{No.}
