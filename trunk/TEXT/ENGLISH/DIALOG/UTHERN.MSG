@@ -1,5 +1,5 @@
 #{100}{}{You see before you Uthern, leader of the Super Mutants.}
-{100}{}{站在你面前的是乌森，变种人的领袖。}
+{100}{}{站在你面前的是乌森，超级变种人的领袖。}
 
 #{101}{}{Normie! How dare you enter the confines of your betters?}
 {101}{}{正常人！你怎么敢进入高等人的地盘？}
@@ -33,7 +33,7 @@
 {110}{}{那我就换个说法－－你去死！}
 
 #{111}{}{Surely one of your intellect can see that such things will solve nothing.}
-{111}{}{再白痴的你也肯定会明白这是没有用的。}
+{111}{}{你再白痴也肯定会明白这是没有用的。}
 
 #{112}{}{With pleasure.}
 {112}{}{很荣幸。}
@@ -42,7 +42,7 @@
 {113}{}{你是说谈话不能解决问题？你比我料想的还蠢。}
 
 #{114}{}{Though you are foolish, I was referring to your manner of delivering words.}
-{114}{}{我所指的是你的说话态度，说了也没用，你这么笨不会明白的。}
+{114}{}{你可真蠢，我刚才指的是你的说话态度。}
 
 #{115}{}{Ah, the fool finally realizes something.}
 {115}{}{啊哈，傻瓜最后还是开了点窍。}
@@ -90,19 +90,19 @@
 {129}{}{这似乎是很遗憾的事情。不要紧，这过程不会要多久的。}
 
 #{130}{}{Offered all the power in the world and still frightened. I will help you with your decision.}
-{130}{}{即将拥有世界上最强大的力量，居然你也会恐惧。我来帮你下决心吧。}
+{130}{}{就是掌握了全世界的力量还是惊恐不安的，我来帮你下决心吧。}
 
 #{131}{}{Comments such as those only prove how much more intelligent i am than you. Now, you shall pay for your insolence!}
 {131}{}{你的话正好证明了我比你更聪明。现在，你将为你的傲慢无礼付出代价！}
 
 #{132}{}{Do you accept credit cards, or only caps?}
-{132}{}{你是接受信用卡，或者只是现金？}
+{132}{}{收信用卡，还是只要现金？}
 
 #{133}{}{Never!!}
 {133}{}{绝不！！}
 
 #{134}{}{Sorry, I'm a little low on caps right now. Can I get a raincheck?}
-{134}{}{对不起，我现在钱不多，不够的部分以后我还给你怎么样?}
+{134}{}{对不起，我现在钱不多，打个折吧?}
 
 #{135}{}{What? I think I can generalize this much -- you are coming with me now.}
 {135}{}{什么？我想我能概括这么多－－你现在跟我走。}
