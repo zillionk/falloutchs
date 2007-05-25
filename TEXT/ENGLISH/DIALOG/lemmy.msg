@@ -109,7 +109,7 @@
 
 #{135}{}{Now, now.  I wouldn't be the man I am if I gave information away for less than it's
 # worth.  Come back when you've got the caps.}
-{135}{}{啧啧，如果我给你的消息少就说明它不值钱。等你凑够了瓶盖再回来找我吧。}
+{135}{}{啧啧，贱卖不是我的风格，等你凑够了回来找我吧。}
 
 #{136}{}{Trying to intimidate poor old Lemmy, huh?  Well, I's not afraid of the likes of you.
 # I'll just be seein' you around.}
