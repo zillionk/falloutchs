@@ -69,7 +69,7 @@
 {122}{}{我要怎样防护辐射中毒？}
 
 #{123}{}{What's causing all the mutations?}
-{123}{}{是什么引发了这些突变？}
+{123}{}{是什么引发了各种突变？}
 
 #{124}{Vree18}{Speak to the knights.  Ask them to show you one of
 #the latest laser pistols I designed.}
@@ -139,10 +139,10 @@
 #{143}{Vree28}{All the mutants I've studied have been sterile - they can't breed with
 #another creature.  If we could clean up the mutation sources, we
 #should be able to simply outlive the mutants.}
-{143}{Vree28}{我研究过的所有变种人都是绝育的——他们不能像其他动物一样繁殖。如果我们能够清除变异的源头，我们应该可以完全挺过去。}
+{143}{Vree28}{我研究过的所有变种人都是不育的——他们不能像其他动物一样繁殖。如果我们能够清除变异的源头，我们就是从人种延续方面也能战胜他们。}
 
 #{144}{}{Sounds like a plan.}
-{144}{}{听起来是个计划。}
+{144}{}{听起来是个好主意。}
 
 #{145}{}{Interesting theory. Any proof?}
 {145}{}{有趣的理论，有什么证据？}
@@ -162,7 +162,7 @@
 
 #{150}{Vree30}{I don't think I should tell you anything.  Perhaps later, if you
 #prove yourself to the Brotherhood's cause. }
-{150}{Vree30}{我想我不会告诉你任何事。或许以后，你为兄弟会的理想作出了证明再说。}
+{150}{Vree30}{我想我不会告诉你任何事。或许以后，在你为兄弟会的事业做出了贡献后再说。}
  
 #{151}{Vree31}{I'm quite certain you're in the wrong place. Please leave, I'm rather
 #busy.}
@@ -181,13 +181,13 @@
 {155}{Vree33}{决不！兄弟会绝不会眼看这个再次发生！}
 
 #{156}{}{That's what they all say . . . except you. You'll be dead.}
-{156}{}{他们都是这样说……除了你。你将会死。}
+{156}{}{他们都是这样说……不单单是你。你将会死。}
 
 #{157}{Vree34}{What can I help you with?}
 {157}{Vree34}{我可以帮你些什么。}
 
 #{158}{}{I've got some important news to tell you about Kedrick. He's a traitor.}
-{158}{}{我有一些重要的消息来告诉你。关于凯德瑞克，他是个叛徒。}
+{158}{}{我有一些重要的消息来告诉你。凯德里克，他是个叛徒。}
 
 #{159}{}{What you would do if there was corruption within the Brotherhood.}
 {159}{}{如果兄弟会内出现腐败你将会怎么做。}
@@ -200,11 +200,11 @@
 
 #{162}{Vree36}{Kedrick? He's been a loyal member of the Brotherhood forever. I
 #doubt you would even know what that means.}
-{162}{Vree36}{凯德瑞克？他永远是兄弟会忠诚的一员。我怀疑你甚至不明白这意味着什么。}
+{162}{Vree36}{凯德里克？他永远是兄弟会忠诚的一员。我怀疑你甚至不明白这意味着什么。}
 
 #{163}{}{Yeah, I do. Kedrick is a traitor and planning to overthrow your
 #leaders.}
-{163}{}{耶，是的。凯德瑞克是个叛徒，而且计划推翻你们的领导者。}
+{163}{}{耶，是的。凯德里克是个叛徒，而且计划推翻你们的领导者。}
 
 #{164}{}{Maybe so.}
 {164}{}{可能是这样。}
@@ -214,11 +214,11 @@
 
 #{166}{Vree38}{Do not bother me with innuendo. Bring proof to the High Elder, or
 #say nothing of this.}
-{166}{Vree38}{别用暗示的话来烦我。要么向高级元老出示证据，要么什么都别说。}
+{166}{Vree38}{不要传播谣言。要么向高级元老出示证据，要么什么都别说。}
 
 #{167}{Vree39}{Do what must be done. Stamp out the heresy and remove those
 #responsible for the stain.}
-{167}{Vree39}{做应当做的。抹杀异端，根除污点之源。}
+{167}{Vree39}{此事由你便宜办理。消灭异心之人，根除污点之源。}
 
 #{168}{}{Even if it was a trusted member of the Brotherhood.}
 {168}{}{即便他曾是兄弟会可以信赖的成员。}
@@ -230,7 +230,7 @@
 {170}{Vree40}{虽然如此。但还是需要证据。}
 
 #{171}{}{Kedrick is a traitor. He is planning on killing the Elders.}
-{171}{}{凯德瑞克是个叛徒。他正在计划杀掉元老们。}
+{171}{}{凯德里克是个叛徒。他正在计划杀掉元老们。}
 
 #{172}{}{I'll get the proof.}
 {172}{}{我去找证据。}
@@ -302,7 +302,7 @@
 {192}{Vree204}{你破坏了我的房间！}
 
 #{193}{Vree205}{What do you think you're doing with my things?}
-{193}{Vree205}{你以为你在对我的东西做什么？}
+{193}{Vree205}{你拿我东西想干什么？}
 
 #{194}{Vree300)}{Who? Wait, that name sounds a familiar. Perhaps he is a leader
 #of some of the mutants.}
@@ -310,7 +310,7 @@
 
 #{195}{Vree301}{I assume you're referring to the last nuclear war. The Brotherhood is doing
 #everything it can to restore that which was lost.}
-{195}{Vree301}{我想你了解最后的核战。兄弟会正在做一切努力来使我们曾失去的恢复。}
+{195}{Vree301}{我想你指的是最后的核战。兄弟会正在做一切努力来使我们曾失去的得以恢复。}
 
 #{196}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}
@@ -345,14 +345,14 @@
 {304}{}{我知道这样就能行的。}
 
 #{305}{}{What was the formula again.}
-{305}{}{怎么又是这个公式。}
+{305}{}{这个公式我又忘了。}
 
 #{306}{}{The algorithm is wrong, that can't be. Something must be wrong with
 #the computer.}
 {306}{}{算法错误？不可能的！这台电脑一定有问题。}
 
 #{307}{}{Here we are.}
-{307}{}{我们开始。}
+{307}{}{好了。}
 
 #{308}{}{Okay, so if we do this... yes, I think it will work.}
 {308}{}{好的，那么如果我们这样做……对，我想它会运行。}
@@ -398,7 +398,7 @@
 
 #{1101}{Vree301}{I assume you're refering to the last nuclear war. The Brotherhood is doing
 #everything it can to restore that which was lost.}
-{1101}{Vree301}{我想你了解最后的核战。兄弟会正在做一切努力来使我们曾失去的恢复。}
+{1101}{Vree301}{我想你指的是最后的核战。兄弟会正在做一切努力来使我们曾失去的得以恢复。}
 
 #{1102}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}
