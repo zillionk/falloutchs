@@ -173,7 +173,7 @@
 {148}{}{不，谢谢。这里仍然需要我。}
 
 #{149}{}{Could you help me out a bit? Your experience would be useful.}
-{149}{}{你愿意协助我吗？你的阅历是一笔宝贵的财富。}
+{149}{}{你愿意帮我吗？你那些经历对我可是无价之宝。}
 
 #{150}{}{Let's go. It'll be good to get back into action!}
 {150}{}{走吧。能重新投入战斗真是太棒了！}
