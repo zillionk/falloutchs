@@ -25,11 +25,11 @@
 {106}{}{啊哈？}
 
 #{107}{}{Yeah, you bet this is the wrong room!}
-{107}{}{耶，你当然是进了错误的房间！}
+{107}{}{耶，没错！错误的人的房间！}
 
 #{108}{}{We are the one and only Junktown gang. We have the run of the streets,
 #and we rule the city at night.}
-{108}{}{我们是迦克镇唯一的帮派。我们控制着街道，这里晚上十二点以后我们说了算。}
+{108}{}{我们是迦克镇唯一的帮派。我们控制着街道，夜里，迦克镇我们说了算。}
 
 #{109}{}{Oh. Sorry. Bye.}
 {109}{}{噢。对不起。再见。}
@@ -38,14 +38,14 @@
 {110}{}{你这纹身仔恐怕连个学校都罩不住吧！} 
 
 #{111}{}{I thought this city was run by Gizmo after hours.}
-{111}{}{我还以为这个镇子是吉斯莫掌管的呢。}
+{111}{}{我还以为这个镇子的夜生活是吉斯莫掌管的呢。}
 
 #{112}{}{Get out of here, you moron!}
 {112}{}{滚出去，你个白痴！}
 
 #{113}{}{That slob can't even stand up by himself. We're the muscle in this town.
 #We take what we want.}
-{113}{}{那团烂泥甚至不能自己站起来。我们才是这个城镇的主力，可以随便拿我们想要的东西。}
+{113}{}{那团烂泥甚至不能自己站起来。我们才是这个城镇的铁腕力量，想干啥就干啥。}
 
 #{114}{}{I see.}
 {114}{}{我知道了。}
@@ -64,11 +64,11 @@
 {118}{}{耶。再见。}
 
 #{119}{}{I get it, all right. You have to hide out from him.}
-{119}{}{我是明白了。你必须躲藏在他身后面。}
+{119}{}{我明白了。你是在躲着他。}
 
 #{120}{}{We don't take that from anybody, least of all Killian! Just because
 #he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!}
-{120}{}{我们不需要任何人的保护，尤其是基利安！他以为他是镇长，这不意味着他能控制骷髅党！}
+{120}{}{我们不需要躲着任何人，尤其是基利安！他以为自己是牛皮哄哄镇长，但这不意味着他能控制骷髅党！}
 
 #{121}{}{Sorry, didn't mean to get you all riled up.}
 {121}{}{对不起，我不是故意惹恼你的。}
@@ -102,7 +102,7 @@
 
 #{130}{}{We've been down this road before. You didn't have the balls then, so get
 #the hell out of here!}
-{130}{}{我们曾经准备这么做的。结果你没个种，那就他妈的滚吧！}
+{130}{}{我们曾经准备这么做的。结果你没种去干，那就他妈的滚吧！}
  
 #{131}{}{You want to join us, huh? How do we know you're tough enough to be a
 #Skul?}
@@ -172,10 +172,10 @@
 {151}{}{我只好杀了尼尔才拿到了这个。他哭喊起来像个小女孩。}
 
 #{152}{}{Ha ha! Let that old cock suffer until we off him tonight - are you in?}
-{152}{}{哈哈！晚上让那个老鸡巴在我们干掉他之前痛苦吧－你也去吗？}
+{152}{}{哈哈！先让他好好郁闷一会，晚上我们再让那个老鸡巴上西天，你也去吗？}
 
 #{153}{}{I decided I'd rather not have anything to do with scabs like you.}
-{153}{}{我决定不再跟你们这群恶棍做任何事。}
+{153}{}{我决定不再跟你们这群恶棍鬼混了。}
 
 #{154}{}{Let's crush him.}
 {154}{}{我们去搞死他。}
@@ -188,10 +188,10 @@
 
 #{157}{}{That'll show that old fuck. Thanks for taking care of him for us.
 #[Vinnie gets a tear in his eye.] You're a Skul, now.}
-{157}{}{老混蛋会明白的。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于骷髅党了。}
+{157}{}{老混蛋死得好。谢谢你帮我们收拾他。【维尼眼里有滴泪】你现在属于骷髅党了。}
 
 #{158}{}{Uh, all right . . . meet us later, but don't take too long.}
-{158}{}{啊，很好……我们走着瞧，你时间不会太长的。}
+{158}{}{啊，很好……我们到时候见，不要让我们等太久。}
 
 #{159}{}{Soon, Neal gets his, huh?}
 {159}{}{很快，尼尔就要完了，啊哈？}
@@ -225,7 +225,7 @@
 {168}{}{不行。我要退出。}
 
 #{169}{}{It's too late for that, slick. When you're out, you're way out.}
-{169}{}{太迟了，精明人。你要想退出，只有死路一条。}
+{169}{}{太迟了，滑头。你要想退出，只有死路一条。}
 
 #{170}{}{We rule this town.}
 {170}{}{我们控制这个镇子。}
