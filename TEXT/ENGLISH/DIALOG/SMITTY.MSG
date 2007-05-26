@@ -34,7 +34,7 @@
 
 #{111}{}{Why, everyone just calls me 'Smitty'.
 # Probably because I'm the local blacksmith.}
-{111}{}{这里的人都叫我“施密蒂”。也许是因为我是这里的铁匠。 }
+{111}{}{这里的人都叫我“施密蒂”。也许是因为我是这里的铁匠。}
 
 #{112}{}{Ask away.}
 {112}{}{问吧。}

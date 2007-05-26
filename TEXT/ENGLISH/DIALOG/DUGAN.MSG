@@ -25,7 +25,7 @@
 #{112}{}{Is that all? That doesn't seem to help anyone that much.}
 {112}{}{就这样吗？这看起来并不能帮到人们什么。}
 #{113}{}{How much of that stuff do you drink?}
-{113}{}{你喝的这个东西多少钱？}
+{113}{}{你能喝多少那玩意？}
 #{114}{}{Can I ask you something else?}
 {114}{}{我能再问你几个问题吗？}
 #{115}{}{Ah, ok.  I'll be seeing you.}
@@ -35,7 +35,7 @@
 #{117}{}{So? 【Dugan raises his eyebrows at you.】}
 {117}{}{那么？【杜根对你扬起眉毛】}
 #{118}{}{About 5 litres a day.}
-{118}{}{大概一天5升。}
+{118}{}{大概一天５升。}
 #{119}{}{Razor's the woman you'll want to talk to.}
 {119}{}{你该和剃刀那女人谈谈。}
 #{120}{}{I am the dumbest person I've ever met - well, besides you. Get out of here!}
