@@ -28,8 +28,7 @@
 {113}{Mast03}{那就这样吧。你这是自掘坟墓。坟墓！坟墓！}
 #{114}{Mast04}{I don't have to prove anything to you! Prove.}
 {114}{Mast04}{我不需要向你证明任何事情！证明。}
-#{115}{}{Your ego demands you tell me. All villains have this strange
- urge to explain everything.}
+#{115}{}{Your ego demands you tell me. All villains have this strange urge to explain everything.}
 {115}{}{你的自负驱使你告诉我。所有的坏人都有这种想要解释一切的强烈冲动。}
 #{116}{}{I can't know you represent the best future, unless you prove it to me.}
 {116}{}{我不能理解你描绘的最理想的未来，除非你证明给我看。}
@@ -109,8 +108,7 @@
 {153}{Mast19}{我……不认为我还能继续下去。继续？为了以进步和恢复的名义结束我所做的这些。这太疯狂了。我现在明白了。疯狂。疯狂？我没希望了。你马上离开，离开，你还有希望……}
 #{154}{Mast20}{I believe I shall. Don't move.}
 {154}{Mast20}{我想我应该。不准动。}
-#{155}{Mast21}{My scientists assure me that nothing is wrong.
- What do you say to that? Say! Say!}
+#{155}{Mast21}{My scientists assure me that nothing is wrong. What do you say to that? Say! Say!}
 {155}{Mast21}{我的科学家向我保证没有任何问题。你对此怎么解释？解释！解释！}
 #{156}{}{Did you think to ask a female mutant?}
 {156}{}{你考虑过询问个女变种人么？}
@@ -120,13 +118,11 @@
 {158}{}{他们惧怕你。你认为他们会告诉你实情？}
 #{159}{Mast22}{One moment. He cannot be reached. He must be dead and I can guess who killed him. Killed! Kill!}
 {159}{Mast22}{稍等。我无法感应到他。他肯定是死了，而且我知道是谁杀了他。被杀！杀！}
-#{160}{Mast23}{He denies everything. And he says he knows who started
- this rumor . . .}
+#{160}{Mast23}{He denies everything. And he says he knows who started this rumor . . .}
 {160}{Mast23}{他不承认这一切。并且他说他知道谁散布了这个流言……} 
 #{161}{Mast24}{I think I know who the liar is. Liar!}
 {161}{Mast24}{我想我知道谁是骗子。骗子！}
-#{162}{Mast25}{Reasonable. One moment. Are you sure? What about the other females?
- It cannot be. Be.}
+#{162}{Mast25}{Reasonable. One moment. Are you sure? What about the other females? It cannot be. Be.}
 {162}{Mast25}{有道理。等等。你确定？其他女性呢？这不可能。不可能。}
 #{163}{}{Sorry, your race is doomed.}
 {163}{}{抱歉，你的种族注定会灭亡。}
@@ -135,11 +131,10 @@
 #{165}{Mast26}{Without any proof, I'm afraid I can't believe you. Now, you will join my army as a mutant or you will die! Die! Join!}
 {165}{Mast26}{没有任何证据，我恐怕不能相信你。现在，你或者变成变种人加入我的军队，或者毁灭！毁灭！加入！}
 #{166}{}{Better dead than like you.}
-{166}{}{死也比变成你这副尊荣强。}
+{166}{}{死也比变成你这副尊容强。}
 #{167}{}{It means giving up everything I know, but I'll join.}
 {167}{}{虽然我知道这意味着放弃一切，不过我会加入。}
-#{168}{Mast27}{Your humor will not save you now. Do you accept my offer, or not? Not!
- Accept!}
+#{168}{Mast27}{Your humor will not save you now. Do you accept my offer, or not? Not! Accept!}
 {168}{Mast27}{这次你的幽默救不了你。你是接受我的提议还是拒绝？拒绝！接受！}
 #{169}{}{Not.}
 {169}{}{你去死。}
