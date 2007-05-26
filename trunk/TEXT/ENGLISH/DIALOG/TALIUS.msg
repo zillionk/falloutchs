@@ -326,7 +326,7 @@
 #{199}{}{I know very little. The only things I know are that our scouts are the
 # only ones who ever go over to the Children to spy on them. No one else
 # is allowed because of the danger.}
-{199}{}{我知道的很少。我唯一知道的是我们的侦察员是唯一接近孩子们调查他们的人。其他人不允许这么做，因为太危险了。}
+{199}{}{我所知不多，我只知道只有侦察兵被派出去侦查大教堂的教徒，其他人都不让去，因为这工作太危险了。}
 
 #{200}{}{Then it might be a scout. I will look into that.}
 {200}{}{他或许是侦察员。我会去调查的。}

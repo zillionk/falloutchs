@@ -47,7 +47,7 @@
 #{119}{}{Yes, well, we have to make a living. Since the hydroponic farms aren't
 # functioning, we have to buy food from the merchants, and bullets are the only
 # thing we have to sell.}
-{119}{}{是，好的，我们必须谋生。自从水栽培农场无法开工，我们不得不从商人那买食物，子弹是我们唯一能卖的。}
+{119}{}{是的，你看，我们必须生存下去。自从水栽培农场无法开工，我们不得不从商人那买食物，子弹是我们唯一能卖的。}
 #{120}{}{I could try to get the parts to fix the hydroponic farms.}
 {120}{}{我可以找到修复水栽培农场需要的部件。}
 #{121}{}{Oh. Well, that's too bad.}
