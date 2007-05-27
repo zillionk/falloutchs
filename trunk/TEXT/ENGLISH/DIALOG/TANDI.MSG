@@ -26,7 +26,7 @@
 #{112}{tand_2}{Well..how do you like our little town?  Bored yet?}
 {112}{tand_2}{喂……你觉得我们的小镇怎么样？觉得无聊了吧？}
 #{113}{}{It's okay. Can I ask you a few questions, though?}
-{113}{}{那好吧。我还可以问你一些问题吗？}
+{113}{}{还好吧。我还可以问你一些问题吗？}
 #{114}{}{Hell, yes. There's nothing to do here but watch the Brahma mate.}
 {114}{}{嗯，可不。这儿除了看双头牛交配以外就没什么好做的了。}
 #{115}{}{I guess it's okay.}
