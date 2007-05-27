@@ -43,7 +43,7 @@
 #{119}{}{If you're so bored, why don't you leave?}
 {119}{}{如果你觉得很无聊，为什么不离开呢？}
 #{120}{}{Well, I'm sure you're exaggerating.}
-{120}{}{你肯定在夸大其词。}
+{120}{}{你的话有点夸张啊。}
 #{121}{}{It seems nice and safe here.}
 {121}{}{这里似乎很不错，很安全。}
 # {122}{TAND_5}{Me, leave?  I wish.  I don't know
@@ -74,7 +74,7 @@
 # {131}{}{If you're so bored, why don't you leave?}
 {131}{}{如果你感到很无聊，为什么不离开呢？}
 #{132}{}{Well, I'm sure you're exaggerating.}
-{132}{}{你肯定在夸大其词。}
+{132}{}{你的话有点夸张啊。}
 #{133}{}{It seems nice and safe here.}
 {133}{}{这里似乎很好，也很安全。}
 # {134}{TAND_15}{Junktown's to the southwest, but I don't know how far.
