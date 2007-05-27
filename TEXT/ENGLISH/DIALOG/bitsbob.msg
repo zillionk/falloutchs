@@ -3,11 +3,11 @@
 #{101}{}{Ok, Ok, I've got your money.}
 {101}{}{好了，好了，我准备好给你的钱了。}
 #{102}{}{I've got more expenses.  I need to increase the payment.}
-{102}{}{我最近开销增多了。我要提高你的付费。}
+{102}{}{我最近开销大了些。我要提高你的付费。}
 #{103}{}{Screw this.  I want ALL of your money now, or you're a dead Bob.}
-{103}{}{留着这个吧。我要你所有的钱，要不你就没命。}
+{103}{}{滚你娘的蛋！我要你所有的钱，要不你就是一只死鲍勃！}
 #{104}{}{I can't take the heat.  I'm calling off the payments.}
-{104}{}{我觉得压力太大了。我不要你付款了。}
+{104}{}{我不会再受你摆布了。没钱给你。}
 #{105}{}{I want information on Decker.}
 {105}{}{我想知道有关德克的情况。}
 #{106}{}{I want information on Doc Morbid.}
@@ -41,39 +41,39 @@
 #{120}{}{You are?  Well, Ok...}
 {120}{}{你是？嗯，好吧...}
 #{121}{}{He's a mean son of a bitch.  You don't want to mess with him.  Anything else?}
-{121}{}{他是个婊子养的。你不会喜欢和他打交道的。还要什么？}
+{121}{}{他是个婊子养的贱胚。你可不要惹祸上身。还要什么？}
 #{122}{}{Fine.  What do you want me to pay?}
 {122}{}{好吧，你想要我付多少？}
 #{123}{}{I want }
-{123}{}{我想要}
+{123}{}{我想要每五天}
 #{124}{}{ bucks every five days.}
-{124}{}{块钱每五天。}
+{124}{}{块钱。}
 #{125}{}{Doc Morbid?  All I know is that he's up around Junktown and he's the cheapest source of food I could find.  That's all!}
-{125}{}{莫彼得医生？我只知道他住在迦克城，而且他的货是我能找到的那些里最便宜的。就这些！}
+{125}{}{莫彼得医生？我只知道他住在迦克城，而且他的货是我能找到的最便宜的食材。就这些！}
 #{126}{}{Let's see what I've got in stock.}
-{126}{}{我们看看我还有什么存货。}
+{126}{}{我看看还有什么存货。}
 #{127}{}{I've got a whole iguana for twenty caps.}
 {127}{}{整个的烤蜥蜴我收二十瓶盖。}
 #{128}{}{I've got prime cut choice for eight caps.}
-{128}{}{烤肉块我收八瓶盖。}
+{128}{}{精选肉块我收八瓶盖。}
 #{129}{}{I'll take one of the real ones.}
 {129}{}{我来一份整个的。}
 #{130}{}{Nothing for me right now.  I'm on a diet.}
 {130}{}{这会不要。我在节食。}
 #{131}{}{I'll take one of the prime cuts.}
-{131}{}{我来一份烤块肉的。}
+{131}{}{我来一份精选肉块。}
 #{132}{}{I could go for some prime cut right now.  I'll even pay for it.}
 {132}{}{这会我就来烤肉块吧。我只付得起这个。}
 #{133}{}{Uhh... Me no hungry now.}
-{133}{}{喔……我现在不饿。}
+{133}{}{喔……偶现在不饿饿。}
 #{134}{}{Fine!  Take your money and get out!}
 {134}{}{好了！拿上你的钱快走吧！}
 #{135}{}{You can stick it!  I ain't ever payin' you!  Get lost!}
-{135}{}{你等着吧！我不会给你钱的！快滚！}
+{135}{}{你就跟我耗吧！我不会给你钱的！快滚！}
 #{136}{}{Yeah, sure.  Why don't you find someone else to screw over.}
 {136}{}{是的，当然。你为什么不去敲诈别人。}
 #{137}{}{You can't throw crap without getting some of it on your fingers.  Get out of here!}
-{137}{}{骂人前先想想你你自己是什么货色。滚出去！}
+{137}{}{放屁糟践别人前先想想你有什么证据。滚出去！}
 #{138}{}{Sure you will.  Get lost!}
 {138}{}{当然你会的。快滚！}
 #{139}{}{Sorry.  We're all out of iguana.}
@@ -81,19 +81,19 @@
 #{140}{}{We only have whole iguana on a stick.  Twenty bucks each.}
 {140}{}{我们只有烤整蜥蜴了。一个二十块。}
 #{141}{}{We only have prime select choice.  It tastes great, though.  Eight bucks each.}
-{141}{}{我们只有烤肉块的了。不过吃起来很棒。一个八块。}
+{141}{}{我们只有精选肉块了。不过吃起来很棒。一个八块。}
 #{142}{}{Sure.  We got whole iguana on a stick for twenty bucks, and our prime select pieces for eight bucks.}
-{142}{}{当然。烤整蜥蜴是二十块，烤成肉块的是八块。}
+{142}{}{当然。烤整蜥蜴是二十块，精选肉块的是八块。}
 #{143}{}{I'll take a whole iguana.}
 {143}{}{我来份烤整蜥蜴。}
 #{144}{}{I'll take your prime select.}
-{144}{}{我来份烤肉块。}
+{144}{}{我来精选肉块。}
 #{145}{}{You know, I hear your prime select tastes like chicken.  Do you like eating cowardly guys?}
-{145}{}{你知道吗，我听说你的烤肉块吃起来像鸡肉。你喜欢吃人肉吗？}
+{145}{}{你知道吗，我听说你的精选肉块吃起来像鸡肉。你喜欢吃人肉吗？}
 #{146}{}{No sissy portions!  Me want all iguana!  Ugh!}
-{146}{}{别娘娘腔了！我要所有的烤蜥蜴！噢！}
+{146}{}{别小家子气了！我要所有的烤蜥蜴！噢！}
 #{147}{}{Hmm, smell good!  Me want prime!}
-{147}{}{呣, 闻起来不错！我要烤精华的！}
+{147}{}{呣, 闻来好！偶要精花的！}
 #{148}{}{Never seen any of them around here.  Water Merchants don't need 'em.}
 {148}{}{这里从没见过这种东西。纯水商队不会需要它们的。}
 #{149}{}{Water Merchants?}
@@ -113,7 +113,7 @@
 #{156}{}{If you've got a memory loss, I can talk to the sheriff.}
 {156}{}{如果你失忆了，我可以去和治安官谈谈。}
 #{157}{}{Prime Choice Select is made of people!!!!  It's made of people!!!}
-{157}{}{烤肉块是用人肉做的！！！用人肉做的！！！}
+{157}{}{精选肉块是用人肉做的！！！用人肉做的！！！}
 #{158}{}{Nothing.  Sorry to bring it up.  Now is there anything else I can do for you?}
 {158}{}{没什么。抱歉提起它。我还能为你做什么？}
 #{159}{}{Well, he's dead now, and my cash flow has increased because of it.}
@@ -121,13 +121,13 @@
 #{160}{}{Someone killed Decker.  We're in mourning. 【snicker】}
 {160}{}{有人杀了德克。我们现在很悲伤。【窃笑】}
 #{161}{}{Someone shot Sheriff Greene.  Don't know about the deputy, though.}
-{161}{}{有人向治安官格瑞开枪。现在还不知道谁是代理治安官。}
+{161}{}{有人向治安官格瑞开枪。现在还不知道代理治安官有没有出事。}
 #{162}{}{Daren Hightower was murdered.  And all that money couldn't save him.  Ironic, ain't it?}
 {162}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{163}{}{Someone stole a necklace from the Hightowers.  Man, did they ever make a big mistake.  They're dead for sure!}
 {163}{}{有人从海托家里偷了一条项链。老兄，他们犯了大错。他们死定了！}
 #{164}{}{Someone killed Jain over at the Cathedral.  I hear she was a real pain in the butt!}
-{164}{}{有人在大教堂杀了杰伊。我听说她是条真正的母狗！}
+{164}{}{有人在大教堂杀了杰伊。我听说她都被打得不成人形了！}
 #{165}{}{Well, the only new thing is that the Children of the Cathedral has taken over the Hospital.  It's pretty boring around here lately.}
 {165}{}{嗯，唯一的新闻是大教堂教徒接管了医院。最近这里很无聊。}
 #{166}{}{Anything else?}
@@ -141,15 +141,15 @@
 #{170}{}{One whole iguana coming up!  Anything else?}
 {170}{}{一份烤整蜥蜴来了！还要别的吗？}
 #{171}{}{You know what they're made from and you still want one?  You make Decker look like a charity worker!  Anything else?}
-{171}{}{你知道了它们是什么做的你还想要一份？你把德克说的看上去像个慈善家！还有什么？}
+{171}{}{你知道了它们是用什么做的你还想要一份？跟你这个变态比起来，德克简直就像个大学生志愿者了！还想要什么？}
 #{172}{}{I don't like your attitude.}
 {172}{}{我不喜欢你的态度。}
 #{173}{}{Sorry, you can't afford it.}
 {173}{}{抱歉，你肯定买不起。}
 #{174}{}{One iguana prime select choice, coming up!  Anything else?}
-{174}{}{一份烤肉块来了！还要别的吗？}
+{174}{}{一份精选肉块来了！还要别的吗？}
 #{175}{}{Smart choice.  You could stand to lose a few pounds.}
-{175}{}{聪明的选择。你可以光站着就减掉几磅肉。}
+{175}{}{聪明的选择。你减几磅肉应该死不了的。}
 #{176}{}{Wh...what!  Oh, I see, you're joking...}
 {176}{}{什……什么！喔，我明白了，你是在开玩笑……}
 #{177}{}{Of course I am...}
@@ -159,15 +159,15 @@
 #{179}{}{No, I'm not.  And I want a piece of the action.}
 {179}{}{不，不是。我是要你意思一下。}
 #{180}{}{You must be new in town if you're asking me about the Water Merchants.  Water is life, and you don't get much more powerful than life and death.}
-{180}{}{如果你会问我纯水商队的事，那你一定是刚到这城里。水是生命，你不可能得到比掌握生死还大的权力了。}
+{180}{}{如果你会问我纯水商队的事，那你一定是刚到这城里。水是生命，没有什么事情比生死还大。}
 #{181}{}{Who's in charge of the Water Merchants?}
 {181}{}{谁是纯水商队的头儿？}
 #{182}{}{If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it.  Anything else?}
-{182}{}{在哈勃城，如果有什么事情牵扯到不幸和痛苦，那么不是德克在操纵就是他想操纵。还要什么？}
+{182}{}{在哈勃城，如果有什么事情牵扯到不幸和痛苦，那么即使不是德克干的，也是他琢磨着想干的。你还要什么？}
 #{183}{}{I don't know what you're talking about, and I don't appreciate your slander!  I suggest you don't show your face in here again.}
 {183}{}{我不知道你在说什么，我也不喜欢你的诬蔑！我希望你不要再来了}
 #{184}{}{Don't do that!  Fine, I've been using some questionable portions.  But it's not like I'm committing murder.  Doc Morbid's stuff is already dead, isn't it?}
-{184}{}{不要那样做！好吧，我是用了一些可疑的东西。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
+{184}{}{不要那样做！好吧，我是用了一些可疑的配料。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{185}{}{I'm sure it is, Bob.  Have a nice day...}
 {185}{}{我想是的，鲍勃。再见……}
 #{186}{}{Cannibalism is a crime against humanity, Bob.  I'm going to see that you pay for it.}
@@ -181,13 +181,13 @@
 #{190}{}{You know, the police station is just across the street.  I really should take a little walk.}
 {190}{}{你知道，警察局就在街对面。我真该过去一趟。}
 #{191}{}{I can get even louder.  But I can also shut up.  Noise is cheap, silence is expensive.}
-{191}{}{我还能更大声。但我也可以闭嘴。话多无益，沉默是金。}
+{191}{}{我还能更大声。但我也可以闭嘴。话多无益，沉默是“金”。}
 #{192}{}{How the hell am I gonna pay you if you eat all my stock?  Fine!  Have another iguana!  I hope you choke on it!}
 {192}{}{如果你吃掉了我所有的存货，该死的我拿什么付你钱？好了！再来一串！最好噎死你！}
 #{193}{}{I don't like your attitude.}
 {193}{}{我不喜欢你的态度。}
 #{194}{}{Tough.  You want money, I'll give it to you.  You want food, I'll give it to you.  You want to die, I'll arrange it.  But "like" ain't part of the equation.}
-{194}{}{呸。你想要钱，我给你。你想要吃的，我给你。你想要死，我帮你安排。但不要说什么“喜欢”。}
+{194}{}{呸。你想要钱，我给你。你想要吃的，我给你。你想要死，我帮你安排。但不要说什么“喜欢”，态度不是我的义务。}
 #{195}{}{Nothing I can think of.  Now if you'll excuse me, I have a business to run.}
 {195}{}{我想不起还有什么。如果你不介意，我还有事要办。}
 #{196}{}{Sorry, we're all out of iguana.}
@@ -195,19 +195,19 @@
 #{197}{}{We only have whole iguana on a stick.  Twenty bucks.}
 {197}{}{我们只有烤整蜥蜴了。二十块。}
 #{198}{}{We only have prime select choice.  Eight bucks.}
-{198}{}{我们只有烤肉块了。八块。}
+{198}{}{我们只有精选肉块了。八块。}
 #{199}{}{Again?  Man you must be hungry.  We got whole iguana on a stick for twenty bucks, and our prime select pieces for eight bucks.}
-{199}{}{又来了？老兄你肯定是饿了。烤整蜥蜴是二十块，烤肉块是八块。}
+{199}{}{又来了？老兄你肯定是饿了。烤整蜥蜴是二十块，精选肉块是八块。}
 #{200}{}{I'll take a whole iguana.}
 {200}{}{我来份烤整蜥蜴。}
 #{201}{}{I'll take your prime select.}
-{201}{}{我来份烤肉块。}
+{201}{}{我来份精选肉块。}
 #{202}{}{You know, I hear your prime select tastes like chicken.  Do you like eating cowardly guys?}
-{202}{}{你知道吗，我听说你的烤肉块吃起来像鸡肉。你喜欢吃人肉吗？}
+{202}{}{你知道吗，我听说你的精选肉块吃起来像鸡肉。你喜欢吃人肉吗？}
 #{203}{}{No sissy portions!  Me want all iguana!  Ugh!}
-{203}{}{别娘娘腔了！我要所有的烤蜥蜴！噢！}
+{203}{}{别小家子气！我要所有的烤蜥蜴！噢！}
 #{204}{}{Hmm, smell good!  Me want prime!}
-{204}{}{呣, 闻起来不错！我要烤肉块！}
+{204}{}{呣, 闻来好！偶要精花肉！}
 #{205}{}{How the hell am I gonna pay you if you eat all my stock?  Fine!  Have another iguana!  I hope you choke on it!}
 {205}{}{如果你吃掉了我所有的存货，该死的我拿什么付你钱？好了！再来一串！最好噎死你！}
 #{206}{}{I don't like your attitude.}
@@ -225,7 +225,7 @@
 #{212}{}{Fine.  What do you want me to pay?}
 {212}{}{好吧。你要我付你多少？}
 #{213}{}{I want }
-{213}{}{我想要}
+{213}{}{我想要每五天}
 #{214}{}{50}
 {214}{}{５０}
 #{215}{}{75}
@@ -237,7 +237,7 @@
 #{218}{}{200}
 {218}{}{２００}
 #{219}{}{ bucks every five days.}
-{219}{}{块每五天。}
+{219}{}{块。}
 #{220}{}{I don't think I'll blackmail you.  Carry on.}
 {220}{}{我想我不会勒索你的。就这样吧。}
 #{221}{}{I'd change your mind if I were you, friend.  People have died for less in the Hub.}
@@ -245,7 +245,7 @@
 #{222}{}{Fine.  It's a deal. }
 {222}{}{好吧。就这样。}
 #{223}{}{ bucks, due every five days.  I guess I'll see you in five...}
-{223}{}{ 块，五天到期。我想我们五天后再见……}
+{223}{}{ 块，每五天。我想我们五天后再见……}
 #{224}{}{No way I'm going for that.  I can't afford more than what I'm paying you now.}
 {224}{}{那没办法。我付不起比现在更多的钱了。}
 #{225}{}{Too bad, Bob.  I'd hate to start singing.}
@@ -255,9 +255,9 @@
 #{227}{}{Can you afford a funeral, Bob?}
 {227}{}{你付得起一个葬礼吗，鲍勃？}
 #{228}{}{Fine.  Maybe it would be good if our paths didn't cross again.}
-{228}{}{好吧。也许我们以后别再打交道了。}
+{228}{}{好吧。最好我们以后别再打交道了。}
 #{229}{}{You may be a songbird, but I'm the golden goose.  You ain't gonna sing, not when I'm the only goose you've got.  Now get out!}
-{229}{}{也许你就是只会唱的小鸟，但我是下金蛋的鹅。我在这你就别想唱。现在滚吧！}
+{229}{}{也许你就是只会唱的小鸟，但我是下金蛋的鹅。只要我还能有你要的金蛋，在这你就别唱。现在滚吧！}
 #{230}{}{First sensible thing I remember you saying.  Now get out!}
 {230}{}{这是你说的第一件有理智的事。现在滚吧！}
 #{231}{}{Gimme' an iguana on a stick.}
@@ -281,4 +281,4 @@
 #{240}{}{Nothing, bye.}
 {240}{}{没什么，再见。}
 #{241}{}{Me go now.}
-{241}{}{我要走了。}
+{241}{}{我走唔。}
