@@ -25,9 +25,9 @@
 # place to start, I think. Then again, what the heck do I know
 # about the outside? I . . . look. Y' You know you're important to me and
 # to . . . I-I really . . . just be safe, OK?}
-{110}{Over_6}{我们在你的地图上标出了另一个避难所的位置。我想，先去那儿试试不算坏主意吧。再说一次，我不知道外头多可怕？我……瞧，你，你清楚的，你对我很重要所以……我，我真的……就小心点，好吗？}
+{110}{Over_6}{我们在你的地图上标出了另一个避难所的位置。我想，先去那儿试试不算坏主意吧。还有，我还知道些外面的什么来着？我……啊对了，你，你对我很重要所以……我，我真的……在外面小心保住命，好吗？}
 #{111}{Over_7}{You're back! And in one piece! How goes the search?}
-{111}{Over_7}{你回来了！而且和刚走时一样！太不可思议了！有什么发现没？}
+{111}{Over_7}{你回来了！而且还没缺胳膊少腿的！太不可思议了！有什么发现没？}
 #{112}{}{Not good, but I noticed the radiation count is low. Why don't we just move the people out of the vault?}
 {112}{}{不太乐观，不过我发现放射线强度低了很多。我们为什么不把大家迁出避难所呢？}
 #{113}{}{I haven't found the chip yet. Can't we just make a replacement?}
@@ -41,14 +41,14 @@
 {116}{Over_8}{看，我知道这会很难。但我们全都指望你了。而且时间所剩不多。求你！继续找下去！}
 #{117}{Over_9}{Ahh, you never did listen to me. We don't have the necessary parts
 # anymore. We've used up all the supplies required.}
-{117}{Over_9}{啊，你的耳朵显然没听我说话。那些关键的零件早就没了。我们已经用完了所有的补给。}
+{117}{Over_9}{啊，你显然没听我说话。那些关键的零件早就没了。我们已经用完了所有的备用品。}
 #{118}{}{Oh, ok. Thanks.}
 {118}{}{哦，好。谢谢。}
 #{119}{Over_10}{We've debated this before. You ought to know now, after being out
 # there! You think the rest of us could survive that?
 # Besides, I'd be out of a job! I'm management! It's not like I know how to
 # do anything useful!}
-{119}{Over_10}{我们之前已经争论过了。如今你已经去过了野外，你应当明白！你认为我们这些人能在那样的环境下活命？再说，我会丢了工作！我做的是管理！而这并不是我想要的结果！}
+{119}{Over_10}{我们之前已经争论过了。如今你已经去过了野外，你应当明白！你认为我们这些人能在那样的环境下活命？再说，我会丢了工作！我做的是管理！到了外面之后我干什么啊！}
 #{120}{}{We agree on that.}
 {120}{}{这一点上我们没分歧。}
 #{121}{Over_12}{Well, do you have the chip?}
@@ -60,7 +60,7 @@
 #{124}{}{No, but I have a lot of other things to tell you!}
 {124}{}{不，但我还有很多事要告诉你！}
 #{125}{}{Nuh.}
-{125}{}{没。}
+{125}{}{唔。}
 #{126}{Over_13}{【The Overseer sighs.】 Don't be sorry. I know you're trying your best and that means a lot.
 # But you can't give up now.}
 {126}{Over_13}{【管理者叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
@@ -99,13 +99,13 @@
 {141}{Over_23}{你尽力而为吧。要记得，我们全都靠你了。}
 #{142}{Over_24}{Here, take the last of our ammo and portable healing supplies.
 # We're in trouble. Hurry!}
-{142}{Over_24}{拿着，最后一些弹药和随身急救补给品。我们可有麻烦了。赶快！}
+{142}{Over_24}{拿着，最后一些弹药和随身急救补给品。我们的情况已经很危急了。赶快！}
 #{143}{Over_25}{Do what? With who? Anyone else would be less qualified and have less
 # supplies. It'd be suicide.}
-{143}{Over_25}{做什么？和谁？随便什么人都更没用，补给品也不够。那简直是自杀。}
+{143}{Over_25}{做什么？和谁？其他人没你有用，补给品也不够。那简直是自杀。}
 
 #{144}{}{Your choice. I'll do my best, but I don't know if it'll be enough.}
-{144}{}{你说的。我会尽我所能，但我不知道这够不够。}
+{144}{}{随你。我会尽我所能，但我不知道这行不行。}
 
 #{145}{}{I understand.}
 {145}{}{我理解。}
@@ -229,7 +229,7 @@
 # by natural growth or mutations. This leads me to believe in -- I
 # don't really understand it. But it looks like someone's
 # generating new mutants. And at a startling rate.}
-{180}{Over_44}{【叹气】变种人的数量远超过我们按照自然增长和突变率的预期。这使我相信－－我不能理解。但目前看起来是有人在制造新的变种人，而且其速度令人吃惊。}
+{180}{Over_44}{【叹气】变种人的数量远超过我们按照自然增长和突变率的预期。这使我相信－－我不能理解。但目前看起来是有人在制造新的变种人，而且其速度令人吃惊。王八操的……}
 
 #{181}{}{Say again? Without the confusion?}
 {181}{}{你再清楚地说一遍？}
@@ -261,7 +261,7 @@
 {189}{}{再次临危授命吧，我的朋友。}
 
 #{190}{Over_48}{You have no idea how sorry I am to send you back out.}
-{190}{Over_48}{我很抱歉，但是我不得不再派你出去。}
+{190}{Over_48}{你不明白我再次让你出去的时候，其实心里有多愧疚啊。}
 
 #{191}{Over_49}{Oh, yeah. Hmm . . . I' I' I' It's like this.
 # There is a bad place where the bad mutants come from.
@@ -305,7 +305,7 @@
 {202}{}{我杀了主教，变种人的头目。}
 
 #{203}{}{Nuh, ungh. Uh-nuh, nuh.}
-{203}{}{没，嗯。呃－不，唔。}
+{203}{}{呐，嗯。呃－呐，唔。}
 
 #{204}{Over_55}{Excellent! What about the laboratory? Did you destroy that, too?}
 {204}{Over_55}{好极了！那实验室怎么样？你也把它摧毁了吗？}
@@ -333,7 +333,7 @@
 {210}{Over_61}{什么？你杀了变种人的头目？}
 
 #{211}{}{Uh-huh, nuh, huh. Nuh-nuh.}
-{211}{}{唔呼，不，唿。不扑。}
+{211}{}{唔呼，呐，呼呼。呐呐。}
 
 #{212}{Over_61aS}{There are still more mutants appearing? You need to destroy their
 # vats? Great job! Go back out there and take care of it.}
@@ -355,10 +355,10 @@
 {217}{Over_63}{他们全部？}
 
 #{218}{}{Well, all of them at the vats.}
-{218}{}{嗯，在病毒槽里的全部。}
+{218}{}{嗯，病毒槽里的全部杂碎都死菜了。}
 
 #{219}{}{Uh, nuh-nuh.}
-{219}{}{呃，不不。}
+{219}{}{呃，卜卜。}
 
 #{220}{Over_64}{What about the mutant leader? What about this so-called Master?}
 {220}{Over_64}{那他们的头目呢？那个所谓的主教？}
@@ -367,7 +367,7 @@
 {221}{}{据我所知，他还活着。}
 
 #{222}{}{Uh-nuh-nuh.}
-{222}{}{呃，不不。}
+{222}{}{呃，卜卜。}
 
 #{223}{Over_66}{He must be stopped. If not, he could rebuild his empire of mutants
 # and would certainly strike back at us. The vault will not be safe
@@ -438,7 +438,7 @@
 #{240}{Over_77}{We're taking a terrible risk by showing these people the way to our
 # vault. I understand your choice, and it may be what saves us. But
 # I'm worried. Can we trust these people?}
-{240}{Over_77}{我们正冒着巨大的危险引导那些人来我们的避难所。我理解你的选择，那也许是救了我们。但是我很担心，这些人值得信赖么？}
+{240}{Over_77}{这些外人知道了找到避难所的路，这是很危险的事情。我理解你的选择，那也许是救了我们。但是我很担心，这些人值得信赖么？}
 
 #{241}{}{I trust them.}
 {241}{}{我信任他们。}
@@ -450,11 +450,11 @@
 # survival and economic stability.  We don't produce as many goods as
 # we need to pay for this water, and soon we won't be able to pay.
 # Find the chip.}
-{243}{Over_78}{我确信你所做的，但为了长远的生存和经济稳定，我们需要那替换芯片。我们不能生产足够的货物来换取这些水，很快我们就付不起了。找到那芯片。}
+{243}{Over_78}{我知道你信任他们，但为了长远的生存和经济稳定，我们需要那替换芯片。我们不能生产足够的货物来换取这些水，很快我们就付不起了。找到那芯片。}
 
 #{244}{Over_79}{I'm sure you do. You must also understand our need for that
 # replacement chip. Please keep looking.}
-{244}{Over_79}{我肯定你知道。你也一定知道我们急需那替换芯片。请继续找。}
+{244}{Over_79}{我知道你信任他们。你也一定知道我们急需那替换芯片。请继续找。}
 
 #{245}{Over_80}{Please keep looking for the water chip. These water caravans are
 # going to cause us problems in the long run.}
@@ -473,7 +473,7 @@
 # tough decisions since I took this position. But none of them harder
 # than this one. You saved us, but you'll kill us. I'm sorry. You're
 # a hero . . . and you have to leave.}
-{246}{Over_81}{你做到了！那真是……好极了。令人惊讶！我为你所完成的、所忍受的感到无比骄傲。避难所里的人们对你所做的一切永远都感激不尽。你救了我们所有人的命。天晓得，说不定还拯救了全人类。【所长叹了口气。】这却使以后显得更加困苦。每个人都想跟你谈话。每个年轻人都把你视为偶像。然后仿效你。然后怎样？他们就想着要出走。如果我们失去了最有希望朝气的一代避难所会变成什么样？万一我们这儿是世上唯一安全的地方那怎么办？你刚刚拯救了这些人……我不能冒险再失去他们。自从我坐到这个位置上以来我作了很多痛苦艰难的决定。但它们比起这个来一点也不算什么。你救了我们，但你也会毁了我们。我很抱歉。你是个英雄……然而你必须离开。}
+{246}{Over_81}{你做到了！那真是……好极了。令人惊讶！我为你所完成的、所忍受的感到无比骄傲。避难所里的人们对你所做的一切永远都感激不尽。你救了我们所有人的命。天晓得，说不定还拯救了全人类。【所长叹了口气。】但是这确让我对你很难办。每个人都想跟你谈话。每个年轻人都把你视为偶像。然后仿效你。然后怎样？他们就想着要出走。如果我们失去了最有希望朝气的一代，避难所会变成什么样？万一我们这儿是世上唯一安全的地方那怎么办？你刚刚拯救了这些人……我不能冒险再失去他们。自从我坐到这个位置上以来我作了很多痛苦艰难的决定。但它们比起这个来一点也不算什么。你救了我们，但你也会毁了我们。我很抱歉。你是个英雄……但是你必须离开。}
 
 #{247}{Over_100}{I don't know anything about that.}
 {247}{Over_100}{我对那个一无所知。}
@@ -529,13 +529,13 @@
 
 #{261}{Over_81a}{You've done it! That's . . . wonderful. Amazing!
 # I'm so proud of what you've accomplished, what you've endured.}
-{261}{Over_81a}{你做到了！那真是……好极了。令人惊讶！我为你所完成、所忍受的感到自豪。}
+{261}{Over_81a}{你做到了！那真是……好极了。令人惊讶！我为你的丰功伟绩和坚韧不拔感到自豪。}
 
 #{262}{Over_81b}{There's no way the people of the Vault can ever thank you
 # enough for what you've done. You've saved all our lives. Who knows, maybe
 # even saved the human race. 【The Overseer sighs.】
 # That makes the rest of this even harder.}
-{262}{Over_81b}{避难所里的人们对你所做的一切永远都感激不尽。你救了我们所有人的命。天晓得，说不定还拯救了全人类。【所长叹了口气。】这却使以后显得更加困苦。}
+{262}{Over_81b}{避难所里的人们对你所做的一切永远都感激不尽。你救了我们所有人的命。天晓得，说不定还拯救了全人类。【所长叹了口气。】这却使得我对你更加难办了。}
 
 #{263}{Over_81c}{Everyone will want to talk to you.
 # Every youngster will look up to you, and want to emulate you. And then what?}
@@ -549,7 +549,7 @@
 #{265}{Over_81e}{I've made a lot of tough decisions since I took this position.
 # But none of them harder than this one. You saved us, but you'll kill us.
 # I'm sorry. You're a hero . . . and you have to leave.}
-{265}{Over_81e}{自从我坐到这个位置上以来我作了很多痛苦艰难的决定。但它们比起这个来一点也不算什么。你救了我们，但你也会毁了我们。我很抱歉。你是个英雄……然而你必须离开。}
+{265}{Over_81e}{自从我坐到这个位置上以来我作了很多痛苦艰难的决定。但它们比起这个来一点也不算什么。你救了我们，但你也会毁了我们。我很抱歉。你是个英雄……但是你必须离开。}
 
 # Overseer Tell-Me-Abouts generic responses
 #{980}{Over_100}{I don't know anything about that.}
