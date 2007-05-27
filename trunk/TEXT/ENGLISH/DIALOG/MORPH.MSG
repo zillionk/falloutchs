@@ -29,7 +29,7 @@
 {109}{MORP03}{嗯，我的孩子，窥探不属于你的地方是十分危险的。你去哪里？怎么会跑到我这里来？}
 
 #{110}{}{I'm new, and I was looking for the bathroom. One of the other High Priests sent me up here.}
-{110}{}{我是新来的，我在找澡堂。另外一个高级牧师派我上这里来的。}
+{110}{}{我是新来的，我在找茅厕。另外一个高级牧师派我上这里来的。}
 
 #{111}{}{I was looking for the confessional, and one of the High Priests sent me up here. I'm really sorry I ended up here!}
 {111}{}{我在找忏悔室，一个高级牧师派来上这里来的。我误入你的房间，真是抱歉！}
