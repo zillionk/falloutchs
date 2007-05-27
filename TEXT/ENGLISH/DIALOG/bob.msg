@@ -39,19 +39,19 @@
 #{119}{}{We only have whole iguana on a stick. Twenty bucks each.}
 {119}{}{我们只有烤整蜥蜴了。一个二十块。}
 #{120}{}{We only have prime select choice. It tastes great, though. Eight bucks each.}
-{120}{}{我们只有烤肉块了。不过吃起来很棒。一个八块。}
+{120}{}{我们只有精选肉块了。不过吃起来很棒。一个八块。}
 #{121}{}{Sure. We got whole iguana on a stick for twenty bucks, and our prime select pieces for eight bucks.}
-{121}{}{当然。烤整蜥蜴是二十块，烤肉块是八块。}
+{121}{}{当然。烤整蜥蜴是二十块，精选肉块是八块。}
 #{122}{}{I'll take a whole iguana.}
 {122}{}{我来份烤整蜥蜴。}
 #{123}{}{I'll take your prime select.}
-{123}{}{我来份烤肉块。}
+{123}{}{我来份精选肉块。}
 #{124}{}{You know, I hear your prime select tastes like chicken.}
 {124}{}{你知道吗，我听说你的烤肉块吃起来像鸡肉。}
 #{125}{}{No sissy portions! Me want all iguana! Ugh!}
-{125}{}{别娘娘腔了！我要所有的烤蜥蜴！噢！}
+{125}{}{别小家子气！我要所有的烤蜥蜴！噢！}
 #{126}{}{Hmm, smell good! Prime select make tummy happy!}
-{126}{}{呣, 闻起来不错！烤肉块吃得我很舒服！}
+{126}{}{呣, 闻起来不错！精选肉块吃得我很舒服！}
 #{127}{}{We don't serve that here. Anything else?}
 {127}{}{我们这里不卖那个。要点别的？}
 #{128}{}{Gimme an iguana on a stick.}
@@ -75,7 +75,7 @@
 #{137}{}{Nothing.}
 {137}{}{没什么。}
 #{138}{}{He was a mean son of a bitch and anyone who isn't glad he's dead is a damned liar. Can I take your order?}
-{138}{}{他是个婊子养的，如果他死了，没人会不高兴。你要来点什么？}
+{138}{}{他是个婊子养的贱胚，如果他死了，没人会不高兴。你要来点什么？}
 #{139}{}{Gimme an iguana on a stick.}
 {139}{}{给我一串烤蜥蜴。}
 #{140}{}{Tell me a little about the water merchants.}
@@ -125,9 +125,9 @@
 #{162}{}{Anything interesting happening in the Hub?}
 {162}{}{哈勃城发生了什么有趣的事吗？}
 #{163}{}{Someone killed Decker. We're in mourning, at least until the Hub runs out of booze.}
-{163}{}{有人杀了德克。我们现在很悲伤，至少在哈勃城的酒被喝光之前。}
+{163}{}{有人杀了德克。我们现在很“悲伤”，一直要到哈勃城的酒被喝光。（嘿嘿）}
 #{164}{}{Someone shot Sheriff Greene. Don't know about the deputy though.}
-{164}{}{有人向治安官格瑞开枪。现在还不知道谁是代理治安官。}
+{164}{}{有人向治安官格瑞开枪。现在还不知道代理治安官情况如何。}
 #{165}{}{Daren Hightower was murdered. And all that money couldn't save him. Ironic, ain't it?}
 {165}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{166}{}{Someone's really pissed off someone important, because I hear that there's a big hit out on some poor sod.}
@@ -171,7 +171,7 @@
 #{185}{}{Sorry, you can't afford it.}
 {185}{}{抱歉，你肯定买不起。}
 #{186}{}{One iguana prime select choice, coming up! Anything else?}
-{186}{}{一份烤肉块来了！还要别的吗？}
+{186}{}{一份精选肉块来了！还要别的吗？}
 #{187}{}{Gimme another iguana on a stick.}
 {187}{}{再给我一串烤蜥蜴。}
 #{188}{}{What can you tell me about a water chip?}
@@ -189,7 +189,7 @@
 #{194}{}{Thank you. Come again!}
 {194}{}{多谢光顾。下次再来！}
 #{195}{}{You must be new in town if you're asking me about the Water Merchants. Water is life. And you don't get much more powerful than life and death.}
-{195}{}{如果你会问我净水芯片的事，那你一定是刚到这城里。水就是生命，你不可能得到比掌握生死还大的权力了。}
+{195}{}{如果你会问我净水芯片的事，那你一定是刚到这城里。水就是生命，没有什么其他的东西能大过生死了。}
 #{196}{}{Gimme an iguana on a stick.}
 {196}{}{给我一串烤蜥蜴。}
 #{197}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
@@ -207,7 +207,7 @@
 #{203}{}{All right, you win. Here's your money. Take it and don't come back!}
 {203}{}{好吧，你赢了。这是你的钱。拿去，别再回来了！}
 #{204}{}{I'd change your mind if I were you, friend. People have died for less in the Hub. Now get out and don't come back!}
-{204}{}{朋友，我是你的话就改主意。在哈勃城是很容易丧命的。}
+{204}{}{朋友，我是你的话就改主意。在哈勃城是很容易丧命的。别再回来了！}
 #{205}{}{Maybe I've been using some questionable portions. But it's not like I'm committing murder. Like Morbid's stuff is already dead, ain't it?}
 {205}{}{也许我是用了一些可疑的东西。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{206}{}{I'm sure it is, Bob. And I'm sure the police will agree.}
@@ -219,4 +219,4 @@
 #{209}{}{No way! I ain't letting you screw me! Eat this!}
 {209}{}{决不！我不会让你敲诈我的！尝尝这个！}
 #{210}{}{I ain't going broke because of your scruples, but you are going to die from them! Eat this!}
-{210}{}{我不会因为你的良心而破产的，而你却会为此送命！尝尝这个！}
+{210}{}{我才不会因为你的狗屁良心而把自己弄破产，而你却会为此送命！尝尝这个！}
