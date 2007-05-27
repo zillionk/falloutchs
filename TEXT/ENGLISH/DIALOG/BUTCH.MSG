@@ -31,7 +31,7 @@
 #{115}{}{Okay, thanks.}
 {115}{}{好的，多谢。}
 #{116}{BUTCH04}{Ahh, don't spoil it! Make 'em quick.}
-{116}{BUTCH04}{噢，别搞砸了，麻利点。}
+{116}{BUTCH04}{噢，别太罗嗦了，赶紧说。}
 #{117}{}{How much does it pay?}
 {117}{}{能付多少钱？}
 #{118}{}{Uh……what is the job?}
@@ -85,7 +85,7 @@
 #{142}{butch11}{Listen, I don't have time to swap stories with you.}
 {142}{butch11}{听着，我没时间和你唠嗑。}
 #{143}{butch12}{Well there's uh……something, but I never listen to those rumors.}
-{143}{butch12}{好吧，是有一些……传闻，不过我从不注意那些。}
+{143}{butch12}{好吧，是有一些……传闻，不过我从来不会相信那些谣言的。}
 #{144}{}{Well, I do. What is it?}
 {144}{}{好吧，我干。是什么？}
 #{145}{}{Okay, thanks.}
@@ -93,7 +93,7 @@
 #{146}{BUTCH13}{You uh……you really want to hear it, huh? Well, some say it's the Death Claw, but……but I don't know nothin' about that.}
 {146}{BUTCH13}{你……你真的想听，嗯？有人说是死亡爪……但我什么都不知道。}
 #{147}{}{You sound scared.}
-{147}{}{你听起来很害怕。}
+{147}{}{你好像很害怕。}
 #{148}{}{Thanks. Can I ask you a few questions?}
 {148}{}{谢谢。我能问你一点问题吗？}
 #{149}{}{How do I find out about the Death Claw?}
@@ -101,21 +101,21 @@
 #{150}{butch13a}{How do ya……Go talk to Beth, she knows more about that crap.}
 {150}{butch13a}{你怎么……去和贝斯谈谈，她对那东西知道很多。}
 #{151}{}{Yep, you're as scared as a whipped dog.}
-{151}{}{不错，你小子就像条丧家之犬。}
+{151}{}{不错，你小子就像条被打怕了的癞狗。}
 #{152}{}{I'll go check it out.}
 {152}{}{我去查清楚。}
 #{153}{}{I need some more information.}
 {153}{}{我需要更多的信息。}
 #{154}{BUTCH14}{Listen you, I ain't scared. I'm……cautious. You'd be stupid not to be, with the Death Claw. Go talk to Beth, she'll tell ya more.}
-{154}{BUTCH14}{听着，我不是害怕。我是……小心。对于死亡爪，你不小心点，你就是愚蠢。去和贝斯谈谈，她会告诉你更多的情况。}
+{154}{BUTCH14}{听着，我不是害怕。我是……小心。对于死亡爪，你不小心点，你就是个蠢粪蛋子。去和贝斯谈谈，她会告诉你更多的情况。}
 #{155}{}{You sound as scared as a whipped dog.}
-{155}{}{你看起来就像一条丧家之犬。}
+{155}{}{你小子就像条被打怕了的癞狗。}
 #{156}{}{Sorrrry. I'll go check it out.}
 {156}{}{对不起。我会去查清楚。}
 #{157}{}{I need some more information.}
 {157}{}{我需要更多的信息。}
 #{158}{BUTCH15}{I'm tired of your insults you……you pinhead! Don't come back! Rutger, take this annoying bug away!}
-{158}{BUTCH15}{我受够了你的屁话，你……你这个蠢货！不准再回来了！罗格尔，把这讨厌鬼弄走！}
+{158}{BUTCH15}{我受够了你的屁话，你……你这个瘪三！不准再回来了！罗格尔，把这讨厌鬼弄走！}
 #{159}{BUTCH16}{Done and done. Now get on outta here, but come back and talk to me when you've found something.}
 {159}{BUTCH16}{好了。现在出去吧，等你查到了什么东西，再回来告诉我。}
 #{160}{BUTCH17}{Make it quick.}
@@ -157,23 +157,23 @@
 #{178}{}{Well, thanks.}
 {178}{}{好了，谢谢。}
 #{179}{BUTCH25}{Not really.}
-{179}{BUTCH25}{并非如此。}
+{179}{BUTCH25}{没了。}
 #{180}{BUTCH26}{Yeah, well I don't like going around talking about my personal life and such.}
 {180}{BUTCH26}{是，我不喜欢谈论我的私人生活。}
 #{181}{}{Oh come on, please?}
-{181}{}{哦，来吧，请了？}
+{181}{}{哦，拜托！说点嘛！}
 #{182}{}{Oh, all right.}
 {182}{}{喔，好吧。}
 #{183}{BUTCH27}{What do I look like, a……a……one of those tourist things? Jeez.}
-{183}{BUTCH27}{我看上去像什么，像一个……一个……旅行者？切。}
+{183}{BUTCH27}{我看上去像什么，像一个……一个……观光旅游点？切。}
 #{184}{}{No, you seem to be a brilliant man.}
-{184}{}{不，你看起来像一个人物。}
+{184}{}{不，你看起来像一个很有才气的人物。}
 #{185}{}{I just want to know some general places.}
-{185}{}{我只是想知道几个普通的地方。}
+{185}{}{我只是打听点地方。}
 #{186}{BUTCH28}{Thanks. Now, is there anything else?}
 {186}{BUTCH28}{谢了。现在，还有别的事吗？}
 #{187}{BUTCH29}{Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.}
-{187}{BUTCH29}{好吧，你到过旧城区和高地，不过那里只有房子。商业街有各种商店和物品。}
+{187}{BUTCH29}{好吧，这里有旧城区和高地区，高地只是说法而已，那里也只有房子。商业街有各种商店和物品。}
 #{188}{}{What stores?}
 {188}{}{什么商店？}
 #{189}{}{Thanks.}
@@ -181,7 +181,7 @@
 #{190}{BUTCH30}{Just stuff. you wanta' see the town, go look around yourself!}
 {190}{BUTCH30}{就是物品。你想看城镇，你就自己去看吧！}
 #{191}{}{Uh, thanks for nothing.}
-{191}{}{哦，不劳费心了。}
+{191}{}{哦，您还真是个乐于助人的主啊，哼。}
 #{192}{}{Thanks.}
 {192}{}{多谢。}
 #{193}{butch19}{Uh……what did you say?}
@@ -207,25 +207,25 @@
 #{203}{}{Thanks.}
 {203}{}{多谢。}
 #{204}{butch35}{Well, Necropolis is east. But uh……I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
-{204}{butch35}{好吧，大墓地在东面。但是，嗯……听我说，就是那里出金子，我也不会去。那些僵尸吃人脸比老太太在打折商店抢购的速度还快。}
+{204}{butch35}{好吧，大墓地在东面。但是，嗯……听我说，就算那里可以点石成金，我也不会去那里点的。那些僵尸吃人头肉比老太太在打折商店抢购的速度还快。}
 #{205}{}{Sounds like fun.}
 {205}{}{听起来很有趣。}
 #{206}{butch35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
-{206}{butch35a}{呼。也许你合适！如果你喜欢，那么南方是闪光之地。那是个充满辐射的深坑。}
+{206}{butch35a}{呼。那是对你！如果你喜欢，然后就是南方的闪光之地。那是个充满辐射的深坑。}
 #{207}{}{Maybe I'll work on my tan.}
-{207}{}{也许我会把自己晒黑.}
+{207}{}{也许那里可以好好晒晒偶的皮肤呢。}
 #{208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
 {208}{BUTCH36}{就是几个不同的地方。自己去找！}
 #{209}{}{Well, thanks for nothing.}
-{209}{}{好了，不劳费心了。}
+{209}{}{哦，您还真是个乐于助人的主啊，哼。}
 #{210}{}{Thanks.}
 {210}{}{多谢。}
 #{211}{BUTCH37}{Well, what do you have?}
-{211}{BUTCH37}{好吧，你有些什么？}
+{211}{BUTCH37}{好吧，你发现什么了？}
 #{212}{}{Well, I found out who's taking the caravans.}
-{212}{}{嗯，我查出了是谁夺走了商队。}
+{212}{}{嗯，我查出了是谁劫走了商队。}
 #{213}{}{Well, I know it wasn't the Death Claw who took the caravans.}
-{213}{}{嗯，我知道夺走商队的不是死亡爪。}
+{213}{}{嗯，我知道劫走商队的不是死亡爪。}
 #{214}{}{Nothing right now. Goodbye.}
 {214}{}{现在还没有。再见。}
 #{215}{BUTCH38}{Really?  Who?}
@@ -241,11 +241,11 @@
 #{220}{}{I don't know for sure. But it's mutants, not the Death Claw.}
 {220}{}{我不能确定。但肯定是变种人，不是死亡爪。}
 #{221}{BUTCH40}{What, do I look a crate shy of a load? Did you even see the Death Claw?}
-{221}{BUTCH40}{什么，难道我看到我前面站着个胆小鬼? 你看到死亡爪了？}
+{221}{BUTCH40}{什么，我看起来是那种拉不了货的老爷车嘛！? 你看到死亡爪了？}
 #{222}{}{Been there, saw that, killed it.}
 {222}{}{我到了那儿，看到它，宰了它。}
 #{223}{}{I'm telling you that it wasn't the Death Claw.}
-{223}{}{我跟你说不是死亡爪。}
+{223}{}{我跟你说，那不是死亡爪。}
 #{224}{BUTCH41}{You……you killed it? Well……I uh……um……uh, where did these mutants come from?}
 {224}{BUTCH41}{你……你杀了它？好吧……我，嗯……呣……嗯, 这些变种人是从那里来的？}
 #{225}{}{I don't know yet. But they have an outpost in the mountains.}
@@ -345,7 +345,7 @@
 #{270}{BUTCH64}{Well, what are you doing in here? Get out!}
 {270}{BUTCH64}{好了，你在这里干什么？出去！}
 #{272}{butch65}{Oh……well, it's not so get out!}
-{272}{butch65}{喔……好了，出去吧！}
+{272}{butch65}{喔……好，想出去都晚了！}
 #{273}{BUTCH66}{Rutger's going to turn you into a human pretzel. Have fun. RUTGER!}
 {273}{BUTCH66}{罗格尔会把你做成肉饼。好好乐一乐吧。罗格尔！}
 #{274}{BUTCH67}{Well, you're a bright one, ain't you? Here's the job: Find out who's stealing my caravans. Money, big. You fail, hurt, big. Understand? Now get outta here!}
@@ -367,7 +367,7 @@
 #{280}{BUTCH72}{Listen, I ain't gonna say it again!}
 {280}{BUTCH72}{听着，我不会再说了！}
 #{281}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
-{281}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，和我一样。}
+{281}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，我很实在的。}
 #{282}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
 {282}{BUTCH74}{哦，不。哦，不，我们不谈这个。}
 #{283}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
@@ -401,7 +401,7 @@
 #{297}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
 {297}{BUTCH89}{那是人们交易的地方。正好在城市中心。}
 #{298}{BUTCH90}{Uh, no I-I don't ……Go talk to Beth, she knows more about that crap.}
-{298}{BUTCH90}{哦，不，我，我不……去和贝斯谈谈，她对那东西知道很多。}
+{298}{BUTCH90}{哦，不，我，我不……你去和贝斯谈谈，她对那东西知道很多。}
 #{299}{BUTCH91}{The Glow is a radioactive pit way, way down south. Too much radiation for anyone to live there.}
 {299}{BUTCH91}{闪光之地是在南边很远的地方的一个辐射深坑。辐射太厉害了，没人能住在那里。}
 #{300}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
@@ -439,7 +439,7 @@
 3{315}{butch106}{I uh……heard stories, that's all. No truth to them.}
 {315}{butch106}{我，嗯……听说了一些传说，就这些。没什么真的。}
 #{316}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
-{316}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出去看看。你不会错过的。}
+{316}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出门右转。你不会错过的。}
 #{317}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
 {317}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
 #{318}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
@@ -622,7 +622,7 @@
 #{1131}{butch106}{I uh……heard stories, that's all. No truth to them.}
 {1131}{butch106}{我，嗯……听说了一些传说，就这些。没什么真的。}
 #{1132}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
-{1132}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出去看看。你不会错过的。}
+{1132}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出门右转。你不会错过的。}
 #{1133}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
 {1133}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
 #{1134}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
