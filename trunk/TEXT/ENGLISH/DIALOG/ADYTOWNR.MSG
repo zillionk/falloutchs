@@ -31,9 +31,9 @@
 #{115}{}{Thank you for your help.}
 {115}{}{谢谢你的帮助。}
 #{116}{}{Thank you for getting rid of the 管理者s.}
-{116}{}{感谢您帮我们摆脱了管理者的控制。}
+{116}{}{感谢你帮我们摆脱了管理者的控制。}
 #{117}{}{Thank you for our freedom.}
-{117}{}{感谢您为我们带来了自由。}
+{117}{}{感谢你为我们带来了自由。}
 #{118}{}{It is good that the 管理者s are gone.}
 {118}{}{现在管理者不在真好。}
 #{119}{}{Welcome to the New Adytum.}
