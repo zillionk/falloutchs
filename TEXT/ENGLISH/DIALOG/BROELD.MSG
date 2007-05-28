@@ -9,4 +9,4 @@
 #{104}{}{I wonder if Maxson is right about that army in the north.}
 {104}{}{我想知道马克松对于北方的那支军队的看法是否正确。}
 #{105}{}{Good day Initiate}
-{105}{}{你好，新兵}
+{105}{}{再见，新兵}

@@ -1,5 +1,5 @@
 #{100}{}{You see a Caravan Driver.}
-{100}{}{你看见商队的司机。}
+{100}{}{你看见商队的车夫。}
 
 #{101}{}{Sorry, I don't know you.  If you want a job you need to talk to Rutger.}
 {101}{}{抱歉，我不认识你，如果想找工作的话，和罗格尔说去。}
