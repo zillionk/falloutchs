@@ -1,2 +1,2 @@
 #{100}{}{You see a Sergeant of the Nightkin.}
-{100}{}{你看见夜之团的士官。}
+{100}{}{你看见隐形人的士官。}

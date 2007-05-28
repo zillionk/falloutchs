@@ -24,7 +24,7 @@
 #{110}{}{Why, I manage the care for perddy much all of the Caravan's wagons
 # and Brahmin in these parts. If they ever need anything for their caravans,
 # I'm the one they talk to. Hell, the Big Three deal with me exclusively.}
-{110}{}{这样说吧，这些地方大多数的商队的马车啊，双头牛啥的，都是归我来照管的。要是他们想为他们的商队里添点啥东西的话，他们只能来找我。可是，妈的，三巨头他们不带我玩。}
+{110}{}{这样说吧，这些地方大多数的商队的马车啊，双头牛什么的，都是归我来照管的。要是他们想为他们的商队里添点什么东西的话，他们只能来找我。可是，妈的，三巨头他们不带我玩。}
 #{111}{}{Who are the Big Three?}
 {111}{}{三巨头是谁？}
 #{112}{}{Well aren't you important.}
@@ -35,7 +35,7 @@
 {114}{}{嗯，我得走了，拜拜。}
 #{115}{}{What?  Get the hell out of here ya damn Skag! Ta think I was about
 # to waist m'time on a low-life like yerself.}
-{115}{}{什么？赶快给我滚出去吧你这个婊子！我可不想在你这个低能儿身上浪费时间。}
+{115}{}{什么？赶快给我滚出去吧，你这个婊子！我可不想在你这个低能儿身上浪费时间。}
 #{118}{}{Damn, son.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
 # Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
 # 'bout as far as yer eye can see.}
@@ -47,13 +47,13 @@
 #{120}{}{Damn yourself, you brahmin freak.}
 {120}{}{你才该死，你这个双头牛怪物。}
 #{121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
-{121}{}{哦，是他们啊。我还以为你在说别的啥东西哩。我怎么才能加入一支商队？}
+{121}{}{哦，是他们啊。我还以为你在说别的什么东西呐。我怎么才能加入一支商队？}
 #{122}{}{Okay, thanks. Bye.}
 {122}{}{好的，谢谢。拜拜。}
 #{123}{}{Bramin freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet,
 # stranger. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to
 # slit yer throat if ya look at'm wrong.}
-{123}{}{双头牛怪物？你不是在侮辱我啵？告诉你吧，陌生人，我会比你要见到的人更懂礼貌。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割咯。}
+{123}{}{双头牛怪物？你不是在侮辱我吧？告诉你吧，陌生人，我会比你要见到的人更懂礼貌。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割咯。}
 #{124}{}{Damn, you're one ugly son of a bitch!}
 {124}{}{混蛋，你这个丑陋的狗娘养的家伙！}
 #{125}{}{I'm scared. See ya.}
@@ -61,7 +61,7 @@
 #{126}{}{Special, no. Lucky, yes; and unless ya want to be unlucky you'll be a little more polite to the people ya'
 # meet. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit
 # yer throat if ya' look at'm wrong.}
-{126}{}{特别，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割咯。}
+{126}{}{特别，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割了。}
 #{127}{}{Damn, you're one ugly son of a bitch!}
 {127}{}{放屁！你个王八操的！}
 #{128}{}{If you say so.}
@@ -85,7 +85,7 @@
 # keep that mouth of yours under control. I'd hate to see a good mouth go to waste.}
 {135}{}{是啊，有那么一点。你不是那么坏嘛，小子。但是记住管好你的嘴巴，我可不想看到这么一张好嘴巴给人废了。}
 #{136}{}{Sure, whatever you say. See ya', Dan.}
-{136}{}{当然啦，随你说。走啦，丹。}
+{136}{}{当然了，随你说。走啦，丹。}
 #{137}{}{So, how do I join a caravan?}
 {137}{}{那么，我怎么才能加入一支商队？}
 #{138}{}{Bye. And stay away from my brahmin, you dirty little bastard.}
@@ -98,7 +98,7 @@
 # the Merchant Market that might be of some help ta ya'. That's where they, and others, get their men.}
 {142}{}{我没什么路子，不过你可以去“三巨头”那碰碰运气，那的工作机会比较多。小伙子应该很受欢迎的。}
 #{143}{}{Oh, sorry . . . and women of course.}
-{143}{}{喔，抱歉……当然，然还有女人…}
+{143}{}{喔，抱歉……当然，还有女人…}
 #{144}{}{You don't have any openings?  Are you a merchant, too?}
 {144}{}{你能没路子？你不也是商人吗？}
 #{145}{}{Which way to the Merchant Market?}
@@ -107,7 +107,7 @@
 {146}{}{好的，多谢了。}
 #{147}{}{Well no, not exactly.  I work very closely with most of the smaller merchant groups, though, and I know
 # we're not hiring.}
-{147}{}{哦不，我不是。我和很多的小些的商队关系比较近，所以我知道我们现在不招人。}
+{147}{}{哦不，我不是。我和很多小一些的商队关系比较近，所以我知道我们现在不招人。}
 #{148}{}{Your loss.}
 {148}{}{这是你的损失。}
 #{149}{}{Okay, see ya' later, Dan.}
@@ -123,7 +123,7 @@
 #{154}{}{Sorry to intrude.}
 {154}{}{打搅了。}
 #{155}{}{Why, hello again!  How are ya' doin'?}
-{155}{}{啊，又见面了！你好么？}
+{155}{}{啊，又见面了！你好吗？}
 #{156}{}{I want to join a caravan.}
 {156}{}{我想加入商队。}
 #{157}{}{Uh, what services do you offer, exactly?}
@@ -228,11 +228,11 @@
 {208}{}{抱歉，我现在不能跟你扯淡，我得干活去了。}
 #{209}{}{You'd better not be pester'n Billy; he's got a hell of a lot of work
 # to do today.}
-{209}{}{你最好别烦比利啦，他今天有一大堆事要做哩。}
+{209}{}{你最好别烦比利了，他今天有一大堆事要做。}
 #{210}{}{Beat it, I'm busy.}
 {201}{}{走开，我忙着呢。}
 #{211}{}{Why are people always bother'n me?  Can't you see I'm work'n?}
-{211}{}{为啥每个人都来烦我？你们没看到我正在忙嘛？}
+{211}{}{为啥每个人都来烦我？你们没看到我正在忙吗？}
 #{212}{}{Talk to the Merchants if you want a job. I'm not hiring.}
 {212}{}{要工作的话跟那些商人说。我这里不招人。}
 #{213}{}{Why don't ya' go play in the Maltese Falcon? I'm busy.}
