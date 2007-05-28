@@ -1174,7 +1174,7 @@
 {672}{}{远行商队警卫}                            # fgtgard.int
 {673}{}{哈勃城的警察}                             # gencop.int
 {674}{}{远行商队商人}                         # genfgt.int
-{675}{}{斯盖格}                                           # genskag.int
+{675}{}{瘾君子}                                           # genskag.int
 {676}{}{古维多}                                          # guido.int
 {677}{}{牢固的门}                                    # gunlock.int
 {678}{}{警卫}                                      # hbodgrd2.int
