@@ -7,7 +7,7 @@
 #{103}{}{Man, I gotta get some work.}
 {103}{}{朋友,我必须有份工作。}
 #{104}{}{Could you pass the peanuts?}
-{104}{}{能帮我把花生递过来么？}
+{104}{}{能帮我把花生递过来吗？}
 #{105}{}{Not drunk enough . . .}
 {105}{}{没喝够，嗝……}
 #{106}{}{Jaeger . . . jaeger . . .}

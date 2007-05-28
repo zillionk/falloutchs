@@ -17,7 +17,7 @@
 {105}{}{告诉我洛克斯尼的事情。}
 
 #{106}{}{Tell me about Jasmine.}
-{106}{}{告诉我关于的茉莉的事情。}
+{106}{}{告诉我关于茉莉的事情。}
 
 #{107}{}{Tell me about the Circle.}
 {107}{}{告诉我关于地下圈的事情。}
@@ -41,7 +41,7 @@
 {113}{}{告诉我关于洛克斯尼的事情。}
 
 #{114}{}{Tell me about Jasmine.}
-{114}{}{告诉我关于的茉莉的事情。}
+{114}{}{告诉我关于茉莉的事情。}
 
 #{115}{}{Tell me about the Circle.}
 {115}{}{告诉我关于地下圈的事情。}
@@ -62,7 +62,7 @@
 {120}{}{嗯，吼！}
 
 #{121}{}{He's the boss. What else is there to know?}
-{121}{}{他是我们老板，你还想知道啥？}
+{121}{}{他是我们老板，你还想知道什么？}
 
 #{122}{}{Tell me about Jasmine.}
 {122}{}{告诉我关于茉莉的事情。}
@@ -229,13 +229,13 @@
 #{175}{}{I had a friend who worked for him once. When the assignment went bad, he ran back to Decker for
 # reinforcements. Decker called him a fool, and he had him lobotomized as an example to others. We don't
 # like Decker very much around here.}
-{175}{}{我有一哥们以前帮他做事。后来有一次活儿搞砸了，他回去找德克想再带点弟兄去帮忙，结果呢，德克说丫是猪头，居然当着那么多人把他的脑袋开了瓢！我们这里的人都不太鸟德克这个家伙。}
+{175}{}{我有一哥们以前帮他做事。后来有一次活儿搞砸了，他回去找德克想再带点弟兄去帮忙，结果呢，德克说他是猪头，居然当着那么多人把他的脑袋开了瓢！我们这里的人都不太鸟德克这个家伙。}
 
 #{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants
 # for more protection. The Children of the Cathedral sacrificed it to their god. The Deathclaw ate it. Rumors
 # ain't worth nothing. The world's full of rumor and suspicion, and empty of truth.  Look for fact, not
 # fiction. But why are you asking? You had friends on the caravan?}
-{176}{}{你想知道什么小道消息？有可能是卖水商人想推卸责任，也有可能是德克想多搞点保护费，说不定是教堂之子那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，真相却很少。不要被假象迷惑了，要查找事实……对了，你问这个干嘛啊？有朋友在商队？}
+{176}{}{你想知道什么小道消息？有可能是纯水商队想推卸责任，也有可能是德克想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，真相却很少。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
 
 #{177}{}{I can't talk about my reasons.}
 {177}{}{不能告诉你，我有隐衷。}
@@ -266,7 +266,7 @@
 {185}{}{沙荫镇往北一点。}
 
 #{186}{}{Vault 13.}
-{186}{}{13号避难所。}
+{186}{}{１３号避难所。}
 
 #{187}{}{Here and there. I do odd jobs for places which let me stick around.}
 {187}{}{不定，到处打零工，我很少在一个地方多待。}
@@ -276,7 +276,7 @@
 {188}{}{同情你，我过去也失去了好多好兄弟，有一个老弟死的贼惨了，不过我还是建议你不要去查这件事情了。}
 
 #{189}{}{Didn't we already discuss that? You've got a one-track mind, pal.}
-{189}{}{我们不是聊过这破事儿么？伙计，你脑袋一根筋啊。}
+{189}{}{我们不是聊过这破事儿吗？伙计，你脑袋一根筋啊。}
 
 #{190}{}{Not a bad place if you like sand. A little too dry and wilderness for me. At least in the Hub you don't
 # have to worry about wandering Rad Scorpions. We've got enough of our own predators, I suppose.}

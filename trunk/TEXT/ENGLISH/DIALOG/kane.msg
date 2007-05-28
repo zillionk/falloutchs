@@ -2,7 +2,7 @@
 {100}{}{你看见肯恩。}
 
 #{101}{}{What's the job and what's it pay?}
-{101}{}{有工作没？薪水如何？}
+{101}{}{有工作吗？薪水如何？}
 
 #{102}{}{Work for this dump?  You've got to be joking.}
 {102}{}{为这个鬼公司工作？你开玩笑吧。}
@@ -218,7 +218,7 @@
 
 #{169}{}{You're pitiful. Maybe I should just put a bullet through your head right now and end your misery.
 # What do you say, would you like a new hole through that brainless head of yours?}
-{169}{}{你真是猥琐。也许我真的应该往你脑袋里送颗子弹结束你的狗命。你说呢？你喜欢在你那个空空的脑袋上扎个眼么？}
+{169}{}{你真是猥琐。也许我真的应该往你脑袋里送颗子弹结束你的狗命。你说呢？你喜欢在你那个空空的脑袋上扎个眼吗？}
 
 #{170}{}{I'm sorry.  I really didn't mean it. Please don't shoot me.}
 {170}{}{对不起，我真的不是冒犯您，别开枪啊。}
@@ -477,7 +477,7 @@
 {250}{}{也许吧，你想要做什么工作？}
 
 #{251}{}{Do you need another guard?}
-{251}{}{你们还要保镖么？}
+{251}{}{你们还要保镖吗？}
 
 #{252}{}{Oh, nothing in particular.  I was just wondering.}
 {252}{}{没什么特别想要的，我也在考虑。}
@@ -525,7 +525,7 @@
 
 #{266}{}{Not bad, not bad at all, you surprised me.  I didn't think you'd be that tough to beat. I'm normally a
 # good judge in character, maybe you are what we're looking for.  Are you interested in a job?}
-{266}{}{不错不错，你比我预期的还强。我之前没想到你这么能打。我一向看人很准，你应该就是我们需要的人，你想帮我们做事么？}
+{266}{}{不错不错，你比我预期的还强。我之前没想到你这么能打。我一向看人很准，你应该就是我们需要的人，你想帮我们做事吗？}
 
 #{267}{}{Damn!  That was a good fight!  I haven't had a good match in a long time, and I don't remember when
 # I was last bested by someone.  Good job!  How would you like a job?}
@@ -548,7 +548,7 @@
 {272}{}{很好，带路。}
 
 #{273}{}{Hm, can I think about it?  I have a lot of other things going on.}
-{273}{}{我能考虑一下么？我还有好多事情要做。}
+{273}{}{我能考虑一下吗？我还有好多事情要做。}
 
 #{274}{}{ No, I don't think so.}
 {274}{}{不了。}
@@ -591,7 +591,7 @@
 {285}{}{多谢。}
 
 #{286}{}{Oh sorry, I thought I had the job. Is there chance I can still work for you?}
-{286}{}{抱歉，我以为我要了这份工作。你们还有其他活儿么？}
+{286}{}{抱歉，我以为我要了这份工作。你们还有其他活儿吗？}
 
 #{287}{}{Give me the rest of the money now or you'll regret it!}
 {287}{}{把剩下的一半给我，要不然你会后悔的。}
@@ -657,7 +657,7 @@
 # for the first job and the first payment for the second. (Kane hands you 3500 Hubbucks). I'm sure you
 # already know, but the Children of the Cathedral are down south just north of the water merchants.
 # Again, no 'live' witnesses.}
-{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【肯恩给了你的３５００个瓶盖】你应知道，教堂之子的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【肯恩给了你的３５００个瓶盖】你应知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{304}{}{Were you in a hurry to get out of here?  You didn't get your scripts.  Here's your money, initial
 # payment and the completion bonus for the first job. (Kane hands you 3000 Hubbucks)}
@@ -675,17 +675,17 @@
 
 #{308}{}{Here's your starting pay. (Kane hands you 1000 Hubbucks) I'm sure you already know, but the Children
 # of the Cathedral are south, just north of the water merchants.  Again, no 'live' witnesses.}
-{308}{}{这是你这个任务的首付款。【肯恩给了你１０００个瓶盖】你应该知道，教堂之子的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{308}{}{这是你这个任务的首付款。【肯恩给了你１０００个瓶盖】你应该知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{309}{}{Damn, this is a lot of cash.  Decker really wanted that bitch dead, here're your scripts. (Kane gives
 # you 4000 Hubbucks) You've proven yourself to be quite useful.}
-{309}{}{靠，真是很多钱那。德克真是要把那个婊子毙了，这是你的余款。【肯恩给了你４０００个瓶盖】你还真是能干呢。}
+{309}{}{靠，真是很多钱呐。德克真是要把那个婊子毙了，这是你的余款。【肯恩给了你４０００个瓶盖】你还真是能干呢。}
 
 #{310}{}{What the hell do you want?  I thought you didn't want to meet with Decker.}
 {310}{}{你他妈的想做什么？我以为你不愿意见德克呢。}
 
 #{311}{}{No I didn't, but can you give him a message for me?}
-{311}{}{我当时不愿意，现在你能帮我给他传个话么？}
+{311}{}{我当时不愿意，现在你能帮我给他传个话吗？}
 
 #{312}{}{Yeah, I want to meet him, so I can blow a hole through his head!}
 {312}{}{不，我现在想见他了。因为我要在他脑袋上开个眼儿。}
@@ -817,7 +817,7 @@
 {354}{}{也许吧。【肯恩怪怪地看着你】}
 
 #{355}{}{Do you have the time?}
-{355}{}{你有空么？}
+{355}{}{你有空吗？}
 
 #{356}{}{Brahmin Shoe's Are Very Tasty.}
 {356}{}{双头牛蹄很好吃的。}
@@ -899,7 +899,7 @@
 {381}{}{我没有孩子！}
 
 #{382}{}{You seem to be a bit upset about that. Do you want to talk about it?}
-{382}{}{你好像很不高兴啊，能说说苦衷么？}
+{382}{}{你好像很不高兴啊，能说说苦衷吗？}
 
 #{383}{}{Well you should, they make good servants.}
 {383}{}{你应该生点的，可以呼来喝去的。}
@@ -963,7 +963,7 @@
 {401}{}{你的孩子们还好吧？}
 
 #{402}{}{Nice day isn't it?}
-{402}{}{天气不错哈。}
+{402}{}{天气不错啊？}
 
 #{403}{}{This way.}
 {403}{}{这边走。}
@@ -984,7 +984,7 @@
 {408}{}{你要什么都行，现在你不要在这里。}
 
 #{409}{}{Do you have any more jobs?}
-{409}{}{你还有工作给我么？}
+{409}{}{你还有工作给我吗？}
 
 #{410}{}{Hi!}
 {410}{}{嗨！}
@@ -1147,7 +1147,7 @@
 
 #{458}{}{What the hell are you doing back here?!?!  You must be an even bigger idiot than I thought.  I knew Decker
 # shouldn't have hired an unknown.}
-{458}{}{你还回到这里干什么！？！？你比我想象中还要笨那。我早就知道不该雇用不认识的家伙。}
+{458}{}{你还回到这里干什么！？！？你比我想象中还要笨呐。我早就知道不该雇用不认识的家伙。}
 
 #{459}{}{What are you talking about?}
 {459}{}{你说什么呢？}
