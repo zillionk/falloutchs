@@ -8,7 +8,7 @@
 {102}{}{他看起来太忙了。}
 
 #{103}{}{Hey! Don't think you're going to get away with that, thief!}
-{103}{}{嗨！别想带着它跑路，小偷！}
+{103}{}{嘿！你以为我没有看到你在干什么？！小偷！}
 
 #{104}{}{We're closed. Come back around four o'clock.}
 {104}{}{酒吧关门了。四点左右再来。}
@@ -23,7 +23,7 @@
 {107}{}{呃，我要来一杯。}
 
 #{108}{}{I'm looking for information.}
-{108}{}{我在打听消息。}
+{108}{}{我想打听点事儿。}
 
 #{109}{}{My name's }
 {109}{}{我叫}
@@ -35,7 +35,7 @@
 {111}{}{嘎啊啊啊啊！}
 
 #{112}{}{Great. Whaddya want?}
-{112}{}{好么。你想要什么？}
+{112}{}{好得很。你想要什么？}
 
 #{113}{}{Nuka-cola, 3 caps.}
 {113}{}{核子可乐，３个瓶盖。}
@@ -53,7 +53,7 @@
 {117}{}{镇子里有没有有趣的事？}
 
 #{118}{}{Who's the dangerous-looking stranger in the corner?}
-{118}{}{那角落里一脸凶像的人是谁？}
+{118}{}{那角落里凶神恶煞的人是谁？}
 
 #{119}{}{Who're the jerks?}
 {119}{}{谁是性情古怪的人？}
@@ -75,8 +75,8 @@
 #{124}{}{Yeah, same to you, buddy.}
 {124}{}{是的，你也是，老兄。}
 
-#{125}{}{What抯 that trophy on the shelf?}
-{125}{}{在那架子上的装饰品是什么？}
+#{125}{}{What's that trophy on the shelf?}
+{125}{}{在那架子上的是什么玩意儿？}
 
 #{126}{}{Well, just over there to the west of us is Gizmo's casino. I'd be
 # surprised if you didn't know about it; most of the people here are the ones who
@@ -84,17 +84,17 @@
 # Killian's general store, and Marcelles's Crash House. Killian's a good guy, runs
 # a straight joint, carries everything you need. The Crash House is where you sleep
 # it off when you've been in here for too long. 【Neal chuckles.】}
-{126}{}{好吧，从我们这儿往西边是吉斯莫的赌场。你若不知道的话我倒要奇怪了；好多赌客在那里输光了身上的钱。镇子里还有基利安的杂货店，玛塞尔的旅店。基利安是个好人，他的店里有你想要的任何东西。旅店是你睡觉的地方，你会舍不得离开的。【尼尔吃吃的笑了。】}
+{126}{}{好吧，从我们这儿往西边是吉斯莫的赌场。我敢赌一把你知道的；好多赌客在那里输光了身上的钱。镇子里还有基利安的杂货店，玛塞尔的旅店。基利安是个好家伙，他的店里有你想要的任何东西。旅店是你“睡觉”的好地方，你会流连忘返。【尼尔吃吃的笑了。】}
 
 #{127}{}{Thanks. Can I get a drink?}
-{127}{}{谢了，给我来一杯？}
+{127}{}{谢了，给我来一杯。}
 
 #{128}{}{Thanks for the information. See you around.}
 {128}{}{谢谢你的消息。待会见。}
 
 #{129}{}{Fella's called Tycho. Apparently a ranger from back east or something.
 # Pretty nasty fighter, from what I hear, but a straight-up character.}
-{129}{}{小伙子被称为提可。显然是从东方来的一个守林人。我听说他是一个相当凶狠并且卤莽的斗士。}
+{129}{}{小伙子被称为提可。显然是从东方来的一个守林人。我听说他是一个相当野蛮的斗士。}
 
 #{130}{}{Mind if I ask some other questions?}
 {130}{}{是否介意我问些别的问题？}
@@ -102,13 +102,12 @@
 #{131}{}{Oh, them. They're the Skulz. They're a local gang. All the riff-raff.
 #Sometimes they start fights or cause a little trouble. Usually Killian keeps them
 # in line, though.}
-{131}{}{哦，他们。他们是骷髅党。本地的犯罪团伙。都是些流氓。他们时常为些小事而抄家伙，不过基利安一般都能让他们安分守己。}
-
+{131}{}{哦，他们。他们是骷髅党。这一带的犯罪团伙。都是些流氓。他们时常为些小事而抄家伙，不过基利安一般都能让他们安分守己。}
 #{132}{}{Here ya go. Enjoy.}
 {132}{}{这是你的。享受吧。}
 
 #{133}{}{Hey! You stole my urn!}
-{133}{}{嘿！你偷了我的骨灰盒！}
+{133}{}{嘿！你偷了我老婆！}
 
 #{134}{}{That's not a trophy, it's an urn. It contains my wife's ashes -
 # besides this bar, it is the most important thing in my life.}
@@ -136,17 +135,17 @@
 {141}{}{那个是什么，我的朋友？}
 
 #{142}{}{What happened to that trophy you used to have up there?}
-{142}{}{你一直放在那上面的工艺品是怎么回事？}
+{142}{}{放在那上面的玩意儿是啥？}
 
 #{143}{}{Thank you. You can't know what this means to me. You'll never pay
 # for a drink in this bar again.}
-{143}{}{谢谢你。你绝不会知道这对我有多重要。以后你想在这里喝酒都免费招待。}
+{143}{}{谢谢你。你绝不会知道这对我有多重要。以后你想在这里喝酒都算我的。}
 
 #{144}{}{I've got your urn back for you.}
-{144}{}{我把你的骨灰盒找回来了。}
+{144}{}{我把你的“老婆”找回来了。}
 
 #{145}{}{Some slime stole it. It wasn't a trophy, it was an urn. It contained my wife's ashes - besides this bar, it was the most important thing in my life.}
-{145}{}{哪些个杂碎偷走了它。那并不是个工艺品，那是个骨灰盒。里面盛着我老婆的骨灰－除了这个酒吧那是我生命中最重要的东西了。}
+{145}{}{哪些个杂碎偷走了它。那并不是个玩意儿，那是个骨灰盒。我老婆住在里面－除了这个酒吧那是我生命中最重要的东西了。}
 
 #{146}{}{Get the hell outta here you goddamn punks! If any of ya ever touch her
 # again I'll kill the whole lot o' ya!}

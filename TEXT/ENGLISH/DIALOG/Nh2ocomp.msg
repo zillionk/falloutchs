@@ -1,7 +1,7 @@
 #{100}{}{You see a water processing control computer. It has
 # malfunctioned due to the removal of a critical piece
 # of hardware.}
-{100}{}{你看到一个水控制计算机。它因为一个主要硬件被取出而产了生故障。}
+{100}{}{你看到一个控水计算机。它因为一个主要硬件被取出而产了生故障。}
 
 #{101}{}{Your search the water processing control computer is successful.
 # You find the water chip without a problem.}
@@ -35,7 +35,7 @@
 {108}{}{你修理电脑失败了。}
 
 #{109}{}{You learn nothing special about the water computer.}
-{109}{}{在水控制计算机上你学不到任何特别的知识。}
+{109}{}{在控水计算机上你学不到任何特别的知识。}
 
 #{110}{}{You reinstall the water chip into the computer. The computer
 # reboots after a moment, and proceeds to function as normal.}
@@ -59,9 +59,9 @@
 
 #{116}{}{You learn that there is no way to fix the computer without
 # reinstalling the water chip.}
-{116}{}{你意识到没有净水芯片就永远无法修理水控制计算机。}
+{116}{}{你意识到没有净水芯片就永远无法修理控水计算机。}
 
 #{117}{}{After shutting down the Water Purification Computer, you can now
 # hear the repaired water pump working in the distance, bringing water up
 # from what must be a deep well under Necropolis.}
-{117}{}{关闭水控制计算机后，你能听见修复后的水泵在很远的地方运转，水从大墓地很深的井下流了出来。}
+{117}{}{关闭控水计算机后，你能听见修复后的水泵在很远的地方运转，水从大墓地以下很深的井里涌了出来。}
