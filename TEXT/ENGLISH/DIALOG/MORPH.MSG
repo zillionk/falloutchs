@@ -177,7 +177,7 @@
 {158}{MORP19}{啊哈……这么说你就是我听说过的那个避难所原住民。吃惊吧？我有我的消息来源。现在，我要把你当作礼物献给主教。他会很高兴的。}
 
 #{159}{}{How about we take you out in a bag, instead?}
-{159}{}{还是我把你塞到裹尸袋里吧。}
+{159}{}{我们还是把你塞进裹尸袋里吧，怎么样？}
 
 #{160}{}{And so will I.}
 {160}{}{我也会很高兴的。}
@@ -369,7 +369,7 @@
 {222}{MORP42B}{哦，好的。嗯。请跟我来。}
 
 #{223}{MORP42C}{ Oh, my child, you make no sense whatsoever.  please, find one of our physicians and get help. }
-{223}{MORP42C}{哦，我的孩子，你真是词不达意呢。去吧，找我们的医生寻求帮助。}
+{223}{MORP42C}{哦，我的孩子，你真是词不达意呢。去吧，找我们的治疗师寻求帮助。}
 
 #{224}{MORP45}{ My child, talk to Lasher.  He'll help you with that. }
 {224}{MORP45}{我的孩子，你去跟拉舍尔谈谈吧。他会帮助你。}
@@ -511,10 +511,10 @@
 {1109}{MORP59}{他是另一个高级牧师。他在研究上花费大量的时间。}
 
 #{1110}{MORP60}{My heart bleeds for them.  Led down a false path.  They don't know their efforts will bring only pain and suffering to their fellow beings.}
-{1110}{MORP60}{我替他们感到痛心。他们走在一条错误的道路上，不知道自己的努力只会给人民带来痛苦和苦难。}
+{1110}{MORP60}{我替他们感到痛心。他们走在一条错误的道路上，不知道自己的努力只会给他们的教众带来痛苦和苦难。}
 
 #{1111}{MORP61}{Nicole is the unfortunate, confused leader of the Followers of the Apocalypse. }
-{1111}{MORP61}{尼科尔是末世论者的不幸的、被迷惑的领导者。}
+{1111}{MORP61}{尼科尔是末世论者的不幸的、迷惑的领导者。}
 
 #{1112}{MORP62}{Adytum is the city to the northeast of us. }
 {1112}{MORP62}{内城区是我们东北面的城区。}
