@@ -99,7 +99,7 @@
 
 #{128}{Ara_8}{You must think me quite gullible, wanderer. You
 #conquered the mountains by yourself?}
-{128}{Ara_8}{你以为我很好骗么，旅行者。你一个人翻过了那些山脉？}
+{128}{Ara_8}{你以为我很好骗吗，旅行者。你一个人翻过了那些山脉？}
 
 #{129}{}{Doesn't matter how I think. It's true I came
 #from the mountains.}
@@ -196,13 +196,13 @@
 {156}{}{嗯嗯。}
 
 #{157}{Ara_18n}{Greetings. What may I help you with this fine day?}
-{157}{Ara_18n}{你好。天气不错，我有什么能帮你么？}
+{157}{Ara_18n}{你好。天气不错，我有什么能帮你吗？}
 
 #{158}{Ara_18b}{Is there something you want?}
 {158}{Ara_18b}{你有什么事？}
 
 #{159}{}{Can you tell me about Shady Sands?}
-{159}{}{你能告诉我一些关于沙荫镇的事情么？}
+{159}{}{你能告诉我一些关于沙荫镇的事情吗？}
 
 #{160}{}{I was wondering if I could ask you a few questions?}
 {160}{}{我想我可以问你一些问题吗？}
@@ -287,7 +287,7 @@
 
 #{185}{Ara_25b}{Dharma said, 'Heed not the call of the wolf when the fox is raiding
 #the hen house.'}
-{185}{Ara_25b}{达玛说，“杀机何用宰牛刀。”}
+{185}{Ara_25b}{达玛说，“杀鸡何用宰牛刀。”}
 
 #{186}{Ara_25g}{Junktown lies south of here, though there is little in
 #the way of visitation. From stories, I'm certain there
@@ -519,7 +519,7 @@
 
 #{252}{Ara_50}{She is my daughter. It is she that makes this hard
 # life worth living.}
-{252}{Ara_50}{它是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
+{252}{Ara_50}{她是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
 
 #{253}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
 # he can heal it. I would wager he is just a little
@@ -538,7 +538,7 @@
 #{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
 # the Khans.}
-{256}{Ara_54}{哼，嗯，嗯。非常怀的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
+{256}{Ara_54}{哼，嗯，嗯。非常坏的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
 
 #{257}{Ara_55}{Be very careful with such as these. Raiders who are
 # fanatically  religious can be quite dangerous. No one
@@ -651,7 +651,7 @@
 
 #{1102}{Ara_50}{She is my daughter. It is she that makes this hard
 # life worth living.}
-{1102}{Ara_50}{它是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
+{1102}{Ara_50}{她是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
 
 #{1103}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
 # he can heal it. I would wager he is just a little
@@ -661,7 +661,7 @@
 #{1104}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
 # the Khans.}
-{1104}{Ara_54}{哼，嗯，嗯。非常怀的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
+{1104}{Ara_54}{哼，嗯，嗯。非常坏的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
 
 #{1105}{Ara_55}{Be very careful with such as these. Raiders who are
 # fanatically  religious can be quite dangerous. No one
