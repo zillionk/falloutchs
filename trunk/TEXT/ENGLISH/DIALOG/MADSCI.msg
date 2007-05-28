@@ -157,7 +157,7 @@
 
 #{147}{}{Oh, you know, when we got that last batch of pure-strain humans in...
 # I think there is still one in the holding pens. Why do you ask?}
-{147}{}{噢，你知道，当时我们让最近一批纯种人类进入……我认为在拘押栏中还有一个。你为什么要问这个？}
+{147}{}{噢，你知道，当我们抓住最后一批纯种人时……我认为在拘押栏中还有一个。你为什么要问这个？}
 
 #{148}{}{No reason. How are the experiments going?}
 {148}{}{没有理由。实验是如何进行的？}
