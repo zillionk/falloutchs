@@ -1,3 +1,7 @@
+{1099}{}{?}
+
+{1199}{}{我可以告诉你……Aradesh、Dharma、Tandi、Razlo、Raiders、Vipers、Khans、Scorpions、Claw、Junktown、Spear、Station、Lair、Scorpion、Tower、Seth}
+
 #{100}{}{You see Aradesh.}
 {100}{}{你看见亚拉德什。}
 
