@@ -1,6 +1,6 @@
 #{100}{}{You see a man in studded leather armor with an odd assortment of
 # knick-knacks.}
-{{100}{}{你看到一个穿着皮革装甲的男人，盔甲上布满了奇怪的装饰品。}
+{100}{}{你看到一个穿着皮革装甲的男人，盔甲上布满了奇怪的装饰品。}
 
 #{101}{}{You see Patrick, the Celt.}
 {101}{}{你看到帕特里克，一个凯尔特人。}
