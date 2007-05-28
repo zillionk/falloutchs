@@ -41,7 +41,7 @@
 #{120}{}{That race being the mutants, of course.}
 {120}{}{这个种族无庸置疑就是变种人咯。}
 #{121}{}{I hope we won't end up looking like you.}
-{121}{}{我可不希望变成你们这幅尊容。}
+{121}{}{我可不希望变成你们这副尊容。}
 #{122}{Mast07}{Of course. Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants.}
 {122}{Mast07}{然也。变种人是最有能力接管这个世界的种族。还能有谁？僵尸？别开玩笑了。人类？是他们造成了全球的核浩劫。未来将是变种人的时代！变种人的时代！}
 #{123}{}{You mean to change all the others into mutants, as well.}
