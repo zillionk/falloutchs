@@ -45,13 +45,13 @@
 {114}{}{啊，好吧。再见。}
 
 #{115}{}{Uh huh. So what's your story?}
-{115}{}{啊哈。那么讲讲你的故事。}
+{115}{}{啊哈。那么讲讲你的故事？}
 
 #{116}{}{Hmm. Haven't seen one of those before. What seems to be the trouble?}
 {116}{}{哈。我从来没见过那些东西。是用来煮饺子的吗？}
 
 #{117}{}{This chip controls water purification for my Vault. It's blown out, though.}
-{117}{}{这是控制我们避难所水处理系统的芯片。但是他坏了。}
+{117}{}{这是控制我们避难所水处理系统的芯片。但是它坏了。}
 
 #{118}{}{It's broken.}
 {118}{}{它坏掉了。}
@@ -85,7 +85,7 @@
 {126}{}{你知道哈勃城些什么？}
 
 #{127}{}{What do you know about Necropolis?}
-{127}{}{你知道大墓地点什么？}
+{127}{}{你知道大墓地些什么？}
 
 #{128}{}{I don't think I could help you with that. I never had much of a chance to
 # study pre-war Vault technology.}
@@ -97,7 +97,7 @@
 {129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，让沙荫镇的人用上更好的炉子之类的。}
 
 #{130}{}{Really? Think you could fix a water chip?}
-{130}{}{真的？你能修好水处理芯片么？}
+{130}{}{真的？你能修好水处理芯片吗？}
 
 #{131}{}{Oh, mostly old folk songs and some Celtic music. It's a change of pace.}
 {131}{}{哦，都是些老民谣，还有一些凯尔特音乐。我对别的风格没什么兴趣。}
@@ -150,7 +150,7 @@
 {143}{}{可能吧，不过我才不会去冒险打扰那些僵尸呢。听说他们近来有了个强大的新领袖。}
 
 #{144}{}{Why, certainly. Would you like to hear it?}
-{144}{}{为什么不？你真想听么？}
+{144}{}{为什么不？你真想听吗？}
 
 #{145}{}{Sure.}
 {145}{}{当然。}

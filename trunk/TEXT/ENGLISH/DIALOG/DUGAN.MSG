@@ -1,7 +1,7 @@
 #{100}{}{You see Dugan, the Nuka-Cola addict of the Blades.}
 {100}{}{你看见杜根，利刃帮核子可乐的上瘾者。}
 #{101}{}{You see a very tall thin man with glasses. He has a bottle of Nuka-Cola clutched in his hand.}
- {101}{}{你看见一个很高的戴着眼镜的男子。他手里拿着一瓶核子可乐。}
+{101}{}{你看见一个很高的戴着眼镜的男子。他手里拿着一瓶核子可乐。}
 #{102}{}{Yes?}
 {102}{}{有事吗？}
 #{103}{}{I'm just looking around, thanks.}
@@ -19,7 +19,7 @@
 #{109}{}{Well, then stop wasting my time.}
 {109}{}{好吧，不要浪费我的时间了。}
 #{110}{}{I pontificate on life a lot, and help the Blades understand the true meaning of Nuka-Cola.}
- {110}{}{我花费了生命中的大部分时间，帮助利刃帮成员明白了核子可乐的真正意义。}
+{110}{}{我花费了生命中的大部分时间，帮助利刃帮成员明白了核子可乐的真正意义。}
 #{111}{}{What's so good about Nuka-Cola?}
 {111}{}{核子可乐有什么好？}
 #{112}{}{Is that all? That doesn't seem to help anyone that much.}

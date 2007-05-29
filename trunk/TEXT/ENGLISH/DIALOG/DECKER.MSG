@@ -23,7 +23,7 @@
 {109}{}{没什么特别。}
 #{110}{DECK_3}{
 #Background:  There's a certain merchant who's . . . how to phrase this . . . not cooperating fully with the Underground.}
-{110}{DECK_3}{背景：有个特别的商人……怎样购买……不要完全和地下组织合作。}
+{110}{DECK_3}{背景：这是个特别的商人……怎么形容……他和地下组织并不是完全合作的关系。}
 #{111}{}{And the job?}
 {111}{}{工作呢？}
 #{112}{DECK_4}{
@@ -227,11 +227,11 @@
 #{207}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {207}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{208}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
-{208}{DECK_54}{哈罗德来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
+{208}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区已经完了。对于某些特定的信息他是个不错的消息源。}
 #{209}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
 {209}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
 #{210}{DECK_56}{He's the head of the Water Merchants.}
-{210}{DECK_56}{他是纯水商人们的头头。}
+{210}{DECK_56}{他是纯水商队的头头。}
 #{211}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
 {211}{DECK_57}{在教徒占据医院之前他们一直控制着那儿，现在他们又在货仓出没--这很奇怪。你可以在商人集市的西北角找到他们。}
 #{212}{DECK_58}{He's the head of the Crimson Caravan.}
@@ -249,7 +249,7 @@
 #{218}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
 {218}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
 #{219}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
-{219}{DECK_65}{老城区占了整个东边，那帮家伙就住在那儿。}
+{219}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
 #{220}{DECK_66}{Most merchants live there.  Simply go west from here.}
 {220}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
 #{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
@@ -257,7 +257,7 @@
 #{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
 {222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在大墓地的下面。}
 #{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
-{223}{DECK_69}{在哈勃镇，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
+{223}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
 {224}{DECK_70}{他是大教堂教徒的其中之一，根据推测他可能是神的陪衬，或什么东西。}
 #{225}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
@@ -388,11 +388,11 @@
 #{1004}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {1004}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{1005}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
-{1005}{DECK_54}{哈罗德来这儿有一段时间，他在老城区已经完了。对于某些特定的信息他是个不错的消息源。}
+{1005}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区已经完了。对于某些特定的信息他是个不错的消息源。}
 #{1006}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
 {1006}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
 #{1007}{DECK_56}{He's the head of the Water Merchants.}
-{1007}{DECK_56}{他是纯水商人们的头头。}
+{1007}{DECK_56}{他是纯水商队的头头。}
 #{1008}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
 {1008}{DECK_57}{在小孩们占据医院之前他们一直控制着那儿，现在他们又在货仓出没--这很奇怪。你可以在商人集市的西北角找到他们。}
 #{1009}{DECK_58}{He's the head of the Crimson Caravan.}
@@ -410,19 +410,19 @@
 #{1015}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
 {1015}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
 #{1016}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
-{1016}{DECK_65}{老城区占了整个东边，烟鬼们（the skags)就住在那儿。}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
 #{1017}{DECK_66}{Most merchants live there.  Simply go west from here.}
 {1017}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
 #{1018}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {1018}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{1019}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
-{1019}{DECK_68}{墨菲斯是大教堂的小孩们的头，他住在埋骨之地的下面。}
+{1019}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在大墓地的下面。}
 #{1020}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
-{1020}{DECK_69}{在哈勃镇，她现在是大教堂的孩子们的头。我相信状况很快就会改变。}
+{1020}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{1021}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
-{1021}{DECK_70}{孩子们的伪造物之一。他可能是下等神位，或什么东西。}
+{1021}{DECK_70}{他是大教堂教徒的其中之一，根据推测他可能是神的陪衬，或什么东西。}
 #{1022}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
-{1022}{DECK_71}{这是一个出售...展销武器的小地方，由远行商队控制。}
+{1022}{DECK_71}{这是一个出售……展销武器的小地方，由远行商队控制。}
 #{1023}{DECK_72}{Just out the door and to the north.  You can't miss it.}
 {1023}{DECK_72}{快出门朝北走，你不会错过它的。}
 #{1124}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
@@ -448,9 +448,9 @@
 #{1134}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
 {1034}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
 #{1135}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
-{1016}{DECK_65}{老城区占了整个东边，烟鬼们（the skags)就住在那儿。}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
 #{1136}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
-{1016}{DECK_65}{老城区占了整个东边，烟鬼们（the skags)就住在那儿。}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
 #{1137}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {1137}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{1138}{DECK_72}{Just out the door and to the north.  You can't miss it.}
