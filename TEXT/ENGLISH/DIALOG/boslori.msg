@@ -110,7 +110,7 @@
 #{282}{}{I can't help you, officially.}
 {282}{}{从职务上说，我不能帮你。}
 #{283}{}{Lori's the Doctor.}
-{283}{}(罗伊是医生。}
+{283}{}{罗伊是医生。}
 #{284}{}{You have to ask the Doctor.}
 {284}{}{你得去问医生。}
 #{285}{}{Don't worry, she's just a kidder.}
