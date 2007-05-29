@@ -73,13 +73,13 @@
 #{136}{}{Perhaps the virus didn't sterilize people once, but it does now.}
 {136}{}{或许病毒以前不会让人绝育，但是现在却是千真万确的事情。}
 #{137}{}{Have you talked to any of your mutants about this?}
-{137}{}{你问过你手下的变种人这个问题么？}
+{137}{}{你问过你手下的变种人这个问题吗？}
 #{138}{}{Maybe it's all that extra radiation.}
 {138}{}{或许是过度的辐射造成的。}
 #{139}{Mast12}{Do you have proof?}
-{139}{Mast12}{你可有证据？}
+{139}{Mast12}{你有证据吗？}
 #{140}{}{Of course, I do! Here it is . . .}
-{140}{}{那是自然！请看！}
+{140}{}{那是自然！请看！这就是……}
 #{141}{}{Take my word for it, it happens.}
 {141}{}{相信我，是真的。}
 #{142}{}{Ask your own mutants.}
@@ -90,8 +90,8 @@
 {144}{}{我必须研究一下这些信息。稍候。}
 #{145}{Mast14}{I must digest this information. One moment . . . I understand now. You made a clever forgery. You made this up to fool me. Fool! Me!}
 {145}{Mast14}{我必须研究一下这信息。少歇……我明白了。你的这个赝品足以乱真。你编造了这个来愚弄我！愚弄我！}
-{146}{}{什么？！我不明白，我以为它是真的！}
 #{146}{}{What!? I don't understand, I thought it was correct!}
+{146}{}{什么？！我不明白，我以为它是真的！}
 #{147}{}{You're lying! You're denying the facts in front of you!}
 {147}{}{你在撒谎！你还在事实面前狡辩！}
 #{148}{Mast16}{You will pay for what you have done! Pay! Done.}
@@ -146,8 +146,8 @@
 {172}{Mast29}{哼，你这是一派胡言。不过为了确认真相，我会下令调查这件事。不过，那是在我处理掉你之后。处理！处理！}
 #{173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
 {173}{Mast30}{我唯一的顾虑就是你。那么，你是要加入我们还是拒绝？}
-{174}{}{你去做梦吧。}
 #{174}{}{Not.}
+{174}{}{你去做梦吧。}
 #{175}{}{Sure.}
 {175}{}{我加入。}
 #{176}{Mast31}{They will be punished for their insolence.}
@@ -163,7 +163,7 @@
 #{181}{}{Hmm, I'm not big on being executed . . . I'm joining.}
 {181}{}{啊，我还不想死……我加入。}
 #{182}{Mast33}{We are all biased, are we not?  We each care more about our individual communities than other people. We haven't changed, and I'll tell you something else . . .}
-{182}{Mast33}{我们都有自己的立场，不是么？我们都比其他人更关心各自的群体。我们从来都没有改变。但是，现在我会指给你看另外一条路……}
+{182}{Mast33}{我们都有自己的立场，不是吗？我们都比其他人更关心各自的群体。我们从来都没有改变。但是，现在我会指给你看另外一条路……}
 #{183}{}{What's that?}
 {183}{}{什么？}
 #{184}{Mast34}{We won't change. Not unless we are of one people. One. One. One. One race. One. One. One. The Unity will allow us to move beyond these petty concerns and deal with the major problems at hand.  You want to be a part of that, don't you? Part. Don't.}
@@ -193,7 +193,7 @@
 #{196}{}{I'm going to set off a nuclear device in this Vault. It will explode shortly, taking you all to hell!}
 {196}{}{我打算引爆这个避难所里的核弹。它马上就会爆炸，把你们全送去见阎王！}
 #{197}{}{I'll kill you and that'll make it difficult for you to continue, right?}
-{197}{}{我宰了你，这样你就不能继续为恶了，对么？}
+{197}{}{我宰了你，这样你就不能继续为恶了，对吗？}
 #{198}{}{I convinced the Brotherhood of Steel to invade this place if I was captured and not set free.  They will be here any moment.}
 {198}{}{我说服钢铁兄弟会，假如我被俘并且没被释放，就攻打这里。他们可能随时到达。}
 #{199}{Mast39}{You might be telling the truth. It doesn't matter, but I will let you go for now.}
@@ -201,7 +201,7 @@
 #{200}{Mast40}{You are lying. It will be the last lie that you tell. }
 {200}{Mast40}{你在撒谎。这将是你说得最后一个谎话。}
 #{201}{Mast41}{One moment while I check out your story. You might be telling the truth. Guards! Take this human to the reactor core. Deal with the problem before it's too late.}
-{201}{Mast41}{等一下，我看看你是不是在骗我……你说的是真的。警卫！把这只人类带到反应堆内核，在爆炸前解除核弹。}
+{201}{Mast41}{等一下，我看看你是不是在骗我……你说的是真的。警卫！把这个人类带到反应堆内核，在爆炸前解除核弹。}
 #{202}{Mast42}{I doubt even the FEV will help you. Why am I talking? It's unlikely you even understand . . .}
 {202}{Mast42}{ＦＥＶ病毒都治不了你的榆木脑袋。为什么我要和你说话？你甚至可能都无法理解……}
 #{203}{Mast43}{You must be joking. }
@@ -215,9 +215,9 @@
 #{207}{Mast45}{Fine. Then you can die here and now!}
 {207}{Mast45}{很好。那么你可以立即毙命于此！}
 #{208}{Mast46}{You have disarmed the device. Excellent. Tell me, is there anything you wanted to say before I kill you?}
-{208}{Mast46}{你们已经将核弹拆了。很好。告诉我，在你临死前还有什么遗言么？}
+{208}{Mast46}{你们已经将核弹拆了。很好。告诉我，在你临死前还有什么遗言吗？}
 #{209}{}{Yes, can I join up with you now?}
-{209}{}{是的，我现在能加入你们么？}
+{209}{}{是的，我现在能加入你们吗？}
 #{210}{}{Even dead, I'll still look better than you.}
 {210}{}{就算死了，我也会比你长得好看。}
 #{211}{Mast47}{No. No. No. No.}

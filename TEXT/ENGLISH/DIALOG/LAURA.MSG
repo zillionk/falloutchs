@@ -1,7 +1,3 @@
-{1099}{}{?}
-
-{1199}{}{我可以告诉你……}
-
 #{100}{}{You see Laura.}
 {100}{}{你看到劳拉。}
 
@@ -78,13 +74,13 @@
 {134}{laura16g}{啊，又见面了！你是顺路来看看我呢，还是需要我的帮忙呢？}
 
 #{136}{laura16b}{Is there . . . something I can help you with?}
-{136}{laura16b}{有什么我可以帮你的么？}
+{136}{laura16b}{有什么我可以帮你的吗？}
 
 #{137}{}{Are you Laura?}
-{137}{}{你是劳拉么？}
+{137}{}{你是劳拉吗？}
 
 #{138}{}{Can I ask you a few questions about the Children?}
-{138}{}{我能问你一点关于大教堂教徒的问题么？}
+{138}{}{我能问你一点关于大教堂教徒的问题吗？}
 
 #{139}{}{Nothing, thanks.}
 {139}{}{没事，谢谢。}
@@ -137,14 +133,14 @@
 {158}{}{然后呢？}
 
 #{159}{}{Can you show me this door?}
-{159}{}{你能带我去看看那扇门么？}
+{159}{}{你能带我去看看那扇门吗？}
 
 #{161}{laura26}{He uses this strange key to open it and
 # disappears. I've never tried to follow him.}
 {161}{laura26}{他用了一把奇怪的钥匙开了门然后就消失了。我没敢继续跟踪。}
 
 #{162}{}{Do you know where this key is?}
-{162}{}{你知道那钥匙在哪里么？}
+{162}{}{你知道那钥匙在哪里吗？}
 
 #{163}{}{Why not?}
 {163}{}{为什么不敢？}
@@ -153,7 +149,7 @@
 {165}{laura27}{啊，我想他应该随身带着。}
 
 #{166}{}{Will you show me the door now?}
-{166}{}{你现在能带我去那扇门么？}
+{166}{}{你现在能带我去那扇门吗？}
 
 #{168}{laura28a}{Well, of course.}
 {168}{laura28a}{哦，当然。}
@@ -162,7 +158,7 @@
 {169}{}{好极了。我们走。}
 
 #{170}{}{Can I ask you a few more questions first?}
-{170}{}{我能先问你点别的问题么？}
+{170}{}{我能先问你点别的问题吗？}
 
 #{172}{laura29}{Follow me.}
 {172}{laura29}{跟我来。}
@@ -175,7 +171,7 @@
 
 #{178}{laura31}{Believe me, if you've seen the Nightkin,
 # you'd know why. Unless you're stupid.}
-{178}{laura31}{相信我，如果你看到“夜之团”，你就知道为什么我不敢跟了。除非你是笨蛋。}
+{178}{laura31}{相信我，如果你看到“隐形人”，你就知道为什么我不敢跟了。除非你是笨蛋。}
 
 #{179}{}{Maybe I am, but I'm not scared.}
 {179}{}{也许我笨，但我不会害怕。}
@@ -244,7 +240,7 @@
 {202}{laura37}{每隔一段时间，墨菲斯都会走下大殿后面的秘密楼梯进到地下室，用钥匙打开一扇密门。我想主教就在那里面。}
 
 #{203}{}{Can you show me this staircase right now?}
-{203}{}{你现在可以带我去这个楼梯么？}
+{203}{}{你现在可以带我去这个楼梯吗？}
 
 #{204}{}{Do you know where this key is?}
 {204}{}{你知道钥匙在哪？}
@@ -302,7 +298,7 @@
 {225}{}{末世论者怎么样？}
 
 #{226}{}{Can I help Adytum?}
-{226}{}{我能帮助内城区么？}
+{226}{}{我能帮助内城区吗？}
 
 #{228}{laura44}{The Children don't think we're enough of a threat.
 # We'll show 'em.}
@@ -392,7 +388,7 @@
 
 #{263}{laura53}{For one thing, people seem to disappear a lot
 # around here, while the number of Nightkin are slowly growing.}
-{263}{laura53}{想通这一点就会明白的：附近的人失踪了很多。同时“夜之团”的数量在大大增加。}
+{263}{laura53}{想通这一点就会明白的：附近的人失踪了很多。同时“隐形人”的数量在大大增加。}
 
 #{264}{}{Why?}
 {264}{}{为什么？}
@@ -413,7 +409,7 @@
 {271}{}{我会的。}
 
 #{273}{laura56}{Huh, I sure as hell hope so. Now, any more questions? }
-{273}{laura56}{啊，但愿如此。现在还有问题么？}
+{273}{laura56}{啊，但愿如此。现在还有问题吗？}
 
 #{275}{laura57}{Actually, it's a good way to manipulate people,
 # and this Master is damn good at it.}
@@ -571,7 +567,7 @@
 {332}{}{啊是的，主教，他是这些傻瓜崇拜的神。就我个人来说，我不认为他是个神，只是操控人群的某个人。}
 
 #{333}{}{Nightkin? I don't know what you're talking about.}
-{333}{}{夜之团？我不知道你在说什么。}
+{333}{}{隐形人？我不知道你在说什么。}
 
 #{334}{}{They're the big, ugly enforcers of the Master
 # and Morpheus.}
@@ -665,14 +661,14 @@
 {1102}{laura76a}{他们人都很好！在这里很奇妙。我们很有归属感，行侠仗义……}
 
 #{1103}{laura78}{Oh, he's wonderful. He leads us. You should talk to him!}
-{1103}{laura78}{哦，他太棒了。他领导着我们。你应该和他谈谈}
+{1103}{laura78}{哦，他太棒了。他领导着我们。你应该和他谈谈！}
 
 #{1104}{laura79}{Oh, I can't begin to describe him. Morpheus leads us.
 # He can do justice to your question.}
 {1104}{laura79}{哦，我不能形容他。墨菲斯领导我们。能帮你答疑解惑。}
 
 #{1105}{laura80}{Nightkin? I don't know what you're talking about.}
-{1105}{laura80}{夜之团？我不知道你在说什么。}
+{1105}{laura80}{隐形人？我不知道你在说什么。}
 
 #{1106}{laura81}{The what?}
 {1106}{laura81}{什么？}
@@ -688,7 +684,7 @@
 {1109}{laura84}{他们向教堂证明自己的忠心。我们其他人也在努力去做。}
 
 #{1110}{laura85}{They are the high priests.}
-{1110}{laura85}{他们是高级祭司}
+{1110}{laura85}{他们是高级祭司。}
 
 #{1111}{laura74}{Oh, those are dreadful people. I'm not going to talk about them at all!}
 {1111}{laura74}{噢，他们是讨厌的人。我再也不想说他们的事了}
@@ -697,5 +693,5 @@
 {1112}{laura81}{什么？}
 
 #{1113}{laura80}{Nightkin? I don't know what you're talking about.}
-{1113}{laura80}{夜之团？我不知道你在说什么。}
+{1113}{laura80}{隐形人？我不知道你在说什么。}
 

@@ -1,7 +1,3 @@
-{1099}{}{?}
-
-{1199}{}{这个人人似乎没什么可以告诉你的。}
-
 #{100}{}{You see Billy.}
 {100}{}{你看见比利。}
 #{101}{}{Hi there.}
@@ -70,8 +66,7 @@
 #{134}{}{Okay, thanks.}
 {134}{}{好了，谢谢。}
 #{135}{}{Oh, they can be awfully stubborn when I want them to do something.  I just gently stick them to get them to move around . . .  plus I don't want to get too close; they sometimes kick. }
-{135}{}{喔，我要它们去做什么的时候，它们犟得要死。我只好轻轻地打着它们走. . . 
-另外我也不想靠它们太近了，它们有时会踢人。}
+{135}{}{喔，我要它们去做什么的时候，它们犟得要死。我只好轻轻地打着它们走……另外我也不想靠它们太近了，它们有时会踢人。}
 #{136}{}{Please don't talk to me. Dan is going to yell at me again.  He really gets pissed -  I mean - mad, when I'm not paying attention to what I'm doing.}
 {136}{}{请你不要和我说话了。丹又要吼我了。我不专心干活的话，他会很愤怒–我是说-狂怒。}
 #{137}{}{He's just trying to help. Work hard and I'm sure he'll be nicer.}
