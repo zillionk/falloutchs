@@ -2,7 +2,7 @@
 {100}{}{你看到玛塞尔。}
 
 #{101}{}{You see a tough-looking woman.}
-{101}{}{你到一个貌似很强硬的女人。}
+{101}{}{你看到一个貌似很强硬的女人。}
 
 #{102}{}{Thank god you're here! Some crazy guy has Sinthia held hostage. He's threatening to kill her! You've got to help.}
 {102}{}{感谢上帝，你在这儿！有疯子抓住辛西娅当成人质。他威胁说要杀了她！你应该去帮帮她。}
@@ -200,7 +200,7 @@
 {166}{}{好吧。一晚上。一百块。}
 
 #{167}{}{What! That's outrageous!}
-{167}{}{什么！太无耻！}
+{167}{}{什么！无耻！}
 
 #{168}{}{Okay.}
 {168}{}{好吧。}
@@ -215,7 +215,7 @@
 {171}{}{好吧。}
 
 #{172}{}{Good. Here you go. Room #1. Have a nice night, check out time is 11 o' clock.}
-{172}{}{很好。这边走。一号房间。结账的时间是早上11点，晚安。}
+{172}{}{很好。这边走。一号房间。结账的时间是早上十一点，晚安。}
 
 #{173}{}{You killed Killian, didn't you?}
 {173}{}{是你杀了基利安，对吗？}
