@@ -41,7 +41,7 @@
 
 #{112}{}{I am sorry, my friend, but I do not work for
 # imaginary money. I need cold, hard cash.}
-{112}{}{对不起，我的朋友，可我不收白条。我要的是实实在在的现金}
+{112}{}{对不起，我的朋友，可我不收白条。我要的是实实在在的现金。}
 
 #{113}{}{Excellent. I am yours. Let us go, this place bores me.}
 {113}{}{好极了。我是你的人了。我们走吧，我已经厌烦这里了。}
@@ -61,7 +61,7 @@
 
 #{118}{}{Did you know that I have a bounty on my head?
 # It is too small, however.}
-{118}{}{你知道有人悬赏我的人头么？不过，赏金太少了点。}
+{118}{}{你知道有人悬赏我的人头吗？不过，赏金太少了点。}
 
 #{119}{}{Ah, my friend. It is good to see you again.}
 {119}{}{啊，我的朋友。很高兴再见到你。}

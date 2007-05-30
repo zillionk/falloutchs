@@ -24,7 +24,7 @@
 {107}{}{你在这里干吗？}
 
 #{108}{}{Voice not recognized. Security systems status: armed.}
-{108}{}{声音认证没有被通过。安全系统状态：防御}
+{108}{}{声音认证没有被通过。安全系统状态：防御。}
 
 #{109}{}{I am the security system for Blue Level. All systems armed.}
 {109}{}{我是蓝层的安全系统。所有系统进入防御状态。}
