@@ -1,8 +1,8 @@
 #{100}{}{You see Marcelles.}
-{100}{}{你看见了玛塞尔。}
+{100}{}{你看到玛塞尔。}
 
 #{101}{}{You see a tough-looking woman.}
-{101}{}{你看见了一名蓝领女子。}
+{101}{}{你到一个貌似很强硬的女人。}
 
 #{102}{}{Thank god you're here! Some crazy guy has Sinthia held hostage. He's threatening to kill her! You've got to help.}
 {102}{}{感谢上帝，你在这儿！有疯子抓住辛西娅当成人质。他威胁说要杀了她！你应该去帮帮她。}
@@ -50,10 +50,10 @@
 {116}{}{你本应救下辛西娅的。现在她死了，这都怪你。现在你开心了？}
 
 #{117}{}{Yeah, whatever.}
-{117}{}{行，随便怎么样都好。}
+{117}{}{无所谓，随你怎么说。}
 
 #{118}{}{Hnnn.}
-{118}{}{嗯呣呣呣。}
+{118}{}{嗯。。。}
 
 #{119}{}{Welcome to the Crash House. How can I help you, stranger?}
 {119}{}{欢迎光临冲撞之屋。需要点什么，陌生人？}
@@ -68,7 +68,7 @@
 {122}{}{我在打听消息。}
 
 #{123}{}{Hnnn.}
-{123}{}{嗯嗯。}
+{123}{}{嗯。。。}
 
 #{124}{}{Yeah, we serve your kind, too. It'll be $25 for the night. A week will cost you $150.}
 {124}{}{是的，你们这样的我们也提供服务。一晚上二十五块。一个礼拜一百五十块。}
@@ -86,7 +86,7 @@
 {128}{}{哈，你也是。住的愉快。}
 
 #{129}{}{Okay, thanks. Your room is room #1. Follow me. Don't be shooting any guns in here, okay?}
-{129}{}{好的谢了。你的房间是一号。跟我来。别在这儿随便开枪，可以吗？}
+{129}{}{好的谢了。你的房间是一号。跟我来。别在这儿随便开枪，行吗？}
 
 #{130}{}{Have a good stay.}
 {130}{}{住的愉快。}
@@ -98,7 +98,7 @@
 {132}{}{那你应该去萨姆·匹特试试。我听说那儿的酒里掺水不少。}
 
 #{133}{}{I don't know about that, but I will rent you a room. It's a good place to rest and heal up. $25 for a day, or a week is $150. Most people go for the weekly rate. You should, if you ask me.}
-{133}{}{那些事情我不太清楚，不过我可以租给你个房间。这是个休息康复的好地方。二十五块一天，一个礼拜一百五十。大多数人都一租一个礼拜。如果你问我的话，你也应该这么着。}
+{133}{}{那些事情我不太清楚，不过我可以租给你个房间。这是个休息康复的好地方。二十五块一天，一个礼拜一百五十。大多数人都一租一个礼拜。如果你问我的话，你也能按这个房价租。}
 
 #{134}{}{Okay. A week.}
 {134}{}{那好。一个礼拜。}
@@ -113,7 +113,7 @@
 {137}{}{我只是个旅馆经理，小家伙。别问我这么多问题。}
 
 #{138}{}{Here's $50, tell me what you know.}
-{138}{}{五十块，告诉我你知道的东西。}
+{138}{}{五十块，告诉我你所知道的。}
 
 #{139}{}{I know you're $50 poorer. I don't do the gossip thing, okay? Come back if you want a room.}
 {139}{}{你这个只值五十块的可怜虫。我从来不乱嚼舌头，知道？想要房间的时候再来吧。}
@@ -128,7 +128,7 @@
 {142}{}{我想租个房间。}
 
 #{143}{}{Hnnn.}
-{143}{}{嗯呣呣呣。}
+{143}{}{嗯。。。}
 
 #{144}{}{You're already renting room #1 from me. Do you want me to show you where it is?}
 {144}{}{你已经从我这里租了一号房间。需要我领你去么？}
@@ -146,7 +146,7 @@
 {148}{}{不了。}
 
 #{149}{}{And this is still your room. Have a good stay.}
-{149}{}{这依然是你的房间。住的愉快。}
+{149}{}{这仍旧是你的房间。住的愉快。}
 
 #{150}{}{You know the drill. One day is $25. One week is $150.}
 {150}{}{你知道价格的。一天二十五。一个礼拜一百五十块。}
@@ -182,31 +182,31 @@
 {160}{}{我想租个房间。}
 
 #{161}{}{Hnn.}
-{161}{}{嗯呣呣。}
+{161}{}{嗯。。。}
 
 #{162}{}{No. Go away.}
-{162}{}{不。离开吧。}
+{162}{}{不。。。滚！}
 
 #{163}{}{I don't like your face. I don't think I'll be renting you a room.}
-{163}{}{我不喜欢你的长相。我不想租给你房间。}
+{163}{}{我不喜欢你的长相。不会租给你房间的。}
 
 #{164}{}{I really need a place to stay.}
 {164}{}{我真的需要个休息的地方。}
 
 #{165}{}{No. Have a good night.}
-{165}{}{不用了。祝好梦。}
+{165}{}{不用了。晚安。}
 
 #{166}{}{Okay. One night. $100.}
 {166}{}{好吧。一晚上。一百块。}
 
 #{167}{}{What! That's outrageous!}
-{167}{}{什么！无耻！}
+{167}{}{什么！太无耻！}
 
 #{168}{}{Okay.}
 {168}{}{好吧。}
 
 #{169}{}{Deal with it. Yes or no.}
-{169}{}{和它理论去。同意或者拒绝。}
+{169}{}{一口价。行还是不行？}
 
 #{170}{}{No.}
 {170}{}{不。}
@@ -215,7 +215,7 @@
 {171}{}{好吧。}
 
 #{172}{}{Good. Here you go. Room #1. Have a nice night, check out time is 11 o' clock.}
-{172}{}{很好。这里走。一号房间。祝晚安，这里十一点锁门。}
+{172}{}{很好。这边走。一号房间。结账的时间是早上11点，晚安。}
 
 #{173}{}{You killed Killian, didn't you?}
 {173}{}{是你杀了基利安，对吗？}
@@ -227,16 +227,16 @@
 {175}{}{不，不是我。真的不是我。}
 
 #{176}{}{Hnn.}
-{176}{}{嗯呣呣。}
+{176}{}{嗯。。。}
 
 #{177}{}{Get out! You're too dumb to realize what you did, but my life is hell now!}
-{177}{}{滚！你根本不知道你做了什么，我的生活现在全毁了！}
+{177}{}{滚！你根本不知道你犯了多大的错误，我的生活现在全毁了！}
 
 #{178}{}{You son of a bitch. I can't believe you killed him. He was a good man, and now I get all sorts of hell . . . get out, and don't come back.}
 {178}{}{你这个婊子养的。我简直不能相信你居然杀了他。他是个好人，现在我他妈的一团糟……滚吧，别再回来了。}
 
 #{179}{}{Yeah, whatever you say, but that's not what I heard. You'd better behave around here, or I'll get out ol' Betsy and ram some buckshot up your ass.}
-{179}{}{是啊，随便你怎么说，但我听说的可不是这些。你最好小心点，不然我会用我的枪轰掉你的屁股。}
+{179}{}{是啊，随便你怎么说，但我听说的可不是这样。你最好小心点，不然我会用我的枪轰掉你的屁股。}
 
 #{180}{}{It's late. I hope you aren't wasting my time.}
 {180}{}{已经很晚了。我希望你不是在浪费我的时间。}
