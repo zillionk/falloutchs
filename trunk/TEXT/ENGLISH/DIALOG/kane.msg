@@ -1014,7 +1014,7 @@
 
 #{417}{}{Well... are you going to do the job or not?  They're right over here (Kane points again at your PIPBoy
 # town map display.)  You better hurry up, the boss is expecting this to be done soon.}
-{417}{}{你到底想不想干这个工作？他们就住在那里。【肯恩指了指你的哗哗小子上的地图。】快点完成，老板都着急了。}
+{417}{}{你到底想不想干这个工作？他们就住在那里。【肯恩指了指你的哔哔小子上的地图。】快点完成，老板都着急了。}
 
 #{418}{}{WHAT THE HELL... (Kane looks around then whispers.)  What the hell are you doing here?  You better
 # finish the other one off, and there better not be 'any' witnesses.}
