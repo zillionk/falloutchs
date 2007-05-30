@@ -96,7 +96,7 @@
 {130}{}{谢谢。}
 
 #{131}{}{Can I ask another question?}
-{131}{}{我能问别的问题么？}
+{131}{}{我能问别的问题吗？}
 
 #{132}{Vree22}{The Brotherhood has some automated courses that you can take.
 #Here, I'll show you.}
