@@ -75,7 +75,7 @@
 
 #{122}{}{So, he cramps your style, eh? Mine, too. In fact, I'm thinking of
 #whacking him. You want in?}
-{122}{}{看来他让你很不爽，哦？我也是。事实上，我正考虑做掉他。你想加入么？}
+{122}{}{看来他让你很不爽，哦？我也是。事实上，我正考虑做掉他。你想加入吗？}
 
 #{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know . . .
 #all right, I'm in.}

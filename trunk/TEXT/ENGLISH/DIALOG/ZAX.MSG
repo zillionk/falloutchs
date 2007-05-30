@@ -201,7 +201,7 @@
 # destruction through nuclear force. Therefore, security concerns
 # are now irrelevant.}
 {100}{}{你看见扎克斯，控制闪光之地的智能机器。}
-{101}{}{你看见一台技术先进的计算机}
+{101}{}{你看见一台技术先进的计算机。}
 {102}{}{我应该如何帮你？}
 {103}{}{你……到底是……谁？是……什么？}
 {104}{}{你能给我个油炸面圈吗？}
