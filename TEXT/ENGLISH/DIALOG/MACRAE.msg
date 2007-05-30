@@ -1,5 +1,10 @@
+{1099}{}{?}
+
+{1199}{}{这个人似乎没什么可以告诉你的。}
+
+
 #{100}{}{You see a strong, stout man with a bushy beard.}
-{100}{}{你看见一个满脸胡须的强壮结实男人。}
+{100}{}{你看见一个胡子拉碴、长得五大三粗的男人。}
 
 #{101}{}{You see MacRae.}
 {101}{}{你看见麦克雷。}
@@ -57,7 +62,7 @@
 
 #{118}{}{You seem to be an alright lad, but me times busy with keeping the Blades schooled.  If 
 #things were to straighten themselves, I might be havin the time then.}
-{118}{}{你似乎是个好小伙儿，但是我正忙着教利刃帮。假如你想问的问题不拐弯抹角的话，我也许有时间回答你。}
+{118}{}{你似乎是个好小伙儿，但是我正忙着教利刃帮。假如现在手头儿上的事情不这么复杂的话，我也许会有些时间。}
 
 #{119}{}{Alright, can I ask you something else?}
 {119}{}{好吧，我还能问你些别的事情吗？}
@@ -72,7 +77,7 @@
 
 #{122}{}{I was thinkin the Deathclaws were the spawn of an unnatural act, but 'em Regulators are evil.  
 #Come once a month or so and they shows their ugly faces and drag a father away from is wee ones.}
-{122}{}{我以前一直认为死亡爪是非自然进化的产物，但是和它们一起的管理者是邪恶的。他们差不多每月来一次，到这里寻衅滋事，杀人害命，让弱小的孩子们失去父亲的保护。}
+{122}{}{我以前一直认为死亡爪是一些有不正常举动的动物，但是管理者，作为人类，他们却是一帮邪恶的混蛋。他们差不多每月来一次，到这里寻衅滋事，杀人害命，让弱小的孩子们失去父亲的保护。}
 
 #{123}{}{Anything I could do to help?}
 {123}{}{我可以帮你做什么？}
@@ -84,7 +89,7 @@
 {125}{}{谢谢你的信息。}
 
 #{126}{}{You be wantin to talk to Razor.  A good lass if there ever was one.}
-{126}{}{你也要和剃刀谈谈。她可的的确确是个好姑娘。}
+{126}{}{你去和剃刀谈谈吧。她可是个好姑娘。}
 
 #{127}{}{A good group of people is what the Blades are.  Stuck ere between the damn Regulators and the 
 #Deathclaws ain't meant the happiest life for em, but they survive.}
