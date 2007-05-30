@@ -344,7 +344,7 @@
 
 #{217}{}{Great. I'll get your driver and the rest of the crew.  Be careful out there, it's been a little rough
 # lately.}
-{217}{}{很好，我给你安排司机和其他乘员，出门要小心，最近不太平。}
+{217}{}{很好，我给你安排车夫和其他乘员，出门要小心，最近不太平。}
 
 #{218}{}{The crew's ready.  We'll leave right away.}
 {218}{}{人员准备完毕。我们出发。}

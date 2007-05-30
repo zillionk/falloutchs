@@ -2,7 +2,7 @@
 {100}{}{你看到一名大教堂教徒技师。}
 
 #{101}{}{Drop your weapons and the Nightkin will let you live.}
-{101}{}{放下你的武器，隐形人会饶你一命。}
+{101}{}{放下你的武器，夜行团会饶你一命。}
 
 #{102}{}{Join us, don't fight us.}
 {102}{}{加入我们，别跟我们作对。}
@@ -11,7 +11,7 @@
 {103}{}{你会成为“同一”的一员。}
 
 #{104}{}{Nightkin, take this fool prisoner. Our Master will be pleased.}
-{104}{}{隐形人！抓住他。主教会喜欢的。}
+{104}{}{夜行团！抓住他。主教会喜欢的。}
 
 #{105}{}{Please don't kill me. I only work here.}
 {105}{}{别杀我，别杀我。我只是在这里混口饭吃。}
@@ -39,7 +39,7 @@
 
 #{113}{}{You are nearly a Nightkin now. I hope the dipping will not damage
 # your intelligence further.}
-{113}{}{你已经快是一个隐形人的变种人了。希望“浸泡”还没有把你的智力毁掉。}
+{113}{}{你已经快是一个夜行团的变种人了。希望“浸泡”还没有把你的智力毁掉。}
 
 #{114}{}{I am part of the Unity. I am a glorious servant of our Master.
 # I will be the one who sees you become part of the Unity.}
@@ -65,10 +65,10 @@
 # you. You will be strong. You become a Nightkin if you are fortunate and
 # worthy of the honor, else you will die the most painful death possible. Soon, I
 # will be honored. I will become strong. Then I will fear no man.}
-{119}{}{你会被神圣之缚包围，然后被浸泡到最最神圣的神血池。ＦＥＶ会改变你的肌体，你会变得更加强壮。如果你受到神的眷顾，就会幸运地成为隐形人的一员，否则就会以最痛苦的形势死去。很快，我就会受到神恩了，我会变壮，我将不再惧怕任何人类！}
+{119}{}{你会被神圣之缚包围，然后被浸泡到最最神圣的神血池。ＦＥＶ会改变你的肌体，你会变得更加强壮。如果你受到神的眷顾，就会幸运地成为夜行团的一员，否则就会以最痛苦的形势死去。很快，我就会受到神恩了，我会变壮，我将不再惧怕任何人类！}
 
 #{120}{}{You've been around the Nightkin for far too long. Goodbye.}
-{120}{}{你和这些隐形人鬼混了太长时间，再见！}
+{120}{}{你和这些夜行团鬼混了太长时间，再见！}
 
 #{121}{}{Just why are you telling me this?}
 {121}{}{你为什么要告诉我这些？}

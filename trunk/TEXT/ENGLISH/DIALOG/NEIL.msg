@@ -69,7 +69,7 @@
 #{122}{}{You are simple enough to find this person that others are
 # too smart to find. There is a spy around here who is giving
 # our secrets to the Children. Find the spy. Kill the spy. Go.}
-{122}{}{你那么单纯，我相信你能找出其他聪明人找不出的人来。我们这里有个间谍将我们的机密传给了教堂之子。找到这家伙。杀了他。去吧。}
+{122}{}{你那么单纯，我相信你能找出其他聪明人找不出的人来。我们这里有个间谍将我们的机密传给了大教堂教徒。找到这家伙。杀了他。去吧。}
 
 #{123}{}{I thought as much. Be off with you.}
 {123}{}{我想了很久。我得离开你。}
@@ -151,7 +151,7 @@
 #{146}{}{How he ever became second in command is beyond me. Since he
 # was so scarce in words, I will fill you in. We have a leak who
 # is feeding the Children some of our movement patterns.}
-{146}{}{他究竟是何时成为我的副手的，这一点我已经记不得了。既然他办事不力，我打算用你替换掉他。我们这里有个内奸把我们的机密泄露给了教堂之子。}
+{146}{}{他究竟是何时成为我的副手的，这一点我已经记不得了。既然他办事不力，我打算用你替换掉他。我们这里有个内奸把我们的机密泄露给了大教堂教徒。}
 
 #{147}{}{Have any leads?}
 {147}{}{有线索了吗？}
@@ -208,7 +208,7 @@
 {163}{}{谁是头儿？}
 
 #{164}{}{Why are you attacking the Children?}
-{164}{}{你为何攻击教堂之子？}
+{164}{}{你为何攻击大教堂教徒？}
 
 #{165}{}{Where can I get some first aid?}
 {165}{}{我在哪里可以得到急救？}
@@ -237,7 +237,7 @@
 
 #{173}{}{The Children are not what they appear to be. They
 # are hiding something. Something related to those Nightkin. Anything else?}
-{173}{}{教堂之子同他们表面看起来不是那么一样。他们的外表下潜藏了一些东西。比如涉及到隐形人的那些。还有什么事吗？}
+{173}{}{大教堂教徒同他们表面看起来不是那么一样。他们的外表下潜藏了一些东西。比如涉及到夜行团的那些。还有什么事吗？}
 
 #{174}{}{Who is the leader?}
 {174}{}{谁是头儿？}
@@ -253,13 +253,13 @@
 
 #{178}{}{There is the Children's healer, but I don't trust them. We
 # also have a doctor or nurse on duty here at all times. Anything else?}
-{178}{}{这里有教堂之子的医生，但我并不信任他们。我们也有医生或护士全天待命。还有别的什么想问吗？}
+{178}{}{这里有大教堂教徒的医生，但我并不信任他们。我们也有医生或护士全天待命。还有别的什么想问吗？}
 
 #{179}{}{Who is the leader?}
 {179}{}{谁是头儿？}
 
 #{180}{}{Why are you attacking the Children?}
-{180}{}{你为何攻击教堂之子？}
+{180}{}{你为何攻击大教堂教徒？}
 
 #{181}{}{Nothing. Just checking. ＊smack＊}
 {181}{}{没什么。只是检查一下。【拍打声】}
@@ -324,4 +324,4 @@
 
 #{200}{}{Thank you for your teachings. Now we have a chance to
 # beat back those Children.}
-{200}{}{谢谢你的教学。现在我们有条件打翻那些个教堂之子了。}
+{200}{}{谢谢你的教学。现在我们有条件打翻那些个大教堂教徒了。}

@@ -1,5 +1,5 @@
 #{100}{}{You see Jeremiah, a messenger for the Children.}
-{100}{}{你看见耶利米，教堂之子的传令官。}
+{100}{}{你看见耶利米，大教堂教徒的传令官。}
 
 #{101}{}{You see a Child. He looks pensive.}
 {101}{}{你看见一名教徒，他似乎在沉思。}

@@ -83,7 +83,7 @@
 {127}{}{你好，陌生人。请原谅我的冒昧，但在圣堂之中你不能拿出武器。}
 
 #{128}{}{I have brought my gun into the service of the Cathedral and its Master. Do you have a problem with this? }
-{128}{}{我和我的枪是来为教堂之子和主教提供服务的。你还有问题吗？}
+{128}{}{我和我的枪是来为大教堂教徒和主教提供服务的。你还有问题吗？}
 
 #{129}{}{Thanks. I'll be sure to remember that. }
 {129}{}{谢谢。我会记住的。}
@@ -101,7 +101,7 @@
 {133}{}{你好，陌生人。如果你是来这里赎罪的话，我们欢迎你，但我建议你最好不要拿着武器。}
 
 #{134}{}{I have brought my gun into the service of the Cathedral and its Master. Do you have a problem with this? }
-{134}{}{我和我的枪是来为教堂之子和主教提供服务的。你还有问题吗？}
+{134}{}{我和我的枪是来为大教堂教徒和主教提供服务的。你还有问题吗？}
 
 #{135}{}{Sure. Redeemed. Sounds good. }
 {135}{}{当然。赎罪。听起来不错。}
@@ -122,7 +122,7 @@
 {140}{}{武器？}
 
 #{141}{}{Hello friend! I'm so glad to see you've joined our cause! }
-{141}{}{你好，朋友！真高兴你加入了我们的事业}
+{141}{}{你好，朋友！真高兴你加入了我们的事业！}
 
 #{142}{}{I haven't yet, though I'm interested. Aside from this Peace and Unity stuff, what are you guys all about? }
 {142}{}{我还没有加入，不过我很感兴趣。先不要提和平统一的事情，告诉我，你们这些人都在做什么？}
@@ -191,10 +191,10 @@
 {163}{}{我建议你去找拉舍尔兄弟。他是个认真的人，但主教的工作是非常神秘的。再见。}
 
 #{165}{}{But we have no guards, except for the Nightkin. What are you talking about? }
-{165}{}{我们这除了隐形人之外没有守卫。不知道你指的是什么？}
+{165}{}{我们这除了夜行团之外没有守卫。不知道你指的是什么？}
 
 #{166}{}{The Master ordered extra security. Not sure why, I think the Nightkin are enough muscle as it is. You got any idea what's going on? }
-{166}{}{主教命令我们增强守卫。我不知道为什么，在我看来那些隐形人已经足够了。你知道为什么会这样吗？}
+{166}{}{主教命令我们增强守卫。我不知道为什么，在我看来那些夜行团已经足够了。你知道为什么会这样吗？}
 
 #{167}{}{Someone screwed up my orders. Don't mind me. }
 {167}{}{肯定是有人把命令弄混了。不能怪我。}
@@ -502,7 +502,7 @@
 {268}{}{你的灵魂非常悲伤，我的朋友。是什么样的恐怖令你的心灵关闭，我现在只能猜测。打开你的心灵吧，获得安宁。看看那些屏幕，听听墨菲斯神父的布道，赞美主教吧。}
 
 #{269}{}{I know nothing, my friend, nothing! You shall have to find someone else to answer your inquiry. But it is not wise to ask about the Nightkin. }
-{269}{}{我什么都不知道，我的朋友，什么都不知道！你应该去找其他的人来问你的问题。但不应该去问隐形人。}
+{269}{}{我什么都不知道，我的朋友，什么都不知道！你应该去找其他的人来问你的问题。但不应该去问夜行团。}
 
 #{270}{}{Sure. No problem. }
 {270}{}{当然。没问题。}
@@ -517,7 +517,7 @@
 {273}{}{你什么都不知道？你是傻子吗？}
 
 #{274}{}{Nightkin! Nightkin! Kill! }
-{274}{}{隐形人！隐形人！杀呀！}
+{274}{}{夜行团！夜行团！杀呀！}
 
 #{275}{}{This has been a wonderful talk, but I am falling behind in my praises. Farewell. Praise the Master! Praise the Holy Flame! Let us sing the sacred songs.. }
 {275}{}{这次谈话非常有意义，但我的赞美已经落后于进度了。再见。赞美主教！赞美圣火！让我们来唱一些圣歌吧……}
@@ -553,7 +553,7 @@
 {285}{}{恐怕我不能帮助你。嗯，我现在必须冥想关于主教的光辉业绩了。请原谅。向主教致敬！赞美圣火！}
 
 #{286}{}{Everyone here is filled with love! But it's hard for some people to express their love, and the Nightkin find it extremely hard to express it. But you shall discover this on your own. Praise the Master! Praise the Holy Flame! }
-{286}{}{这里的每个人都充满了爱！但对于某些人来说，表达出爱是非常困难的，而隐形人表达爱是尤其困难的。但你应该自己去发现这些。赞美主教！赞美圣火！}
+{286}{}{这里的每个人都充满了爱！但对于某些人来说，表达出爱是非常困难的，而夜行团表达爱是尤其困难的。但你应该自己去发现这些。赞美主教！赞美圣火！}
 
 #{287}{}{We must submit to the Master and the Holy Flame. When we have proven ourselves, we shall become baptized and closer to God. When all have been baptized, we shall be as one, a Unity under the Master! }
 {287}{}{我们必须把自己的一切献给主教和圣火。当我们证明了我们自己之后，我们将得到洗礼，更加接近神。当所有人都接受洗礼之后，我们将成为了一个人，主教的联合军！}

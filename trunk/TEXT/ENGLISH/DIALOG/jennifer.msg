@@ -393,7 +393,7 @@
 
 #{209}{}{Where do you want to go for our honeymoon? I hear
 # the Children of the Cathedral have a beautiful place.}
-{209}{}{蜜月你想去哪里？听说教堂之子那里很漂亮。}
+{209}{}{蜜月你想去哪里？听说大教堂教徒那里很漂亮。}
 
 #{210}{}{My parents are still waiting to meet you.}
 {210}{}{我爸妈还等着见你呢。}

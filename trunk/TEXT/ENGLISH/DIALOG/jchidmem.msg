@@ -70,7 +70,7 @@
 {122}{}{谢谢，我的孩子，那我们开始治疗吧。}
 
 #{123}{}{There you go. Peace and blessings of the Children with you.}
-{123}{}{好了。愿教堂之子的和平和祝福永远伴随你。}
+{123}{}{好了。愿大教堂教徒的和平和祝福永远伴随你。}
 
 #{124}{}{You do not have enough money. If you donate all you can, we
 # will heal you. Is this acceptable?}
@@ -98,7 +98,7 @@
 #{131}{}{We are the Children of the Cathedral. We live and work amongst those
 # unfortunates living in the wasteland. If you ever get to the Boneyard,
 # stop by the cathedral.}
-{131}{}{我们是教堂之子。我们和废土上受难的人们一起生活和奋斗。如果你到了晒骨场，可以去教堂参观一下。}
+{131}{}{我们是大教堂教徒。我们和废土上受难的人们一起生活和奋斗。如果你到了晒骨场，可以去教堂参观一下。}
 
 #{132}{}{Thank you.}
 {132}{}{谢谢。}

@@ -1,5 +1,5 @@
 #{100}{}{You see a chanter from the Children}
-{100}{}{你看到了教堂之子的吟诵者}
+{100}{}{你看到了大教堂教徒的吟诵者}
 
 #{101}{}{The Master will forgive your sins! Join us and be free! Praise to the Master and his mercy!}
 {101}{}{主教会赦免你们的罪！加入我们，获得自由吧！赞美主教和他的仁慈！}

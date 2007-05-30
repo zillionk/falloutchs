@@ -56,7 +56,7 @@
 {118}{}{可惜，我们只能在白天搜查这里。}
 
 #{119}{}{We must be wary of the Nightkin, for they search during the darkened hours.}
-{119}{}{要让隐形人们精神点，他们负责夜间搜查。}
+{119}{}{要让夜行团们精神点，他们负责夜间搜查。}
 
 #{120}{}{May you live in interesting times!}
 {120}{}{你还以为现在是探险时代啊！}
