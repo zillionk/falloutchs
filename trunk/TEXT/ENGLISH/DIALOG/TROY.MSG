@@ -61,6 +61,6 @@
 #{130}{}{Forget it.}
 {130}{}{别在意。}
 #{131}{}{Don't push me, pal. I'm still trying to think of a good smartass comeback . . .}
-{131}{}{别逼我，伙计。我正打算牛逼哄哄地回来呢……}
+{131}{}{别逼我，伙计。我正打算牛皮哄哄地回来呢……}
 #{132}{}{The mutant ignores you.}
 {132}{}{这个变种人不理你。}
