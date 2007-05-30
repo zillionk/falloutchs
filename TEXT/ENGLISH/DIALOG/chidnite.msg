@@ -1,5 +1,5 @@
 #{100}{}{You see before you a Nightkin.}
-{100}{}{你看见一名隐形人成员。}
+{100}{}{你看见一名夜行团成员。}
 
 #{101}{}{Die!}
 {101}{}{死！}
@@ -28,7 +28,7 @@
 {108}{}{好吧，我走。}
 
 #{109}{}{It is unwise to play games with the Nightkin. Get out of here!}
-{109}{}{和我们隐形人斗嘴可不是好玩的，快滚！}
+{109}{}{和我们夜行团斗嘴可不是好玩的，快滚！}
 
 #{110}{}{I do not think so.}
 {110}{}{我倒不觉得。}
@@ -37,7 +37,7 @@
 {111}{}{那就让你死得痛快！}
 
 #{112}{}{Do you not listen? It is unwise to ignore the Nightkin.}
-{112}{}{你没听见吗！藐视隐形人是很不明智的。}
+{112}{}{你没听见吗！藐视夜行团是很不明智的。}
 
 #{113}{}{I must talk with you. It's urgent!}
 {113}{}{我有事要和你说，是急事！}

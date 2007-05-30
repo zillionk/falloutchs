@@ -1,5 +1,5 @@
 #{100}{}{You see a scout for the Nightkin.}
-{100}{}{你看见一个隐形人侦察兵。}
+{100}{}{你看见一个夜行团侦察兵。}
 #{101}{}{What have we here? A normal. I think you will come with me.}
 {101}{}{我们这儿有什么？一个正常人。我认为你会和我走的。}
 #{102}{}{Nu.}

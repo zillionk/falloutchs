@@ -65,7 +65,7 @@
 {121}{}{“我们”？这究竟是末世论者的想法呢，还是只是你的一相情愿？}
 
 #{122}{Nic_7}{Call it instinct. We've seen Morpheus and the Nightkin and they don't look like peace makers to us. Their hospitals and message of peace make them attractive, but we know there's evil there.}
-{122}{Nic_7}{称其为本能吧。我们已经见过了墨菲斯和隐形人，还有他们在我们看来并不像和平主义者。他们的医院和和平信条使得他们有吸引力，但我们知道那是个邪恶之处。}
+{122}{Nic_7}{称其为本能吧。我们已经见过了墨菲斯和夜行团，还有他们在我们看来并不像和平主义者。他们的医院和和平信条使得他们有吸引力，但我们知道那是个邪恶之处。}
 
 #{123}{}{Don't you think you're being a little bit paranoid?}
 {123}{}{你不认为自己有点太过偏激了吗？}
@@ -254,7 +254,7 @@
 {184}{}{好的，谢谢。我得走了。}
 
 #{185}{Nic_28}{A number of our spies have seen Nightkin coming in and out of the back room of the Children's temple. Something important is back there.}
-{185}{Nic_28}{我们的间谍见到隐形人在教堂的密室进进出出。有些重要的东西在那里。}
+{185}{Nic_28}{我们的间谍见到夜行团在教堂的密室进进出出。有些重要的东西在那里。}
 
 #{186}{}{Well, I'll report back anything I hear.}
 {186}{}{好的，我打听到什么会回来报告的。}
@@ -401,19 +401,19 @@
 {233}{}{墨菲斯并不是教徒的领袖，事实上主教才是。}
 
 #{234}{}{You know the Nightkin?}
-{234}{}{你知道隐形人吗？}
+{234}{}{你知道夜行团吗？}
 
 #{235}{Nic_45}{Wait a s...the Dark God? You're not telling me he's real.}
 {235}{Nic_45}{等一下……黑暗上帝？别跟我说他真的存在。}
 
 #{236}{}{Oh, he's real all right, just not a god. He's a mutant who wants to make everyone a Nightkin, for their own good.}
-{236}{}{哦，他真的存在，只是不是神。他是为了他们自己的利益，想把所有人都变成隐形人的变种人。}
+{236}{}{哦，他真的存在，只是不是神。他是为了他们自己的利益，想把所有人都变成夜行团的变种人。}
 
 #{237}{}{Yes, he is! You should fear the all-mighty Dark God!}
 {237}{}{是的，就是他！您应该恐惧的具有强大势力的黑暗上帝！}
 
 #{238}{Nic_46}{What do the Nightkin have to do with this?}
-{238}{Nic_46}{隐形人和这事有什么关系？}
+{238}{Nic_46}{夜行团和这事有什么关系？}
 
 #{239}{}{They're actually a race of super mutants. The Master is their leader.}
 {239}{}{他们实际上是个超级变种人种族。主教是他们的领袖。}
@@ -422,10 +422,10 @@
 {240}{Nic_47}{他们计划做什么？}
 
 #{241}{}{The Master wants to make everyone a Nightkin. He thinks they're superior, and he thinks that turning everyone into them will save humanity!}
-{241}{}{主教想把每个人都变成隐形人。他认为他们更高等，而且他认为将人转化后才能保存人性！}
+{241}{}{主教想把每个人都变成夜行团。他认为他们更高等，而且他认为将人转化后才能保存人性！}
 
 #{242}{}{I'm not sure. I just know that the Master is turning people into Nightkin.}
-{242}{}{我不确定。我只知道主教正在将人变成隐形人。}
+{242}{}{我不确定。我只知道主教正在将人变成夜行团。}
 
 #{243}{Nic_49}{What should we do?}
 {243}{Nic_49}{我们应该做什么？}
@@ -497,7 +497,7 @@
 {265}{Nic_63}{你很幽默感。等你会认真的说话之后再回来。}
 
 #{266}{}{Sorry, it was just a joke. It has to do with the Nightkin.}
-{266}{}{抱歉，那只是个玩笑。它只与隐形人有关。}
+{266}{}{抱歉，那只是个玩笑。它只与夜行团有关。}
 
 #{267}{Nic_65a}{So you're a mercenary. Fine, I'll give you 100 caps.}
 {267}{Nic_65a}{因此说你是惟利是图的了。很好，我将给你１００个瓶盖。}
@@ -512,10 +512,10 @@
 {270}{}{墨菲斯并不是教徒的领袖，事实上主教才是。}
 
 #{271}{}{You know the Nightkin?}
-{271}{}{你知道隐形人吗？}
+{271}{}{你知道夜行团吗？}
 
 #{272}{}{The Children are controlled by space aliens.}
-{272}{}{教徒是由教堂之子控制的。}
+{272}{}{教徒是由大教堂教徒控制的。}
 
 #{273}{Nic_67}{Good luck. Now we've got to examine our options.}
 {273}{Nic_67}{祝好运。现在我们再核对一下计划。}

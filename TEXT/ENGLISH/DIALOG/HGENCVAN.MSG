@@ -2,7 +2,7 @@
 # Tone of voice similar to truck drivers of California-- rough and partially
 # harsh.
 
-{100}{}{你看见一个商队的司机。}
+{100}{}{你看见一个商队的车夫。}
 {101}{}{今天将会是漫长的一天！}
 {102}{}{我今天实在不想干活儿。}
 {103}{}{希望我们不会遭到袭击，或者更糟。}

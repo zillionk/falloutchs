@@ -171,7 +171,7 @@
 
 #{178}{laura31}{Believe me, if you've seen the Nightkin,
 # you'd know why. Unless you're stupid.}
-{178}{laura31}{相信我，如果你看到“隐形人”，你就知道为什么我不敢跟了。除非你是笨蛋。}
+{178}{laura31}{相信我，如果你看到“夜行团”，你就知道为什么我不敢跟了。除非你是笨蛋。}
 
 #{179}{}{Maybe I am, but I'm not scared.}
 {179}{}{也许我笨，但我不会害怕。}
@@ -388,7 +388,7 @@
 
 #{263}{laura53}{For one thing, people seem to disappear a lot
 # around here, while the number of Nightkin are slowly growing.}
-{263}{laura53}{想通这一点就会明白的：附近的人失踪了很多。同时“隐形人”的数量在大大增加。}
+{263}{laura53}{想通这一点就会明白的：附近的人失踪了很多。同时“夜行团”的数量在大大增加。}
 
 #{264}{}{Why?}
 {264}{}{为什么？}
@@ -567,7 +567,7 @@
 {332}{}{啊是的，主教，他是这些傻瓜崇拜的神。就我个人来说，我不认为他是个神，只是操控人群的某个人。}
 
 #{333}{}{Nightkin? I don't know what you're talking about.}
-{333}{}{隐形人？我不知道你在说什么。}
+{333}{}{夜行团？我不知道你在说什么。}
 
 #{334}{}{They're the big, ugly enforcers of the Master
 # and Morpheus.}
@@ -668,7 +668,7 @@
 {1104}{laura79}{哦，我不能形容他。墨菲斯领导我们。能帮你答疑解惑。}
 
 #{1105}{laura80}{Nightkin? I don't know what you're talking about.}
-{1105}{laura80}{隐形人？我不知道你在说什么。}
+{1105}{laura80}{夜行团？我不知道你在说什么。}
 
 #{1106}{laura81}{The what?}
 {1106}{laura81}{什么？}
@@ -693,5 +693,5 @@
 {1112}{laura81}{什么？}
 
 #{1113}{laura80}{Nightkin? I don't know what you're talking about.}
-{1113}{laura80}{隐形人？我不知道你在说什么。}
+{1113}{laura80}{夜行团？我不知道你在说什么。}
 

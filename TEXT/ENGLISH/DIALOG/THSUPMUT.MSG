@@ -1,23 +1,23 @@
 #{100}{}{You see Therax, a Thinker Nightkin.}
-{100}{}{你看到了瑟拉克斯，一个隐形人智者。}
+{100}{}{你看到了瑟拉克斯，一个夜行团智者。}
 #{101}{}{You see Justin, a Thinker Nightkin.}
-{101}{}{你看到了贾斯汀，一个隐形人智者。}
+{101}{}{你看到了贾斯汀，一个夜行团智者。}
 #{102}{}{You see Sereine, a Thinker Nightkin.}
-{102}{}{你看到了希芮尼，一个隐形人智者。}
+{102}{}{你看到了希芮尼，一个夜行团智者。}
 #{103}{}{You see Dolkarn, a Thinker Nightkin.}
-{103}{}{你看到了杜卡恩，一个隐形人智者。}
+{103}{}{你看到了杜卡恩，一个夜行团智者。}
 #{104}{}{You see Hort, a Thinker Nightkin.}
-{104}{}{你看到了浩尔特，一个隐形人智者。}
+{104}{}{你看到了浩尔特，一个夜行团智者。}
 #{105}{}{You see Chris, a Thinker Nightkin.}
-{105}{}{你看到了查尔斯，一个隐形人智者。}
+{105}{}{你看到了查尔斯，一个夜行团智者。}
 #{106}{}{You see Jaunita, a Thinker Nightkin.}
-{106}{}{你看到了雅尼塔，一个隐形人智者。}
+{106}{}{你看到了雅尼塔，一个夜行团智者。}
 #{107}{}{You see Lesley, a Thinker Nightkin.}
-{107}{}{你看到了莱斯里，一个隐形人智者。}
+{107}{}{你看到了莱斯里，一个夜行团智者。}
 #{108}{}{You see Renfield, a Thinker Nightkin.}
-{108}{}{你看到了瑞恩费德，一个隐形人智者。}
+{108}{}{你看到了瑞恩费德，一个夜行团智者。}
 #{109}{}{You see Timothy, a Thinker Nightkin.}
-{109}{}{你看到了汤姆士，一个隐形人智者。}
+{109}{}{你看到了汤姆士，一个夜行团智者。}
 #{110}{}{Welcome Oh Punt One. You are just in time to help us.}
 {110}{}{欢迎新人。我们正需要你的帮助。}
 #{111}{}{Huh?}

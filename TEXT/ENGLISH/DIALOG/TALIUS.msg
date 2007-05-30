@@ -110,7 +110,7 @@
 
 #{135}{}{Once, I was as you are. But, through the interaction of the Nightkin
 # in Necropolis, I was thrust into this state.}
-{135}{}{曾经，我和你是一样的。但是，隐形人和大墓地使我变成了如今的情形。}
+{135}{}{曾经，我和你是一样的。但是，夜行团和大墓地使我变成了如今的情形。}
 
 #{136}{}{That's awful. But, tough luck. See you around.}
 {136}{}{真是可怕。运气糟透了。再见。}
@@ -340,7 +340,7 @@
 
 #{203}{}{All I know of the Children is that they are in league with these
 # Nightkin, super mutants.}
-{203}{}{我只知道全部大教堂教徒与隐形人和超级变种人是同盟。}
+{203}{}{我只知道全部大教堂教徒与夜行团和超级变种人是同盟。}
 
 #{204}{}{It is they who transformed me from my original state of being in Necropolis.}
 {204}{}{是他们在大墓地把我变成现在这个样子。}
@@ -370,7 +370,7 @@
 #{212}{}{Those whom the Followers and Children call Nightkin are not what they
 # seem. They have been created by one called the Lieutenant. I believe he may
 # follow another.}
-{212}{}{那些隐形人似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。我相信他或许追随另一个人。}
+{212}{}{那些夜行团似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。我相信他或许追随另一个人。}
 
 #{213}{}{Some information. Well, I will be off.}
 {213}{}{不错的信息。我要走了。}
@@ -408,7 +408,7 @@
 
 #{223}{}{Once, I was as you are now - a pure human. But, through the intervention
 # of Nightkin, I was taken to some place far removed from here.}
-{223}{}{曾经，我和你是一样的纯种人类，但是在隐形人的干预，我被带到某个很远的地方。}
+{223}{}{曾经，我和你是一样的纯种人类，但是在夜行团的干预，我被带到某个很远的地方。}
 
 #{224}{}{Please, continue.}
 {224}{}{请继续。}

@@ -119,11 +119,11 @@
 #{160}{}{Just take a look and see what's busted first.}
 {160}{}{尽管试试看是什么先坏掉。}
 #{161}{}{Nightkin prefer to do that. I give them drugs sometimes. Nobody pays attention to Doctor Wu. They're all assholes! Now, you wanna get fixed up?}
-{161}{}{隐形人很喜欢这么做。有时我给他们毒品。没人注意到吴医生。他们都是混蛋！现在，你还想医好吗？}
+{161}{}{夜行团很喜欢这么做。有时我给他们毒品。没人注意到吴医生。他们都是混蛋！现在，你还想医好吗？}
 #{162}{}{Patch it, doc!}
 {162}{}{贴上它，医生！}
 #{163}{}{If the Nightkin don't trust you, neither do I. I'm outta here.}
-{163}{}{如果隐形人不相信你，我也一样。我要走了。}
+{163}{}{如果夜行团不相信你，我也一样。我要走了。}
 #{164}{}{Idiot! Cathedral very busy! Unity keeps Doctor Wu very busy! Now, you wanna get fixed up?}
 {164}{}{笨蛋！大教堂很忙！团队使吴医生非常忙！现在你还想医好吗？}
 #{165}{}{Now comes the fun part!}

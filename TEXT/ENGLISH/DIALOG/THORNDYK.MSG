@@ -281,7 +281,7 @@
 {193}{}{让我把这搞清楚。你在为一个计划着战争和破坏的宗教服务，并且你对此并无质疑？你真是个傻瓜！}
  
 #{194}{}{The old world was filled with evil and decadence. The Holy Flame destroyed it. We can either fear the Holy Flame, or worship it and attempt to understand it. The Children have chosen understanding. Although we do not wish to see the Holy Flame unleashed again.}
-{194}{}{旧世界充满着颓废和邪恶。圣焰将它破坏了。我们可以对此心怀恐惧，也可以报以尊敬的态度并试着对其有所了解。教堂之子们选择了去了解。尽管我们并不希望圣焰再次释放。}
+{194}{}{旧世界充满着颓废和邪恶。圣焰将它破坏了。我们可以对此心怀恐惧，也可以报以尊敬的态度并试着对其有所了解。大教堂教徒们选择了去了解。尽管我们并不希望圣焰再次释放。}
  
 #{195}{}{How do you know what the old world was like?}
 {195}{}{你怎么知道过去的世界是个什么样子？}

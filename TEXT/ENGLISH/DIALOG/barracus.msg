@@ -121,7 +121,7 @@
 #{160}{}{It's not healthy to ask the wrong question, compadre. They have all the answers they want you to hear. People who ask the wrong questions, or people who screw up, well, they don't stay around here very long.}
 {160}{}{兄弟，别问错问题。他们只告诉你他们想说的事。问错问题的人，惹麻烦的人，嗯，他们在这里都呆不长。}
 #{161}{}{I do my job. They like it when I do my job. They like it when street trash and Followers stop breathing. It lets the Nightkin do other things. Don't mess with me . . . it ain't healthy.}
-{161}{}{我做我的事。他们喜欢我做事。他们喜欢街上到处是垃圾，末世论者干个没完。这让隐形人能去做别的事。别把我扯进去……这不好。}
+{161}{}{我做我的事。他们喜欢我做事。他们喜欢街上到处是垃圾，末世论者干个没完。这让夜行团能去做别的事。别把我扯进去……这不好。}
 #{162}{}{What are you doing dressed like a zombie? If you got the 'tude, you gotta let it show!}
 {162}{}{你穿得像个僵尸干什么？如果你有礼貌，你得把它表示出来！}
 #{163}{}{I don't care about the clothes, man. I just want to know what's going on here!}
@@ -135,7 +135,7 @@
 #{167}{}{It ain't 'tude. It's a way of death.}
 {167}{}{这不是你的礼貌. 这是想找死。}
 #{168}{}{We don't drink in here. Nightkin don't like it. You better get a few more clues before you talk to Ton again.}
-{168}{}{我们在这里不喝酒。隐形人不喜欢。你最好在和唐谈话前找到更多的线索。}
+{168}{}{我们在这里不喝酒。夜行团不喜欢。你最好在和唐谈话前找到更多的线索。}
 #{169}{}{You're crazy! I could almost like you, except that I have the feeling that people who hang around you don't live long. Get the hell out of here.}
 {169}{}{你疯了！我差不多喜欢你了，不过我感觉和你扯上关系的人都活不长。快给我出去。}
 #{170}{}{You stand around this for months and you go crazy as them. What do you want from Ton?}
@@ -253,7 +253,7 @@
 #{226}{}{Who the hell knows? Maybe it's just Morpheus pulling the strings. Things are good, and if this dries up, Ton goes somewhere else.}
 {226}{}{谁他妈知道？也许只是墨菲斯在拉绳子。情况还不错，要是这里不行了，唐就到别的地方去。}
 #{227}{}{Well, don't get too eager. Even with the Nightkin, it's still tough fighting. But if we play it smart, we get out ahead. That's the only thing Ton cares about.}
-{227}{}{好了，别太激动。就算是和隐形人, 那也是很困难的战斗。但是如果我们干得聪明，我们就能搞定。那是唐唯一关心的事。}
+{227}{}{好了，别太激动。就算是和夜行团, 那也是很困难的战斗。但是如果我们干得聪明，我们就能搞定。那是唐唯一关心的事。}
 #{228}{}{The conversion isn't easy. You see these people, all these zombies? They used to be like you and me. Ton survived. These people didn't. But why should Ton care about you?}
 {228}{}{昄依并不简单。你看见这些人了，这些僵尸?他们以前就和你我一样。唐幸免了。这些人没有。不过我为什么要管你呢？}
 #{229}{}{You don't like the way Ton talk? Then Ton kill you!}
