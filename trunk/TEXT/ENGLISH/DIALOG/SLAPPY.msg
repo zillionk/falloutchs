@@ -47,7 +47,7 @@
 {115}{}{啊。}
 
 #{116}{}{Deathclaw, Deathclaw, Dah Dah Deathclaw.}
-{116}{}{死亡爪，死亡爪，死死死亡爪}
+{116}{}{死亡爪，死亡爪，死死死亡爪。}
 
 #{117}{}{Come on, what do you know about the Deathclaw?}
 {117}{}{告诉我，你知道哪些关于死亡爪的事情？}
@@ -89,7 +89,7 @@
 {129}{}{闭嘴，带我去那。}
 
 #{130}{}{Ah, nevermind.  You take care, now.}
-{130}{}{啊，别在意。你先在要当心了。}
+{130}{}{啊，别在意。你现在要当心了。}
 
 #{131}{}{I do this, then I do that.  You see Harold?  Harold's fun, his hair falls out, falls in the wind.  There it goes... wind, wind.}
 {131}{}{我做这个，然后我做那个。你看见哈罗德了？哈罗德很滑稽，他的头发掉光了，随风而去了。它门飞了……风，风。}

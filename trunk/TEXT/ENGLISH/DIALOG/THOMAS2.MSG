@@ -29,7 +29,7 @@
 {109}{}{我没时间做这个。}
 
 #{110}{}{What? Do I look like requisition man? If you don't even know who I am, why are you bothering me? Please leave!}
-{110}{}{什么？我看起来像是被征用的人么？如果你连我是谁都不知道，那你还来打搅我干啥？快走开！}
+{110}{}{什么？我看起来像是被征用的人吗？如果你连我是谁都不知道，那你还来打搅我干什么？快走开！}
 
 #{111}{}{Damn it }
 {111}{}{见鬼}
@@ -71,7 +71,7 @@
 {125}{}{我在寻思着我为什么不把你从我房间里扔出去，但我是个和蔼可亲的老人。元老们说过现在不再有新兵训练了，但是……我或许有法子帮助你。他们这么说的时候或许没考虑到你。你在寻找什么样的训练？}
 
 #{126}{}{Why hello again. Nice to see you. Don't be shy, I don't sleep very much anymore. Are you looking for some more training? What shall it be today...I mean tonight.}
-{126}{}{哎呀又见面了，很高兴遇到你。别畏畏缩缩的，我再不怎么睡觉了。你在寻找更多的训练内容么？今天会是什么呢……我的意思是今晚。}
+{126}{}{哎呀又见面了，很高兴遇到你。别畏畏缩缩的，我再不怎么睡觉了。你在寻找更多的训练内容吗？今天会是什么呢……我的意思是今晚。}
 
 #{127}{}{I knew you would be back! What're you in the mood for tonight?}
 {127}{}{我就知道你会回来的！今晚意下如何？}
@@ -113,7 +113,7 @@
 {140}{}{恩？哦，我料想你会寻求更多训练。反正我再也不怎么睡觉了，为什么不呢。你想怎么样？}
  
 #{141}{}{Now what? More stupid questions?}
-{141}{}{现在又怎么了？更多的蠢问题么？}
+{141}{}{现在又怎么了？更多的蠢问题吗？}
 
 #{142}{}{Oh, that's all right. As I said, I hardly ever sleep. Come back anytime.}
 {142}{}{哦，这都没关系。就像我说的那样，我几乎不睡觉了。随便什么时候再来都可以。}

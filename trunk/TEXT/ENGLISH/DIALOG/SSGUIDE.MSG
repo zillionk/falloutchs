@@ -94,7 +94,7 @@
 {126}{}{如果我受伤了，该去哪里治疗？}
 
 #{127}{}{Where can I get some better equipment?}
-{127}{}{我在哪里能找到好些的装备？}
+{127}{}{我在哪里能找到好一点的装备？}
 
 #{128}{}{Tell me about this place.}
 {128}{}{给我介绍下这个地方。}
@@ -127,7 +127,7 @@
 # world.  We just want to be left alone.  Besides some mutated animals
 # and other creatures of the desert, only the Raiders give us trouble.
 # Aradesh is our leader.  He is in the large central house, speak to him.}
-{135}{}{你脚下的土地是沙荫镇。我们仅仅是这广大世界中的一个小镇。我们不想引起别人的注意，除了一些变种的动物和其他沙漠上的生物以外，只有强盗给我们带来麻烦。亚拉德什是我们的镇长。他在城镇中间的大房子里，你可以和他谈。}
+{135}{}{你脚下的土地是沙荫镇。我们仅仅是这广大世界中的一个小镇。我们不想引起别人的注意，除了一些变种的动物和其他沙漠上的生物以外，只有歹徒给我们带来麻烦。亚拉德什是我们的镇长。他在城镇中间的大房子里，你可以和他谈。}
 
 #{136}{}{I know very little of the outside world.  I escaped from a Vault when
 # it was attacked.  Unfortunately, I was very hurt and do not remember
@@ -162,13 +162,13 @@
 #{140}{}{It was Vault-15.  It is due east of here.  We tried to make contact
 # with some other Vaults, but we always failed.  I think it was the
 # raiders who attacked my fellow dwellers.  Be careful!}
-{140}{}{那是１５号避难所。它就在正东方。我们尝试联络其他的避难所，但总是失败。我认为是强盗攻击了居住在那里的同胞。所以你要小心点！}
+{140}{}{那是１５号避难所。它就在正东方。我们尝试联络其他的避难所，但总是失败。我认为是歹徒攻击了居住在那里的同胞。所以你要小心点！}
 
 #{141}{}{I hope you find her.  She is like a little sister to me.  I think it
 # was one of the raider groups who took her.  Find out as much information
 # about them as you can and equip yourself before you go after them. But don't
 # be so quick to fight, even they will sometimes listen to reason...}
-{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙强盗把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理……}
+{141}{}{我希望你能找到她。她就像我的妹妹一样。我认为是一伙歹徒把她抓走了。你最好先打探消息，同时准备好你的装备以便追踪他们，但不要急于战斗，即使是他们，有时候也会讲点道理……}
 
 #{142}{}{Seth has been trying to follow the radscorpions.  He claims that he
 # even knows the way to their lair, but I think he is a little scared

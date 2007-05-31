@@ -70,7 +70,7 @@
 #{137}{}{Hmm. Well, stranger, I work for Gizmo. He's the owner of that great
 # casino there. Pays good money to fighters here, too! What else do you want to
 # know?}
- {137}{}{嗯，好的，陌生人，我为吉斯莫工作。他是那儿的大赌场的拥有者。他也付给这儿的拳手好报酬！你还想知道什么？}
+ {137}{}{嗯，好的，陌生人，我为吉斯莫工作。他是那个大赌场的拥有者。他也付给这儿的拳手好报酬！你还想知道什么？}
 #{138}{}{What is there to do here?}
 {138}{}{那人在这儿都干什么呢？}
 #{139}{}{Can you tell me a bit about Gizmo and that casino?}
@@ -93,14 +93,14 @@
 # store, off southeast of here. You can also get a night's sleep at the Crash
 # House near here. If you are planning to stay a while, you might want to get
 # a drink over at the Skum Pitt, but watch out for the Skulz.}
-{145}{}{如果你只是在找补给，你应该去基利安·达克武特的店，这儿东南边的远处。你也能在这儿附近的破屋区睡上一晚。如果你准备待一阵子的话，你该想去对面的萨姆·匹特的酒吧喝上一杯，但是留神骷髅党。}
+{145}{}{如果你只是在找补给，你应该去基利安·达克沃特的店，这儿东南边的远处。你也能在这儿附近的破屋区睡上一晚。如果你准备待一阵子的话，你该想去对面的萨姆·匹特的酒吧喝上一杯，但是留神骷髅党。}
 #{146}{}{Who're the Skulz?}
 {146}{}{骷髅党是哪路神仙？}
 #{147}{}{So, tell me more about the casino.}
 {147}{}{那么，再告诉我一些关于赌场的事。}
 #{148}{}{Gizmo's casino is where everybody goes to gamble. There are many games
 # and you can have a great time! It's the best place this side of the Hub!}
- {148}{}{吉斯莫的赌场是每个人都跑去赌博的地方。那儿有许多游戏，你能玩得很爽！那是哈勃城这边的最好的地方了。}
+ {148}{}{吉斯莫的赌场是每个人都跑去赌博的地方。那儿有许多游戏，你能玩得很爽！那是除了哈勃城这边的最好的地方了。}
 #{149}{}{What else is there to do around here?}
 {149}{}{那个人还在这附近做什么呢？}
 #{150}{}{My brother James was killed in a raider attack a few years ago. Shortly
@@ -142,7 +142,7 @@
 {165}{}{闲谈受益匪浅。别处见。}
 #{166}{}{The Skulz are a bad bunch who hang out in the back of the Crash House and
 # at the Skum Pitt. Watch out for them; they like playing with knives.}
- {166}{}{骷髅党是一帮在迦克镇破屋区后边和萨姆·匹特的酒吧游荡的坏蛋。留神他们；他们喜欢玩弄刀子。}
+ {166}{}{骷髅党是一帮在迦克镇破屋区后边和萨姆·匹特酒吧游荡的坏蛋。留神他们；他们喜欢玩弄刀子。}
 #{167}{}{Thanks for the tip. I'll watch my step.}
 {167}{}{感谢你的提示。我会当心自己的脚步。}
 #{168}{}{I see. Anything else you can tell me about?}

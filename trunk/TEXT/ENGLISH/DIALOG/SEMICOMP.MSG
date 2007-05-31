@@ -10,7 +10,7 @@
 {103}{}{这台电脑正在发出不可思议的嗡嗡噪声。}
 #{104}{}{A monitor connected to this computer is printing the word
 # 'System failure.' over and over.}
-{104}{}{一台连接到这台电脑的监视器正在反复地显示着文字“系统故障。”。}
+{104}{}{一台连接到这台电脑的监视器正在反复地显示着文字“系统故障”。}
 #{105}{}{This computer appears to have been attacked by a ghoul.}
 {105}{}{这台电脑看来曾被一个僵尸攻击。}
 #{106}{}{Lights are flashing on this computer but it seems random to you.}

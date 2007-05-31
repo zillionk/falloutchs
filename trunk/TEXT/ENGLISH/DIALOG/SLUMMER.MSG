@@ -5,7 +5,7 @@
 {101}{}{你犯下了许多罪孽。我将会为你祈祷，赎还你犯的罪孽。}
 
 #{102}{}{Hail the Master! Hail the Holy Flame! Hail Peace and Unity! }
-{102}{}{向主教致敬！向圣火致敬！向和平统一致敬！}
+{102}{}{向主教致敬！向圣火致敬！向和平“同一”致敬！}
 
 #{103}{}{Hello my child. Why do you hold a weapon? Perhaps you need instruction in the ways of peace? }
 {103}{}{你好，我的孩子。你为什么拿着武器？也许你需要接受些关于和平的启示？}
@@ -35,7 +35,7 @@
 {111}{}{你好。天气不错呀，不是吗？}
 
 #{112}{}{Yeah, but there's a storm brewing. The enemies of the Cathedral are everywhere. What rumors have you heard? }
-{112}{}{是的，不过有一场风暴正在酝酿中。圣童教的敌人遍布各处。你听到什么传闻了吗？}
+{112}{}{是的，不过有一场风暴正在酝酿中。教徒的敌人遍布各处。你听到什么传闻了吗？}
 
 #{113}{}{I've seen better. Who's in charge here? }
 {113}{}{我比你知道得清楚。谁是这里的负责人？}
@@ -80,10 +80,10 @@
 {126}{}{武器？}
 
 #{127}{}{Hello stranger. Forgive me, but you should not draw your weapon in the Cathedral. }
-{127}{}{你好，陌生人。请原谅我的冒昧，但在圣堂之中你不能拿出武器。}
+{127}{}{你好，陌生人。请原谅我的冒昧，但在大教堂之中你不能拿出武器。}
 
 #{128}{}{I have brought my gun into the service of the Cathedral and its Master. Do you have a problem with this? }
-{128}{}{我和我的枪是来为大教堂教徒和主教提供服务的。你还有问题吗？}
+{128}{}{我和我的枪是来为大教堂和主教提供服务的。你还有问题吗？}
 
 #{129}{}{Thanks. I'll be sure to remember that. }
 {129}{}{谢谢。我会记住的。}
@@ -101,7 +101,7 @@
 {133}{}{你好，陌生人。如果你是来这里赎罪的话，我们欢迎你，但我建议你最好不要拿着武器。}
 
 #{134}{}{I have brought my gun into the service of the Cathedral and its Master. Do you have a problem with this? }
-{134}{}{我和我的枪是来为大教堂教徒和主教提供服务的。你还有问题吗？}
+{134}{}{我和我的枪是来为大教堂和主教提供服务的。你还有问题吗？}
 
 #{135}{}{Sure. Redeemed. Sounds good. }
 {135}{}{当然。赎罪。听起来不错。}
@@ -125,7 +125,7 @@
 {141}{}{你好，朋友！真高兴你加入了我们的事业！}
 
 #{142}{}{I haven't yet, though I'm interested. Aside from this Peace and Unity stuff, what are you guys all about? }
-{142}{}{我还没有加入，不过我很感兴趣。先不要提和平统一的事情，告诉我，你们这些人都在做什么？}
+{142}{}{我还没有加入，不过我很感兴趣。先不要提和平“同一”的事情，告诉我，你们这些人都在做什么？}
 
 #{143}{}{It had to happen. Who do I see about the initiation? }
 {143}{}{我会加入的。我该去找谁办理呢？}
@@ -152,7 +152,7 @@
 {150}{}{我在找本地区的负责人。}
 
 #{151}{}{This peace and unity stuff cannot be for real. }
-{151}{}{这些关于和平和统一的事情不可能是真的。}
+{151}{}{这些关于和平和“同一”的事情不可能是真的。}
 
 #{152}{}{Who is this Master guy? }
 {152}{}{这个主教是什么人？}
@@ -170,7 +170,7 @@
 {156}{}{请原谅我，陌生人，但我有我的事情要做。请原谅。}
 
 #{157}{}{Hail the Master! Hail Peace! Hail the Holy Flame! Hail Unity! }
-{157}{}{向主教致敬！向和平致敬！向圣火致敬！向统一致敬！}
+{157}{}{向主教致敬！向和平致敬！向圣火致敬！向“同一”致敬！}
 
 #{158}{}{I can go for the peace part, but why is the Master so important? }
 {158}{}{我明白关于和平的部分，但主教为什么如此重要呢？}
@@ -179,7 +179,7 @@
 {159}{}{我在找本地区的负责人。}
 
 #{160}{}{This peace and unity stuff cannot be for real. }
-{160}{}{这些关于和平和统一的事情不可能是真的。}
+{160}{}{这些关于和平和“同一”的事情不可能是真的。}
 
 #{161}{}{Who is this Master guy? }
 {161}{}{这个主教是什么人？}
@@ -221,7 +221,7 @@
 {174}{}{我相信是这样的。【叹息】}
 
 #{175}{}{What kind of a Cathedral doesn't even have holy wine? }
-{175}{}{圣童教的信徒竟然会没有圣酒？}
+{175}{}{大教堂的信徒竟然会没有圣酒？}
 
 #{176}{}{Fine, so I'll have to kill you when I'm sober. Like now. Die, you son of a bitch! }
 {176}{}{很好，我不得不在清醒的状况下杀死你了。就像现在这样。死吧，你这王八操的！}
@@ -242,10 +242,10 @@
 {181}{}{你来到这里是错的，朋友。这里并不是展示力量的场所，这里是展示和平的场所。}
 
 #{182}{}{I hear that our Crusade goes well. Soon we shall bring Peace and Unity to the Boneyard, and all the surrounding communities  Isn't it great? }
-{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和统一带至晒骨场以及周围的城市。多么伟大的行动啊！}
+{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和“同一”带至晒骨场以及周围的城市。多么伟大的行动啊！}
 
 #{183}{}{Who's next on the list to receive Peace and Unity? }
-{183}{}{下一个获得和平统一的地方是哪里呢？}
+{183}{}{下一个获得和平“同一”的地方是哪里呢？}
 
 #{184}{}{That's rather vague. Have you heard anything else? }
 {184}{}{我不太明白你说的。你听说过其他的什么吗？}
@@ -275,7 +275,7 @@
 {192}{}{抱歉，一周来都很难熬。关于这个地方你能告诉我什么？}
 
 #{193}{}{I am looking for further instruction in the ways of the Cathedral. Who should I see? }
-{193}{}{我想要得到更多的关于圣童教的深远启示。我该去见谁呢？}
+{193}{}{我想要得到更多的关于大教堂的深远启示。我该去见谁呢？}
 
 #{194}{}{I was wondering who's in charge? }
 {194}{}{我想知道谁是这里的负责人？}
@@ -287,7 +287,7 @@
 {196}{}{这附近有什么圣酒吗？}
 
 #{197}{}{I was wondering what you'd look like if some maniac spilt your brains all over this nice Cathedral floor. Let's find out! }
-{197}{}{我看你脑子里是不是生了蛆了？多到可以爬满这个教堂的地板。让我们看看吧！}
+{197}{}{我看你脑子里是不是生了蛆了？多到可以爬满这个大教堂的地板。让我们看看吧！}
 
 #{198}{}{You have a very good sense of humor, my child. Just don't tell jokes to Brother Lasher. }
 {198}{}{你的幽默感很不错，我的孩子。不过千万不要和拉舍尔兄弟说笑话。}
@@ -312,11 +312,12 @@
 
 #{205}{}{I fear you may have had too much sun. I hope you find healing here. Praise the Master! Praise the Holy Flame! }
 {205}{}{恐怕你是晒太阳晒多了。希望你能在这里得到治愈。赞美主教！赞美圣火！}
-{206}{}{你的语言充满了苦大仇深！我为你感到遗憾，我的朋友，但遗憾也可以转变为欢乐。
-去找塔中的墨菲斯神父。他是个非常好的人，能够开启你的心灵，令你重获爱的能力。}
-{207}{}{你以前从来没来到过大教堂吗？这里是属于和平、统一的地方。这里是所有种族
-间的差异都被遗忘的地方，而我们为所有种族的繁荣努力着。在未来，我们祖先所造成的
-灾难和痛苦将永远不复存在！}
+
+#{206}{}{Your words are full of such pain and hate! I pity you, my friend, but pity can be turned to joy. Seek Father Morpheus in the tower. He is a wonderful man, and can open your heart to love again. }
+{206}{}{你的语言充满了苦大仇深！我为你感到遗憾，我的朋友，但遗憾也可以转变为欢乐。去找塔中的墨菲斯神父。他是个非常好的人，能够开启你的心灵，令你重获爱的能力。}
+
+#{207}{}{Have you never been to the Cathedral before? This is a place of Peace and Unity. This is a place where differences are forgotten and we seek a future of unity and prosperity for all. A future where the horrors that our ancestors inflicted on us can never happen again! }
+{207}{}{你以前从来没来到过大教堂吗？这里是属于和平“同一”的地方。这里是所有种族间的差异都被遗忘的地方，而我们为所有种族的繁荣努力着。在未来，我们祖先所造成的灾难和痛苦将永远不复存在！}
 
 #{208}{}{And how do we achieve this perfect Utopia? }
 {208}{}{我们将如何到达这一个乌托邦呢？}
@@ -382,7 +383,7 @@
 {228}{}{嗯，它上膛了吗？}
 
 #{229}{}{I don't know much. The mind of the Master is so great.. I do know that the Children are marching north. We will take control of all of the settlements, and baptize everyone! The baptism will change us and bring us closer to God, so we can have pe#ace and unity, and there will never be war or destruction again! }
-{229}{}{我不知道的太多了。主教的灵魂是如此伟大……但我确实知道圣童在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与同一，从此之后将不会再有战争或是毁灭了！}
+{229}{}{我不知道的太多了。主教的灵魂是如此伟大……但我确实知道教徒在向北移动。我们将占领所有定居点，让所有的人都接受洗礼！洗礼将会改变我们，让我们更接近神，让我们得到和平与“同一”，从此之后将不会再有战争或是毁灭了！}
 
 #{230}{}{And where is the baptismal font? }
 {230}{}{那么洗礼用的圣盘在哪里？}
@@ -400,7 +401,7 @@
 {234}{}{那么我最好在我还有机会的时候多做些毁灭。去死吧，废物！}
 
 #{235}{}{Praise the Master! Peace be with you! Enjoy your stay at the Cathedral. }
-{235}{}{赞美主教！和平与你同在！祝你在教堂过得快乐。}
+{235}{}{赞美主教！和平与你同在！祝你在大教堂过得快乐。}
 
 #{236}{}{This is a sanctuary, where those who wish to build a peaceful future can go, in order to realize their vision. }
 {236}{}{这里是一个圣地，那些想把他们对于和平未来的理想实现的人都可以来到这里。}
@@ -571,16 +572,16 @@
 {291}{}{我认为你们不过是群没趣的僵尸。}
 
 #{292}{}{There's only one Unity for mankind, and that's when we become wormfood. }
-{292}{}{统一的可能性只有一种。而那是在我们都死了之后。}
+{292}{}{“同一”可能性只有一种。而那是在我们都死了之后。}
 
 #{293}{}{We have a right to survive. The ancients tried to survive and keep their freedom, and look at what they did to us! We must not make the same mistakes. Unity is the only solution. It's the only way to save what humanity has become! }
-{293}{}{我们有生存下去的权利。古代人曾经试图自由的生存下去，你看看他们都对我们做了什么！我们不能犯和他们相同的错误。统一是唯一的方案。只有这样才能拯救现已变质的人性！}
+{293}{}{我们有生存下去的权利。古代人曾经试图自由的生存下去，你看看他们都对我们做了什么！我们不能犯和他们相同的错误。“同一”是唯一的方案。只有这样才能拯救现已变质的人性！}
 
 #{294}{}{What do you mean what humanity has become? We're still perfectly human. }
 {294}{}{你为什么认为人性已经变质了？我们可都还是完整的人类。}
 
 #{295}{}{Perhaps the mistake our ancestors made wasn't lack of unity. Maybe they couldn't leave other people alone. }
-{295}{}{我不认为我们祖先犯下的错误是因为没有统一。也许是因为他们不能容忍和他们不一样的人民。}
+{295}{}{我不认为我们祖先犯下的错误是因为没有“同一”。也许是因为他们不能容忍和他们不一样的人民。}
 
 #{296}{}{I ain't no philosopher, but I know when something's right and something's wrong, and this is wrong. }
 {296}{}{我并不是哲学家，但我能够分辨对错，而这件事是错误的。}
@@ -592,7 +593,7 @@
 {298}{}{人性根本就不值得拯救，你也是一样。去死吧，僵尸！}
 
 #{299}{}{The Master has said that it was lack of Unity, so it must have been. Seek his high priest! Father Morpheus will correct the lies you have been told. }
-{299}{}{主教说那是因为缺少统一，因此一定就是那样。去找他的高级牧师！墨菲斯神父会纠正你所有错误的观念。}
+{299}{}{主教说那是因为缺少“同一”，因此一定就是那样。去找他的高级牧师！墨菲斯神父会纠正你所有错误的观念。}
 
 #{300}{}{We're not zombies! When I was a member of the Fighting Flesh street gang, I was a psychotic fool who did anything that the higher-ups told me to do! Praise to the Master that I am no longer so blind! Oh, praise the Master! Let's praise him togeth#er, shall we? }
 {300}{}{我们并不是僵尸！当我还是街头的帮派成员时，我只是一个神经不正常的蠢货，只会做上级让我做的事情！赞美主教，我现在已经不再那么愚蠢了！哦，赞美主教！让我们一起赞美他吧，好吗？}
@@ -658,7 +659,7 @@
 {320}{}{多么悲哀啊。我会为你祈祷。}
 
 #{321}{}{Unfortunately, I have never been privileged enough to see the baptismal font. Perhaps if I offer enough praise to the Master, I will receive a blessing. Hail the Master! Hail the Holy Flame! Hail Peace and Unity! }
-{321}{}{很不幸，我现在都还没有看到过洗礼盘。也许我赞美主教还不够多，不足以得到他的祝福。向主教致敬！向圣火致敬！向和平和统一致敬！}
+{321}{}{很不幸，我现在都还没有看到过洗礼盘。也许我赞美主教还不够多，不足以得到他的祝福。向主教致敬！向圣火致敬！向和平和“同一”致敬！}
 
 #{322}{}{Of course he won't. He's the Master. He would never do that to his disciples. It is his holy power through baptism, and the Holy Flame, that will transform us. The virus is an evil of the old time, which I'm sure will be cleansed. }
 {322}{}{他当然不会。他是主教。他绝不会做违反他原则的事情。他的神圣力量散布于洗礼之中，而圣火将改变我们。病毒只是古代留下的恶魔，我确信它将会被消灭。}
@@ -679,7 +680,7 @@
 {327}{}{你应当自己找到那个问题的答案。赞美主教！赞美圣火！}
 
 #{328}{}{The baptism will change us all, and bring our physical forms closer to God's own image. When we have all become God, all our differences will disappear, so we can have peace and unity at last, and there will never be war or destruction again! }
-{328}{}{洗礼将改变我们，把我们的身体改变为与神更相似的形态。当我们都成为神的时候，我们的差异将会完全消除，这样我们将会得到最终的和平和统一，从此将不会再有战争和破坏了！}
+{328}{}{洗礼将改变我们，把我们的身体改变为与神更相似的形态。当我们都成为神的时候，我们的差异将会完全消除，这样我们将会得到最终的和平和“同一”，从此将不会再有战争和破坏了！}
 
 #{329}{}{And where is the baptismal font? }
 {329}{}{那么洗礼用的圣盘在哪里？}
@@ -736,7 +737,7 @@
 {346}{}{在这世界上，任何圣贤都敌不过一颗能射进两眼中间的．５６口径子弹！}
 
 #{347}{}{We're forging a world that's better for everyone. That's all. I'm sorry if you don't understand yet. I pray that someone wiser than I can change your mind. Farewell, my friend. Praise the Master! Praise Peace and Unity! }
-{347}{}{我们在为所有的人创造一个更好的世界。那就是全部。我很遗憾你并没有理解。我祈祷会有更智慧的人能够改变你的主意。再见，我的朋友。赞美主教！赞美和平与统一！}
+{347}{}{我们在为所有的人创造一个更好的世界。那就是全部。我很遗憾你并没有理解。我祈祷会有更智慧的人能够改变你的主意。再见，我的朋友。赞美主教！赞美和平与“同一”！}
 
 #{348}{}{The world holds many surprises, my friend, some pleasant, some unpleasant. Farewell, my friend, and praise the Master! }
 {348}{}{世界上有很多让人惊奇的事情，我的朋友，有些是愉快的，有些是不愉快的。再见，我的朋友，赞美主教！}

@@ -108,7 +108,7 @@
 # long ago. Can't tell you much because they have a moat
 # filled with radioactive sludge, and you gotta get through the Deathclaws
 # to get there.}
-{132}{}{不久之前军火商搬到东北方向的一个大工厂去了。我不能告诉你太多，因为他们有一条流淌着放射性泥浆的护城河，而且你必须越过死亡爪的地盘才能到哪里。}
+{132}{}{不久之前军火商搬到东北方向的一个大工厂去了。我不能告诉你太多，因为他们有一条流淌着放射性泥浆的护城河，而且你必须越过死亡爪的地盘才能到那里。}
 
 #{133}{}{The Followers preach peace and tolerance. Nice idea, but
 # impractical. They live in a big library to the north-west of us.}
@@ -118,14 +118,14 @@
 # a ways to the south of here. There are some strange things
 # going on there. I've seen creatures that can't be human
 # coming in and out of there.}
-{134}{}{圣童教的基地在从这里向南一段路的一个大教堂里。那里在进行一些奇怪的事。我看到一些非人类的生物在那里出出进进的。}
+{134}{}{教徒的基地在从这里向南一段路的一个大教堂里。那里在进行一些奇怪的事。我看到一些非人类的生物在那里出出进进的。}
 
 #{135}{}{And if the stories are right, the church is built over
 # an old Vault, which Adytum's predecessors lived in.}
 {135}{}{而且如果传说准确的话，那个教堂是在一座古老的避难所基础上改建的，内城区居民早先就住在那个避难所里。}
 
 #{136}{}{Heya. We see each other once more. What's up?}
-{136}{}{你好，我们又见面了。发生什么啦？}
+{136}{}{你好，我们又见面了。发生什么了？}
 
 #{137}{}{What was your job, again?}
 {137}{}{能再告诉我一次你的工作吗？}

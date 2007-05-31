@@ -23,7 +23,7 @@
 {107}{gizmo_2}{你就用那张嘴亲你老妈的吗？放干净点。}
 
 #{108}{}{You do anything but eat?}
-{108}{}{除了吃之外你还做其他事情么？}
+{108}{}{除了吃之外你还做其他事情吗？}
 
 #{109}{}{You're right, I'm sorry.  So let's talk business.}
 {109}{}{你是对的，我很抱歉。那么让我们谈正事吧。}
@@ -140,7 +140,7 @@
 {145}{}{好的，我走了。}
 
 #{146}{}{You don't order me around, fat boy. You got that?}
-{146}{}{别命令我做这做那的，胖货。听到没有！？}
+{146}{}{别命令我做这做那的，肥猪。听到没有！？}
 
 #{147}{}{And if I don't?}
 {147}{}{那如果我不呢？}
@@ -149,7 +149,7 @@
 {148}{}{当然，我会走的。只要记得你欠我的人情就好。}
 
 #{149}{gizmo_16}{You don't leave town, you end up under it. You got me?}
-{149}{gizmo_16}{你不离开镇子的话，就得死在这儿。明白了没？}
+{149}{gizmo_16}{你不离开镇子的话，就得死在这儿。明白了没有？}
 
 #{150}{}{Okay, okay. I'm going.}
 {150}{}{好吧，好吧。我走了。}
@@ -185,7 +185,7 @@
 {160}{}{呃……好吧，可以这么说，我撒谎了。我没有它们。}
 
 #{161}{}{Yeah? You going to hire somebody to do your bending for you?}
-{161}{}{好啊，你准备雇人来帮你鞠躬行礼么？}
+{161}{}{好啊，你准备雇人来帮你鞠躬行礼吗？}
 
 #{162}{}{I lost them.}
 {162}{}{我把它们弄丢了。}
@@ -218,7 +218,7 @@
 {171}{}{当然是你做的。你雇了个人去杀基利安，结果他搞砸了。}
 
 #{172}{}{You don't remember hiring someone to kill Killian, you stupid slug?}
-{172}{}{你不记得你雇了个家伙去杀基利安么，你个傻掰？}
+{172}{}{你不记得你雇了个家伙去杀基利安吗，你傻了吗？}
 
 #{173}{}{Well, let's take a hypothetical situation . . .}
 {173}{}{好吧，让我们假设……}
@@ -273,7 +273,7 @@
 
 #{190}{gizmo_27}{Hmm . . . all right. We can do this. But you work for me, you better know
 # that nobody ever double-crosses Gizmo and lives to talk about it. You got me?}
-{190}{gizmo_27}{呣……好吧。我们就这么干吧。但既然你为我工作，就最好记得，没人能耍了吉斯莫之后还能活着的。明白了没？}
+{190}{gizmo_27}{呣……好吧。我们就这么干吧。但既然你为我工作，就最好记得，没人能耍了吉斯莫之后还能活着的。明白了吗？}
 
 #{191}{}{Oh, I could put one over on you . . . just no way anyone could put one 'round you.}
 {191}{}{哦，我把你耍了……谁都没有这么耍过你。}
@@ -282,7 +282,7 @@
 {192}{}{当然。但是首先我要知道为什么你要他死。}
 
 #{193}{gizmo_28}{Huh. That's easy. I want him dead because he cramps my business. So, will you do him for me?}
-{193}{gizmo_28}{啊哈。很简单。他挡住了我的财路，我就要他死。那么，你愿意帮我做掉他么？}
+{193}{gizmo_28}{啊哈。很简单。他挡住了我的财路，我就要他死。那么，你愿意帮我做掉他吗？}
 
 #{194}{}{That's why I'm here. He'll be dead before sundown.}
 {194}{}{那就是我在这儿的原因。日落之前他就会死。}
@@ -301,7 +301,7 @@
 {198}{gizmo_29}{很好，带着他脖子上的狗牌回来作为证明。记住，我们从没谈过话，你绝不能把这消息和任何人说。没人能把我牵扯出来，没有人。}
 
 #{199}{gizmo_30}{You're either real stupid . . . or a real stupid spy. Doesn't matter, because now Izo's gonna make you real dead.}
-{199}{gizmo_30}{你要么是真傻……要么就是个笨得可以的奸细。没关系，因为现在艾佐马上会让你死透。}
+{199}{gizmo_30}{你要么是真傻……要么就是个笨得可以的奸细。没关系，因为现在艾佐马上会让你死透的。}
 
 #{200}{gizmo_32}{I don't like people who waste my time. Don't come back again soon!}
 {200}{gizmo_32}{我可不喜欢别人浪费我的时间。做完事情前，别再那么快回来！}
@@ -344,7 +344,7 @@
 {212}{gizmo_44}{【吉斯莫呼哧呼哧着说。】我，呃……现在不太想讨论这个。}
 
 #{213}{gizmo45m}{Hey, what the hell do you think you're doing? Izo, tear his arms off!}
-{213}{gizmo45m}{嘿，你他妈的以为自己在干什么？艾佐，把他的前腿给卸了！}
+{213}{gizmo45m}{嘿，你他妈的以为自己在干什么？艾佐，把他的腿给卸了！}
 
 #{214}{gizmo45f}{Hey, what the hell do you think you're doing? Izo, tear off her arms!}
 {214}{gizmo45f}{嘿，你他妈的以为自己在干什么？艾佐，把她的胳膊给卸了！}

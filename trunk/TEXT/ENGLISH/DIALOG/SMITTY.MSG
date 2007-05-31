@@ -14,7 +14,7 @@
 {104}{}{我能请问你的名字吗？}
 
 #{105}{}{I need you to fix these parts for me, so that I can fix your hydroponic farms.}
-{105}{}{我需要你为我修这些零件，这样我才能修理你们的营养液农场。}
+{105}{}{我需要你为我修这些零件，这样我才能修理你们的水栽培农场。}
 
 #{106}{}{I'd like to buy something.}
 {106}{}{我想要买些东西。}

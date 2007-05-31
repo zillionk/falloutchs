@@ -295,7 +295,7 @@
 {218}{Set39}{有能力。跟着盖瑞特去领赏，然后该干嘛干嘛去。}
 #{219}{Set40}{Reasons for aggressions? Walk and mine will stand.
 # Talk and mine will move.}
-{219}{Set40}{有必要动粗么？走开，我的人不会难为你。再罗嗦，我的人不是吃素的。}
+{219}{Set40}{有必要动粗吗？走开，我的人不会难为你。再罗嗦，我的人不是吃素的。}
 #{220}{}{Sorry, bad attempt at humor.}
 {220}{}{对不起，我只是搞搞笑嘛。}
 #{221}{}{'Bout time. Getting bored waiting for your face to clear up.}
@@ -345,7 +345,7 @@
 #{240}{}{Got it.}
 {240}{}{明白。}
 #{241}{}{Bite me.}
-{241}{}{你他喵的来咬我啊。}
+{241}{}{你他妈的来咬我啊。}
 #{242}{Set45a}{With pleasure . . .}
 {242}{Set45a}{很荣幸……}
 #{243}{Set46}{No bluff, no twist. The Master does not tremble
@@ -414,7 +414,7 @@
 {269}{Set56}{盖瑞特会递上可用的东西。}
 #{270}{Set57}{You. Vanished our water processor chip. Exchanged
 # it . . . for your life!}
-{270}{Set57}{你。弄丢了我们的水处理芯片。交换它……用你的命！}
+{270}{Set57}{你。弄丢了我们的净水芯片。交换它……用你的命！}
 #{271}{}{We both need working chips. Apparently there is only
 # one. Is there another method we haven't thought about?}
 {271}{}{我们都需要工作的芯片。显然只有一个。有没有其它我们还没想到的方法？}
@@ -468,7 +468,7 @@
 #{294}{Set65}{【Set passes the water chip to a ghoul, who runs
 # off with it.】  If your shadow touches Necropolis again, it will
 # merge forever.}
-{294}{Set65}{【赛特把水处理芯片递给一个僵尸，他拿着它跑掉了。】如果你胆敢再来大墓地，你会永远和大墓地融为一体。}
+{294}{Set65}{【赛特把净水芯片递给一个僵尸，他拿着它跑掉了。】如果你胆敢再来大墓地，你会永远和大墓地融为一体。}
 #{295}{Set200}{As said . . .}
 {295}{Set200}{我说过……}
 #{296}{Set201}{Stated before . . .}

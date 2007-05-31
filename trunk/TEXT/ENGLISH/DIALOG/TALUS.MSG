@@ -27,7 +27,7 @@
 # {110}{}{I'm the Senior Paladin, Rhombus's right-hand man. We're in charge
  # of the Paladins and Knights. Right now I'm supervising training
  # exercises. We're getting ready . . . for anything.}
-{110}{}{我是资深圣骑士，隆伯斯的得力助手。我们管理着整个圣骑士工会。我要立刻开始训练。我们时刻准备着……}
+{110}{}{我是资深游侠，隆伯斯的得力助手。我们管理着整个游侠和骑士。我要立刻开始训练。我们时刻准备着……}
 # {111}{}{You're getting ready for what?}
 {111}{}{你们准备着什么？}
 # {112}{}{How can I get some weapons and equipment?}
@@ -114,7 +114,7 @@
 # {143}{}{There's Rhombus. He's our Head Paladin, also known as the Master
  # Knight. Then there's Vree; she's the Master Scribe. And of course
  # we cannot forget our distinguished High Elder, Maxson.}
-{143}{}{那是隆伯斯。他是我们的首席圣骑士，当然也是大师骑士。然后那边的是弗蕾；她是秘书长。当然我们不会忘记我们伟大的最高元老，马克松。}
+{143}{}{那是隆伯斯。他是我们的首席游侠，当然也是大师骑士。然后那边的是弗蕾；她是首席研究员。当然我们不会忘记我们伟大的最高元老，马克松。}
 # {144}{}{Tell me about Rhombus.}
 {144}{}{告诉我有关隆伯斯的事情。}
 # {145}{}{Tell me about Vree.}
@@ -256,7 +256,7 @@
 {195}{}{不，我不能，我想你应该离开了，“新兵”。}
 # {196}{}{Only Paladins wear Power Armor, someday you may earn the right to
  # wear it.}
-{196}{}{只有圣骑士能够穿动力装甲，总有一天你会有机会穿它的。}
+{196}{}{只有游侠能够穿动力装甲，总有一天你会有机会穿它的。}
 # {197}{}{Thanks, what about some high-tech weapons?}
 {197}{}{谢谢，那高科技武器呢？}
 # {198}{}{Well I see we have a bright new addition to our order after all...
@@ -361,4 +361,4 @@
 # {408}{}{You gain }
 {408}{}{你得到了}
 # {409}{}{ experience points for rescuing the initiate.}
-{409}{}{　经验值。因为你救了那个新兵。}
+{409}{}{点经验值。因为你救了那个新兵。}
