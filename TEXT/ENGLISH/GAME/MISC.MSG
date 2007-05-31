@@ -95,4 +95,4 @@
 # from gdialog.c - new tell me about stuff
 #
 #{6000}{}{Ask about what?}
-{6000}{}{输入“？”可得到更多提示。}
+{6000}{}{输入 ？可得到更多提示。}
