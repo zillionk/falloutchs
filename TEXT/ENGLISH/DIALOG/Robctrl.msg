@@ -84,7 +84,7 @@
 {124}{}{终止传感器。}
 
 #{125}{}{Terminate Pest Control.}
-{125}{}{终止有害物控制。}
+{125}{}{终止病毒控制。}
 
 #{126}{}{Terminate Hearts.}
 {126}{}{终止红心大战。}
@@ -103,7 +103,7 @@
 {130}{}{调整传感器参数。}
 
 #{131}{}{Modify Pest Control.}
-{131}{}{修改有害活体控制。}
+{131}{}{修改病毒活体控制。}
 
 #{132}{}{Play Hearts.}
 {132}{}{启动红心大战。}
@@ -138,22 +138,22 @@
 #{141}{}{Current application: Pest Control v1.4. Current setting:
 # 【Click!】 unauthorized. Change to: 【Click!】 all, none, small
 # living, large living, or unauthorized.}
-{141}{}{当前请求：有害活体控制系统ｖ１·４。当前设置【叮叮！】未经认可活体。转换为：【叮叮！】所有的、空的、少量的活体、大量的活体、未认可的活体。}
+{141}{}{当前请求：病毒活体控制系统ｖ１·４。当前设置【叮叮！】未经认可活体。转换为：【叮叮！】所有的、空的、少量的活体、大量的活体、未认可的活体。}
 
 #{142}{}{All pests.}
-{142}{}{全部有害活体。}
+{142}{}{全部病毒活体。}
 
 #{143}{}{No pests.}
-{143}{}{没有有害活体。}
+{143}{}{没有病毒活体。}
 
 #{144}{}{Small living pests.}
-{144}{}{少量有害物活体。}
+{144}{}{少量病毒活体。}
 
 #{145}{}{Large living pests.}
-{145}{}{大量有害物活体。}
+{145}{}{大量病毒活体。}
 
 #{146}{}{Unauthorized pests.}
-{146}{}{未经认可的有害活体。}
+{146}{}{未经认可的病毒活体。}
 
 #{147}{}{Application Hearts running. User Wins. 【Click!】 Thank you for the game.}
 {147}{}{红心大战正在运行。玩家胜利。【叮叮！】感谢您玩本游戏。}
@@ -174,7 +174,7 @@
 {151}{}{调整传感器参数。}
 
 #{152}{}{Modify Pest Control.}
-{152}{}{修改有害活体控制。}
+{152}{}{修改病毒活体控制。}
 
 #{153}{}{Play Hearts.}
 {153}{}{启动红心大战。}
@@ -194,7 +194,7 @@
 {157}{}{调整传感器参数。}
 
 #{158}{}{Modify Pest Control.}
-{158}{}{修改有害物控制。}
+{158}{}{修改病毒控制。}
 
 #{159}{}{Play Hearts.}
 {159}{}{启动红心大战。}
@@ -287,13 +287,13 @@
 #{186}{}{Correcting. 【Click!】 Error. Attempting self-diagnostics.
 #【Click! CLICK!】 ERROR! FATAL SYSTEM ERROR. SYSTEM CORRUPTED,
 # ATTEMPTING RECOMPILATION. 【Long pause.】}
-{186}{}{警告。【叮叮！】错误。正在尝试自测试【叮叮！叮叮！】错误！致命系统错误。系统崩溃，尝试终止。【死机。】}
+{186}{}{警告。【叮叮！】错误。正在尝试自测试。【叮叮！叮叮！】错误！致命系统错误。系统崩溃，尝试终止。【死机。】}
 
 #{187}{}{Terminal?}
 {187}{}{终端？}
 
 #{188}{}{【click】 Error in recompilation . . . 【click】}
-{188}{}{【叮叮】重新启动错误。。。【叮叮】}
+{188}{}{【叮叮】重新启动错误……【叮叮】}
 
 #{189}{}{Cannot process request. Terminating dialogue.}
 {189}{}{无法处理请求。结束对话。}

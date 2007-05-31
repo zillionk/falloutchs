@@ -16,7 +16,7 @@
 {104}{}{长官，我们遭到了一大群人类的攻击。请求支援。完毕。}
 
 #{105}{}{Help! Unknown attackers! Heavy damage! Coordinates follow: 10 . . . Argh!}
-{105}{}{救命！有人袭击！我们受了重伤！横坐标：１０．．．啊！}
+{105}{}{救命！有人袭击！我们受了重伤！横坐标：１０……啊！}
 
 #{106}{}{Understood, patrol. We are sending assistance now. Over.}
 {106}{}{明白，巡逻兵。我们马上赶去支援。完毕。}
