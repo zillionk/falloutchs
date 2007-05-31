@@ -98,7 +98,7 @@
 {132}{}{那你应该去萨姆·匹特试试。我听说那儿的酒里掺水不少。}
 
 #{133}{}{I don't know about that, but I will rent you a room. It's a good place to rest and heal up. $25 for a day, or a week is $150. Most people go for the weekly rate. You should, if you ask me.}
-{133}{}{那些事情我不太清楚，不过我可以租给你个房间。这是个休息康复的好地方。二十五块一天，一个礼拜一百五十。大多数人都一租一个礼拜。如果你问我的话，你也能按这个房价租。}
+{133}{}{那些事情我不太清楚，不过我可以租给你个房间。这是个休息康复的好地方。二十五块一天，一个礼拜一百五十。大多数人都一租一个礼拜。愿意的话，你也能按这个房价租。}
 
 #{134}{}{Okay. A week.}
 {134}{}{那好。一个礼拜。}
@@ -230,7 +230,7 @@
 {176}{}{嗯。。。}
 
 #{177}{}{Get out! You're too dumb to realize what you did, but my life is hell now!}
-{177}{}{滚！你根本不知道你犯了多大的错误，我的生活现在全毁了！}
+{177}{}{滚！你倒是蠢得不知道自己干了什么，可我的生活现在却一团糟！}
 
 #{178}{}{You son of a bitch. I can't believe you killed him. He was a good man, and now I get all sorts of hell . . . get out, and don't come back.}
 {178}{}{你这个婊子养的。我简直不能相信你居然杀了他。他是个好人，现在我他妈的一团糟……滚吧，别再回来了。}
