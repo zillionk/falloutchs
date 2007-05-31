@@ -45,9 +45,9 @@
 # {122}{}{You look OK to me. All those rumors must be untrue.}
 {122}{}{你看起来挺好。那些传言一定是假的。}
 #{123}{}{Hi }
-{123}{}{嗨 }
+{123}{}{嗨}
 #{124}{}{. Keep up the good work.}
-{124}{}{。再接再厉。}
+{124}{}{ 。再接再厉。}
 #{125}{}{I hope everything is going well out there. We sure could use the water.}
 {125}{}{我希望外面一切正常。我们确定水是可以使用的。}
 #{126}{}{We are starting to run out of water. This is terrible!}
@@ -71,7 +71,7 @@
 #{135}{}{Hi }
 {135}{}{嗨}
 #{136}{}{.}
-{136}{}{。}
+{136}{}{ 。}
 #{137}{}{I hope you are doing well on your quest.}
 {137}{}{我希望你的任务一帆风顺}
 #{138}{}{See you around.}
@@ -101,7 +101,7 @@
 #{150}{}{I think you should leave me and my family alone, }
 {150}{}{我认为你应该离开我和我的家人，}
 #{151}{}{. It would be for the best.}
-{151}{}{。这将是最好的。}
+{151}{}{。这也是好意。}
 #{152}{}{You should be ashamed of yourself.}
 {152}{}{你应该为你的行为感到羞耻。}
 #{153}{}{And to think that I used to like you.}
