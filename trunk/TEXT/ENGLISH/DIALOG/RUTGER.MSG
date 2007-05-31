@@ -41,7 +41,7 @@
 {113}{}{有多少要多少！总有一天我会改变这星球的面貌。你会看到那一天的！}
 
 #{114}{}{A whole vault? Are you nuts? We don't have that kind of access to that much water. Plus, I wouldn't want to go into those mountains. We've had enough missing caravans.}
-{114}{}{一整个避难所？你脑筋有问题吗？我们搞不到那么多净水，再说，我不想去到那些山脉里面。有狠多大篷车都失踪了。}
+{114}{}{一整个避难所？你脑筋有问题吗？我们搞不到那么多净水，再说，我不想去到那些山脉里面。有很多商队都失踪了。}
 
 #{115}{}{You don't? Is there someone else who can?}
 {115}{}{你不去？那么还有谁能去？}
@@ -50,14 +50,14 @@
 {116}{}{那么，那发布的工作是个什么情况？}
 
 #{117}{}{Well, do you have any work?}
-{117}{}{那么，你这里有什么活儿么？}
+{117}{}{那么，你这里有什么活儿吗？}
 
 #{118}{}{Well, thanks for nothing.}
 {118}{}{好吧，你还真是有用啊。}
 
 #{119}{}{Oh sorry, you're not from around here. The Water Merchants handle all the damn water in this town.
 # I wouldn't even bother trying to deal with them. They're a bunch of vultures.}
-{119}{}{对不起，看来你还不了解这儿的情况，这里的水由那些水贩子们控制着，别指望我会和那群贪得无厌的人打交道。 }
+{119}{}{对不起，看来你还不了解这儿的情况，这里的水由那些纯水商队控制着，别指望我会和那群贪得无厌的人打交道。 }
 
 #{120}{}{Where would I find them?}
 {120}{}{我在哪里可以找到他们？}
@@ -113,10 +113,10 @@ after commodity in a settlement 10 miles away.}
 {136}{}{谢了，再见。}
 
 #{137}{}{Can you tell me about the job that was posted?}
-{137}{}{你能告诉我关于那工作招聘的事情么？}
+{137}{}{你能告诉我关于那工作招聘的事情吗？}
 
 #{138}{}{Do you have any work?}
-{138}{}{你这里有什么活儿么？}
+{138}{}{你这里有什么活儿吗？}
 
 #{139}{}{I hear that you're a little crazy, but that might be what we need right now. You'll need to talk to Butch. He likes to meet all 
 the new recruits. He's in the room right behind me. Go on in.}
@@ -194,7 +194,7 @@ or you'll be the wet spot on the wall. Go ahead and talk to Butch. He's in the o
 {161}{}{你可以重复一下这份工作的具体情况吗？}
 
 #{162}{}{Do you have any caravan jobs?}
-{162}{}{商队里能有什么活儿干么？}
+{162}{}{商队里能有什么活儿干吗？}
 
 #{163}{}{Sorry, I've got to go.}
 {163}{}{抱歉，我要离开了。}
@@ -235,7 +235,7 @@ technology, or something like that.  They're just a little to the northwest from
 {173}{}{钢铁兄弟会是什么？}
 
 #{174}{}{I can guarantee you it wasn't the Brotherhood.}
-{174}{}{我可以向你保证那不是兄弟会 }
+{174}{}{我可以向你保证那不是兄弟会。}
 
 #{175}{}{What do you know about the Deathclaw?}
 {175}{}{你知道死亡爪的情况吗？}
@@ -301,7 +301,7 @@ supposed to be. Just stick with reality, and you'll be fine.}
 {194}{}{哼。}
 
 #{195}{}{Really? So, who are the bastards? The Water Merchants?}
-{195}{}{真的吗？好吧，告诉我那些混蛋是谁？水商们？ }
+{195}{}{真的吗？好吧，告诉我那些混蛋是谁？纯水商队？ }
 
 #{196}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
 {196}{}{是的，就是他们！他们要搞你，他们在惦记你的……双头牛。}
@@ -310,7 +310,7 @@ supposed to be. Just stick with reality, and you'll be fine.}
 {197}{}{实际上，凶手是一群变种人。 }
 
 #{198}{}{It was the Deathclaw. I saw it eat a whole caravan.}
-{198}{}{是死亡爪干的，我看到他们吃掉了整个商队~ }
+{198}{}{是死亡爪干的，我看到他们吃掉了整个商队。}
 
 #{199}{}{I forgot.}
 {199}{}{我忘记了。}
@@ -319,13 +319,13 @@ supposed to be. Just stick with reality, and you'll be fine.}
 {200}{}{你忘了？真是有趣啊，伙计，现在，在我面前消失。}
 
 #{201}{}{You forgot? Funny, lady. Now, get lost.}
-{201}{}{你忘了？真是有趣啊，女士，现在，在我面前消失}
+{201}{}{你忘了？真是有趣啊，女士，现在，在我面前消失。}
 
 #{202}{}{I knew it was them. Did you bring proof? I'm going to make those bastards pay.}
 {202}{}{我知道是他们，你有证据吗？我要让那些混蛋血债血还。}
 
 #{203}{}{Uhh. No. I lost it. But, you can take my word on it.}
-{203}{}{呃。没有。我把他们弄丢了。但是，你可以带上我的证词。 }
+{203}{}{呃。没有。我把他们弄丢了。但是，你可以带上我的证词。}
 
 #{204}{}{Actually, it wasn't them. It was a bunch of huge mutants.}
 {204}{}{实际上，凶手是一群变种人。}
@@ -356,7 +356,7 @@ and we'll wipe them out.}
 {212}{}{一些变种人干掉了我的商队？真是个和死亡爪一样的好故事。}
 
 #{213}{}{I'm not joking. I found the Deathclaw and killed it, but I found this holodisk on the body of one of those...super mutant creatures.}
-{213}{}{我没有在开玩笑。我发现了他们并且杀了他们，并且我在其中一个身上发现了这个磁盘……超级变种生物。 }
+{213}{}{我没有在开玩笑。我发现了他们并且杀了他们，并且我在其中一个身上发现了这个磁盘……超级变种生物。}
 
 #{214}{}{Well, check this holodisk out. I got it off one of the raiding mutants.}
 {214}{}{看看这个磁盘上的东西。我从一个变异生物身上得到的。}
@@ -373,11 +373,11 @@ and we'll wipe them out.}
 #{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's 
 see.厖Sorry, I didn't believe you. This does not bode well for the good guys. Well, here's your 500 H#ubbucks. Hell, make it 800, and thanks for the information! 
  If you need anymore work you will always be welcome.}
-{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆把。好吧，这里是你的５００哈勃币。靠，加到８００吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
+{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆吧。好吧，这里是你的５００哈勃币。靠，加到８００吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
 
 #{219}{}{Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? 
 Was it the Water Merchants?}
-{219}{}{请不要加重布奇的妄想症。他对死亡爪有点敏感。现在告诉我，你发现了什么？是水商人干得吗？}
+{219}{}{请不要加重布奇的妄想症。他对死亡爪有点敏感。现在告诉我，你发现了什么？是纯水商队干的吗？}
 
 #{220}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
 {220}{}{是的，是他们！他们在搞你。他们…想要你的…双头牛。}
@@ -392,7 +392,7 @@ Was it the Water Merchants?}
 {223}{}{我忘了。}
 
 #{224}{}{Rats, huh? So, did you find anything out or what? It's those damn Water Merchants, I know it!}
-{224}{}{你别扯淡了！你到底找到了什么？其实我知道是那些该死的水商人干得！}
+{224}{}{你别扯淡了！你到底找到了什么？其实我知道是那些该死的纯水商队干的！}
 
 #{225}{}{Yea, that's them! They're out to get you. They...want your...brahmin.}
 {225}{}{是的，是他们！他们在搞你。他们…想要你的…双头牛。}
@@ -407,7 +407,7 @@ Was it the Water Merchants?}
 {228}{}{我忘了。}
 
 #{229}{}{Mutants destroyed our caravans? That's almost as good as the one about the Deathclaw.}
-{229}{}{变种人破坏了我们的商队？那和你刚才说的死亡爪不是一样的情节？你在说故事吗。}
+{229}{}{变种人破坏了我们的商队？那和你刚才说的死亡爪不是一样的情节？你在说故事吧。}
 
 #{230}{}{I'm not joking. I found the Deathclaw and killed it. But, I also found this holodisk on the body of those super mutant creatures.}
 {230}{}{我没有在开玩笑。我确实发现了死亡爪并且杀了它。但是，我也在那些超级变种人身上找到了这磁盘。}
