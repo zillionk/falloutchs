@@ -305,19 +305,15 @@
 {228}{hrold43a}{整件事？好吧……}
 #{229}{HROLD44}{
 #Oooh, well thanks.  Hope it wasn't too much of a strain. 【coughs】}
-{229}{HROLD44}{哦，谢谢。希望它不会过度疲劳。【咳嗽】}
+{229}{HROLD44}{哦，谢谢。希望没有给你太多压力。【咳嗽】}
 #{230}{HROLD45}{Oooh, that thing.  Friend, that is nightmare city.  Why the hell you asking about that?}
-{230}{HROLD45}{哦，那就是了。朋友，那是个噩梦之城。为什么你问它的情况呢？}
+{230}{HROLD45}{哦，那东西。朋友，那东西就像个噩梦。为什么你问它的情况呢？}
 #{231}{}{Gonna kill it.}
-<<<<<<< .mine
 {231}{}{我要去杀了它。}
-=======
-{231}{}{要去毁了它。}
->>>>>>> .r361
 #{232}{}{If it catches up with me, I want to know what to do.}
 {232}{}{我想知道，如果遇上它，该怎样做。}
 #{233}{HROLD47}{Okay.  Well, it's like a damn big man, is what it is.  Got spikes and claws that can cut through the heaviest armor.  But don't let the size fool ya, it's quick.}
-{233}{HROLD47}{好的。呃，它看起来就像一个大个子，就是这样。角和爪子能破坏最厚的装甲。不要被它的体型骗了，它的速度也很快。}
+{233}{HROLD47}{好的。呃，它看起来就像一个大个子的人，就是这样。角和爪子能破坏最厚的装甲。不要被它的体型骗了，它的速度也很快。}
 #{234}{}{Any weaknesses?}
 {234}{}{有什么弱点？}
 #{235}{HROLD49}{Well, from what I've heard, maybe whack it in the head?  I'd try the eyes.  'Course, there's a problem there.}
@@ -333,7 +329,7 @@
 #{240}{}{Could be.}
 {240}{}{也许。}
 #{241}{HROLD52}{You don't want to know about the Death Claw, and I ain't gonna be the one to tell ya.}
-{241}{HROLD52}{你不会想了解死爪的，而且我不会告诉你。}
+{241}{HROLD52}{你不会想了解死亡爪的，而且我不会告诉你。}
 #{242}{HROLD53}{Well, heard one of Decker's men has somebody from the Brotherhood of Steel trapped in Old Town.}
 {242}{HROLD53}{好吧，听说德克的手下把钢铁兄弟会的一个家伙关起来了。}
 #{243}{}{Thanks.}
@@ -361,7 +357,7 @@
 #{254}{hrold203}{Umm...Decker's looking for you.  He wants to talk. 【cough】}
 {254}{hrold203}{嗯……德克在找你。他想和你谈话。【咳嗽】}
 #{255}{hrold204}{All I got is clothes and freedom, and the latter's debatable.}
-{255}{hrold204}{我有衣服被褥，我也很自由，虽然也不算是绝对的自由了。}
+{255}{hrold204}{我有衣服被褥，我也很自由，虽然也不算是绝对的自由。}
 #{256}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
 {256}{hrold300}{聪明的家伙。是个医生和哲学家。很久以前，他领导了一只探险队，我也是那时候变异的。}
 #{257}{hrold301}{Who?  Is he some sort of sex therapist?  I could use one, you know.}
