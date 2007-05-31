@@ -229,12 +229,12 @@
 {196}{}{什么？}
 #{197}{HROLD31}{
 #Nevermind, that was from my time.  I'm cranky, old and I've been that way ever since I changed.}
-{197}{HROLD31}{注意，那是按照我的时间算的。我是个顽固的老变种人，我变了之后就一直这样了。}
+{197}{HROLD31}{没什么，我就是这么算时间的。我是个顽固的老变种人，我变了之后就一直这样生活的。}
 #{198}{}{What did you do before this happened to you?}
 {198}{}{你出事之前你在做什么？}
 #{199}{HROLD32}{
 #Well, I got mutated.  Sure wasn't born this ugly.  Happened when we tried to find out where all the mutants were coming from.}
-{199}{HROLD32}{啊，我变异了。我出生时没这么难看。当我们寻找变种人都来自哪里时，我出事了。}
+{199}{HROLD32}{啊，我变异了。我出生时没这么难看。当我们寻找变种人的源头时，我出事了。}
 #{200}{}{What happened?}
 {200}{}{出了什么事？}
 #{201}{HROLD33}{
