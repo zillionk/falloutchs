@@ -24,12 +24,12 @@
 #Oh, kind of ya, friend. Very kind. You know, if I could clear the gunk out of there, you, just might find a tear in Old Harold's eye.}
 {108}{HROLD2}{哦，你真好，朋友。你真是好人。你知道的，如果我清理掉这些粘液，你，会看见老哈罗德眼中的泪水。}
 #{109}{}{Why is that?}
-{109}{}{为什么？}
+{109}{}{怎么会这么感动啊？}
 #{110}{}{You're welcome.}
 {110}{}{不客气。}
 #{111}{HROLD3}{
 #【Cough】 Rest of the Hubbers' been picking on me like a bad booger since I came back to town.  I can't leave, though.  When the deals are done 【wheez】 it's still my home.}
-{111}{HROLD3}{【咳嗽】自从我来到这个镇子那些哈勃仔把我像垃圾一样对待。但我不能走。虽然受了不少奚落，【喘气】但这里还是我的家啊。}
+{111}{HROLD3}{【咳嗽】自从我回到这个镇子那些哈勃仔把我像垃圾一样对待。但我不能走。虽然受了不少奚落，【喘气】但这里还是我的家啊。}
 #{112}{}{What happened to you?}
 {112}{}{你怎么了？}
 #{113}{}{Who are the Hubbers?}
@@ -45,7 +45,7 @@
 {117}{}{不，不是。我的意思是什么让你变成这样的？}
 #{118}{HROLD5}{
 #All started with the sirens.  I was young, but ohh, I do remember that.  Lotta terrible years followed.  And I remember walking outta the Vault late one morning.}
-{118}{HROLD5}{一开始就是尖利的警报声。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
+{118}{HROLD5}{避难所大门刚开启时是尖利的警报声。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
 #{119}{}{What did you do then?}
 {119}{}{然后呢？}
 #{120}{}{Where was your Vault located?}
@@ -64,7 +64,7 @@
 {125}{}{他们怎么死的？}
 #{126}{HROLD8}{
 #Gangers got'em.  Scavengers attacking the caravans.  And mutants, son of a dog, if they weren't springing up like rabbits with a mission. 【cough】 Had to have an army of guards with, just to do a deal.}
-{126}{HROLD8}{土匪追杀他们。拾荒者抢劫商队。还有那些变种人，狗娘养的，野兔一样蜂拥而来执行任务。【咳嗽】做什么生意都要雇保镖。}
+{126}{HROLD8}{先是被土匪追杀。后来，拾荒者又抢劫商队。最后是那些变种人，狗娘养的，野兔一样蜂拥而来执行任务。【咳嗽】做什么生意都要雇保镖。}
 #{127}{}{Didn't the guards help?}
 {127}{}{保镖有用吗？}
 #{128}{}{Where were the mutants coming from?}
@@ -89,7 +89,7 @@
 #{136}{}{You farted northwest?}
 {136}{}{你朝西北放屁？}
 #{137}{hrold10a}{【Laughs】 Pretty good...Noo...}
-{137}{hrold10a}{【笑】很好……不是……}
+{137}{hrold10a}{【笑】很好笑……当然不是了……}
 #{138}{HROLD11}{
 #We mounted an expedition.  God, Richard.  Richard Grey.  Led a small group of us up there.}
 {138}{HROLD11}{我们组织了一支探险队。对了，想起来了，理查德。理查德·格瑞是我们的领袖。}
