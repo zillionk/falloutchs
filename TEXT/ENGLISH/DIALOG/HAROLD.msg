@@ -292,7 +292,7 @@
 #{224}{}{Heard any good words recently?}
 {224}{}{近来如何？}
 #{225}{}{I need info on the Deathclaw, and I hear you're the man.}
-{225}{}{我需要死爪的消息，听说你知道。}
+{225}{}{我需要死亡爪的消息，听说你知道。}
 #{226}{}{What's your story?}
 {226}{}{你有什么故事？}
 #{227}{}{Nope}
@@ -305,7 +305,7 @@
 #{230}{HROLD45}{Oooh, that thing.  Friend, that is nightmare city.  Why the hell you asking about that?}
 {230}{HROLD45}{哦，那就是了。朋友，那是个噩梦之城。为什么你问它的情况呢？}
 #{231}{}{Gonna kill it.}
-{231}{}{会被杀的。}
+{231}{}{要去毁了它。}
 #{232}{}{If it catches up with me, I want to know what to do.}
 {232}{}{如果它抓到了我，我想应该怎样做。}
 #{233}{HROLD47}{Okay.  Well, it's like a damn big man, is what it is.  Got spikes and claws that can cut through the heaviest armor.  But don't let the size fool ya, it's quick.}

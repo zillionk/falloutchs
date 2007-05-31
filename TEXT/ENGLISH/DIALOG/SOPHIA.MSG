@@ -117,7 +117,7 @@
 {310}{}{关于你们在制造的武器我想知道更多。}
 
 #{311}{}{Is this the place where I would find holo-disks?}
-{311}{}{这里是我能找到磁片的地方吗？}
+{311}{}{这里是我能找到磁盘的地方吗？}
 
 #{312}{}{Nevermind, thank you for your time.}
 {312}{}{不用了，谢谢你的帮忙。}
@@ -165,16 +165,16 @@
 
 #{326}{}{We have many holo-disks here in the library.  They are divided
 # between history, technology and weapon design.}
-{326}{}{图书馆里有许多磁片。它们分为历史，科技和武器设计三类。}
+{326}{}{图书馆里有许多磁盘。它们分为历史，科技和武器设计三类。}
 
 #{327}{}{I would like to see a holo-disk on your technology.}
-{327}{}{我想看看科技方面的磁片。}
+{327}{}{我想看看科技方面的磁盘。}
 
 #{328}{}{I would like to see a holo-disk on weapon design.}
-{328}{}{我想看看武器设计方面的磁片。}
+{328}{}{我想看看武器设计方面的磁盘。}
 
 #{329}{}{I would like to see a holo-disk on the Brotherhood's history.}
-{329}{}{我想看看兄弟会历史方面的磁片。}
+{329}{}{我想看看兄弟会历史方面的磁盘。}
 
 #{330}{}{I was sent here to ask Vree about the history of the Brotherhood.}
 {330}{}{我被派到这里问弗蕾关于兄弟会历史的问题。}
@@ -226,13 +226,13 @@
 
 #{344}{}{These are things that only Scribes and Paladins have access to.
 # Vree may be able to help you.}
-{344}{}{这些事只有导师和圣骑士才有资格决定。弗蕾也许可以帮你。}
+{344}{}{这些事只有导师和游侠才有资格决定。弗蕾也许可以帮你。}
 
 #{345}{}{Thank you, I'll go ask Vree.}
 {345}{}{谢谢你，我会去问弗蕾的。}
 
 #{346}{}{Is there any holo-disks that I can have access to?}
-{346}{}{这边有我能拿到的磁片吗？}
+{346}{}{这边有我能拿到的磁盘吗？}
 
 #{347}{}{You're obviously not the right person to be talking to. Good Bye.}
 {347}{}{很显然，你并不是正确的谈话对象。再见。}
@@ -322,7 +322,7 @@
 
 #{374}{}{I gave you the disk with some of our early writings on it.  Just
 # load it up into your PIPBoy 2000 and you will be able to read it.}
-{374}{}{我已经给了你载有我们最初历史的磁碟。只要把它下载到你的哔哔小子２０００上就可以阅读了。}
+{374}{}{我已经给了你载有我们最初历史的磁盘。只要把它下载到你的哔哔小子２０００上就可以阅读了。}
 
 #{375}{}{Thank you.}
 {375}{}{谢谢你。}

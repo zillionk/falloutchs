@@ -65,7 +65,7 @@
 {121}{}{这或许是个好主意。}
 
 #{122}{}{I suppose. I always figured that he just had some sort of power trip. But I guess that he wouldn't be the Overseer if he wasn't really concerned about our welfare, would he? I guess we should just wait and see if you can find the chip.}
-{122}{}{我总是认为他只是有些权力欲过剩。但是我猜如果他不真正关心我们的利益，就不会是所长，不是么？我觉得我们应该稍等，看看你能不能找到芯片。}
+{122}{}{我总是认为他只是有些权力欲过剩。但是我猜如果他不真正关心我们的利益，就不会是所长，不是吗？我觉得我们应该稍等，看看你能不能找到芯片。}
  
 #{123}{}{Don't worry, I'll take care of it.}
 {123}{}{别担心，我会处理的。}
@@ -86,7 +86,7 @@
 {128}{}{或许我们不能永远呆在这里。但是不做准备又没有集体的支持就冲到外面的世界去并不是个好主意。}
  
 #{129}{}{A lot of us think so. That's why we're planning to take some supplies and head out in a few days. Say, do you have any advice for us?}
-{129}{}{我们很多人是这么想的。这就是为什么我们正在计划搞些补给，准备出去几天看看，你能给我们出些主意么？}
+{129}{}{我们很多人是这么想的。这就是为什么我们正在计划搞些补给，准备出去几天看看，你能给我们出些主意吗？}
  
 #{130}{}{Sorry, I haven't really found much out there.}
 {130}{}{抱歉，我并没有在外面找到很多东西。}

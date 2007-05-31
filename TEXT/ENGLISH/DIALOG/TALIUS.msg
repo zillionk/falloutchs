@@ -71,7 +71,7 @@
 
 #{123}{}{. I am enthusiastic that you acknowledge your given
 # nomenclature. How might I assist you this fine morrow?}
-{123}{}{。我很高兴你能记得自己的名字，我今天能够帮你啥？}
+{123}{}{。我很高兴你能记得自己的名字，我今天能够帮你什么？}
 
 #{124}{}{Wha?}
 {124}{}{唔？}
@@ -143,7 +143,7 @@
 #{145}{}{Yes. The overseer of the community gave me a shotgun and some shells.
 # However, those were lost many years passed. Since I have never found anything,
 # I could not return.}
-{145}{}{是的。社区的所长给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现任何东西，我无法回去。}
+{145}{}{是的。社区的所长给了我支散弹猎枪和一些子弹。然而，经过许多年那些东西都丢光了。因为我从未发现过任何东西，所以我没脸回去。}
 
 #{146}{}{That's really awful. I wish there was something I could do.}
 {146}{}{真是可怕。我希望我能帮你。}

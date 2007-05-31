@@ -56,7 +56,7 @@
 {118}{}{那角落里凶神恶煞的人是谁？}
 
 #{119}{}{Who're the jerks?}
-{119}{}{谁是性情古怪的人？}
+{119}{}{那个性情古怪的家伙是谁？}
 
 #{120}{}{【Neal looks at you quizzically for a moment.】 Haven't you ever seen a bar
 # before, stranger? This is my place, the Skum Pitt. You buy drinks here. And you

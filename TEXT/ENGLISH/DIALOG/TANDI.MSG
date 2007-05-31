@@ -35,7 +35,7 @@
 {116}{}{嗯，是的。是有一点无聊。}
 #{117}{TAND_3}{ Sure, I guess.  I've never been out of here, so I don't know
  #what help I can be.  So, what'cha need?}
-{117}{TAND_3}{当然可以了。我从没有离开过这里，所以我不知道有什么可以帮忙的。那么，你想知道啥？}
+{117}{TAND_3}{当然可以了。我从没有离开过这里，所以我不知道有什么可以帮忙的。那么，你想知道什么？}
 #{118}{TAND_4}{Yeah.  Well you don't
  #live here.  There's nothing interesting to do, and believe you me, Brahma
  #Tipping gets old real fast.}
@@ -180,7 +180,7 @@
 # {174}{TAND_40}{That's it?  That's your plan.
  # Ugh!  All right.  But hurry.  I heard them talking and I didn't like their
  # plans. }
-{174}{TAND_40}{什么！那就是你的计划。恶！好吧。不过要快。我听到他们的谈话，我可不喜欢他们要对我做的事。}
+{174}{TAND_40}{什么！那就是你的计划。呃！好吧。不过要快。我听到他们的谈话，我可不喜欢他们要对我做的事。}
 # {175}{TAND_41}{You?  Fight him?  You
  # got to be kidding me!  【Sigh】 Listen, if you come up with another plan, let me
  # know, okay? }
