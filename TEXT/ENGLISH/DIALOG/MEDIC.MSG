@@ -73,7 +73,7 @@
 #{134}{}{The medical scanners picked up some major radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
 {134}{}{医疗扫描器检测到大量的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
 #{135}{}{The medical scanners picked up some mild radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
-{135}{}{医疗扫描器检测到致命剂量的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
+{135}{}{医疗扫描器检测到轻微剂量的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
 #{136}{}{You see the Vault-13 medic。}
 {136}{}{你看见13号避难所的医生。}
 {137}{}{}
