@@ -124,7 +124,7 @@
 #{151}{}{Short, but I don't have the cash.}
 {151}{}{短的，但我没有钱。}
 #{152}{}{How about neither, you old fart?}
-{152}{}{两个都不要要如何，你这个老屁精？}
+{152}{}{两个都不要如何，你这个老屁精？}
 #{153}{HROLD16}{
 #Well, you seem like an okay sort.  I'll speed it up a bit.}
 {153}{HROLD16}{好吧，看来你这个人还行。我会尽快讲完。}
@@ -214,7 +214,7 @@
 #All's I know, is it was something inside that base.}
 {190}{HROLD28}{据我所知，是基地里的某种东西。}
 #{191}{}{Do you think it could have been radiation?}
-{191}{}{你觉得是辐射么？}
+{191}{}{你觉得是辐射吗？}
 #{192}{}{Sorry, tough break. Thanks for the story.}
 {192}{}{抱歉，休息一下吧。谢谢你的故事。}
 #{193}{HROLD29}{

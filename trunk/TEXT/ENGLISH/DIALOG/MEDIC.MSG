@@ -17,7 +17,7 @@
 #{106}{}{Welcome back， }
 {106}{}{欢迎回来，}
 #{107}{}{。 How goes the search？}
-{107}{}{。 东西找得怎么样了？}
+{107}{}{。东西找得怎么样了？}
 #{108}{}{It's going ok。}
 {108}{}{还好。}
 #{109}{}{I need help。}
@@ -29,7 +29,7 @@
 #{112}{}{Good， keep up the good work。 And let me know if you need anything。}
 {112}{}{不错，继续好好干。需要什么就给我说。}
 #{113}{}{What can I do for you？}
-{113}{}{我能为你效劳么？}
+{113}{}{我能为你效劳吗？}
 #{114}{}{I need healing。}
 {114}{}{我需要治疗}
 #{115}{}{I need some drugs。}
@@ -67,13 +67,13 @@
 #{131}{}{You are fully healed。 Take care of yourself in the future， but come back if you need any more healing。 }
 {131}{}{你完全治愈了。以后照顾好自己，再需要治疗的时候就回来。}
 #{132}{}{The medical scanners picked up some deadly radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
-{132}{}{医疗扫描器检测到致命的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间。}
+{132}{}{医疗扫描器检测到致命的辐射感染。你希望我们对你进行治疗吗？这将要花去一点时间。}
 #{133}{}{The medical scanners picked up some serious radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
-{133}{}{医疗扫描器检测到特别严重的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
+{133}{}{医疗扫描器检测到特别严重的辐射感染。你希望我们对你进行治疗吗？这将要花去一点时间}
 #{134}{}{The medical scanners picked up some major radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
-{134}{}{医疗扫描器检测到大量的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
+{134}{}{医疗扫描器检测到大量的辐射感染。你希望我们对你进行治疗吗？这将要花去一点时间}
 #{135}{}{The medical scanners picked up some mild radiation poisoning。 Would you like us to attempt a healing？ It will take a while。}
-{135}{}{医疗扫描器检测到轻微剂量的辐射感染。你希望我们对你进行治疗么？这将要花去一点时间}
+{135}{}{医疗扫描器检测到轻微剂量的辐射感染。你希望我们对你进行治疗吗？这将要花去一点时间}
 #{136}{}{You see the Vault-13 medic。}
 {136}{}{你看见13号避难所的医生。}
 {137}{}{}

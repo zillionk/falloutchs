@@ -53,7 +53,7 @@
 
 #{116}{}{Oh just about ten thousand Hub Bucks. Hope you weren't thinking of stealing it. I'd have to kill
 # you. I almost killed someone once, so you don't want to mess with me!}
-{116}{}{啊，只不过是一万个哈勃币。希望你不要打这笔钱的主意。不然，我会杀了你的。上次我已经把某个不知好歹的打了个半死，所以你给我放聪明点，别添乱！}}
+{116}{}{啊，只不过是一万个哈勃币。希望你不要打这笔钱的主意。不然，我会杀了你的。上次我已经把某个不知好歹的打了个半死，所以你给我放聪明点，别添乱！}
 
 #{117}{}{Man, you're stupid. Oh, sorry, I didn't mean to offend you. Now let's try this again. "Yes" means I
 # blow your head off. "No" means you get your butt out of here. Which is it going to be?}
