@@ -51,7 +51,7 @@
 #{120}{}{Where was your Vault located?}
 {120}{}{你的避难所在哪？}
 #{121}{}{Do you realize how old that makes you?}
-{121}{}{你知道你多大岁数了？}
+{121}{}{自那以后过了多久了？}
 #{122}{HROLD6}{
 #You know, 【cough】 I'm not real sure anymore.  West, I think.  Uh wait - east?  Ooh I don't know.  【Hacking cough】}
 {122}{HROLD6}{你知道，【咳嗽】我记不清了。西边，我想。哦等等--东边？哦我不知道了。【干咳】}
@@ -224,12 +224,12 @@
 {194}{}{谢谢你的故事。}
 #{195}{HROLD30}{
 #Yeah, about a century or two in dog years.}
-{195}{HROLD30}{是啊，要是按照狗年（人的1年＝狗的7年，校注）的算法，估计快一两百年了。}
+{195}{HROLD30}{是啊，要是人活1年等于狗活7年的话，起码过了一两个狗世纪了。}
 #{196}{}{What?}
 {196}{}{什么？}
 #{197}{HROLD31}{
 #Nevermind, that was from my time.  I'm cranky, old and I've been that way ever since I changed.}
-{197}{HROLD31}{没什么，我就是这么算时间的。我是个顽固的老变种人，我变了之后就一直这样生活的。}
+{197}{HROLD31}{哦，别介意，那是我对时间的算法。自从我变异后就一直是这么烦躁不安、顽固怪癖了。}
 #{198}{}{What did you do before this happened to you?}
 {198}{}{你出事之前你在做什么？}
 #{199}{HROLD32}{
