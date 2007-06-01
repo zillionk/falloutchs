@@ -629,7 +629,7 @@
 {308}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{309}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
-{309}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了残害和死寂，几乎什么都没能留下。}
+{309}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了废墟和死寂，几乎什么都没能留下。}
 
 #{310}{Nic_95}{They war with the Blades down south. The Rippers are the most ruthless gang in the Boneyard. When we sent people to convert them, the only thing we got back were their heads.}
 {310}{Nic_95}{他们和利刃帮在南方交火。电锯党是晒骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
@@ -751,7 +751,7 @@
 {1109}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{1110}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
-{1110}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了残害和死寂，几乎什么都没能留下。}
+{1110}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了废墟和死寂，几乎什么都没能留下。}
 
 #{1111}{Nic_97}{Our history is in the last case, top shelf.}
 {1111}{Nic_97}{我们的历史资料在最里面，顶上的书架。}
@@ -766,7 +766,7 @@
 {1114}{Nic_100}{我们对他们不是很肯定。他们卖枪，我们卖和平。但他们的动机……}
 
 #{1115}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
-{1115}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了残害和死寂，几乎什么都没能留下。}
+{1115}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了废墟和死寂，几乎什么都没能留下。}
 
 #{1116}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {1116}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了毁灭和死亡，几乎什么都没能留下。}
