@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{主教的副官可以告诉你：Unity－“同一”、FEV－“FEV”、Master－主教、Cathedral－大教堂、Vats－病毒槽、Normals－正常人、Vaults－避难所、Morpheus－墨菲斯、Virus－病毒}
+
 #{100}{}{You see the Lieutenant of the Master's army.}
 {100}{}{你看见主教军队的副官。}
 
@@ -43,7 +46,7 @@
 {113}{}{伙计，我有个条件呢。}
 
 #{114}{}{Fooled ya, didn't I? I'll never tell you!}
-{114}{}{你当我傻小子呢？我决不会告诉你！}
+{114}{}{我耍你呢。我决不会告诉你！}
 
 #{115}{}{Okay, okay! Just don't kill me! I'll tell you everything I know!}
 {115}{}{好的，好的！不过，别杀我！我把知道的所有事情都告诉你！}
@@ -257,7 +260,7 @@
 {184}{}{在那发生之前，我还有几件别的事情想知道。}
 
 #{185}{LIEUT27}{【The Lieutenant sighs.】 Haven't you figured it out yet? You're a prime normal. Soon you'll be one of us.}
-{185}{LIEUT27}{【中尉叹气。】 你还没有觉悟吗？你是一个原始的正常人类。很快你就会成为我们中的一员。}
+{185}{LIEUT27}{【叹气。】 你还没有觉悟吗？你是一个原始的正常人类。很快你就会成为我们中的一员。}
 
 #{186}{}{How does 'no way' sound?}
 {186}{}{“决不”，这个词听起来怎样？}
@@ -429,7 +432,7 @@
 {241}{}{你休想从我嘴里挖出点些什么！}
 
 #{242}{LIEUT43}{Why, when you become one of us, of course! I can't have a perfectly good prime normal and not make it one of the Chosen Ones, now can I? After you tell me where your Vault is.}
-{242}{LIEUT43}{当然是在“你成为我们中的一员”之前！我不能浪费一个极其完美的原始正常人，我一定要让它成为获选者，是吧？在此之前，你必须告诉我你的避难的所在。}
+{242}{LIEUT43}{当然是成为我们的一员了！我不能浪费一个极其完美的原始正常人，我一定要让它成为获选者，是吧？在此之前，你必须告诉我你的避难的所在。}
 
 #{243}{}{Tell you? You're almost funny.}
 {243}{}{告诉你？你太可笑了。}
