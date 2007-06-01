@@ -45,7 +45,7 @@
 {117}{}{不，不是。我的意思是什么让你变成这样的？}
 #{118}{HROLD5}{
 #All started with the sirens.  I was young, but ohh, I do remember that.  Lotta terrible years followed.  And I remember walking outta the Vault late one morning.}
-{118}{HROLD5}{避难所大门刚开启时是尖利的警报声。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
+{118}{HROLD5}{所有的事情都是随着打开避难所大门的警报声开始的。。。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
 #{119}{}{What did you do then?}
 {119}{}{然后呢？}
 #{120}{}{Where was your Vault located?}
@@ -76,7 +76,7 @@
 {130}{}{你怎么幸免于难的？}
 #{131}{HROLD9A}{
 #Didn't.  Got killed. 【Laughing cough】 Love that joke.}
-{131}{HROLD9A}{我没有啊。我被杀了。【笑着咳嗽】真喜欢这个笑话。}
+{131}{HROLD9A}{没有啊。我死了啊。【笑着咳嗽】真喜欢这个笑话。}
 #{132}{}{Uh, yeah.}
 {132}{}{哦，是啊。}
 #{133}{HROLD10}{
@@ -331,7 +331,7 @@
 #{241}{HROLD52}{You don't want to know about the Death Claw, and I ain't gonna be the one to tell ya.}
 {241}{HROLD52}{你不会想了解死亡爪的，而且我不会告诉你。}
 #{242}{HROLD53}{Well, heard one of Decker's men has somebody from the Brotherhood of Steel trapped in Old Town.}
-{242}{HROLD53}{好吧，听说德克的手下把钢铁兄弟会的一个家伙关起来了。}
+{242}{HROLD53}{嗯，听说德克的手下把钢铁兄弟会的一个家伙关在旧城区了。}
 #{243}{}{Thanks.}
 {243}{}{谢谢。}
 #{244}{HROLD54}{I don't believe this one, but some say an army of mutants is on the way. 【cough】}
