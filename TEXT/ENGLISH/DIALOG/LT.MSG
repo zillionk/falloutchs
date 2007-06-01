@@ -1,5 +1,5 @@
 #{100}{}{You see the Lieutenant of the Master's army.}
-{100}{}{你看见主教军队里的中尉。}
+{100}{}{你看见主教军队的副官。}
 
 #{101}{LIEUT1}{Now what do we have here? I've been told you wish to divulge information of the utmost importance. I do hope so.}
 {101}{LIEUT1}{现在我们在这里谈点什么呢？我听说你愿意透露非常重要的情报，希望如此。}
