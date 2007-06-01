@@ -17,15 +17,15 @@
 #{106}{}{Welcome back， }
 {106}{}{欢迎回来，}
 #{107}{}{。 How goes the search？}
-{107}{}{。东西找得怎么样了？}
+{107}{}{。 净水芯片找得怎么样了？}
 #{108}{}{It's going ok。}
 {108}{}{还好。}
 #{109}{}{I need help。}
 {109}{}{我需要帮助。}
 #{110}{}{Lol？}
-{110}{}{大笑？}
+{110}{}{呵呵呵。。。【傻笑】}
 #{111}{}{Ah。 Yes。 Here， I found these。 Try them when you need a boost。}
-{111}{}{啊。是的。过来，我找到了这些东西。当你需要干劲儿的时候就用它们。}
+{111}{}{哦。这样啊。来这边儿，我找到了这些东西。当你需要干劲儿的时候就用它们吧。}
 #{112}{}{Good， keep up the good work。 And let me know if you need anything。}
 {112}{}{不错，继续好好干。需要什么就给我说。}
 #{113}{}{What can I do for you？}
@@ -53,7 +53,7 @@
 #{124}{}{Thanks。}
 {124}{}{谢谢。}
 #{125}{}{Stimpaks are being rationed。 You are welcome to what we have in the medical container on the wall。 Take as many as you need， but use them sparingly。 It will be a while before we can get you some more。}
-{125}{}{治疗针是实行定量配给的。到我们挂在墙上的医疗箱里看看吧。需要多少就拿多少，但是用的时候不要浪费。得再过一段时间我们才能给你新的治疗针。} 
+{125}{}{治疗针是实行定量配给的。墙上医疗箱里的你随便拿。需要多少就拿多少，但是用的时候不要浪费。得再过一段时间我们才能给你新的治疗针。} 
 #{126}{}{Hmm。 Let's see if you are hurt。}
 {126}{}{嗯。受伤了？让我看看。}
 #{127}{}{You seem ok to me。 Come back if you need some healing。}
