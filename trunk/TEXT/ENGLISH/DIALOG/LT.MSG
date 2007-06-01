@@ -329,7 +329,7 @@
 {207}{LIEUT35}{我们走着瞧吧，不是吗？}
 
 #{208}{lieut35a}{Oddly enough, I do believe you do not intend to tell me. We'll have to correct that!}
-{208}{lieut35a}{不知怎么，我觉得你不打算告诉我。那我们不得不给点颜色！}
+{208}{lieut35a}{不知怎么，我总觉得你是不打算告诉我了。那我们不得不给你点颜色瞧瞧！}
 
 #{209}{LIEUT36}{Feel better now? Since torture is such a crass, yet oddly satisfying and effective technique, I'll ask you once more nicely. Where . . . is . . . the Vault!}
 {209}{LIEUT36}{现在感觉好些了吗？虽然拷打是这么的粗暴，但这个方法令人称奇的满意和有效，我现在客气地再问你一次。那个避难所～在～哪～里～？！}
