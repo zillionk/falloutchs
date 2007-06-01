@@ -61,7 +61,7 @@
 #{130}{}{My little one is always crying in the middle of the night for a drink of water and I can't give her anything.}
 {130}{}{我的孩子总是在半夜因为口渴又哭又闹而我什么也给不了她。}
 #{131}{}{We're not going to make it, are we?}
-{131}{}{我们办不到它，是不是？}
+{131}{}{我们办不到，是不是？}
 #{132}{}{The water rations are coming to an end.}
 {132}{}{水配给要完蛋了。}
 #{133}{}{The hydroponics section has closed down now. It means our food supply is running out.}

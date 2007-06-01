@@ -14,10 +14,10 @@
 {104}{}{弗蕾告诉我这里能见到一个新型武器。}
 
 #{105}{}{Do you have a water chip?}
-{105}{}{你有净水芯片么？}
+{105}{}{你有净水芯片吗？}
 
 #{106}{}{Do you have any Power Armor parts?}
-{106}{}{你有能量装甲的部件么？}
+{106}{}{你有能量装甲的部件吗？}
 
 #{107}{}{Whaadda?}
 {107}{}{什么？}
@@ -26,13 +26,13 @@
 {108}{}{没什么，谢了。}
 
 #{109}{}{I抦 Paul, head of Energy Weapons Development.}
-{109}{}{我是保罗，能量装甲开发部门负责人。}
+{109}{}{我是保罗，能量武器开发部门负责人。}
 
 #{110}{}{What kind of Energy Weapons?}
 {110}{}{什么类型的能量武器？}
 
 #{111}{}{Do you have the Laser Pistol that Vree designed?}
-{111}{}{你有弗蕾设计的激光手枪么？}
+{111}{}{你有弗蕾设计的激光手枪吗？}
 
 #{112}{}{Laser, Plasma... you name it, I抳e built it.. or at least re-built it.}
 {112}{}{激光，脉冲……，你命名，我做……至少我做了一个。}
@@ -55,7 +55,7 @@
 
 #{118}{}{They are both on the first floor of the base.  Talus is usually in the training
 # room and Michael does his duty just outside of the storage room.}
-{118}{}{他们都在基地的一楼。塔鲁斯通常在训练室，迈克尔在储藏室外面值班。}
+{118}{}{他们都在基地的一层。塔鲁斯通常在训练室，迈克尔在储藏室外面值班。}
 
 #{119}{}{Thanks. Can I ask you some more questions?}
 {119}{}{谢谢，能再问你些别的问题吗？}
@@ -116,14 +116,14 @@
 {136}{}{没有，那些东西基本上都变成垃圾了。我们不自己处理水，这里用的水都是商队从哈勃城运来的。}
 
 #{137}{}{Ok.  Thanks.  Well I抳e got to keep looking for one. Bye.}
-{137}{}{那好把那，谢谢。我还是要自己去找了。再见。}
+{137}{}{那好吧，谢谢。我还是要自己去找了。再见。}
 
 #{138}{}{Could I ask you some more questions?}
 {138}{}{我能问你些别的问题吗？}
 
 #{139}{}{In the hands of a skilled warrior, it could cut a person in half.
 # The beam will shear flesh faster then you can run your finger through sand.}
-{139}{}{在一个训练有素的战士手里，它可以把一个人切成两半。激光束能在你还没反应过来的时候，就非快的切开你的肉。}
+{139}{}{在一个训练有素的战士手里，它可以把一个人切成两半。激光束能在你还没反应过来的时候，就飞快的切开你的肉。}
 
 #{140}{}{Can I keep this one?}
 {140}{}{能把这个给我吗？}
