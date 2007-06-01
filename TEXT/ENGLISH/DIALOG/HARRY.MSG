@@ -166,7 +166,7 @@
 #{180}{Harry304}{Hmph! Punies.}
 {180}{Harry304}{哼！下贱货。}
 #{181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
-{181}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是没用的货！}
+{181}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
 #{182}{Harry306}{Here, dummy. 【Sigh】 You stupid?}
 {182}{Harry306}{那就是这里，蠢货。【叹息】你白痴啊？}
 #{183}{Harry307}{The U' U' U' Un, I don't know.}
