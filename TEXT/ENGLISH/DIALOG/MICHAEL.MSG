@@ -47,7 +47,7 @@
 {115}{}{你应该去看医生。她在第二层。}
 
 #{116}{}{Oh，nothing quite as glorious as our Paladins。I just run the supply room，checking equipment and other supplies out to people。}
-{116}{}{哦，没有什么工作比得上我们骑士光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
+{116}{}{哦，没有什么工作比得上我们的游侠光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
 
 #{117}{}{I was sent here by 。。。Bob。He wanted me to get him 。。。that new high tech weapon-thingy。He said to bring it right away。}
 {117}{}{派我到这里来的人是。。。鲍勃。他让我帮他取。。。那个新的高科技武器单元。让我马上拿过去。}
@@ -112,7 +112,7 @@
 {137}{}{哦，那些女孩总是让我难堪。我不知道她们为什么总是这样。那个劳拉确实是够聪明。我有相当一段时间喜欢她。我很早以前就认识她了。那时候的她特别可爱。现在她变了，对我的态度越来越差了。我没做什么能让她如此对我的事情。}
 
 #{138}{}{Well，maybe she likes you。Did you ever think about that？She just might not know how to approach you。You should ask her。If you really do like her，what do you have to lose？}
-{138}{}{嗯，也许她喜欢你呢。你以前想过吗？她可能只是不知道怎样跟你套近乎。你应该问一下她。如果你真的喜欢她，你为什么要错过这个机会呢？}
+{138}{}{嗯，也许她喜欢你呢。你以前想过吗？她可能只是不知道怎样跟你套近乎。你应该问一下她。如果你真的喜欢她，那你还怕失去什么呢？}
 
 #{139}{}{Maybe she likes you。}
 {139}{}{也许她喜欢你。}
