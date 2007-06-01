@@ -220,7 +220,7 @@
 {172}{}{它是如何起作用的？}
 
 #{173}{LIEUT23}{He's busy with the Children of the Cathedral. They actually consider us gods. But then, who can blame them.}
-{173}{LIEUT23}{他正忙于圣童会的事务。他们事实上认为我们是神。不过，谁能责怪他们呢？}
+{173}{LIEUT23}{他正忙于大教堂教徒的事务。他们事实上认为我们是神。不过，谁能责怪他们呢？}
 
 #{174}{}{My, aren't we conceited?}
 {174}{}{我的天，你们不是狂妄吗？}
@@ -501,7 +501,7 @@
 {265}{LIEUT62}{它们在战前建造。它们也是我们原始正常人的主要来源。}
 
 #{266}{LIEUT63}{Morpheus. It's quite amusing. He thinks he's so much more than just a slug the Master recruited to head his Children of the Cathedral nonsense. Ah, well. He, too, will be dipped in the Vats and he'll probably die a horrible death . . . I hope.}
-{266}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
+{266}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的大教堂教徒而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
 
 #{267}{LIEUT64}{That's not important right now.}
 {267}{LIEUT64}{马上那就不重要了。}
@@ -569,7 +569,7 @@
 {1106}{LIEUT62}{它们在战前建造。它们也是我们原始正常人的主要来源。}
 
 #{1107}{LIEUT63}{Morpheus.  It's quite amusing.  He thinks he's so much more than just a slug the Master recruited to head his Children of the Cathedral nonsense.  Ah, well.  He, too, will be dipped in the Vats and he'll probably die a horrible death...I hope.}
-{1107}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的圣童会而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
+{1107}{LIEUT63}{墨菲斯。相当有趣。他以为自己比一条鼻滴虫强多少，不过是主教收集来充实他的大教堂教徒而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
 
 #{1108}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
 {1108}{LIEUT57}{ＦＥＶ病毒是主教数年前发明的。是它让我们成为获选者。不过，我敢保证，你很快就会认识到那一点。}
