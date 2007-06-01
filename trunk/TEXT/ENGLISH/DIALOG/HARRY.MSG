@@ -113,8 +113,8 @@
 {153}{Harry_21}{嗨，你是正常人！你跟哈里来！}
 #{154}{Harry_22}{Hmm...OK. Take ya to Lou.}
 {154}{Harry_22}{呵呵……好。带你去见“老副”。}
-#{155}{Harry_23}{Ummm...yes. You prime normal.  The Lou will be happy.  Take away, take away.}
-{155}{Harry_23}{嗯……是。你是正常人的一等货。“老副”会高兴的。带走，带走。}
+#{155}{Harry_23}{Ummm...yes. You prime normal.  The Lou will be happy.  Take away, take away.}下面的翻译是故意弄成“原屎”的。增加效果。
+{155}{Harry_23}{嗯……是。你是原屎的正常人。“老副”会高兴的。带走，带走。}
 #{156}{}{Wait, wait! You don't understand.}
 {156}{}{等等，等等！你不明白。}
 #{157}{}{I'll kill you with my bare hands.}
