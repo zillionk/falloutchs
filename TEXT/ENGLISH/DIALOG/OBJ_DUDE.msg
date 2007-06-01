@@ -48,7 +48,7 @@
 #{2900}{}{Isn't he some big important guy?}
 {2900}{}{他就是那个重要人物？}
 #{2901}{}{I dunno, but the watershed might have one.}
-{2901}{}{我不知道，但是分水岭那里也许会有一个。}
+{2901}{}{我不知道，但是水处理房那里也许会有一个。}
 #{2902}{}{Yer standing in it.  All that's left of it, at least.  This
 # place is dying, slowly but surely.}
 {2902}{}{你可以待在那里。最起码，应该休息一会。这个地方虽然逐渐没落了，但仍然安全。}
@@ -75,7 +75,7 @@
 #{3500}{}{Isn't he some big important guy?}
 {3500}{}{他就是那个重要人物？}
 #{3501}{}{I dunno, but the watershed might have one.}
-{3501}{}{我不知道，但是分水岭那里也许会有一个。}
+{3501}{}{我不知道，但是水处理房那里也许会有一个。}
 #{3502}{}{Yer standing in it.  All that's left of it, at least.  This
 # place is dying, slowly but surely.}
 {3502}{}{你可以待在那里。最起码，应该休息一会。这个地方虽然逐渐没落了，但仍然安全。}
@@ -102,7 +102,7 @@
 #{4100}{}{Isn't he some big important guy?}
 {4100}{}{他就是那个重要人物？}
 #{4101}{}{I dunno, but the watershed might have one.}
-{4101}{}{我不知道，但是分水岭那里也许会有一个。}
+{4101}{}{我不知道，但是水处理房那里也许会有一个。}
 #{4102}{}{Yer standing in it.  All that's left of it, at least.  This
 # place is dying, slowly but surely.}
 {4102}{}{你可以待在那里。最起码，应该休息一会。这个地方虽然逐渐没落了，但仍然安全。}
@@ -224,7 +224,7 @@
 # traders come from the Hub.  They have some companies there that still
 # make things.  If you want, you can go with one of their trading parties
 # back to the Hub.}
-{7704}{}{哈勃城是这附近的商业中心。绝大多数商人都来自哈勃。他们有自己的商队来运送东西。如果你想去那里，你可以和他们的商队一起返回哈勃。}
+{7704}{}{哈勃城是这附近的商业中心。绝大多数商人都来自哈勃城。他们有自己的商队来运送东西。如果你想去那里，你可以和他们的商队一起返回哈勃城。}
 #{7705}{}{I don't know anything about that.}
 {7705}{}{我不知道那些事情。}
 #{7706}{}{Gizmo runs it.  Watch out for the slot machines, you can lose a
@@ -232,10 +232,10 @@
 {7706}{}{吉斯莫经营着它。小心那些老虎机，如果你想玩的话你会输掉很多钱。}
 #{7707}{}{Darkwaters?  It's in the center of town.  You can barter with
 # him, or pay cash.}
-{7707}{}{黑水？在镇中心。你可以同他交易。}
+{7707}{}{达克沃特？在镇中心。你可以同他交易。}
 #{7708}{}{I hear people talking about it, but I've never seen it.  They
 # say it roams the desert, striking mostly at night.}
-{7708}{}{我听说人们都在谈论死爪，但是我从没看到过。他们说死爪生活在沙漠里，主要在晚上猎食。}
+{7708}{}{我听说人们都在谈论死亡爪，但是我从没看到过。他们说死亡爪生活在沙漠里，主要在晚上猎食。}
 
 
 #
@@ -275,10 +275,10 @@
 {8306}{}{吉斯莫经营着它。小心那些老虎机，如果你想玩的话你会输掉很多钱。}
 #{8307}{}{Darkwaters?  It's in the center of town.  You can barter with
 # him, or pay cash.}
-{8307}{}{黑水？在镇中心。你可以同他交易。}
+{8307}{}{达克沃特？在镇中心。你可以同他交易。}
 #{8308}{}{I hear people talking about it, but I've never seen it.  They
 # say it roams the desert, striking mostly at night.}
-{8308}{}{我听说人们都在谈论死爪，但是我从没看到过。他们说死爪生活在沙漠里，主要在晚上猎食。}
+{8308}{}{我听说人们都在谈论死亡爪，但是我从没看到过。他们说死亡爪生活在沙漠里，主要在晚上猎食。}
 
 
 # BROHDENT.MAP  (8800)
@@ -309,7 +309,7 @@
 #{8904}{}{That is where we stand.}
 {8904}{}{就是我们站着的地方。}
 #{8905}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{8905}{}{那些水商是一些小偷，但对于其他团体，我没有看法。}
+{8905}{}{那些水商人是一些小偷，但对于其他团体，我没有看法。}
 #{8906}{}{I don't know anything about that.}
 {8906}{}{我不知道。}
 #{8907}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies
@@ -357,7 +357,7 @@
 #{9504}{}{That is where we stand.}
 {9504}{}{就是我们站着的地方。}
 #{9505}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{9505}{}{那些水商是一些小偷，但对于其他团体，我没有看法。}
+{9505}{}{那些水商人是一些小偷，但对于其他团体，我没有看法。}
 #{9506}{}{I don't know anything about that.}
 {9506}{}{我不知道。}
 #{9507}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies
@@ -405,7 +405,7 @@
 #{10104}{}{That is where we stand.}
 {10104}{}{就是我们站着的地方。}
 #{10105}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
-{10105}{}{那些水商是一些小偷，但对于其他团体，我没有看法。}
+{10105}{}{那些水商人是一些小偷，但对于其他团体，我没有看法。}
 #{10106}{}{I don't know anything about that.}
 {10106}{}{我不知道。}
 #{10107}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies
@@ -534,7 +534,7 @@
 {15500}{}{那就是我们，你的仆人。}
 #{15501}{}{He's the leader of the Khans.  He is the most feared man in the
 # wasteland.}
-{15501}{}{他说可汗的领导。他是废土中最可怕的人。}
+{15501}{}{他是可汗的领导。他是废土中最可怕的人。}
 #{15502}{}{They are to the southwest.  We sometimes go there to relax after
 # a hard day pillaging.}
 {15502}{}{他们要去西南方。我们经常在抢劫后去那里放松。}
@@ -583,7 +583,7 @@
 #{16101}{}{He leads the Khans.  He is one of the most dangerous men that
 # has ever set eyes on Shady Sands.  He leads the raider clans with a
 # heavy fist.}
-{16101}{}{他领导着可汗。他是见过沙荫镇的危险男人。他靠着武力统治着袭击者部落。}
+{16101}{}{他领导着可汗。而且是曾经想侵占沙荫镇最危险的人物之一，他以铁腕统领着这个匪帮。}
 #{16102}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
 # more often than not, they try to stiff us.}
 {16102}{}{需要４到６天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
@@ -599,7 +599,7 @@
 {16106}{}{她是亚拉德什是女儿。将来她会领导我们，但她应该改改她的脾气。}
 #{16107}{}{He is the leader of our community, and a true hero.  You can always
 # find him at work in the communal hall.}
-{16107}{}{他是我们组织的领导者，一个真正的英雄。及经常可以在公共礼堂见到他在工作。}
+{16107}{}{他是我们组织的领导者，一个真正的英雄。经常可以在公共礼堂见到他在工作。}
 #{16108}{}{He works with Aradesh to make sure we are safe.}
 {16108}{}{他和亚拉德什一同确保我们的安全。}
 #{16109}{}{Our Doctor.  See him if you are hurt.}
@@ -625,7 +625,7 @@
 #{16701}{}{He leads the Khans.  He is one of the most dangerous men that
 # has ever set eyes on Shady Sands.  He leads the raider clans with a
 # heavy fist.}
-{16701}{}{他领导着可汗。他是见过沙荫镇的危险男人。他靠着武力统治着袭击者部落。}
+{16701}{}{他领导着可汗。而且是曾经想侵占沙荫镇最危险的人物之一，他以铁腕统领着这个匪帮。}
 #{16702}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
 # more often than not, they try to stiff us.}
 {16702}{}{需要４到６天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
@@ -641,7 +641,7 @@
 {16706}{}{她是亚拉德什是女儿。将来她会领导我们，但她应该改改她的脾气。}
 #{16707}{}{He is the leader of our community, and a true hero.  You can always
 # find him at work in the communal hall.}
-{16707}{}{他是我们组织的领导者，一个真正的英雄。及经常可以在公共礼堂见到他在工作。}
+{16707}{}{他是我们组织的领导者，一个真正的英雄。经常可以在公共礼堂见到他在工作。}
 #{16708}{}{He works with Aradesh to make sure we are safe.}
 {16708}{}{他和亚拉德什一同确保我们的安全。}
 #{16709}{}{Our Doctor.  See him if you are hurt.}
@@ -788,7 +788,7 @@
 #{18302}{}{The Children worship a mysterious Dark God. They seem harmless, but
 # there is something strange about their religion. The Cathedral is
 # south of here.}
-{18302}{}{孩子们信仰这神秘的黑暗之神。他们看起来是无害的，但是他们的信仰有些奇怪。大教堂在南面。}
+{18302}{}{教徒们信仰这神秘的黑暗之神。他们看起来是无害的，但是他们的信仰有些奇怪。大教堂在南面。}
 #{18303}{}{The Rippers are all inbred. They have a fortified building with traps
 # around it where they take prisoners to be tortured and killed.}
 {18303}{}{电锯党是天生的罪犯。他们用周围布满了陷阱的坚固的建筑来折磨并杀害他们的俘虏。}
@@ -932,7 +932,7 @@
 #{18902}{}{The Cathedral is a great building south of the Boneyard. The Children
 # are a cult worshipping a dark and evil god. They must be stopped
 # before they spread their religion through violence.}
-{18902}{}{大教堂是晒骨场南边最伟大的建筑。孩子吗都在崇拜着黑暗罪恶之神。他们必须在使用暴力推广信仰之前停下来。}
+{18902}{}{大教堂是晒骨场南边最伟大的建筑。教徒们都在崇拜着黑暗罪恶之神。他们必须在使用暴力推广信仰之前停下来。}
 #{18903}{}{Inbreds and jackals. They attack anything in sight that isn't related
 # to them. They live west of here in a fortress surrounded by traps.}
 {18903}{}{天生的豺狼。他们攻击所有他们见到的人。他们住在西面被陷阱环绕的要塞里。}
@@ -1137,7 +1137,7 @@
 {22616}{}{Water Chip}
 #{22700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{22700}{}{格瑞治安长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{22700}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{22701}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {22701}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1168,10 +1168,10 @@
 {22711}{}{那里储藏哈勃城的饮用水。纯水商队控制着水塔。}
 #{22712}{}{Old town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that
 # there is a thieve's den somewhere in there.}
-{22712}{}{老城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
+{22712}{}{旧城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
 #{22713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are
 # all in that area.}
-{22713}{}{那是商人们卖东西的地方。武器店，装备店，友好出租公司和马耳他猎鹰都在那个地方。}
+{22713}{}{那是商人们卖东西的地方。武器店，装备店，友好借贷公司和马耳他猎鹰都在那个地方。}
 #{22714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {22714}{}{那是富商聚居区。纯水商队首领，达伦·海托，在那里有一块地。}
 #{22715}{}{A myth to scare little children into behaving.}
@@ -1202,7 +1202,7 @@
 {23816}{}{Water Chip}
 #{23900}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{23900}{}{格瑞治安长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{23900}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{23901}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {23901}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1233,10 +1233,10 @@
 {23911}{}{那里储藏哈勃城的饮用水。纯水商队控制着水塔。}
 #{23912}{}{Old town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that
 # there is a thieve's den somewhere in there.}
-{23912}{}{老城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
+{23912}{}{旧城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
 #{23913}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are
 # all in that area.}
-{23913}{}{那是商人们卖东西的地方。武器店，装备店，友好出租公司和马耳他猎鹰都在那个地方。}
+{23913}{}{那是商人们卖东西的地方。武器店，装备店，友好借贷公司和马耳他猎鹰都在那个地方。}
 #{23914}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {23914}{}{那是富商聚居区。纯水商队首领，达伦·海托，在那里有一块地。}
 #{23915}{}{A myth to scare little children into behaving.}
@@ -1265,7 +1265,7 @@
 {24416}{}{Water Chip}
 #{24500}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{24500}{}{格瑞治安长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{24500}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{24501}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {24501}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1296,10 +1296,10 @@
 {24511}{}{那里储藏哈勃城的饮用水。纯水商队控制着水塔。}
 #{24512}{}{Old town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that
 # there is a thieve's den somewhere in there.}
-{24512}{}{老城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
+{24512}{}{旧城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
 #{24513}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are
 # all in that area.}
-{24513}{}{那是商人们卖东西的地方。武器店，装备店，友好出租公司和马耳他猎鹰都在那个地方。}
+{24513}{}{那是商人们卖东西的地方。武器店，装备店，友好借贷公司和马耳他猎鹰都在那个地方。}
 #{24514}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {24514}{}{那是富商聚居区。纯水商队首领，达伦·海托，在那里有一块地。}
 #{24515}{}{A myth to scare little children into behaving.}
@@ -1328,7 +1328,7 @@
 {25016}{}{Water Chip}
 #{25100}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{25100}{}{格瑞治安长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{25100}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{25101}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {25101}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1359,10 +1359,10 @@
 {25111}{}{那里储藏哈勃城的饮用水。纯水商队控制着水塔。}
 #{25112}{}{Old town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that
 # there is a thieve's den somewhere in there.}
-{25112}{}{老城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
+{25112}{}{旧城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
 #{25113}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are
 # all in that area.}
-{25113}{}{那是商人们卖东西的地方。武器店，装备店，友好出租公司和马耳他猎鹰都在那个地方。}
+{25113}{}{那是商人们卖东西的地方。武器店，装备店，友好借贷公司和马耳他猎鹰都在那个地方。}
 #{25114}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {25114}{}{那是富商聚居区。纯水商队首领，达伦·海托，在那里有一块地。}
 #{25115}{}{A myth to scare little children into behaving.}
@@ -1391,7 +1391,7 @@
 {25616}{}{Water Chip}
 #{25700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{25700}{}{格瑞治安长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{25700}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{25701}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {25701}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1422,10 +1422,10 @@
 {25711}{}{那里储藏哈勃城的饮用水。纯水商队控制着水塔。}
 #{25712}{}{Old town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that
 # there is a thieve's den somewhere in there.}
-{25712}{}{老城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
+{25712}{}{旧城区在镇子的东北。那里只有僵尸和变种人。我听说那儿的某个地方有个强盗洞穴。}
 #{25713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are
 # all in that area.}
-{25713}{}{那是商人们卖东西的地方。武器店，装备店，友好出租公司和马耳他猎鹰都在那个地方。}
+{25713}{}{那是商人们卖东西的地方。武器店，装备店，友好借贷公司和马耳他猎鹰都在那个地方。}
 #{25714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
 {25714}{}{那是富商聚居区。纯水商队首领，达伦·海托，在那里有一块地。}
 #{25715}{}{A myth to scare little children into behaving.}

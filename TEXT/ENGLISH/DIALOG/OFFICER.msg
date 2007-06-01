@@ -150,7 +150,7 @@
 {144}{}{嘴巴放干净些，否则我就以不尊重执法官的罪名把你抓起来。}
 
 #{145}{}{Yeah, right. See you around.}
-{145}{}{哦，是呀。回见了您哪。}
+{145}{}{哦，是呀。回见了您呐。}
 
 #{146}{}{That's it. I'm fed up with you rousting me.}
 {146}{}{到此为止。我受够了你的挑衅。}
@@ -198,8 +198,7 @@
 #{159}{}{Halt! You're not permitted in there!}
 {159}{}{站住！你没有进入那里的许可！}
 
-# {1000}{}{Overseer}
-{1000}{}{所长}
+{1000}{}{Overseer}
 
 #{1100}{}{He is the supreme authority of the Vault. The Vault answers to his
 # decisions.}
