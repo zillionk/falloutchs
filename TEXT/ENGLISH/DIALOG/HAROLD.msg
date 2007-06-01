@@ -45,7 +45,7 @@
 {117}{}{不，不是。我的意思是什么让你变成这样的？}
 #{118}{HROLD5}{
 #All started with the sirens.  I was young, but ohh, I do remember that.  Lotta terrible years followed.  And I remember walking outta the Vault late one morning.}
-{118}{HROLD5}{所有的事情都是随着打开避难所大门的警报声开始的。。。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
+{118}{HROLD5}{所有的事情都是随着打开避难所大门的警报声开始的。我那时候还小，但是，虽然遭了这么多年的罪，我仍然记得当时的事情。我记得我是在一个上午走出避难所的。}
 #{119}{}{What did you do then?}
 {119}{}{然后呢？}
 #{120}{}{Where was your Vault located?}
