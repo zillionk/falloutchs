@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{哈里也许可以告诉你：Master－主教、Lou－“老副”、Set－赛特、Shed－水处理房、Ghouls－僵尸、Norms－正常人、Necropolis－大墓地城、Unity－“同一”、Cathedral－大教堂、Chip－芯片、Hall－大厅、Water－水、Human－人类、Normies－正常人儿、Normals－正常人、Children－教徒、Children of the Cathedral－大教堂教徒、Water Shed－水处理房、Lieutenant－副官、Lutenant－副官、Loo－“老副”、Lou Tenant“副官”、Larry“拉里”、Barry“巴里”、Gary“加里”、Terry“特里”、Sally“傻里”}
+{1199}{}{哈里也许可以告诉你：Master－主教、Lou－“老副”、Set－赛特、Shed－水处理房、Ghouls－僵尸、Norms－正常人、Necropolis－大墓地城、Unity－“同一”、Cathedral－大教堂、Chip－芯片、Hall－大厅、Water－水、Human－人类、Normies－正常人儿、Normals－正常人、Children－教徒、Children of the Cathedral－大教堂教徒、Water Shed－水处理房、Lieutenant－副官、Lutenant－副官、Loo－“老副”、Lou Tenant“副官”、Larry“拉里”、Barry“巴里”、Gary“加里”、Terry“特里”、Sally“赛莉”}
 
 #{100}{}{You see Harry, the Super Mutant.}
 {100}{}{你看见哈里，超级变种人。}
@@ -81,7 +81,7 @@
 #{138}{}{That makes me sad.}
 {138}{}{那真让我伤心。}
 #{139}{Harry_14}{Hey, you a normal! Gotta take you to Lou. Now!}
-{139}{Harry_14}{嗨，你正常！现在必须把你带给“老副”！}
+{139}{Harry_14}{嗨，你是正常人类！现在必须把你带给“老副”！}
 #{140}{}{Please, don't do it. Let me go.}
 {140}{}{请不要这么做。让我走。}
 #{141}{}{Ah, heck with it! Watch these feminine wiles, mutie! . . .}
@@ -150,7 +150,7 @@
 #{172}{Harry204}{You kill Terry!}
 {172}{Harry204}{你杀了泰里！}
 #{173}{Harry205}{You kill Sally! He did have lousy name. But not reason to kill him!}
-{173}{Harry205}{你杀了傻里！他的名字是难听了点，但不能因为这就杀了他吧！}
+{173}{Harry205}{你杀了赛莉！他的名字是恶心了点，但不能因为这就杀了他吧！}
 #{174}{Harry26}{Not bother me. Leave alone!}
 {174}{Harry26}{不要打扰我。走开！}
 #{175}{Harry207}{Uhhh...Not know.}
