@@ -1,10 +1,24 @@
+#{100}{}{You see the Overseer.}
 {100}{}{你看见所长。}
+#{101}{}{Ahh, you're here. Good. Well, only good that you're here. We've got
+# a problem. A big one. The controller chip for our water purification system has
+# given up the ghost. We can't make another one and the process is too complicated
+# for a work-around system.
+# Simply put, we're running out of drinking water. No water, no Vault.
+# Now we both know we've had our differences as you've grown up. You've got the
+# wanderlust in you - desires for things the Vault just can't satisfy. And you know
+# I think this just might be the last safe place anywhere so I'm always worried
+# about those who want to take off on adventures. Hey, if everyone left, I'd be out
+# of a job!
+# Seriously, this is crucial to our survival. And frankly, I think you're the only
+# hope we have.
+# You need to go find us another controller chip.}
 {101}{}{啊，你在这里。呃，唯一的好事是你在这里。我们出了麻烦，大麻烦。我们净水系统中的控制芯片坏了。再造一个出来也不太可能，而其他处理办法又太过复杂。简单地说，我们快没饮用水了。没有水，就没有避难所。我们俩都明白我们之间有分歧，你骨子里头有一股不羁的野性－－自从你长大后就一直渴望出去旅行。而你要知道，我想这里是世上最后一个安全的地方了。所以我总是担心那些想出去冒险的人。嘿，如果人都走光了，我可就没用了！严肃点讲，这是我们继续生存的关键。老实说，我想你大概是我们唯一的希望。你必须去找另一个控制芯片来。}
 #{102}{Over_0a}{There's a picture on your PIP to help you identify it.}
 {102}{Over_0a}{你的哔哔小子上有张帮你鉴别它的图。}
 #{103}{Over_1}{You have three months to retrieve the chip before the vault runs out
 # of water.}
-{103}{Over_1}{你只有三个月的时间取回晶片，不然避难所就会断水。}
+{103}{Over_1}{你只有三个月的时间取回芯片，不然避难所就会断水。}
 #{104}{}{One month . . . two . . . four . . . five . . . six . . .}
 {104}{}{一个月……二……四……五……六……}
 #{105}{Over_2}{You have two months, maybe less, before the vault runs out of water.
@@ -63,7 +77,7 @@
 {125}{}{唔。}
 #{126}{Over_13}{【The Overseer sighs.】 Don't be sorry. I know you're trying your best and that means a lot.
 # But you can't give up now.}
-{126}{Over_13}{【管理者叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
+{126}{Over_13}{【所长叹气道】别难过。我知道你已经尽力了，这一点很重要。但你现在不能放弃。}
 #{127}{Over_14}{This isn't the best time to debate that. Get the chip, give us the
 # option. Most of these people, including me, won't survive out there.}
 {127}{Over_14}{现在不是为那问题争论的时候。搞到那芯片，给我们选择的余地。这里的大多数人，包括我，不能在外头生存下来。}
@@ -123,7 +137,7 @@
 {149}{Over_27}{好，那就快去！}
 
 #{150}{Over_28}{Have you found the chip?}
-{150}{Over_28}{找到芯片没？}
+{150}{Over_28}{找到芯片没有？}
 
 #{151}{}{Yes.}
 {151}{}{是的。}
@@ -438,7 +452,7 @@
 #{240}{Over_77}{We're taking a terrible risk by showing these people the way to our
 # vault. I understand your choice, and it may be what saves us. But
 # I'm worried. Can we trust these people?}
-{240}{Over_77}{这些外人知道了找到避难所的路，这是很危险的事情。我理解你的选择，那也许是救了我们。但是我很担心，这些人值得信赖么？}
+{240}{Over_77}{这些外人知道了找到避难所的路，这是很危险的事情。我理解你的选择，那也许是救了我们。但是我很担心，这些人值得信赖吗？}
 
 #{241}{}{I trust them.}
 {241}{}{我信任他们。}
