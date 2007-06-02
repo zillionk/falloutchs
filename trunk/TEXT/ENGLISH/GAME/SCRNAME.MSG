@@ -515,7 +515,7 @@
 {344}{}{城镇}                                           #  RndCity
 {345}{}{海边}                                          #  RndCoast
 {346}{}{悬崖}                                       #  RndMtn
-{347}{}{黑曼德斯}                                      #  Gambler
+{347}{}{赫尔南德斯}                                      #  Gambler
 {348}{}{山洞}                                          #  VaultEnt
 {349}{}{麦尔斯}                                          #  Miles
 {350}{}{施密蒂}                                         #  Smitty
