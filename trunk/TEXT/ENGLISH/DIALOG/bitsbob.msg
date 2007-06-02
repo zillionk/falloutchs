@@ -121,7 +121,7 @@
 #{160}{}{Someone killed Decker.  We're in mourning. 【snicker】}
 {160}{}{有人杀了德克。我们现在很悲伤。【窃笑】}
 #{161}{}{Someone shot Sheriff Greene.  Don't know about the deputy, though.}
-{161}{}{有人向治安官格瑞开枪。现在还不知道代理治安官有没有出事。}
+{161}{}{有人向治安官格林开枪。现在还不知道代理治安官有没有出事。}
 #{162}{}{Daren Hightower was murdered.  And all that money couldn't save him.  Ironic, ain't it?}
 {162}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{163}{}{Someone stole a necklace from the Hightowers.  Man, did they ever make a big mistake.  They're dead for sure!}

@@ -429,7 +429,7 @@
 
 #{236}{}{Tell our friendly Sheriff Greene that Decker's schedule is looking a bit busy and that he should try
 # back in a few months.  I'm sorry, but I think you should leave... for good.}
-{236}{}{告诉我们的那个好朋友格瑞警长，德克最近很忙，让他几个月后再来拜访我们吧。抱歉，你可以走了……这是为你好。}
+{236}{}{告诉我们的那个好朋友格林警长，德克最近很忙，让他几个月后再来拜访我们吧。抱歉，你可以走了……这是为你好。}
 
 #{237}{}{I don't think she sent you here.  Please leave.}
 {237}{}{我想她不会派你来的，走开。}

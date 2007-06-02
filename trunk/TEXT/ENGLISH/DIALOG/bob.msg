@@ -127,7 +127,7 @@
 #{163}{}{Someone killed Decker. We're in mourning, at least until the Hub runs out of booze.}
 {163}{}{有人杀了德克。我们现在很“悲伤”，一直要到哈勃城的酒被喝光。（嘿嘿）}
 #{164}{}{Someone shot Sheriff Greene. Don't know about the deputy though.}
-{164}{}{有人向治安官格瑞开枪。现在还不知道代理治安官情况如何。}
+{164}{}{有人向治安官格林开枪。现在还不知道代理治安官情况如何。}
 #{165}{}{Daren Hightower was murdered. And all that money couldn't save him. Ironic, ain't it?}
 {165}{}{达伦·海托被谋杀了。所有的钱都救不了他的命。很讽刺，是不是？}
 #{166}{}{Someone's really pissed off someone important, because I hear that there's a big hit out on some poor sod.}

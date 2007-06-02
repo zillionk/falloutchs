@@ -276,7 +276,7 @@
 #{230}{}{I see you have disposed of my Second.  I will have to take care of you myself.}
 {230}{}{我看见你结果了我的副手，我会亲自料理你。}
 #{231}{}{How good to see you Sheriff Greene!  I see you've come to say your goodbyes.}
-{231}{}{贾斯丁·格瑞，见到你很高兴！我猜你是来道别的。}
+{231}{}{贾斯丁·格林，见到你很高兴！我猜你是来道别的。}
 
 #
 # TRANSLATION NOTE: The following groups of  lines are identical in English,
@@ -354,7 +354,7 @@
 {1025}{}{Nightclub}
 # {1025}{}{夜总会}
 {1026}{}{Greene}
-# {1026}{}{格瑞}
+# {1026}{}{格林}
 {1027}{}{Hightower}
 # {1027}{}{高塔}
 {1028}{}{Caravans}
