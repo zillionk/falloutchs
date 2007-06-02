@@ -3,7 +3,7 @@
 
 #{101}{}{Hello, Initiate. So, you are the one who made it out
 #of the Ancient Order alive.}
-{101}{}{你好，新兵。看来你就是那个让古老程序运转起来的人。}
+{101}{}{你好，新兵。看来你就是那个把磁盘从远古遗迹【闪光之地】活着拿回来的人。}
 
 #{102}{}{Wha?}
 {102}{}{什么？}
@@ -12,7 +12,7 @@
 {103}{}{你是谁？}
 
 #{104}{}{Sorry, I thought you were someone else. Bye.}
-{104}{}{抱歉，我还以为你是别的什么人。再见。}
+{104}{}{抱歉，我认错人了。再见。}
 
 #{105}{}{The name is Mathia. I am officially Maxson's assistant, but
 #I am also here to make sure no one messes with the old man.}
@@ -29,7 +29,7 @@
 
 #{109}{}{No, no, not at all. He's a good guy. (Jokingly) Besides,
 #I wouldn't bad mouth him while he is standing next to me.}
-{109}{}{不，不，绝对不是。他是一个好人。【开玩笑地】此外，他站在我身边时我从不说他坏话。}
+{109}{}{不，不，绝对不是。他是一个好人。【开玩笑】此外，他站在我身边时我从不说他坏话。}
 
 #{110}{}{So, what is it that you do for Maxson as his assistant.}
 {110}{}{那么，你身为马克松将军的助手都做什么？}
@@ -38,14 +38,14 @@
 {111}{}{再见。}
 
 #{112}{}{I take care of all the paper work. He could not do paperwork to save his life. Also, if he clears a Weapons Upgrade for oneof the Brothers, I process the order.}
-{112}{}{我负责所有的文书工作。他如果干这些简直是要了他的命。所以，如果他要为某位兄弟升级武器，我就得照做。}
+{112}{}{我负责所有的文书工作。他如果干这些简直是要了他的命。所以，如果他命令为某位兄弟升级武器，我就处理相应的工作。}
 
 #{113}{}{Ok, thanks for the information.}
 {113}{}{好，谢谢你告诉我这些事情。}
 
 #{114}{}{I can't believe an idiot like you is the one who made the
 #Ancient Order run. Go figure.}
-{114}{}{真不敢相信你这样的一个白痴能让古老程序运转。想想看吧。}
+{114}{}{真不敢相信你这样的一个白痴能让远古遗迹【闪光之地】重新运转起来。想想看吧。}
 
 #{115}{}{Hello again Initiate. How can I help you?}
 {115}{}{真高兴再见到你，新兵。我能为你做点什么？}
@@ -57,7 +57,7 @@
 {117}{}{对不起，我忘了你叫什么。}
 
 #{118}{}{Sorry, I thought you were someone else. Good day.}
-{118}{}{抱歉，我还以为你是别的什么人。日安。}
+{118}{}{抱歉，我认错人了。日安。}
 
 #{119}{}{Alright, let's go. (He grabs you by the arm)}
 {119}{}{好，我们走。【他抓住你的胳膊】}
@@ -72,17 +72,17 @@
 {122}{}{好吧，好吧，我走。}
 
 #{123}{}{Get the hell away from me. I'm not going anywhere.}
-{123}{}{离我远点。我哪也不去。}
+{123}{}{你他妈的离我远点。我哪也不去。}
 
 #{124}{}{Ok. Maxson has cleared a weapons upgrade for you. What would
 # you like?}
-{124}{}{好的，马克松将军命令我要将你的武器升级。你选择哪个？}
+{124}{}{好的，马克松将军命令我升级你的武器装备。你想要什么？}
 
 #{125}{}{Wha?}
 {125}{}{什么？}
 
 #{126}{}{Sniper Rifle.}
-{126}{}{狙击莱福枪。}
+{126}{}{狙击来福枪。}
 
 #{127}{}{Rocket Launcher.}
 {127}{}{火箭筒。}
@@ -101,7 +101,7 @@
 
 #{132}{}{The Elders have called a meeting. They wish you to meet them in the
 # conference room right away.}
-{132}{}{元老们正在召开一个会议。他们希望你能马上到会议室见他们。}
+{132}{}{元老们召开了一个会议。他们希望你能马上到会议室见他们。}
 
 #{133}{}{Where is the conference room?}
 {133}{}{会议室在哪里？}
@@ -110,4 +110,4 @@
 {134}{}{好的，谢谢你。}
 
 #{135}{}{It's on this floor. The northeast corner, right behind the assembly hall.}
-{135}{}{就在这一层。东北角，在会议大厅的后边。}
+{135}{}{就在这一层。东北角，会议大厅的后边。}
