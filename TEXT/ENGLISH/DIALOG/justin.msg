@@ -236,7 +236,7 @@
 #{172}{}{Man, that was one hell of a battle!  You did well in there.  Now that Decker and Kane are gone the rest of the
 # Underground will fall very shortly.  Without leadership, organizations like that can't last.  Nobody around here is smart
 # enough to take up the reigns.}
-{172}{}{老天，这真是一场好斗啊！你干得不错。德克和肯恩死了，匪徒也会很快树倒猢狲散的。没有领导的组织是不长久的。没有人敢出头当新老板。}
+{172}{}{老天，这真是一场好斗啊！你干得不错。德克和凯恩死了，匪徒也会很快树倒猢狲散的。没有领导的组织是不长久的。没有人敢出头当新老板。}
 
 #{173}{}{Well, here's the rest of your reward.  Thanks again for your help.  This city owes you a debt of gratitidue.
 #  【The Sheriff hands you 1000 caps】}
