@@ -1788,7 +1788,7 @@
 {986}{}{力场发生器}                            # Emiter1a.int
 {987}{}{力场}                                    # Field1a.int
 {988}{}{力场发生器}                            # Emiter1a.int
-{989}{}{弗罗德}                                        # Floater.int
+{989}{}{浮游特}                                        # Floater.int
 {990}{}{勒诺}                                         # Lenore.int
 {991}{}{鲍勃}                                            # BitsBob.int
 {992}{}{门}                                           # KaneDoor.int
