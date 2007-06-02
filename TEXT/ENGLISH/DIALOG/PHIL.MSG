@@ -50,7 +50,7 @@
 #{133}{}{ caps together and award them to you for help in defending us against that #scum.}
 
 {100}{}{你看到一个农夫。}
-{101}{}{你看到菲尔。}
+{101}{}{你看到费尔。}
 {102}{}{这不是我的狗。}
 {103}{}{太他妈对了，射它。}
 {104}{}{如果我是你的话我绝对不信任那畜生。它会杀人的。}

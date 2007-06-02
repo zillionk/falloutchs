@@ -1,7 +1,7 @@
 #{100}{}{You see a peasant.}
 {100}{}{你看见一个农民。}
 #{101}{}{You see Phil.}
-{101}{}{你看见菲尔。}
+{101}{}{你看见费尔。}
 #{102}{}{It ain't my dog!}
 {102}{}{这不是我的狗！}
 #{103}{}{Damn right, shoot that beast!}
