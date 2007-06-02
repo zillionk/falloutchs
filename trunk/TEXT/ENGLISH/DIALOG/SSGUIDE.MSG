@@ -205,7 +205,7 @@
 # help of a healer.  Our doctor, Razlo, lives in southern most house.  If you
 # are seriously hurt, see him.  Try not to bother him at night.  He's a pretty
 # cranky person without his sleep.}
-{149}{}{像沙荫镇这样的小地方，没有医生是无法生存的。我们的医生罗兹住在最南边的房子里。如果你受了重伤，就去找他吧，不过最好不要在晚上打扰他，他如果睡不好觉，脾气是很暴躁的。}
+{149}{}{像沙荫镇这样的小地方，没有医生是无法生存的。我们的医生拉斯洛住在最南边的房子里。如果你受了重伤，就去找他吧，不过最好不要在晚上打扰他，他如果睡不好觉，脾气是很暴躁的。}
 
 #{150}{}{You gain 250 experience points for the knowledge you have gained from
 # Katrina.}
