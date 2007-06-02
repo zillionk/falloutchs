@@ -135,7 +135,7 @@
 #{167}{}{Someone stole a necklace from the Hightowers. Man, did they ever make a big mistake. They're dead for sure.}
 {167}{}{有人从海托家里偷了一条项链。老兄，他们犯了大错。他们死定了！}
 #{168}{}{Someone killed Jain over at the Cathedral. I hear she was a real bitch!}
-{168}{}{有人在大教堂杀了杰伊。我听说她是一个真正的婊子！}
+{168}{}{有人在大教堂杀了简恩。我听说她是一个真正的婊子！}
 #{169}{}{Well, the only new thing is that the Children of the Cathedral have taken over the Hospital. It's pretty boring around here lately. Mind you, they're a strange crowd.}
 {169}{}{嗯，唯一的新闻是大教堂教徒接管了医院。最近这里很无聊。你要小心，他们这一伙人很怪。}
 #{170}{}{Anything else?}
