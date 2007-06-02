@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－杰伊、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。◎}
+{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。◎}
 
 #{100}{}{Decker has no wish to talk to you any more.}
 {100}{}{德克不想再和你说话。}
@@ -166,7 +166,7 @@
 #{175}{}{So what do you want me to do?}
 {175}{}{那么你要我做什么？}
 #{176}{DECK_29}{A small matter.  Kill the High Priestess, Jain.  Once she's gone, this little nuisance will be ended.  Interested?}
-{176}{DECK_29}{一件小事，杀了高级女祭司杰伊。没了她，这些小麻烦事就终止了，有兴趣吗？}
+{176}{DECK_29}{一件小事，杀了高级女祭司简恩。没了她，这些小麻烦事就终止了，有兴趣吗？}
 #{177}{}{Absolutely.}
 {177}{}{当然。}
 #{178}{}{But that would be immoral!}
@@ -342,7 +342,7 @@
 {1019}{}{Morpheus}
 # {1019}{}{墨菲斯}
 {1020}{}{Jain}
-# {1020}{}{杰伊}
+# {1020}{}{简恩}
 {1021}{}{Master}
 # {1021}{}{主教}
 {1022}{}{Store}

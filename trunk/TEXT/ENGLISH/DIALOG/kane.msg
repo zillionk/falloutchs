@@ -616,7 +616,7 @@
 #{293}{}{I understand that you are responsible for the death of Jain, the High Priestess. I don't know what
 # quarrels you had with her and I don't care, but we're very grateful nevertheless.
 # (Kane gives you 1000 hubbucks)}
-{293}{}{我知道你杀了高级牧师杰伊。我不知道你和她有什么过节，但是我们还是很感激你。}
+{293}{}{我知道你杀了高级牧师简恩。我不知道你和她有什么过节，但是我们还是很感激你。}
 
 #{294}{}{Who told you?}
 {294}{}{谁告诉你的？}

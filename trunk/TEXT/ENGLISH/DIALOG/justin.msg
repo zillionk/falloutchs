@@ -20,7 +20,7 @@
 {105}{}{德克要我去杀一个商人和商人的老婆！}
 
 #{106}{}{Decker tried to hire me to kill someone named Jain.}
-{106}{}{德克要我去杀杰伊！}
+{106}{}{德克要我去杀简恩！}
 
 #{107}{}{Nothing, sorry.}
 {107}{}{没事，对不起。}

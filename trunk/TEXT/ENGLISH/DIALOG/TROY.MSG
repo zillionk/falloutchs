@@ -27,7 +27,7 @@
 #{113}{}{Excellent!}
 {113}{}{棒极了！}
 #{114}{}{You should not play games with Lady Jain or the Children.}
-{114}{}{你不该跟杰伊女士或她的卫兵玩花样。}
+{114}{}{你不该跟简恩女士或她的卫兵玩花样。}
 #{115}{}{You should not insult what you cannot kill. Now, shall you come with me and live, or do you wish to stay here and die?}
 {115}{}{你不应该侮辱你打不过的人。现在，你要是不想死在这就跟我走。}
 #{116}{}{I'm coming!}
