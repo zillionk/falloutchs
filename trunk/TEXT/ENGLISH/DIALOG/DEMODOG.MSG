@@ -11,6 +11,6 @@
 #{105}{}{You earn 550 experience points for befriending the dog.}
 {105}{}{你因为与这条狗交上朋友得到了５５０点经验值。}
 #{106}{}{You earn 335 experience points for defeating the dog and letting Phil back into his house.}
-{106}{}{你因为击败了这条狗并让菲尔回到屋里得到了３３５点经验值。}
+{106}{}{你因为击败了这条狗并让费尔回到屋里得到了３３５点经验值。}
 #{107}{}{You earn 35 experience points for killing the dog.}
 {107}{}{你因为杀死了这条狗得到３５点经验值。}
