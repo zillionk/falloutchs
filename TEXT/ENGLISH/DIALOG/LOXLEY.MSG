@@ -1,8 +1,8 @@
 #{100}{}{You see Loxley, leader of the Thieves' Guild.}
-{100}{}{你看到洛克斯尼，一个盗贼头目。}
+{100}{}{你看到洛克西里，一个盗贼头目。}
 
 #{101}{LOX_0}{It's a little gift from me Da and Mum.  Actually, a few generations before that.  Do you like it?}
-{101}{LOX_0}{这是我爸妈留给我的小礼物。其实是更上一代人留下的。你喜欢吗？}
+{101}{LOX_0}{这是我爸妈留给我的小礼物。其实是更上一代人留下的。你觉得怎么样？}
 
 #{102}{}{It suits you.}
 {102}{}{很适合你。}
@@ -11,7 +11,7 @@
 {103}{}{不，它很刺耳。}
 
 #{104}{LOX_0A}{Why, thank you.  Have to work a bit to keep it with so little refinement about, don't you know.  But enough of that. Loxley's the name.  And yours is?}
-{104}{LOX_0A}{哎呀，谢谢你。让它保持这种细微的差别还真得费点力气，明白吗？不说这个了。我叫洛克斯尼。你是？}
+{104}{LOX_0A}{哎呀，谢谢你。让它保持这种细微的差别还真得费点力气，明白吗？不说这个了。我叫洛克西里。你是？}
 
 #{105}{}{I'm }
 {105}{}{我是}
@@ -164,7 +164,7 @@
 {153}{}{不。}
 
 #{154}{LOX_16}{Oh, no.  I'm so afraid.  Life is so hard. Loxley, I'd rather be a coward for all of my life than to have a single moment of triumph.  Ah, just another wanker, aren't you.  Out!}
-{154}{LOX_16}{啊，不。我很怕。活着不容易啊，洛克斯尼，我宁愿做一辈子胆小鬼也不愿意出一时的风头。哈，你不就是这种废物吗？滚蛋！}
+{154}{LOX_16}{啊，不。我很怕。活着不容易啊，洛克西里，我宁愿做一辈子胆小鬼也不愿意出一时的风头。哈，你不就是这种废物吗？滚蛋！}
 
 #{155}{LOX_17}{Haven't figured it out yet, have we?  The First Test was just getting here!  That's the only reason I'm considering you.}
 {155}{LOX_17}{还没决定，不是吗？初试就是到达这里！这是我可以考虑你入会的唯一原因。}
@@ -278,7 +278,7 @@
 {189}{LOX_29}{哈！哈！干得好！恭喜。你现在已经成为世界著名的盗贼工会的一员了。让我们把茉莉叫来，一起庆祝一番，如何？}
 
 #{190}{LOX_30}{Oh, how funny.  I really must tell you, though, that I don't care much for this kind of a joke.  Kind of a chuckle.  Kind of a put-one-over-on-the-old-Loxley thing huh.  Tell you what.  One more chance.  Bring the necklace here.}
-{190}{LOX_30}{啊，真有趣啊。我真的必须无奈的告诉你，虽然我不介意这种玩笑。这种白痴玩笑。这种侮辱我洛克斯尼的玩笑。告诉你说，最后一次机会。把项链带回来。}
+{190}{LOX_30}{啊，真有趣啊。我真的必须无奈的告诉你，虽然我不介意这种玩笑。这种白痴玩笑。这种侮辱我洛克西里的玩笑。告诉你说，最后一次机会。把项链带回来。}
 
 #{191}{LOX_31}{You're really just a complete pain in the ass, aren't you?}
 {191}{LOX_31}{你果真他妈的就是个废物，不是吗？}
@@ -509,7 +509,7 @@
 {266}{LOX_91}{和茉莉谈谈，她会告诉你细节。}
 
 #{267}{}{Loxley looks too busy to talk.}
-{267}{}{洛克斯尼似乎没空理你。}
+{267}{}{洛克西里似乎没空理你。}
 
 #{268}{}{Jasmine will give you your reward.}
 {268}{}{茉莉会给你报酬。}
