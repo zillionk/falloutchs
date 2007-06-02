@@ -55,7 +55,7 @@
 #{122}{}{Really? That would be wonderful! We're just missing a few parts, but
 # I'm sure that  if you could scrounge up the right pieces, we could be
 # self-sufficient! Sammael might be able to give you some help.}
-{122}{}{真的吗？那太好了！我们就是丢了些部件，不过我肯定如果你收集到合适的部件，我们就能够自给自足。山姆会帮你的。}
+{122}{}{真的吗？那太好了！我们就是丢了些部件，不过我肯定如果你收集到合适的部件，我们就能够自给自足。山谬会帮你的。}
 #{123}{}{Have you found the parts yet?}
 {123}{}{你找到部件了吗？}
 #{124}{}{Yes, here they are.}
@@ -64,11 +64,11 @@
 {125}{}{还没，你说我们要找谁了解这些部件？}
 #{126}{}{You'll need to talk to Sammael. You'll usually find him in
 # a tent down by the farms during the day.}
-{126}{}{你应该和山姆聊聊。一般白天的时候到农场附近的帐篷里可以找到他。}
+{126}{}{你应该和山谬聊聊。一般白天的时候到农场附近的帐篷里可以找到他。}
 #{127}{}{【Miles looks over the parts】 Those are them, but it looks like
 # Smitty is going to have to do a little work on them.
 # Can you take them over to him?}
-{127}{}{【麦尔斯看着部件】是它们，不过看来山姆要对它们做些处理。你能把它们带给他吗？}
+{127}{}{【麦尔斯看着部件】是它们，不过看来山谬要对它们做些处理。你能把它们带给他吗？}
 #{128}{}{I've got other things to deal with.  Can you do it yourself?}
 {128}{}{我有别的事要处理。你能自己做这事吗？}
 #{129}{}{Sure, I'll be back after he's fixed them.}
@@ -86,7 +86,7 @@
 {134}{}{你能把这些部件带给施密蒂吗？}
 #{135}{}{【Miles takes the fixed parts from you】 Looks like Smitty did a great job on
 # these. Thanks for the help, and here's some stuff for your trouble.}
-{135}{}{【麦尔斯从你这拿走修好的部件】看起来山姆干得不错。多谢你的帮忙，这里有些东西聊表谢意。}
+{135}{}{【麦尔斯从你这拿走修好的部件】看起来山谬干得不错。多谢你的帮忙，这里有些东西聊表谢意。}
 #{136}{}{【Miles hands you some caps and some stimpacks.】}
 {136}{}{【麦尔斯递给你一些钱和治疗针。】}
 #{137}{}{If you ever get back this way, you might want to look me and Smitty up.

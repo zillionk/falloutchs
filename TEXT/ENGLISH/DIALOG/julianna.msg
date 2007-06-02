@@ -14,7 +14,7 @@
 {104}{}{你好。}
 
 #{105}{}{I have a message from Romero.}
-{105}{}{罗米欧让我给你带信。}
+{105}{}{罗梅罗让我给你带信。}
 
 #{106}{}{May I ask your name, miss?}
 {106}{}{你叫什么名字，小姐？}
@@ -44,7 +44,7 @@
 {113}{}{麦尔斯是搞化学的，他做子弹之类的货。施密蒂是个手艺人，会做水壶和刀子。}
 
 #{114}{}{You have a message from Romero? What is it?}
-{114}{}{你有罗米欧的消息？什么消息？}
+{114}{}{你有罗梅罗的消息？什么消息？}
 
 #{115}{}{He says that he's through with you.}
 {115}{}{他说他和你没关系了。}
@@ -84,4 +84,4 @@
 
 #{126}{}{You gain 250 for assisting the star-crossed lovers with the delivery of
 # Romero's locket to Julianna.}
-{126}{}{你帮助罗米欧把盒子送给茱莉亚娜，成全了一对坎坷爱人，你获得２５点经验值。}
+{126}{}{你帮助罗梅罗把盒子送给茱莉亚娜，成全了一对坎坷爱人，你获得２５点经验值。}

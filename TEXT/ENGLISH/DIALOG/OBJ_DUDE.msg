@@ -823,7 +823,7 @@
 {18313}{}{他们是内城区的保卫力量。他们保护我们不受帮派骚扰。凯来布是他们的首领。}
 #{18314}{}{The Scavs have the job of searching the Boneyard for valuable
 # equipment. They are led by Sammael.}
-{18314}{}{任务是用贵重的器材探索晒骨场。他们由山姆带队。}
+{18314}{}{任务是用贵重的器材探索晒骨场。他们由山谬带队。}
 #{18315}{}{The Angel's Boneyard is the remains of the old city of Los Angeles.
 #  We're in the middle of the Boneyard.}
 {18315}{}{美丽的晒骨场是古老的城市洛杉矶的遗迹。我们在晒骨场中央。}

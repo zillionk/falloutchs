@@ -522,7 +522,7 @@
 {351}{}{埃迪镇民}                                      #  Adytownr
 {352}{}{小头目}                                      #  Regulatr
 {353}{}{罗伊}                                          #  Lorri
-{354}{}{山姆}                                        #  Sammael
+{354}{}{山谬}                                        #  Sammael
 {355}{}{凯来布}                                          #  Caleb
 {356}{}{泰勒}                                         #  Taylor
 {357}{}{茱莉亚娜}                                       #  Julie
@@ -583,7 +583,7 @@
 {382}{}{利刃帮的武器主管}                          #  Dolgan
 {383}{}{米歇尔}                                       #  Michelle
 {384}{}{利刃帮巡夜人}                          #  Dragon
-{385}{}{罗米欧}                                         #  Romero
+{385}{}{罗梅罗}                                         #  Romero
 {386}{}{钢铁兄弟会}                           #  Brohd12
 {387}{}{钢铁兄弟会}                           #  Brohd34
 {388}{}{乔}                                            #  Jon
@@ -826,7 +826,7 @@
 {504}{}{地窖工头}                                   #DemoCryp
 {505}{}{呆滞的地窖工人}                                    # DemoFool
 {506}{}{兰尼}                                          #Lenny
-{507}{}{艾斯派克}                                        #Icepick
+{507}{}{冰叉}                                        #Icepick
 {508}{}{斯盖则}                                        # Skizzer
 {509}{}{居民}                              # Pez
 {510}{}{罗克}                                           # Rock
@@ -1184,7 +1184,7 @@
 {682}{}{达伦·海托}                                # hightowr.int
 {683}{}{海托的警卫}                              # htwrgrd.int
 {684}{}{海托的妻子}                               # htwrwife.int
-{685}{}{哈博尔}                                         #/ hubber.int
+{685}{}{哈勃人}                                         #/ hubber.int
 {686}{}{旅行商人}                               # hubcarvn.int
 {687}{}{哈勃城的警官}                         # hubcop.int
 {688}{}{戴花的嬉皮士}                                   # hubflrcd.int
@@ -1655,7 +1655,7 @@
 {913}{}{水配给存贮箱}                      # VaultBox.int
 {914}{}{计算机}                                       # MstrComp.int
 {915}{}{门}                                           # Childoor.int
-{916}{}{朱尼奥}                                          # HWMHost.int
+{916}{}{朱里奥}                                          # HWMHost.int
 {917}{}{赶车的人}                               # CarvLead.int
 {918}{}{书柜}                                       # GenBCase.int
 {919}{}{一流的游侠}                          # BroInvad.int
