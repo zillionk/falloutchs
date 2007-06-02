@@ -1,5 +1,5 @@
 #{100}{}{You see Sammael, one of the Scavs from Adytum.}
-{100}{}{你看见山姆，内城区中拾荒者的一员。}
+{100}{}{你看见山谬，内城区中拾荒者的一员。}
 
 #{101}{}{You see a grungy man in dark blue clothes.}
 {101}{}{你看见一个穿着暗蓝色衣服的猥琐男。}
@@ -20,7 +20,7 @@
 {106}{}{呃？}
 
 #{107}{}{The pleasure's mine. I'm called Sammael.}
-{107}{}{很高兴见到你。我叫做山姆。}
+{107}{}{很高兴见到你。我叫做山谬。}
 
 #{108}{}{What do you do here?}
 {108}{}{你在这里做什么？}
