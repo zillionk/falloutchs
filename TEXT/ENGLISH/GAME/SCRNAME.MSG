@@ -523,7 +523,7 @@
 {352}{}{小头目}                                      #  Regulatr
 {353}{}{罗伊}                                          #  Lorri
 {354}{}{山谬}                                        #  Sammael
-{355}{}{凯来布}                                          #  Caleb
+{355}{}{卡勒布}                                          #  Caleb
 {356}{}{泰勒}                                         #  Taylor
 {357}{}{茱莉亚娜}                                       #  Julie
 {358}{}{教众}                              #  FolSchol
@@ -1175,7 +1175,7 @@
 {673}{}{哈勃城的警察}                             # gencop.int
 {674}{}{远行商队商人}                         # genfgt.int
 {675}{}{瘾君子}                                           # genskag.int
-{676}{}{古维多}                                          # guido.int
+{676}{}{技师}                                          # guido.int
 {677}{}{牢固的门}                                    # gunlock.int
 {678}{}{警卫}                                      # hbodgrd2.int
 {679}{}{大教堂教徒警卫}                # hchdgrd.int
@@ -1191,9 +1191,9 @@
 {689}{}{杰克}                                           # hubjake.int
 {690}{}{大教堂修士}              # hubpatnt.int
 {691}{}{施密蒂}                                         # hubsmity.int
-{692}{}{贾斯麦}                                        # jasmine.int
+{692}{}{茉莉}                                        # jasmine.int
 {693}{}{招聘信息}                                       # jobpost.int
-{694}{}{肯恩}                                           # kane.int
+{694}{}{凯恩}                                           # kane.int
 {695}{}{凯利}                                           # keri.int
 {696}{}{罗仑佐的警卫}                                # leon.int
 {697}{}{罗仑佐}                                        # lorenzo.int
@@ -1355,7 +1355,7 @@
 {763}{}{阿加莎}                                         # Agatha.int
 {764}{}{查克}                                          # Chuck.int
 {765}{}{艾伦}                                           # Alan.int
-{766}{}{班德恩}                                        # Brenden.int
+{766}{}{布兰顿}                                        # Brenden.int
 {767}{}{帕特里克}                                        # Patrick.int
 {768}{}{伊斯马克}                                         # Ismarc.int
 {769}{}{对你生气}                                   # Enemy.int
@@ -1549,7 +1549,7 @@
 {867}{}{临时安置区}                                # TEMP
 {868}{}{临时安置区}                                # TEMP
 {869}{}{临时安置区}                                # TEMP
-{870}{}{拉里爵士}                                   # LaryKnig.int
+{870}{}{拉里骑士}                                   # LaryKnig.int
 {871}{}{弗蕾的秘书}                                  # VreScrib.int
 {872}{}{弗蕾的警卫}                                   # vregrd.int
 {873}{}{马克松的警卫}                                 # MaxGrd.int
@@ -1734,7 +1734,7 @@
 {962}{}{斯塔布雷顿夫人}                                    # Staple.int
 {963}{}{警报灯}                                    # Klaxon.int
 {964}{}{拉杆开关}                                  # Toggle.int
-{965}{}{保罗爵士}                                    # Paul.int
+{965}{}{保罗骑士}                                    # Paul.int
 {966}{}{李昂}                                           # HtwrLeon.int
 {967}{}{地面}                                          # VPlasTrap.int
 {968}{}{地面}                                          # VExldTrap.int

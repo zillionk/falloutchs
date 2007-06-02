@@ -1,5 +1,5 @@
 #{100}{}{You see a Paladin.}
-{100}{}{你看到一个圣骑士。}
+{100}{}{你看到一个游侠。}
 
 #{101}{}{Sorry, we're on alert. I can't talk right now.}
 {101}{}{对不起，我们正在警戒中。我现在不能和你交谈。}
