@@ -113,7 +113,7 @@
 
 #{131}{}{What, are you some kind of weirdo or something? Caleb never
 # should have let you in the gates!}
-{131}{}{什么，你是变态吗？凯来布是怎么让你进城门的？！}
+{131}{}{什么，你是变态吗？卡勒布是怎么让你进城门的？！}
 
 #{132}{}{That's cool. All we have here is this stupid well
 # and those underground farms that Miles keeps trying

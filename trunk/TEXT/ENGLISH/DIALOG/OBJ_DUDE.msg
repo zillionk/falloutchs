@@ -820,7 +820,7 @@
 {18312}{}{一个很大的辐射地域，在很远的南方，好像我说过。}
 #{18313}{}{They're the police force of Adytum. They protect us from the gangs.
 #  Caleb is the leader.}
-{18313}{}{他们是内城区的保卫力量。他们保护我们不受帮派骚扰。凯来布是他们的首领。}
+{18313}{}{他们是内城区的保卫力量。他们保护我们不受帮派骚扰。卡勒布是他们的首领。}
 #{18314}{}{The Scavs have the job of searching the Boneyard for valuable
 # equipment. They are led by Sammael.}
 {18314}{}{任务是用贵重的器材探索晒骨场。他们由山谬带队。}
