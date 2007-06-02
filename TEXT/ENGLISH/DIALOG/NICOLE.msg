@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{妮可儿也许可以告诉你：Morpheus－墨菲斯、Nicole－妮可儿、Laura－劳拉、Jake－杰克、Library－图书馆、God－黑暗上帝、Master－主教、Nightkin－夜行团、Cathedral－大教堂、Adytum－内城区、Angel's－洛杉矶、Followers－末世论者、War－水、Hub－哈勃城、Brotherhood－兄弟会、Angels－洛杉矶、Boneyard－晒骨场、Steel－铁。◎}
+{1199}{}{妮可儿也许可以告诉你：Morpheus－墨菲斯、Nicole－妮可儿、Laura－劳拉、Jake－杰克、Library－图书馆、God－黑暗上帝、Master－主教、Nightkin－夜行团、Cathedral－大教堂、Adytum－内城区、Angel's－洛杉矶、Followers－末世论者、War－大战、Hub－哈勃城、Brotherhood－兄弟会、Angels－洛杉矶、Boneyard－晒骨场、Steel－铁。◎}
 
 #{100}{}{You see Nicole.}
 {100}{}{你看见妮可尔。}
