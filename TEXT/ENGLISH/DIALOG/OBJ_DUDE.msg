@@ -1137,7 +1137,7 @@
 {22616}{}{Water Chip}
 #{22700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{22700}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{22700}{}{格林警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{22701}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {22701}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1202,7 +1202,7 @@
 {23816}{}{Water Chip}
 #{23900}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{23900}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{23900}{}{格林警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{23901}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {23901}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1265,7 +1265,7 @@
 {24416}{}{Water Chip}
 #{24500}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{24500}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{24500}{}{格林警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{24501}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {24501}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1328,7 +1328,7 @@
 {25016}{}{Water Chip}
 #{25100}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{25100}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{25100}{}{格林警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{25101}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {25101}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}
@@ -1391,7 +1391,7 @@
 {25616}{}{Water Chip}
 #{25700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are
 # some who believe them to be more of a hindrance than help.}
-{25700}{}{格瑞警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
+{25700}{}{格林警长领导着警察负责维护哈勃城的法律和秩序。这里有些人总是扰乱治安。}
 #{25701}{}{They control all of the water in the Hub. They seized control of the water towers, and now
 # people have to pay them to get water.}
 {25701}{}{他们控制着哈勃城所有的水源。他们控制着水塔，现在人们只能向他们买水。}

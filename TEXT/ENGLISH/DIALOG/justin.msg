@@ -1,5 +1,5 @@
 #{100}{}{You see Sheriff Justin Greene.}
-{100}{}{你看见治安警长贾斯丁·格瑞。}
+{100}{}{你看见治安警长贾斯丁·格林。}
 
 #{101}{}{Awe, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me
 # from blowing you away on the spot. I suggest you leave our town--Right now. And stay away from our children.}
@@ -7,11 +7,11 @@
 
 #{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{102}{}{你好，先生！我是贾斯丁·格瑞，这个城市的警长。我能帮你什么么？}
+{102}{}{你好，先生！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
 
 #{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{103}{}{你好，女士！我是贾斯丁·格瑞，这个城市的警长。我能帮你什么么？}
+{103}{}{你好，女士！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
 
 #{104}{}{Well, spit it out!}
 {104}{}{很好，说出来！}
