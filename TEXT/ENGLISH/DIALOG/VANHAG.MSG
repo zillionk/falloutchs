@@ -3,7 +3,7 @@
 #{101}{}{I do not speak with heathen souls such as yourself.}
 {101}{}{我不和异教的人说话，比如说你。}
 #{102}{}{Your report, VanHagan.}
-{102}{}{你的报告，凡·海根。}
+{102}{}{你的报告，范·海根。}
 #{103}{}{The Master is pleased with your progress, but his need is great and time is limited.}
 {103}{}{主教对于你的进展很满意，但他的需求很大，给你的时间也很有限。}
 #{104}{}{The Master should know that raw material is limited. We cannot create our soldiers without more stock.}
