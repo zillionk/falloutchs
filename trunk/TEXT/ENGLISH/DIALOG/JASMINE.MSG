@@ -49,7 +49,7 @@
 {114}{}{对不起，小姐，但你不是应该开工了吗？}
 
 #{117}{}{Hi again. If you've got the necklace, you'll have to give it to Mr. Loxley before you get your reward.}
-{117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克斯尼先生才能拿到报酬。}
+{117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克西里先生才能拿到报酬。}
 
 #{118}{}{Well done, lad.  Here's your reward.  [Jasmine gives you 3000 bucks]}
 {118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你３０００个瓶盖】}
@@ -72,14 +72,14 @@
 
 #{125}{}{They're our corporate sponsor. Loxley got thirsty, and they "donated" several dozen bottles to us. Real
 # nice of them to help us out.}
-{125}{}{他们是我们的合伙人，洛克斯尼渴了，他们就“贡献”了几打核子可乐，真是乐善好施啊。}
+{125}{}{他们是我们的合伙人，洛克西里渴了，他们就“贡献”了几打核子可乐，真是乐善好施啊。}
 
 #{126}{}{Hmm, don't think I like the attitude. Oh well, nobody's perfect.}
 {126}{}{唔，别以为我会喜欢这种态度。好吧好吧，人无完人吗。}
 
 #{127}{}{Fine. I think I can speak for Mr. Loxley when I say that I hope we never cross paths again. Get out of
 # here.}
-{127}{}{好吧，我想我可以替洛克斯尼先生讲几句，我希望永远不要再看见你，滚。}
+{127}{}{好吧，我想我可以替洛克西里先生讲几句，我希望永远不要再看见你，滚。}
 
 #{128}{}{Good luck. Diamonds are my second favorite thing in the world!}
 {128}{}{愿你好运，钻石是我在这个肮脏尘世第二喜欢的东西！}

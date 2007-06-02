@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{哈罗德可以告诉你：Richard－理查得、Master－主教、Ghouls－僵尸、Loxley－洛克斯尼、Cathedral－大教堂、Vault－避难所、War－大战、Decker－德克、Grey－格瑞◎}
+{1199}{}{哈罗德可以告诉你：Richard－理查得、Master－主教、Ghouls－僵尸、Loxley－洛克西里、Cathedral－大教堂、Vault－避难所、War－大战、Decker－德克、Grey－格瑞◎}
 
 
 #{100}{}{You see Harold.}
