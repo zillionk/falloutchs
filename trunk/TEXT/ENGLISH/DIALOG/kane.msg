@@ -1,5 +1,5 @@
 #{100}{}{You see Kane.}
-{100}{}{你看见肯恩。}
+{100}{}{你看见凯恩。}
 
 #{101}{}{What's the job and what's it pay?}
 {101}{}{有工作吗？薪水如何？}
@@ -585,7 +585,7 @@
 
 #{284}{}{I didn't think you wanted the job.  I hope it was just a misunderstanding. I'll pay you half, and be
 # grateful that I'm giving you anything. 【Kane gives you 1500 hubbucks】}
-{284}{}{我以为你不愿意干呢，大概是我误会你了。那就付你一半钱吧，你应该高兴，至少我们还会给你钱。【肯恩给了你１５００块钱】}
+{284}{}{我以为你不愿意干呢，大概是我误会你了。那就付你一半钱吧，你应该高兴，至少我们还会给你钱。【凯恩给了你１５００块钱】}
 
 #{285}{}{Thanks.}
 {285}{}{多谢。}
@@ -648,38 +648,38 @@
 # anyone about it.  Once you've finished your little errand come back here. One more thing.  Don't even think
 # about going to the police, that's the worst mistake you could ever make. If you can, try not attract their
 # attention when doing your work, they can be quite a pain sometimes. 【Kane gives you 500 caps】}
-{301}{}{那个商人和他老婆住在西边的高地，巴特街和桑德大道的交道口，很可能有保镖。悄悄地进去，别被人看见，如果被人看见了就灭他们的口。等你完事后回到我这里来。还有，别想着去警察那里告密，那将是一个大大的错误。尽量不要惊动警察，有时候他们确实很麻烦的。【肯恩给了你５００个瓶盖】}
+{301}{}{那个商人和他老婆住在西边的高地，巴特街和桑德大道的交道口，很可能有保镖。悄悄地进去，别被人看见，如果被人看见了就灭他们的口。等你完事后回到我这里来。还有，别想着去警察那里告密，那将是一个大大的错误。尽量不要惊动警察，有时候他们确实很麻烦的。【凯恩给了你５００个瓶盖】}
 
 #{302}{}{Good work.  Here're your scripts for the completion of the first job. 【Kane hands you 2500 hubbucks】.}
-{302}{}{干得好，这是剩下的２５００个瓶盖。【肯恩给了你２５００个瓶盖】}
+{302}{}{干得好，这是剩下的２５００个瓶盖。【凯恩给了你２５００个瓶盖】}
 
 #{303}{}{Nice work on the merchant.  I'm expecting the same results on your next job.  Here's your last payment
 # for the first job and the first payment for the second. (Kane hands you 3500 Hubbucks). I'm sure you
 # already know, but the Children of the Cathedral are down south just north of the water merchants.
 # Again, no 'live' witnesses.}
-{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【肯恩给了你的３５００个瓶盖】你应知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【凯恩给了你的３５００个瓶盖】你应知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{304}{}{Were you in a hurry to get out of here?  You didn't get your scripts.  Here's your money, initial
 # payment and the completion bonus for the first job. (Kane hands you 3000 Hubbucks)}
-{304}{}{你上次急着走做什么？你还没拿钱呢，这里是第一个工作给你的首付和余款。【肯恩给了你３００个瓶盖】}
+{304}{}{你上次急着走做什么？你还没拿钱呢，这里是第一个工作给你的首付和余款。【凯恩给了你３００个瓶盖】}
 
 #{305}{}{Hey, good work!  You forgot to pick up your initial payment for the job, so here it is with the
 # completion fee.  You've proven yourself to be quite useful. }
 {305}{}{嘿，干的漂亮！你上次忘了拿首付款了，这次连同余款一起给你。你真是很能干的一个人。}
 
 #{306}{}{ (Kane hands you 5000 hubbucks)}
-{306}{}{【肯恩给了你５０００个瓶盖】}
+{306}{}{【凯恩给了你５０００个瓶盖】}
 
 #{307}{}{And that's all you're going to get.  Now take off before you regret it.}
 {307}{}{这是你所有的钱，赶紧走，否则你会后悔的。}
 
 #{308}{}{Here's your starting pay. (Kane hands you 1000 Hubbucks) I'm sure you already know, but the Children
 # of the Cathedral are south, just north of the water merchants.  Again, no 'live' witnesses.}
-{308}{}{这是你这个任务的首付款。【肯恩给了你１０００个瓶盖】你应该知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{308}{}{这是你这个任务的首付款。【凯恩给了你１０００个瓶盖】你应该知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{309}{}{Damn, this is a lot of cash.  Decker really wanted that bitch dead, here're your scripts. (Kane gives
 # you 4000 Hubbucks) You've proven yourself to be quite useful.}
-{309}{}{靠，真是很多钱呐。德克真是要把那个婊子毙了，这是你的余款。【肯恩给了你４０００个瓶盖】你还真是能干呢。}
+{309}{}{靠，真是很多钱呐。德克真是要把那个婊子毙了，这是你的余款。【凯恩给了你４０００个瓶盖】你还真是能干呢。}
 
 #{310}{}{What the hell do you want?  I thought you didn't want to meet with Decker.}
 {310}{}{你他妈的想做什么？我以为你不愿意见德克呢。}
@@ -811,10 +811,10 @@
 {352}{}{你今天看起来很帅啊。}
 
 #{353}{}{Bye... (Kane Squints at you, as if he's trying to figure out what you're up to.)}
-{353}{}{再见……【肯恩斜着眼睛盯着你，似乎要看出你的来意】}
+{353}{}{再见……【凯恩斜着眼睛盯着你，似乎要看出你的来意】}
 
 #{354}{}{I suppose. (Kane starts to give you a strange look)}
-{354}{}{也许吧。【肯恩怪怪地看着你】}
+{354}{}{也许吧。【凯恩怪怪地看着你】}
 
 #{355}{}{Do you have the time?}
 {355}{}{你有空吗？}
@@ -823,7 +823,7 @@
 {356}{}{双头牛蹄很好吃的。}
 
 #{357}{}{No... Did you want something? (Kane seems to be getting annoyed with you)}
-{357}{}{没……你有事？【肯恩似乎有点对你不耐烦了】}
+{357}{}{没……你有事？【凯恩似乎有点对你不耐烦了】}
 
 #{358}{}{Yes.}
 {358}{}{是。}
@@ -838,7 +838,7 @@
 {361}{}{小姐，你应该再喝几杯的。}
 
 #{362}{}{(Kane waits for a few seconds) Well... what is it? (Kane looks very annoyed)}
-{362}{}{【肯恩等了你一会】怎么……什么事？【很不耐烦的样子】}
+{362}{}{【凯恩等了你一会】怎么……什么事？【很不耐烦的样子】}
 
 #{363}{}{What is what?}
 {363}{}{什么是什么？}
@@ -851,16 +851,16 @@
 
 #{366}{}{(It almost seems like steam is coming out of Kane's ears and the vanes in his neck seem to visibly
 # pulsate.) GET OUT! (A few seconds later you can hear again.) ... HERE!  YOU IDIOT!}
-{366}{}{【肯恩似乎气得耳朵冒了烟，脖子上的青筋乱跳。】滚！！！！！【几秒钟后你的耳朵才恢复了听觉。】……你！你这个白痴！！！}
+{366}{}{【凯恩似乎气得耳朵冒了烟，脖子上的青筋乱跳。】滚！！！！！【几秒钟后你的耳朵才恢复了听觉。】……你！你这个白痴！！！}
 
 #{367}{}{(Kane Grinds his teeth and ignores you.)}
-{367}{}{【肯恩咬着牙，不理你了】}
+{367}{}{【凯恩咬着牙，不理你了】}
 
 #{368}{}{You forgot? (sigh) Why doesn't that surprise me? (Shaking his head in disbelief.) Now... get OUT!}
 {368}{}{你忘了？【叹气】我居然没生气？【难以置信地摇头。】那么……给我滚！！！！}
 
 #{369}{}{(Kane looks at one of the guards and spins a finger around one ear.)}
-{369}{}{【肯恩看着一个守卫，用手指在耳朵上画圈。】}
+{369}{}{【凯恩看着一个守卫，用手指在耳朵上画圈。】}
 
 #{370}{}{What the hell are you talking about?}
 {370}{}{你他娘的说些什么？}
@@ -872,7 +872,7 @@
 {372}{}{我知道了……你不是和他们一伙的。}
 
 #{373}{}{Response... to WHAT? (Kane looks confused and slightly annoyed.)}
-{373}{}{回答……回答什么？【肯恩迷惑不解，有点不耐烦。】}
+{373}{}{回答……回答什么？【凯恩迷惑不解，有点不耐烦。】}
 
 #{374}{}{To the secret password!}
 {374}{}{回答密码啊！}
@@ -881,10 +881,10 @@
 {375}{}{抱歉，我不能说这个。再见。}
 
 #{376}{}{(Kane looks angry, you don't know why.) Get out of here, you crazy son of a bitch.}
-{376}{}{【肯恩看起来很生气，你不知道为什么。】走开，你这个变态。}
+{376}{}{【凯恩看起来很生气，你不知道为什么。】走开，你这个变态。}
 
 #{377}{}{(Kane looks angry. You don't know why.) Get out of here, you crazy bitch.}
-{377}{}{【肯恩看起来很生气，你不知道为什么。】走开，你这个女变态。}
+{377}{}{【凯恩看起来很生气，你不知道为什么。】走开，你这个女变态。}
 
 #{378}{}{I told you to get out of here, you crazy son of a bitch.}
 {378}{}{我说，走开，你这个变态。}
@@ -930,7 +930,7 @@
 {391}{}{好吧，再见了！}
 
 #{392}{}{(Kane looks at one of his thugs and shrugs his shoulders)}
-{392}{}{【肯恩看了看他的一名小弟，无奈的耸了下肩膀。】}
+{392}{}{【凯恩看了看他的一名小弟，无奈的耸了下肩膀。】}
 
 #{393}{}{No I DON'T!  Now, leave.}
 {393}{}{我没有哇！走开。}
@@ -940,11 +940,11 @@
 {394}{}{玛丽？我不认识什么玛丽……我没时间和你聊这个！我都不知道你要说什么。如果她要钱，让她自己来！}
 
 #{395}{}{(You gain 100 experience for thoroughly pissing Kane off.)}
-{395}{}{你成功地让肯恩抓狂了，获得了１００点经验值。}
+{395}{}{你成功地让凯恩抓狂了，获得了１００点经验值。}
 
 #{396}{}{(For a split second you think you see Kane Blush) That's... (he looks side to side) nice.  Now what did
 # you want.}
-{396}{}{【恍惚间，你似乎看到肯恩脸红了】这……【他四处张望】很好。你还要什么？}
+{396}{}{【恍惚间，你似乎看到凯恩脸红了】这……【他四处张望】很好。你还要什么？}
 
 #{397}{}{How about a date? }
 {397}{}{要不我们去约会？}
@@ -954,7 +954,7 @@
 
 #{399}{}{Yes, I mean no.  I mean I don't... I can't.  I... (Kane suddenly punches one of his guards across the jaw.)
 # What are you grinning at! (Then he looks back at you.)  What are you still doing here!}
-{399}{}{好啊，啊不，我是说不……我不能啊。我……【肯恩突然一拳打在身边的一个卫士下巴上。】笑什么笑！【他看着你。】你还在这里干什么？}
+{399}{}{好啊，啊不，我是说不……我不能啊。我……【凯恩突然一拳打在身边的一个卫士下巴上。】笑什么笑！【他看着你。】你还在这里干什么？}
 
 #{400}{}{(Kane ignores you) What do you want?}
 {400}{}{【不理你】你要做什么？}
@@ -1014,11 +1014,11 @@
 
 #{417}{}{Well... are you going to do the job or not?  They're right over here (Kane points again at your PIPBoy
 # town map display.)  You better hurry up, the boss is expecting this to be done soon.}
-{417}{}{你到底想不想干这个工作？他们就住在那里。【肯恩指了指你的哔哔小子上的地图。】快点完成，老板都着急了。}
+{417}{}{你到底想不想干这个工作？他们就住在那里。【凯恩指了指你的哔哔小子上的地图。】快点完成，老板都着急了。}
 
 #{418}{}{WHAT THE HELL... (Kane looks around then whispers.)  What the hell are you doing here?  You better
 # finish the other one off, and there better not be 'any' witnesses.}
-{418}{}{你他娘的……【肯恩看了看四周，对你耳语道。】你他娘的在这里干什么？你赶快去把活儿搞定，不能被活人看见。}
+{418}{}{你他娘的……【凯恩看了看四周，对你耳语道。】你他娘的在这里干什么？你赶快去把活儿搞定，不能被活人看见。}
 
 #{419}{}{That's it.  You blew it.  Now you're going to have to pay for your mistakes.  I hope you aren't
 # planing on spending the night here.}
@@ -1061,7 +1061,7 @@
 {430}{}{你还活着呢！最近没有人跟你交朋友吧，你最好当点心。}
 
 #{431}{}{(Kane looks quite smug.  He just stands there with and evil grin.)}
-{431}{}{【肯恩看起来很得意，他站在那里，不坏好意的笑着。】}
+{431}{}{【凯恩看起来很得意，他站在那里，不坏好意的笑着。】}
 
 #{432}{}{Well!  I am very surprised to see you alive. You survived, that's very impressive.  I guess I'll let
 # you live, you are worth of that much.  Now hit the road.}
@@ -1096,14 +1096,14 @@
 {441}{}{你要么就是胆子暴大，要么就是十足的傻瓜，居然敢在这里露面，别担心，我们还是可以互相“问问好”的。}
 
 #{442}{}{(Kane just glares at you.)}
-{442}{}{【肯恩瞪着你。】}
+{442}{}{【凯恩瞪着你。】}
 
 #{443}{}{You survived my good bye party... I don't know how you did it, I must have underestimated you.  Leave
 # and you might live.}
 {443}{}{你居然活了下来……我不知道你怎么活过来的，我低估你了，走吧，饶你不死。}
 
 #{444}{}{(Kane ignores you, but has his weapon ready to shoot.)}
-{444}{}{【肯恩不理你，但武器处于戒备状态。】}
+{444}{}{【凯恩不理你，但武器处于戒备状态。】}
 
 #{445}{}{All right!  Out you go!}
 {445}{}{好吧！你走吧！}
@@ -1131,19 +1131,19 @@
 
 #{453}{}{(Kane gives you a deadly look.) Well then... I'll try to get you in to see him sometime soon.  I'll be
 # sure to show you to him 'piece' by 'piece'.}
-{453}{}{【肯恩凶恶地看了你一眼。】好吧……我马上就带你去见他，不过是把你撕成碎片之后。}
+{453}{}{【凯恩凶恶地看了你一眼。】好吧……我马上就带你去见他，不过是把你撕成碎片之后。}
 
 #{454}{}{I'm sorry you feel that way.  I hope you 'enjoy' the rest of your stay here in our wonderful city. }
 {454}{}{你这样就不对了。我希望你能好好享受在城里的最后时光。}
 
 #{455}{}{(Kane ignores you.)}
-{455}{}{【肯恩不理你。】}
+{455}{}{【凯恩不理你。】}
 
 #{456}{}{(Kane stares at you for a few seconds) All right.  I'll give you one last chance to see him.  Follow me.}
-{456}{}{【肯恩瞪了你几秒钟】好吧，我给你最后一次机会，带你去见他。跟我来。}
+{456}{}{【凯恩瞪了你几秒钟】好吧，我给你最后一次机会，带你去见他。跟我来。}
 
 #{457}{}{(Kane stares at you for a few seconds) You missed your chance.  Beat it.}
-{457}{}{【肯恩瞪了你几秒钟】我上次已经给你机会了，滚！}
+{457}{}{【凯恩瞪了你几秒钟】我上次已经给你机会了，滚！}
 
 #{458}{}{What the hell are you doing back here?!?!  You must be an even bigger idiot than I thought.  I knew Decker
 # shouldn't have hired an unknown.}
@@ -1158,7 +1158,7 @@
 #{461}{}{【Kane lowers his voice】  You cocked up the mission, you moron!  You were supposed to kill both of the Hightowers, not wound them for
 # Christ sake!  The second you left the Heights they ran off with their guards.  Believe me, they didn't waste time packing either.
 #  God knows where they are now!}
-{461}{}{【肯恩压低了声音】你把事情办砸了，笨蛋！你应该把夫妻俩都干掉，而不是让他们受点伤，天那！你一离开高地，他们就和保镖一起跑了，还没忘记收拾行李，现在天才知道他们在哪里！}
+{461}{}{【凯恩压低了声音】你把事情办砸了，笨蛋！你应该把夫妻俩都干掉，而不是让他们受点伤，天那！你一离开高地，他们就和保镖一起跑了，还没忘记收拾行李，现在天才知道他们在哪里！}
 
 #{462}{}{Well, what can I say?  I'm sorry.}
 {462}{}{我说什么好呢，对不起。}
@@ -1171,4 +1171,4 @@
 {464}{}{对不起有个屁用！你让德克冒了多大的险。你以后就是地下社团的敌人了。我不想在这里再看到你这张破脸！}
 
 #{465}{}{You cannot get through the door with Kane here.}
-{465}{}{肯恩挡住了门。}
+{465}{}{凯恩挡住了门。}

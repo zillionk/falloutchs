@@ -94,7 +94,7 @@
 #{139}{DECK_14}{I see . . . My assistant will show you to the door.}
 {139}{DECK_14}{我知道了……我的助手会告诉你门在哪儿。}
 #{140}{DECK_15}{I'm very proud of you.  You're ruthless, an attribute I admire.  Kane will give you your payment.  I hope you're available in the future.}
-{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，我很欣赏你的职业素质。肯恩会把你的报酬给你，希望有空能再次合作。}
+{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，我很欣赏你的职业素质。凯恩会把你的报酬给你，希望有空能再次合作。}
 #{141}{}{Can I ask you a few questions?}
 {141}{}{我能问你几个小问题吗？}
 #{142}{}{Thanks.}
@@ -176,7 +176,7 @@
 #{180}{}{Okay.}
 {180}{}{好的。}
 #{181}{DECK_31}{Talk to Kane on your way out.  He'll provide you with details.}
-{181}{DECK_31}{当你走时和肯恩谈谈，他会告诉你细节。}
+{181}{DECK_31}{当你走时和凯恩谈谈，他会告诉你细节。}
 #{182}{DECK_32}{And killing the merchant wasn't?}
 {182}{DECK_32}{又当婊子又立贞节牌坊？你不是还杀了商人了吗？}
 #{183}{}{Well, all right, I'll do it.}
@@ -198,15 +198,15 @@
 #{191}{DECK_36}{Then we have nothing more to discuss.}
 {191}{DECK_36}{那么我们没什么好说的了。}
 #{192}{DECK_37}{Exceptional job.  I believe the religious faction shall not interfere anymore.  Speak with Kane for your reward.  My thanks -- and I will certainly keep you in mind in the future.}
-{192}{DECK_37}{干的不错，我相信这些小宗教团体不会再打扰我了。去和肯恩拿你的报酬。谢谢你--我会记住你的。}
+{192}{DECK_37}{干的不错，我相信这些小宗教团体不会再打扰我了。去和凯恩拿你的报酬。谢谢你--我会记住你的。}
 #{193}{DECK_38}{Put that down.}
 {193}{DECK_38}{把它放下。}
 #{194}{DECK_39}{I am quite a patient man, but even I have limits.  Kane, teach this simpleton a lesson.}
-{194}{DECK_39}{我的忍耐是有限度的！肯恩，教训一下这个白痴。}
+{194}{DECK_39}{我的忍耐是有限度的！凯恩，教训一下这个白痴。}
 #{195}{DECK_40}{Stop that.}
 {195}{DECK_40}{住手！}
 #{196}{DECK_42}{Talk to Kane about that.  He can tell you more.}
-{196}{DECK_42}{去找肯恩，他会告诉你更多东西。}
+{196}{DECK_42}{去找凯恩，他会告诉你更多东西。}
 #{197}{DECK_43}{As I said . . .}
 {197}{DECK_43}{正如我所说……}
 #{198}{DECK_44}{Like I said . . .}
@@ -290,9 +290,9 @@
 #{233}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
 {233}{DECK_26}{又见面了，我的朋友。我还有另外一个工作给你，有兴趣吗？}
 #{234}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
-{234}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。肯恩，带走我们的朋友并教会他如何保持沉默。}
+{234}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会他如何保持沉默。}
 #{235}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
-{235}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。肯恩，带走我们的朋友并教会她如何保持沉默。}
+{235}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会她如何保持沉默。}
 
 # Decker Tell-Me-Abouts generic responses{980}{DECK_73}{That's not important.}
 {980}{DECK_73}{那不重要。}
