@@ -212,7 +212,7 @@
 {186}{TAND_45}{那就是我。你以为是谁？}
 # {187}{TAND_46}{Razlo's the old guy on the east side of town.  He's a pretty
  # good doctor, though, even if he is a fossil. }
-{187}{TAND_46}{罗兹是镇东边的一个老家伙。他是个好医生，虽然有点顽固。}
+{187}{TAND_46}{拉斯洛是镇东边的一个老家伙。他是个好医生，虽然有点顽固。}
 # {188}{TAND_47}{Seth's the captain of the guards.  My father tried to set
  # us up once, but he is not my type.}
 {188}{TAND_47}{赛思是警卫队长。我爸爸曾经撮合过我们，但他不是我喜欢的类型。}

@@ -84,7 +84,7 @@
 {123}{}{辐射蝎非常危险。它们的尾部有剧毒的尖蛰，移动速度也很快。亚拉德什曾经设法想解决它们。如果你有勇气，可以去找亚拉德什谈谈这件事。}
 
 #{124}{}{Thanks. It's been healing up well, thanks to Razlo.}
-{124}{}{谢谢。伤势复原的很好，这都得感谢罗兹。}
+{124}{}{谢谢。伤势复原的很好，这都得感谢拉斯洛。}
 
 #{125}{}{Seth is a very brave fighter. He occasionally goes to
 # the Radscorpion caves to kill a few Radscorpions, but
@@ -431,11 +431,11 @@
 {1119}{}{对不起，小孩子不要知道的太多。}
 
 #{1120}{}{Razlo's a great doctor. You should see him if you're hurt.}
-{1120}{}{罗兹是一位伟大的医生。如果你受伤了，你应该去找他。}
+{1120}{}{拉斯洛是一位伟大的医生。如果你受伤了，你应该去找他。}
 
 #{1121}{}{Razlo does s good job of fixing people up, and his junja juice is well
 # worth it!}
-{1121}{}{罗兹的工作很能安定人心，而且他的咖喱汁真的很棒。}
+{1121}{}{拉斯洛的工作很能安定人心，而且他的咖喱汁真的很棒。}
 
 #{1122}{}{Sorry, bud. Don't know much.}
 {1122}{}{对不起，小孩子不要知道的太多。}
@@ -542,7 +542,7 @@
 {1154}{}{亚拉德什是沙荫镇的领袖。一个和蔼可亲的人，虽然他有点疯狂。}
 
 #{1155}{}{Hey, if you need help, Razlo's the man to see. He's a great doctor.}
-{1155}{}{嗨，如果你需要帮助，去找罗兹，他是个伟大的医生。}
+{1155}{}{嗨，如果你需要帮助，去找拉斯洛，他是个伟大的医生。}
 
 #{1156}{}{Sorry, bud. Don't know much.}
 {1156}{}{对不起，小孩子不要知道的太多。}

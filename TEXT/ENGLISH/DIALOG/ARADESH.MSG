@@ -336,7 +336,7 @@
 #{198}{Ara_28a}{And now the monsters are attacking my people! Razlo
 #is trying to find a cure for their poison, but I'm not
 #sure how it goes.}
-{198}{Ara_28a}{而且现在这些怪物正在攻击我的人民！罗兹正在寻找一种治疗蝎毒的方法，不过我不知道进展如何了。}
+{198}{Ara_28a}{而且现在这些怪物正在攻击我的人民！拉斯洛正在寻找一种治疗蝎毒的方法，不过我不知道进展如何了。}
 
 #{199}{}{Well, I'll help you get rid of these things!}
 {199}{}{好，我会帮你消灭那些东西！}
@@ -349,7 +349,7 @@
 
 #{202}{Ara_29}{Ummm, yes, yes, yes, yes, yes! Please talk to Razlo. He
 #possesses far more information on these creatures than I.}
-{202}{Ara_29}{嗯，好，好，好，好，好！请跟罗兹谈谈。他比我更清楚那种生物的事情。}
+{202}{Ara_29}{嗯，好，好，好，好，好！请跟拉斯洛谈谈。他比我更清楚那种生物的事情。}
 
 #{203}{Ara_30}{As Dharma said, 'Those who tend their own flock,
 #know the shepherd.'}
@@ -368,7 +368,7 @@
 #{207}{Ara_31}{Things are much more settled now. Razlo has been working
 #on a cure for Rad Scorpion poison, and with that, we should be
 #able to fight what's left of them.}
-{207}{Ara_31}{现在事情稳定多了。罗兹正在弄蝎毒的治疗方法，有了这个，我们应该就可以把还剩下来的辐射蝎消灭了。}
+{207}{Ara_31}{现在事情稳定多了。拉斯洛正在弄蝎毒的治疗方法，有了这个，我们应该就可以把还剩下来的辐射蝎消灭了。}
 
 #{208}{}{It was nothing. Can I ask you some more questions?}
 {208}{}{没什么。我可以再问你些问题吗？}
@@ -528,7 +528,7 @@
 #{253}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
 # he can heal it. I would wager he is just a little
 # north of here at this moment.}
-{253}{Ara_51}{嗯，是的，是的，罗兹是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
+{253}{Ara_51}{嗯，是的，是的，拉斯洛是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
 
 #{254}{Ara_52}{A fine young man, Seth. Captain of our guards. He
 # is likely to be at the Guard House. }
@@ -537,7 +537,7 @@
 #{255}{Ara_53}{A wonderful woman. She just celebrated her sixtieth
 # birthday! She spends much time with Razlo, talking his
 # ear off with her veritable treasure trove of stories.}
-{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和罗兹待在一起, 总和他聊那些亲身经历，她都把那些故事当成宝了。}
+{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当成宝了。}
 
 #{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
@@ -660,7 +660,7 @@
 #{1103}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
 # he can heal it. I would wager he is just a little
 # north of here at this moment.}
-{1103}{Ara_51}{嗯，是的，是的，罗兹是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
+{1103}{Ara_51}{嗯，是的，是的，拉斯洛是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
 
 #{1104}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and

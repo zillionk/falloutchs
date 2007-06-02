@@ -235,8 +235,8 @@
 {215}{}{沙荫镇的居民}                            #  citizen
 {216}{}{椅子}                                          #  HousChar
 {217}{}{阿加莎的床}                                   #  AgathBed
-{218}{}{罗兹的床}                                    #  RozBed
-{219}{}{罗兹的老婆}                                   #  Wife
+{218}{}{拉斯洛的床}                                    #  RozBed
+{219}{}{拉斯洛的老婆}                                   #  Wife
 # {220}{}{Dresser}                                        #  SDresser
 # {221}{}{Rug}                                            #  ShadyRug
 # {222}{}{Bookcase}                                       #  SBokcase
@@ -277,7 +277,7 @@
 {226}{}{桌子}                                          #  CookTabl
 {227}{}{水果}                                  #  Fruit
 {228}{}{双头牛粪的味道}                              #  PenSmell
-{229}{}{罗兹}                                          #  Razlo
+{229}{}{拉斯洛}                                          #  Razlo
 {230}{}{１３号避难所居民}                               #  ValtCtzn
 {231}{}{１３号避难所通风口}                               #  ValtLock
 {232}{}{１３号避难监督者}                               #  ValtMon
@@ -821,7 +821,7 @@
 {499}{}{弗朗西斯修女}                                 # Francis
 {500}{}{吴博士}                                         # DocWu.int
 {501}{}{罗格尔}                                         # Rutger
-{502}{}{费克斯}                                          # Phrax
+{502}{}{费拉克斯}                                          # Phrax
 {503}{}{发电机}                                      # DemoGen
 {504}{}{地窖工头}                                   #DemoCryp
 {505}{}{呆滞的地窖工人}                                    # DemoFool
