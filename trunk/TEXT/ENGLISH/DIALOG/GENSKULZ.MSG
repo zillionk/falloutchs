@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a member of the Skulz gang.}
 # {101}{}{Hey! Whaddya think you're doing?!}
 # {102}{}{You're on Skulz turf, stranger. You'd better leave.}

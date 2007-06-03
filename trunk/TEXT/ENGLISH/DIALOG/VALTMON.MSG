@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see one of those classic Science Fiction movies from the early 21st Century playing.}
 # {101}{}{You are too pressed for time to be watching movies.}
 {100}{}{你看到一部２１世纪福克斯公司的经典科幻电影正在放映。}

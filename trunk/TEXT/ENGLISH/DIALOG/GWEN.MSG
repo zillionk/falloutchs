@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Gwen, a desert bandit.}
 #{101}{}{I am Gwen. I'm one of Garl's advisors. Who are you?}
 #{102}{}{I'm }

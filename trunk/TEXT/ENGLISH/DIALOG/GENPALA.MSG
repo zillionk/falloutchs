@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Paladin.}
 # {101}{}{Sorry, can't talk, Initiate.}
 # {102}{}{Good day.}

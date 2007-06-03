@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see before you Talius, a member of the Followers.}
 {100}{}{你看见塔琉斯，末世论者的成员。}
 

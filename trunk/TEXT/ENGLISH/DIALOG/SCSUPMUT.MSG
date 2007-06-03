@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a scout for the Nightkin.}
 {100}{}{你看见一个夜行团侦察兵。}
 #{101}{}{What have we here? A normal. I think you will come with me.}

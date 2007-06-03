@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Far Go Trader Merchant.}
 # {101}{}{Get the hell out.}
 # {102}{}{Take off or you won't live to regret it.}

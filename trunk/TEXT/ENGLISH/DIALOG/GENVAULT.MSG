@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Vault dweller.}
 {100}{}{你看见一个避难所居民。}
 #{101}{}{I can't believe that you betrayed us!}

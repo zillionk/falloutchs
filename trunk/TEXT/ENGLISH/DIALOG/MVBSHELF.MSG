@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The bookshelf is filled with religious and philosophical books. It is very dusty.}
 # {101}{}{You take a book down, examine it, and quickly replace it on the shelf. The shelf itself seems very sturdy.}
 {100}{}{书架上放满了有关宗教和哲学的书籍，并且到处都是灰尘。}

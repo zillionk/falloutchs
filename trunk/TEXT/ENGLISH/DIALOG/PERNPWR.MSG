@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{This person looks like he may have been from the Brotherhood of Steel.}
 # {101}{}{You wonder why this metal person is here.}
 # {102}{}{This person looks to have been killed by high amounts of radiation.}

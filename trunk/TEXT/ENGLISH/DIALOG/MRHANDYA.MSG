@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a broken robot.}
 # {101}{}{You see a functional robot.}
 # {102}{}{You fix the broken robot. It immediately powers up and comes to life.}

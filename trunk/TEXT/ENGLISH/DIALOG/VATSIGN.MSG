@@ -1,2 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a sign saying: VATS CONTROL ROOM - No Unauthorized Admittance}
 {100}{}{你看到一个警示牌：病毒槽控制室，未经授权不准入内。}

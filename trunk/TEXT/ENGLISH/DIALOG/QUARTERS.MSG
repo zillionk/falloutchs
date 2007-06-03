@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Hey, you shouldn't be in here Initiate.}
 # {101}{}{What are you doing in here.}
 # {102}{}{These are the Paladins' quarters, leave.}

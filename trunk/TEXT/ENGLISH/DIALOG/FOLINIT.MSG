@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Initiate Walter of the Followers.}
 #{101}{}{You see Initiate Nicolas of the Followers.}
 #{102}{}{You see Initiate William of the Followers.}

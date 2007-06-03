@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Holy crap! Kill it!}
 {100}{}{天哪！杀了它！}
 #{101}{}{Shoot that beast before it eats him!}

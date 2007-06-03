@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{I don't want to talk to you.}
 #{101}{}{Go away.}
 #{102}{}{Leave me alone!}

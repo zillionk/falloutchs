@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a sink.}
 # {101}{}{You wash your hands.}
 # {102}{}{You wash your }

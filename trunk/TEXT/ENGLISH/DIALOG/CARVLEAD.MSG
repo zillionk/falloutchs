@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the caravan leader.}
 #{101}{}{Well, here we are. Here's your payment of }
 #{102}{}{ caps. 【He pulls out an old dog-eared money bag and gives you the money.】 You'll get another }

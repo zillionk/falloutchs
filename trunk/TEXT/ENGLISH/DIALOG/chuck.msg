@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a dark-skinned man adorned with bright scarves and trinkets.}
 {100}{}{你看见一个戴着亮闪闪围巾和饰物的黝黑皮肤男人。}
 

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The security door is locked.}
 {100}{}{安全门锁着。}
 #{101}{}{The security door is not locked.}

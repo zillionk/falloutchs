@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Remove the Gangs from Scrapheap.}
 {100}{}{把这群匪徒从废渣堆上除掉。}
 #{101}{}{If you do not kill off all the gangs they will seek vengeance.}

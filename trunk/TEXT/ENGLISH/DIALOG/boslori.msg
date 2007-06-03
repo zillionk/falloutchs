@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Brotherhood's Doctor.}
 {100}{}{你看见兄弟会的医生。}
 #{102}{}{Hello, how can I help you?}

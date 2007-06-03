@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{There is a grenade rigged underneath this floor panel.}
 # {101}{}{ It is not armed.}
 # {102}{}{You disarm the trap and remove the plasma grenade.}

@@ -30,6 +30,9 @@
 
 
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a member of the 末世论者.}
 #{101}{}{You see Brother Alan of the 末世论者.}
 #{102}{}{Hey, greetings and good day to you, man. What's up?}

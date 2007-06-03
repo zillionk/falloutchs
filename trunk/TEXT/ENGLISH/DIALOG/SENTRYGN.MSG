@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You note a security camera which seems to be active.}
 {100}{}{你注意到一个看上去活动着的安全摄像机。}
 #{101}{}{You note concealed guns tracking your movement.}

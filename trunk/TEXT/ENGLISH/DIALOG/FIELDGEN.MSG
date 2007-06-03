@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Your attempt to re-wire the field emitter fails.}
 #{101}{}{You turn off the field emitter.}
 

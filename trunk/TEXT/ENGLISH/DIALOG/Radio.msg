@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{radio}
 {100}{}{无线电}
 #{101}{}{【There is a squeal of static, then you hear a deep voice over the

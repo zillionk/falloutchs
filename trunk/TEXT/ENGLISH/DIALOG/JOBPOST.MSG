@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see the Job Post board}
 # {101}{}{JOBS!  Do you need work? Do you need money?  LOOK HERE! }
 # {102}{}{Please do not put up duplicate messages.  -Sheriff Greene.}

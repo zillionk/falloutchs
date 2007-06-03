@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a caravan driver.}
 # {101}{}{Hi, if you're looking for a job on one of our caravans, you should talk to the Master Merchant.  She's in that building to the east.}
 # {102}{}{I'm sorry, but you need to talk to the Master Merchant.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The elevator shaft is not easily climbed without a rope.}
 # {101}{}{You successfully sling a rope in the elevator shaft.}
 # {102}{}{You cannot climb down the pit using just the metal beam.}

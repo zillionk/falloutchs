@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{What do you want?}
 # {101}{}{Hey, you gonna eat that dead rat?}
 # {102}{}{What?}

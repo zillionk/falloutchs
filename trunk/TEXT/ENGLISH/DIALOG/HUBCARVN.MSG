@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a teamster.}
 # {101}{}{Today's going to be a long day!}
 # {102}{}{I really don't want to work today.}

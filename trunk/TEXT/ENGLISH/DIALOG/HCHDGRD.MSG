@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a guard for the Children.}
 #{101}{}{Phillips! Let's take this guy out!}
 #{102}{}{Get outta my face!}

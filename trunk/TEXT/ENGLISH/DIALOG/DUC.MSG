@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a wandering merchant of Asian descent.}
 {100}{}{你看见一个游荡的亚裔商人。}
 #{101}{}{You see Duc, the wandering merchant.}

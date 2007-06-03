@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Skag.}
 # {101}{}{This place is neat!  It's much better than my old place.}
 # {102}{}{I like it here!}

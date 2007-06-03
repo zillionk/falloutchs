@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Hi! Welcome to my previously owned car lot. Which one of these beauties interests you today?}
 #{101}{}{You must be joking. These cars are all wrecks.}
 #{102}{}{Uh, nothing, thanks.}

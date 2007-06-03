@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Ton.}
 {100}{}{你看见唐。}
 #{101}{}{You see a huge member of the Children.}

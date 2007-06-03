@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Knight.}
 #{101}{}{You see a Scribe.}
 #{102}{}{What are you doing here?}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see before you a Holodisk.}
 # {101}{}{Pip Boy displays: Downloading data from disk.}
 # {102}{}{This seems to have been a disk with some type of entertainment upon it.}

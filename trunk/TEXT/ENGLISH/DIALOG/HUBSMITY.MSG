@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Smitty.}
 # {101}{}{You wanna talk after what you've pulled? Screw you!}
 # {102}{}{The boss said get lost, so get lost!}

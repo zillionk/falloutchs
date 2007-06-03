@@ -19,6 +19,9 @@
 
 
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see: 亚力克斯, the night watch 管理者.}
 # TRANSLATION NOTE
 # The player-character's name is inserted after line 101.

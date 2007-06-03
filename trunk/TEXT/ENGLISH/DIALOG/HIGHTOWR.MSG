@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Daren Hightower.}
 {100}{}{你看见达伦·海托。}
 #{101}{}{Who are you?!?  And who let you in?}

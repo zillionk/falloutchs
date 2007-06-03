@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Kathy, owner of this shop.}
 #{101}{}{Sorry, I don't have much today.}
 #{102}{}{What're you looking for today?}

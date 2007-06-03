@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Children of the Cathedral technician.}
 {100}{}{你看到一名大教堂教徒技师。}
 

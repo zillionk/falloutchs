@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Mike, the Old Town guard.}
 # {101}{}{Yeah, whatta' you want?}
 # {102}{}{a...dum...um...}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Deputy Kenny.}
 # {101}{}{If you have business with the Hub police, please talk to Sheriff Greene.  I only take care of his duties when the
  # Sheriff is unavailable.}

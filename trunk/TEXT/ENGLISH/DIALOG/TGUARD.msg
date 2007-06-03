@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see one of Shady Sands' guards.}
 {100}{}{你看到一个沙荫镇的卫兵。}
 #{101}{}{Hey, I think you'd better be leaving. We don't want your kind here.}

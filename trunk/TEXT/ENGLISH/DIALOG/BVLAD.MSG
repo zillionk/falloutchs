@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You begin climbing the ladder.}
 {100}{}{你开始爬楼梯。}
 #{101}{}{You slip off the ladder and plummet into the darkness below. You land with a crash, but take no damage.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Demetre.}
 {100}{}{你看见戴米德。}
 #{101}{}{Hey there! How are you doin'? The name's Demetre, Demetre Romara, head of the best damn caravan in the wastes. Are you lookin' for a job?}

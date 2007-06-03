@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You look distraught. Are you in need of assistance?}
 # {101}{}{I need healing.}
 # {102}{}{Urrr.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Zax, the machine intelligence controlling the Glow.}
 #{101}{}{You see an extremely advanced computer.}
 #{102}{}{How may I be of assistance?}

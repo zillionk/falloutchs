@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see two super mutants. One looks hurt, and the other is tending him.}
 # {101}{}{Well, how do you feel now?}
 # {102}{}{【moves his shoulder】 Ah, it's still a little sore. At least the bleeding stopped.}

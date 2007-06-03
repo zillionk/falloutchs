@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The hairs on the back of your neck rise. You feel something from the
 # corridor ahead. The bile rises as your recognize the mass of flesh ahead -
 # human parts in the wall itself. The worst part is that it is moving,

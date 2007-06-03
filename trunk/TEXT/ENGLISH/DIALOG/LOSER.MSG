@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Got any food?}
 # {101}{}{Boy, am I hungry. I wish I had some brahmin burgers.}
 # {102}{}{Please, mister, give me some food.}

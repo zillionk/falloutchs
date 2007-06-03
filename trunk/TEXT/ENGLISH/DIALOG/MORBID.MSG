@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Doc Morbid.}
 #{101}{}{I'm Doc Morbid, can I help you?}
 #{102}{}{Yeah, I need some help.}

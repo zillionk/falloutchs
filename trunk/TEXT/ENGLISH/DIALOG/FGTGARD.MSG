@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a guard for the Far Go Traders.}
 #{101}{}{Those damn Water Merchants are ripp'n us all off.}
 #{102}{}{Be sure to pay the FLC on time, they're a deadly lot.}

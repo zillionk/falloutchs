@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Trish, a waitress from the Skum Pitt.}
 #{101}{}{What the hell are you doing in my room?}
 #{102}{}{Gug!}

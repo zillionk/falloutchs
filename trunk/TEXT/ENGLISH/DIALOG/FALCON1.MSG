@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Bar Tender.}
 #{101}{}{Yeah, whadda ya want?}
 #{102}{}{Water.}

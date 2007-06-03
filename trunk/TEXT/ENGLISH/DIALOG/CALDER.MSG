@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a teenager.}
 #{101}{}{You! You did it! When I grow up I'm gonna get you!
 # I'm gonna hunt you down and kill you! You killed them

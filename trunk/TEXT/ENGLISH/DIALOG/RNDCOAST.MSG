@@ -3,6 +3,9 @@
 # Coastal encounter messages
 #
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see several odd floating creatures...}
 # {101}{}{You see a small swarm of rats rapidly approaching.}
 # {102}{}{You see a group of peasants being attacked by raiders!}

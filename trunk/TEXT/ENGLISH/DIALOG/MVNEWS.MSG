@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The newspaper headline reads: "Daily Life in the Village".}
 # {101}{}{The newspaper machine is inexplicably jammed shut. It is very frustrating.}
 {100}{}{报纸标题：“乡村生活”。}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Just because you've got a weapon drawn doesn't mean that I'm gonna give
 # you what you want . . .}
 {100}{}{别以为你手里有家伙我就会怕你……}

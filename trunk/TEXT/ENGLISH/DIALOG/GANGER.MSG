@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a ghoul gang member.}
 {100}{}{你看到僵尸团伙的一员。}
 #{101}{}{What are you doing here? Answer wisely - this could be your only chance . . .}

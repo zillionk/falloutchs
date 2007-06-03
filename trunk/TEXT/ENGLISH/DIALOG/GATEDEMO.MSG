@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The guard is enraged and begins to attack.}
 {100}{}{守卫被激怒并开始攻击。}
 

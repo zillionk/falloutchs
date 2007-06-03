@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Leone.}
 # {101}{}{If you want company, rent a hooker. I'm busy.}
 # {102}{}{Not until the boss says so. Just ignore him and he'll go away.}

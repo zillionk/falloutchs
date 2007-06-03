@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The door is locked. You have never seen a lock quite like this.}
 {100}{}{门被锁住了，你以前从没见过这种锁。}
 

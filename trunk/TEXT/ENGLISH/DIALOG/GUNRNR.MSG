@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Hey! Whaddya think you're doing?!}
 {100}{}{嘿！你觉得你在干什么？！}
 #{101}{}{Hey, you got any Nuka Cola?}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a big, strong, burly man.}
 #{101}{}{Didn't we just meet? Have you come to kill me?}
 #{102}{}{I know fathers aren't supposed to hug their sons, but I love you, dad!}

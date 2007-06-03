@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The locker is locked.}
 {100}{}{这个柜子锁住了。}
 #{101}{}{You spot a trap on the locker, and disarm it.}

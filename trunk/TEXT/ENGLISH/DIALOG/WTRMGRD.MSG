@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a guard for the Water Merchants.}
 # {101}{}{Halt. Non-merchant members are not allowed near the water tower or the pumps.}
 # {102}{}{You're not allow back here, leave now!}

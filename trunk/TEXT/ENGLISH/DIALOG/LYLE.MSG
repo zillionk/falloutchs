@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Lyle.}
 #{101}{}{So you're the water thief! You traitor!}
 #{102}{}{I'm so glad that the ordeal is over. Thank you.}

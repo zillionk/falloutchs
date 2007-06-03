@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a water processing control computer. It has
 # malfunctioned due to the removal of a critical piece
 # of hardware.}

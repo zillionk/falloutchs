@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{A frozen corpse.}
 # {101}{}{This is definitely not of terrestrial origin.}
 # {102}{}{This body might be some kind of genetic experiment.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a steel door. A sign on it reads: "Reactor Core Control Room. Authorized Personnel Only."}
 # {101}{}{The door is locked electronically.}
 # {102}{}{The door is not locked.}

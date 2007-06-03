@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{We're not here to talk.}
 #{101}{}{I will follow you unto death.}
 #{102}{}{This is a pretty important job, huh?}

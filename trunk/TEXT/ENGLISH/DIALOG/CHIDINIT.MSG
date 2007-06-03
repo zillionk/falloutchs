@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Initiate Ronald of the Children of the Cathedral.}
 #{101}{}{You see Initiate Caroline of the Children of the Cathedral.}
 #{102}{}{You see Initiate Myles of the Children of the Cathedral.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Ghoul Lookout.}
 # {101}{}{I can't talk now. I'm watching out for danger.}
 # {102}{}{A human spy!}

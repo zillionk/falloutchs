@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a ghoul gang guard.}
 # {101}{}{Go away.}
 # {102}{}{I don't like your kind.}

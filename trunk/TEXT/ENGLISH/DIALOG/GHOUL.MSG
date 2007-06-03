@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see the Ghoul Manager.}
 # {101}{}{Whatta you doing here?}
 # {102}{}{Searching for the remains of the future past.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a very beautiful young woman.}
 {100}{}{你看见一个非常漂亮的年轻女子。}
 #{101}{}{You see Christine, Michael's wife.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{We offer healing of the body to heal the spirit. Can I help you?}
 {100}{}{我们可以帮助治疗受伤的身体和精神，你需要帮助？}
 

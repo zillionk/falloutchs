@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Whatever attacked this person cleaned them down to the bones.}
 {100}{}{这个人被什么东西攻击得只剩骨头了。}
 #{101}{}{The wind has bleached these bones clean.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Command, this is Guardhouse. All clear. Out.}
 #{101}{}{Death to you!}
 #{102}{}{Intruder!}

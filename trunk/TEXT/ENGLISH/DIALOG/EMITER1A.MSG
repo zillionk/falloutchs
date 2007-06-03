@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You do not see a control panel on this emitter. Perhaps there is another
 # way to lower this force field.}
 #{101}{}{You temporarily disable the force field with the damage to the emitter.}

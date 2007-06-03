@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Savil of the Follower's Guards.}
 #{101}{}{You see Nancy of the Follower's Guards.}
 #{102}{}{You see Jelissa of the Follower's Guards.}

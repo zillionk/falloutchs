@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{I could do that.}
 # {101}{}{That's easy.}
 # {102}{}{Let me show you how it's done.}

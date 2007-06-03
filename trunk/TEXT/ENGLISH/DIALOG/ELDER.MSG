@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Elder.}
 #{101}{}{I am pleased to meet you. I hope you have found this little village pleasing so far.}
 #{102}{}{Yes.}

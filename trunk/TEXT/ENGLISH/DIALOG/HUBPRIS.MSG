@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a prisoner.}
 # {101}{}{I didn't kill anyone!}
 # {102}{}{I'm innocent!}

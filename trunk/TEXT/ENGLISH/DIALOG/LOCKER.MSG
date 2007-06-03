@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The locker is locked.}
 #{101}{}{You broke your lockpicks.}
 #{102}{}{You unlock the locker.}

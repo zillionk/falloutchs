@@ -54,6 +54,9 @@
 
 
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see an aged woman.}
 #{101}{}{You see 阿加莎.}
 #{102}{}{This woman is wrinkled and gray, yet has a spry step and a bright personality.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Stay away from me! Leave me alone!}
 #{101}{}{Hello stranger. You shouldn't be out here. There's only death out here!}
 #{102}{}{You wouldn't happen to know anything about missing caravans?}

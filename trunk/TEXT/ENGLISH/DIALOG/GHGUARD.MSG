@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a ghoul guard.}
 # {101}{}{We're going to take you to Set. I think he'll want to talk to you, personally.}
 # {102}{}{You shouldn't be here . . .}

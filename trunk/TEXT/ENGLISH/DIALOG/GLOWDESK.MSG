@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The drawer to the desk is stuck.}
 # {101}{}{You pry the drawer open.}
 # {102}{}{The drawer is still jammed tight.}

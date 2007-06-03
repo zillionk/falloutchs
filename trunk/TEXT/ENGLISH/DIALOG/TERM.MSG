@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a highly advanced Brotherhood computer.}
 {100}{}{你看见一台非常先进的兄弟会电脑。}
 #{101}{}{You are denied access to this terminal.}

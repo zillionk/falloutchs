@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Paladin guard.}
 #{101}{}{Pssst, see any good deals?}
 #{102}{}{Sorry, I'm on duty. Can't talk right now.}

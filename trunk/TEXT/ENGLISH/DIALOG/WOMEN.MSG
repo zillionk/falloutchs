@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a bruised and battered woman.}
 # {101}{}{No please don't!}
 # {102}{}{[sobs uncontrollably]}

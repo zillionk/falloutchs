@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Ghoul Manager.}
 {100}{}{你看见僵尸小头目。}
 #{101}{}{Whatta you doing here?}

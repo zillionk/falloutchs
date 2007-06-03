@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Time left:  }
 # {101}{}{ seconds.}
 # {102}{}{This is where you make your mark on the world. (a small pile of ash}

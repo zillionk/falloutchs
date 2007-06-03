@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The door is already unlocked.}
 # {101}{}{You manage to pick the lock.}
 # {102}{}{You can't seem to pick the lock.}

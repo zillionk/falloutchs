@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a mad scientist. He is working diligently on something.}
 {100}{}{你看见一位疯狂的科学家。他正在努力的研究着什么。}
 

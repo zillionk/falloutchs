@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see before you Uthern, leader of the Super Mutants.}
 {100}{}{站在你面前的是乌森，超级变种人的领袖。}
 

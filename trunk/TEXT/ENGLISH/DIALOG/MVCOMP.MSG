@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{This computer is labeled Atomic Access Computer.}
 # {101}{}{There are cables running from the access computer to the warhead behind it.}
 # {102}{}{You have armed the warhead. A timer with four minutes has started a countdown.}

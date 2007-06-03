@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This dresser looks well cared for.}
 {100}{}{这梳妆台看上去是被细心照管的。}
 #{101}{}{This dresser looks well cared for.}

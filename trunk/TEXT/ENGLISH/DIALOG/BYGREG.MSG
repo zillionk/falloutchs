@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a man, he quickly stares intensely into your eyes and then away.}
 {100}{}{你看见一个男人，他迅速地朝你凝视，紧接着又转移了视线。}
 #{101}{}{You see Greg.}

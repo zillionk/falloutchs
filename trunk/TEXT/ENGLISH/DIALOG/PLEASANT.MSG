@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a peasant.}
 # {101}{}{I got nothing to say to you, stranger.}
 # {102}{}{The brahmin sure do stink this time of year.}

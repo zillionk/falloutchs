@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Sophia, an instructor for the Brotherhood Initiates.}
 {100}{}{你看到索菲娅，一个兄弟会新兵的指导员。}
 

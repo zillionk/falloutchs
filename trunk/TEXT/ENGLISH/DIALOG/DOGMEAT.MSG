@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Dogmeat.}
 #{101}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
 #{102}{}{【Sniff. Sniff.】 Grrrr! Snarl!}

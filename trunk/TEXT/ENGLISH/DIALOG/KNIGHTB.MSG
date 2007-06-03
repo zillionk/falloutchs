@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Knight}
 # {101}{}{I wonder what the old turbine engines were really like.}
 # {102}{}{Boy, I wish we had an automobile.}

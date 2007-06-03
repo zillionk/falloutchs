@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Gideon, a normal looking human. He is wearing a crown.}
 # {101}{}{Jason is a living god! Only the nullified may pass!}
 # {102}{}{Nullified? Are they somehow restricting your psychic powers by those

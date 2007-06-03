@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Stay out of our way!}
 # {101}{}{Kill or be killed!}
 # {102}{}{Enjoy your victory, and pray to your gods that we never meet again!}

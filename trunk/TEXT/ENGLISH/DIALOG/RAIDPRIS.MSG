@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a dejected prisoner of the Raiders.}
 # {101}{}{Hey, you! Get me out of here!}
 # {102}{}{Be quiet, you're gonna alert the guards!}

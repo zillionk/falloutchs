@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see an airlock door.}
 # {101}{}{The door is locked electronically.}
 # {102}{}{The door is not locked.}

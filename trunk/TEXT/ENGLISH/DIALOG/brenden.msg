@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a stern, young initiate with a book.}
 {100}{}{你看见一个拿着一本书表情严肃的年轻新兵。}
 #{101}{}{You see Initiate Brenden.}

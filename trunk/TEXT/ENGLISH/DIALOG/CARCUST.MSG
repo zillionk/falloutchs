@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Caravan Customer.}
 #{101}{}{They never have what I want.}
 #{102}{}{I think the selection is getting worse.}

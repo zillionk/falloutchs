@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{【You are in your room. Do you want to rest here until tomorrow morning?】}
 {100}{}{【你在你自己的房间里。你想睡觉到明天早上吗？】}
 

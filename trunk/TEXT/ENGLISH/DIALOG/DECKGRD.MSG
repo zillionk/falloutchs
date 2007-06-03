@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see one of Decker's guards.}
 #{101}{}{You need to talk to the boss.}
 #{102}{}{You'd better stay on our good side.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a tattered rug.}
 # {101}{}{You wonder at what type of material could have been used to produce this rug.}
 {100}{}{你看到一块破烂的毯子。}

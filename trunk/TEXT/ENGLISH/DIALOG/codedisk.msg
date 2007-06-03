@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This is the disk of the Brotherhood's Code of Conduct.}
 {100}{}{这是《兄弟会行动守则》的磁盘。}
 

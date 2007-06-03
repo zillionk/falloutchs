@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You open the manhole cover and climb outof the dank sewers.}
 #{101}{}{You strain your shoulders on the manholecover, and then slip off the ladder.}
 #{102}{}{You cannot budge the manhole cover.}

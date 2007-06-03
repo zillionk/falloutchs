@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{This looks to be the footlocker of some guards.}
 # {101}{}{You pick the lock on the box.}
 # {102}{}{You failed to pick the lock on the lockbox.}

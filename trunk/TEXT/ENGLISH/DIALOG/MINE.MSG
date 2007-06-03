@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You spot a cleverly-laid land mine.}
 # {101}{}{You step on a land mine. BOOM!}
 {100}{}{你顺利的拆掉一颗地雷。}

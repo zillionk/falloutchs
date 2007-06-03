@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This is Caleb, leader of the Regulators.}
 #{101}{}{You see a stern man in his thirties.}
 #{102}{}{You should know that we don't like strangers here.  What do you want?}

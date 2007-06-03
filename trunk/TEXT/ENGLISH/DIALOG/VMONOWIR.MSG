@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You notice and manage to avoid a monofilament wire strung across the corridor.}
 # {101}{}{You feel intense pain in your legs. You've been sliced wide open by a monofilament wire.}
 # {102}{}{It severely damages your right leg.}

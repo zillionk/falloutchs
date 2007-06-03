@@ -3,6 +3,9 @@
 # and is quite mean. He only respects people who are as ruthless and violent as
 # himself.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Vinnie from the Skulz gang.}
 {100}{}{你看到骷髅党的维尼。}
 

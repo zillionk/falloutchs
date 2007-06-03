@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a woman.}
 #{101}{}{I do not wish to die, sir. I am not a soldier.}
 #{102}{}{I do not wish to die, ma'am. I am not a soldier.}
