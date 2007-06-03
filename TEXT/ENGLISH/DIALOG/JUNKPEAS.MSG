@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {101}{}{I'm busy. Leave me alone.}
 # {102}{}{Where did I put that thing . . .}
 # {103}{}{What are you doing here?}

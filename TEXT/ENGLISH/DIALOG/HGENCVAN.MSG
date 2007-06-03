@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 # These are people who are running caravans. either gender, but majority Male
 # Tone of voice similar to truck drivers of California-- rough and partially
 # harsh.

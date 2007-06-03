@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # These are the police of the Hub (a large metropolis). They are either gender, but using
 # Male is the best approach. They are simpltons who have a badge only because no one else
 # would take the badge. Speech has an absent-mindedness about it.

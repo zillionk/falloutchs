@@ -3,6 +3,9 @@
 # job of confusing the matter for people. Elusive and evasive. She will play
 # on anything that you give her to work with.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 {100}{}{你看见末世论者的哨兵希瑟。}
 {101}{}{你在干什么？}
 {102}{}{见鬼！}

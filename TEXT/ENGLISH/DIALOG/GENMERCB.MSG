@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 # {101}{}{I do not need your services right now. Perhaps later.}
 # {102}{}{Help! Save me!}
 # {103}{}{You must die for what you've done!}
