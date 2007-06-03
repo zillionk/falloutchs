@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Child with a real attitude.}
 #{101}{}{Get out of my face, you son of a bitch!}
 #{102}{}{Get away from me!}

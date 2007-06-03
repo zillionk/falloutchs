@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Miles, the chemist of Adytum.}
 {100}{}{你看到麦尔斯，内城区的化学师。}
 #{101}{}{You see a thin man in a white smock.}

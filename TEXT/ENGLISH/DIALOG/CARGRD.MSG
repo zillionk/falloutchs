@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Caravan Guard.}
 #{101}{}{I can't believe we lost the boss. Do you want to come back with us?
 # We can still pay you the 400 scripts.}

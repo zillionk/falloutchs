@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Rufus.}
 # {101}{}{Please don't kill me厎
 # {102}{}{Shhhh! I'm trying to play my game!}

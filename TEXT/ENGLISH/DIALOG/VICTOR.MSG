@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Victor.}
 # {101}{}{You see a gang member.}
 # {102}{}{Aaaaggghhh . . .}

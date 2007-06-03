@@ -1,5 +1,8 @@
 # this is a door. Neutral/male. no tone of voice.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{There seems to be a lock on this door.}
 # {101}{}{The door is already unlocked.}
 # {102}{}{Those are inadequate for the job.}

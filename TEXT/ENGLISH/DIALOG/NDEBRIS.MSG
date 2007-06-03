@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The way to the north is blocked by rubble and debris. You will have to find another way.}
 # {101}{}{The way to the south is blocked by rubble and debris. You will have to find another way.}
 # {102}{}{The way to the east is blocked by rubble and debris. You will have to find another way.}

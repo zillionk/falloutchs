@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Dan's wife.}
 {100}{}{你看见丹的妻子。}
 #{101}{}{I'm not supposed to talk to anyone.  Please see my husband.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This is a poorly repaired slot machine. It costs $10 to play.}
 #{101}{}{You drop $10 in the slot machine and pull the handle.}
 #{102}{}{DING! DING! DING!}

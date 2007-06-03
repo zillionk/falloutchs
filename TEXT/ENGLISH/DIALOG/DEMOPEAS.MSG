@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a peasant.}
 {100}{}{你看见一个农民。}
 #{101}{}{Oh, yeah, big man running from a scary dog. Phil, you sure showed it. Yep, you sure did.}

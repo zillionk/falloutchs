@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a guard.}
 # {101}{}{Hey! You don't work here.}
 # {102}{}{Can't you see I'm trying to rest.}

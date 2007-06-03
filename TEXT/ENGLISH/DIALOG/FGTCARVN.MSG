@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Fargo Traders Caravan Driver.}
 #{101}{}{Hi, if you're wantin' a job on a caravan, you should talk to Rutger.  He's just over there.}
 #{102}{}{You're gonna need to talk to Rutger.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a technician. He is working diligently for the Unity and the Master.}
 {100}{}{你看见一个技师。他正在勤奋的为主教的团体工作。}
 

@@ -46,6 +46,9 @@
 
 
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see 安柏尔, a teacher for the 末世论者.}
 #{101}{}{Now is when I rest. Please, come back during the evening.}
 #{102}{}{Welcome noble traveler. Have you come here to study?}

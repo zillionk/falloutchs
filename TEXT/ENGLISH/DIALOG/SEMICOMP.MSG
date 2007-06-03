@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a dim glowing computer.}
 {100}{}{你看到一台黯淡的发光的电脑。}
 #{101}{}{There is a trickle of power coming in. Most of the power seems

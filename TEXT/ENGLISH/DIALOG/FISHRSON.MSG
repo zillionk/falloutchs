@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a lean and unkempt boy.}
 #{101}{}{I don't think I should talk to you. Go away.}
 #{102}{}{Why do you have a weapon drawn? We don't got nothing, not even fish!}

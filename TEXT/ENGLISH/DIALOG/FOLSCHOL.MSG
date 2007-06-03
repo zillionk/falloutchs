@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a studious Follower of the Apocolypse.}
 #{101}{}{Please be quite, I am trying to study.}
 #{102}{}{We seek knowledge to protect us from the Children.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Scholar Theslin of the Children of the Cathedral.}
 {100}{}{你看见大教堂教徒的学者泰斯林。}
 

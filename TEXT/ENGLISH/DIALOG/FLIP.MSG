@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Flip.}
 #{101}{}{You see a huge mutant.}
 #{102}{}{Arrrghhh! Die, infidel!}

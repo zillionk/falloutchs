@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Hightower's Wife.}
 # {101}{}{Oh, hello.  You must be one of my husband's associates.}
 # {102}{}{Hello again.}

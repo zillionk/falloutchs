@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Boy, it sure is hot.}
 # {101}{}{I could use a drink.}
 # {102}{}{These trips sure are long.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a thug.}
 #{101}{}{Hey, aren't you the bastard who's been screwing us over? Man, did you come to the wrong place!}
 #{102}{}{Hey aren't you the bitch who's been screwing us over? You're in the wrong place, lady, and it's gonna cost you!}

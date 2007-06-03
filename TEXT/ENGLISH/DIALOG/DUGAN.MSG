@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Dugan, the Nuka-Cola addict of the Blades.}
 {100}{}{你看见杜根，利刃帮核子可乐的上瘾者。}
 #{101}{}{You see a very tall thin man with glasses. He has a bottle of Nuka-Cola clutched in his hand.}

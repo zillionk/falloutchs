@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Talus.}
 {100}{}{你看到塔鲁斯。}
 # {101}{}{Hello, you must be the outsider initiate. Nice to meet you.

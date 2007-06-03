@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a shopkeeper.}
 #{101}{}{The Holy Flame does not appreciate thieves and scoundrels in his house of worship.  You will be punished!}
 #{102}{}{Hng!}

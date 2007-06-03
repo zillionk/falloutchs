@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Lasher of the Children.}
 {100}{}{你看见大教堂的教徒之一，拉舍尔。}
 #{101}{}{I know who you are. You are a wicked, evil man and you must be punished.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a citizen of Vault 13.}
 # {101}{}{What is the outside world like?}
 # {102}{}{You must be brave to venture outside the Vault.}

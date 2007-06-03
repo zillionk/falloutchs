@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Jerry, a young Initiate.}
 #{101}{}{You see a Knight Initiate.}
 #{102}{}{You see a Scribe Initiate.}

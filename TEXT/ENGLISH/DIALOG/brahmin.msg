@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{It's a domesticated animal.}
 {100}{}{这是一头驯养的动物。}
 #{101}{}{There is nothing natural about these cows. The second head can only be the result of some strange mutation.}

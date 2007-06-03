@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a glowing ghoul.}
 # {101}{}{You tread without permission.}
 {100}{}{你看到一个发光的僵尸。}

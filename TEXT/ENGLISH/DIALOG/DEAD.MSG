@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Dead bodies . . .}
 {100}{}{死尸……}
 #{101}{}{They were recently killed by some sort of animal.}

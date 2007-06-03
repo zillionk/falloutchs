@@ -1,2 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see something in the darkness under the bed.}
 {100}{}{你在床下的暗处看到一些东西。}

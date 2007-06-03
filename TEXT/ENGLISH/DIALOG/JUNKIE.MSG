@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a junkie.}
 # {101}{}{Look at the colors!}
 # {102}{}{Ohhhhh wowwwwwww!  I'm eating my own face...}

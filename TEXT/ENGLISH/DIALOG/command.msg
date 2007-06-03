@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This looks like the Field Control computer.}
 {100}{}{看起来是力场控制计算机。}
 

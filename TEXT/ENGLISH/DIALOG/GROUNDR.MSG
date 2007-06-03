@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a ghoul undergrounder.}
 # {101}{}{We just want to be left alone.}
 # {102}{}{Set is an incompetent fool who will get us killed.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Deputy Fry.}
 #{101}{}{I抳e been hoping to run into you, child killer. I hope your stay isn抰 long. I抣l be playing close attention to you while you抮e here. Keep your nose clean in my city, I抦 just dying for an excuse to get rid of scum like you.}
 #{102}{}{Hello friend, Deputy Tony Fry at your service.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Darrel.}
 #{101}{}{You see a Paladin.}
 #{102}{}{Greetings, and welcome to the Brotherhood of Steel.}

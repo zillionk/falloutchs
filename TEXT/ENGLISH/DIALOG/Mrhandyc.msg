@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The robot is non-functional. The layer of dust on it suggests that it
 # hasn't been active recently.}
 {100}{}{这是个非功能型的机器人。从上边的一层灰尘来看它最近很少活动。}

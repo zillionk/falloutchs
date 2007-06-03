@@ -2,6 +2,9 @@
 # Accent, if any would be akin to Midwestern United States, a little slow and drawn out, but not
 # a Southern drawl.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a farmer.}
 # {101}{}{I need better soil.}
 # {102}{}{I'm not hiring.}

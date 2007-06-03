@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Neil, the head of the guard for the Followers.}
 {100}{}{你看到尼尔，末世论者守卫的头领。}
 

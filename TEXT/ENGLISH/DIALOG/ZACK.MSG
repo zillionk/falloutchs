@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Zack.}
 #{101}{}{You see a Gun Runner.}
 #{102}{}{Hi, I'm Zack. You want to buy weapons? Let me see what you have to trade.}

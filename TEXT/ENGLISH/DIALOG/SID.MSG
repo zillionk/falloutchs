@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Sid, Beth's assistant.}
 #{101}{}{Good morning.}
 #{102}{}{Afternoon, sir!}

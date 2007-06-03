@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Knight}
 # {101}{}{I love working on new prototypes.}
 # {102}{}{When our supplies are limited it can really be a challenge to find a way to use what we've got.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Come here, boy.}
 #{101}{}{Ruff. Ruff.}
 #{102}{}{For some reason, this dog likes you.}

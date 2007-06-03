@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{The computer says: RADIO CONTROL.}
 # {101}{}{ It looks like the radio channels have been shut down.}
 # {102}{}{ Radio channel control seems to be on.}

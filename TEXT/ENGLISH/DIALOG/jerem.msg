@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Jeremiah, a messenger for the Children.}
 {100}{}{你看见耶利米，一个教徒，他是一名传令官。}
 

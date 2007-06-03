@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Knight.}
 #{101}{}{Hello Initiate. I'm Larry, how may I help you?}
 #{102}{}{Vree said you could show me a laser pistol?}

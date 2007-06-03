@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Therax, a Thinker Nightkin.}
 {100}{}{你看到了瑟拉克斯，一个夜行团智者。}
 #{101}{}{You see Justin, a Thinker Nightkin.}

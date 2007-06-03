@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{´ËÈË²»ÄÜ¸æËßÄãÊ²Ã´¡£}
+
 # {100}{}{You see a Hubber.}
 # {101}{}{Wow!  I heard you killed the Deathclaw, good work!}
 # {102}{}{Is it true? Does… did the Deathclaw really exist?}

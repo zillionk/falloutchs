@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Guido.}
 {100}{}{你看见古维多。}
 #{101}{}{I say you just use brute force. It don't take that much to bust a knee cap.}

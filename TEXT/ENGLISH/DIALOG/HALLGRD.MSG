@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Brotherhood Guard.}
 # {101}{}{Stay sharp Initiate!}
 # {102}{}{Looking good. Keep up the good work.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You gain 400 experience points for returning Tandi.}
 {100}{}{因为找回坦蒂你得到４００点经验值。}
 #{101}{}{To the south, you see an adobe wall surrounding a peaceful-looking village.}

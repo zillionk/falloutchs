@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a seedy-looking Mexican man with slick hair.}
 #{101}{}{You see Hernandez, the rascally gambler.}
 #{102}{}{Oye, muchacho, allow me to introduce myself. I am Hernandez,

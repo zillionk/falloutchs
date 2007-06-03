@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{From the look of things, they can't have traveled very far. They must have #a lair nearby.}
 #{101}{}{They appear to have traveled here from somewhere nearby.}
 #{102}{}{It looks like they traveled from somewhere far north of here.}

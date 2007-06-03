@@ -1,6 +1,9 @@
 # Captor is Male. He is angry and tired. He wants nothing to do with the player and
 # will kill the player given half a chance.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a seedy looking person.}
 # {101}{}{What do you want?}
 # {102}{}{Get out of here!}

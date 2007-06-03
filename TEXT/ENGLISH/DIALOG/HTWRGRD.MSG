@@ -1,6 +1,9 @@
 # Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
 # they have a general attitude of don't bother me.
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see one of Hightower's guards.}
 #{101}{}{You better leave. Daren Hightower doesn't take visitors.}
 #{102}{}{Your company is not desired.}

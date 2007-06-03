@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Watch yourself around the Doc, and I won't have to get medieval on your face.}
 #{101}{}{We're closed. Come back later.}
 #{102}{}{I gotta see the Doc.}

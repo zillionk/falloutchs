@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see the Caravan Driver.}
 #{101}{}{Did you want to return to the Hub? I'll pay you another ４００ scripts.}
 #{102}{}{Rutger should be pleased; we made it without any casualties. Did you

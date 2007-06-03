@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Mephisto, an angry merchant.}
 #{101}{}{You see a merchant named Harms.}
 #{102}{}{You see an upset merchant named Fowler.}

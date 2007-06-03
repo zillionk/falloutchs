@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You notice bloody tracks leading to the bodies.}
 # {101}{}{It looks like some of the animals dragged the bodies here.}
 {100}{}{顺着数条血迹，你看到了一些尸体。}

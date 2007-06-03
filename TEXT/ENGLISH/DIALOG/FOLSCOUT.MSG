@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Jerry of the Follower's Scouts.}
 #{101}{}{You see Basbear of the Follower's Scouts.}
 #{102}{}{You see Richard of the Follower's Scouts.}

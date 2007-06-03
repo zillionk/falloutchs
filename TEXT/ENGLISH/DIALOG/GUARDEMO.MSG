@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{A Junktown guard.}
 {100}{}{一个迦克镇卫兵。}
 #{101}{}{This is Junktown. Nice place to live, as long as you stay on our good side}

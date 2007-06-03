@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see Orfeo, a Senior Member of the Children of the Cathedral.}
 # {101}{}{Ah. A new convert. Welcome.}
 # {102}{}{Me kill!!!}

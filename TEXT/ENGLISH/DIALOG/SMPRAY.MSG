@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see some mutants and children kneeling before a video screen.}
 # {101}{}{Pray with us for peace, child.}
 # {102}{}{The Unity will prevail if we are strong. Meditate on the quality of strength.}

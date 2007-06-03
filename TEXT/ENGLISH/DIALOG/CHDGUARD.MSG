@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see before you a gruff guard.}
 #{101}{}{Who goes there?}
 #{102}{}{Me. Me.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Paladin}
 # {101}{}{Good day, Initiate.}
 # {102}{}{If you need anything, you should talk to Vree.}

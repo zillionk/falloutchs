@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This computer contains a great amount of information
 # preserved from before the Great War.}
 #{101}{}{You use the Vault computer teaching system.}

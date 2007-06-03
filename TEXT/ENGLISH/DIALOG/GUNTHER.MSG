@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Gunther.}
 #{101}{}{You see a stern man in his thirties.}
 #{102}{}{Welcome to my humble house.  What can I do for you?}

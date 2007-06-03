@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a dog. He seems to be following you.}
 {100}{}{你看见一条狗，它看起来在跟着你。}
 #{101}{}{You see a dog.}

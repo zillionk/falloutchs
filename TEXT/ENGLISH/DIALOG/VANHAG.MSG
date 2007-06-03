@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Member of the Children of the Cathedral.}
 {100}{}{你看见一个大教堂的教徒。}
 #{101}{}{I do not speak with heathen souls such as yourself.}

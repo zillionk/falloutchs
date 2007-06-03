@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Lou of the Nightkin.}
 #{101}{}{You see Sue of the Nightkin.}
 #{102}{}{You see Drew of the Nightkin.}

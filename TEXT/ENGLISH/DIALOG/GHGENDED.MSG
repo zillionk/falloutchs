@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a lifeless corpse laying on the ground.}
 # {101}{}{An unfortunate soul lays here.}
 # {102}{}{The remains of a mutated human rest upon the floor.}

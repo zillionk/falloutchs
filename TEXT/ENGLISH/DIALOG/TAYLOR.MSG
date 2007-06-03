@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a cheery man with close-cropped hair.}
 {100}{}{你看见一个剪成平头的快活家伙。}
 #{101}{}{You see the town's trader, Tine.}

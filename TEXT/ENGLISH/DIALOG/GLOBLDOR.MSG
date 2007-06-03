@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The frame of this security door has remnants of blue paint.}
 {100}{}{安全门的架构上残留着蓝色喷涂。}
 

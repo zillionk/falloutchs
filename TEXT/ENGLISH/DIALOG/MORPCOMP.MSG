@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Before you is a Mach IV Computer.}
 # {101}{}{It seems as though the system is in a reboot status.}
 # {102}{}{The system seems to have locked up.}

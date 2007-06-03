@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{Uh oh.}
 # {101}{}{You set off a gas trap and take a point of damage.}
 # {102}{}{You set off a gas trap and take }

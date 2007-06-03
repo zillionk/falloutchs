@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Mitch, the manager of the All-In-One Store.}
 #{101}{}{Looking for something?}
 #{102}{}{What're you looking for today?}

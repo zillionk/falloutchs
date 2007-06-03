@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This is a badly worn-out desk with a dusty, cracked computer
 # seated precariously atop it.}
 {100}{}{这张老旧的桌子上，一台灰尘斑斑的破电脑摇摇欲坠。}

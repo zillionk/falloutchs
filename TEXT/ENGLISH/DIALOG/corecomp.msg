@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This computer monitors the machines maintaining the Vault.}
 {100}{}{这个电脑监控着避难所所有仪器设施的工作状况。}
 

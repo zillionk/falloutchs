@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{He has the stance and musculature of a master martial artist.}
 #{101}{}{Izo says nothing.}
 #{102}{}{ He gives you your money.}

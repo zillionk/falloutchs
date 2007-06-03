@@ -1,2 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Unless it has been looted, there should be an uzi around here somewhere. }
 {100}{}{应该还有一只乌兹冲锋枪，除非已经被别人捡走了。}

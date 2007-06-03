@@ -12,6 +12,9 @@
 # The drunk has slurred speech. he's been hitting the booze a bit too hard
 # and is having problems standing and remembering his name
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a drunk.}
 #{110}{}{Leave me to my sorrows.}
 #{111}{}{Yer my bestest friend.}

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The Raider is too frightened of Garl to speak to you any more.}
 {100}{}{歹徒被伽尔吓坏了以至于再也不和你进一步交谈。}
 

@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Bulletin Board.}
 {100}{}{你看见一块告示牌。}
 #{101}{}{NEED WORK?  The Far Go Traders are currently filling the following positions:}

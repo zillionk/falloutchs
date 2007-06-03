@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Rae.}
 #{101}{}{You see a super mutant.}
 #{102}{}{You don't belong here.}

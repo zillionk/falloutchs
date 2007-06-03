@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a Chanter of the Children.}
 #{101}{}{The Master will forgive your sins! Join us and be free! Praise to
 # the Master and his mercy!}

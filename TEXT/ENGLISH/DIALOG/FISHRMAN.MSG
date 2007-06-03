@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a weary fisherman.}
 #{101}{}{Sir, I've heard about you, and I'd appreciate it if you left me and my boy in peace.}
 #{102}{}{Ma'am, I've heard about you, and I'd appreciate it if you left me and my boy in peace.}

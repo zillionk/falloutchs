@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Closed by order of Sheriff Justin Greene.}
 {100}{}{治安官贾斯廷下令关闭。}
 #{101}{}{There is a small sign on the booth.}

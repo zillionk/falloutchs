@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Bob, proprietor of Bob's Iguana Bits.}
 {100}{}{你看见鲍勃，“鲍勃蜥蜴料理”的老板。}
 #{101}{}{Ok, Ok, I've got your money.}

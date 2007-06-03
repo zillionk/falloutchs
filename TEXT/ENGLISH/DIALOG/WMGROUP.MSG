@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # {100}{}{You see a Water Caravan employee.}
 # {101}{}{Talk to Martha if you want a job.}
 # {102}{}{These caravan trips are getting too dangerous.}

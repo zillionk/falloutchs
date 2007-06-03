@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a clerk from the Crimson Caravans.}
 #{101}{}{You see a clerk from the Water Merchants.}
 #{102}{}{You see a clerk from the Far Go Traders.}

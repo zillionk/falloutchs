@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{The person looks like he may have been from the Brotherhood of Steel.}
 {100}{}{这个人看起来好像来自钢铁兄弟会。}
 #{101}{}{You wonder what could have caused such damage to the Brotherhood member.}

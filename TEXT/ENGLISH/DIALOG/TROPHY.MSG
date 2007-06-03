@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{It looks like a small gold trophy, with a clasp and a bronze plaque.}
 {100}{}{看起来是一个带着扣子的小金牌，上面有铜制的名牌。}
 #{101}{}{You successfully steal the urn from the countertop.}

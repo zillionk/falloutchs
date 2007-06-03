@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see a large well armed man.}
 #{101}{}{You see Gabriel, leader of the Gun Runners.}
 #{102}{}{It's not often that we get visitors, how can I help you?}

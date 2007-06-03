@@ -1,2 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{This room once belonged to esteemed scientists.}
 {100}{}{这房间曾经属于令人尊敬的科学家们。}

@@ -3,6 +3,9 @@
 # Talking cows special encounter text
 #
 
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Moo.}
 {100}{}{哞。}
 

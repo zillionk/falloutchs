@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{Scribe}
 {100}{}{研究员}
 #{101}{}{Research is one of my favorite things to do. I feel like I'm

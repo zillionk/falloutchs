@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Sister Francis.}
 #{101}{}{Hi! Oh, it's you! I hope you're not here to kill me. If you don't mind, could you wait until after I finish meditating?}
 #{102}{}{Oh, it's you again. I don't mean to be rude, but I am meditating . . .}

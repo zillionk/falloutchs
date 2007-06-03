@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 #{100}{}{You see Deputy Fry.}
 {100}{}{你看见代理警长佛莱。}
 #{101}{}{Hello friend. Deputy Tony Fry at your service.}
