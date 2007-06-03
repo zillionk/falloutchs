@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
 # Beth is female. She speaks with a normal accent.  She is a friendly person
 # who is mostly interested in selling equipment and information.
 {100}{}{你看见了贝斯，武器店的店主。}
