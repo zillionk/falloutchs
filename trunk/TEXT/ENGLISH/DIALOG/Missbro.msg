@@ -1,5 +1,9 @@
++{1099}{}{?}
++{1199}{}{这个人可以告诉你：Brotherhood－兄弟会、Steel－钢铁兄弟会、Talus－塔鲁斯。◎}
+
+
 #{100}{}{You see a battered man.}
-{100}{}{你看见一个被打过的男人。}
+{100}{}{你看见一个被狂扁过的男人。}
 
 #{101}{}{Thank you stranger! I don't know how many weeks, perhaps months, those thugs have
 # had me here. I'm very grateful for your help, and I'm sure the Brotherhood of Steel is also.}
@@ -9,7 +13,7 @@
 {102}{}{钢铁兄弟会？}
 
 #{103}{}{Well, I'm glad that I could help.}
-{103}{}{太好了，我很高兴我能帮上忙。}
+{103}{}{没关系，我很高兴我能帮上忙。}
 
 #{104}{}{Are you going to be okay?}
 {104}{}{你还好吗？}
@@ -25,7 +29,7 @@
 
 #{108}{}{You haven't heard of us? I'm really surprised. You must not leave the Hub very often. You
 # should get out more. We're northwest of here, on the west side of the mountain range.}
-{108}{}{你没有听说过我们？我很惊讶。你不能一直呆在哈勃城。你应该到处走走。我们在哈勃城的西南方向，西边的山脉上。}
+{108}{}{你没有听说过我们？我真的感到很惊讶。你不能一直呆在哈勃城。你应该到处走走。我们在哈勃城的西南方向，西边的山脉上。}
 
 #{109}{}{I really appreciate you helping me, but why are you trying to lie to me? Do you not think
 # I know every member of our order?}
@@ -35,26 +39,26 @@
 {110}{}{塔鲁斯派我来的。}
 
 #{111}{}{Well, you don't know me, because I just joined.}
-{111}{}{好，你不认识我是因为我刚刚加入兄弟会。}
+{111}{}{嗯，你之所以不认识我，是因为我刚刚加入钢铁兄弟会。}
 
 #{112}{}{You obviously don't know what you're talking about.}
 {112}{}{你明显不知道你自己在说什么。}
 
 #{113}{}{Thanks again! If you stop by the Brotherhood, I'd appreciate it if you could let Talus know I'm
 # okay. I'm sure he's worried. Bye, and take care.}
-{113}{}{再次谢谢你！如果你到了钢铁兄弟会，帮忙告诉塔鲁斯我现在很好。我知道他很担心。再见，路上小心。}
+{113}{}{再次谢谢你！如果你到了钢铁兄弟会，请告诉塔鲁斯我现在很好。我知道他很担心。再见，路上小心。}
 
 #{114}{}{Oh, I'll be fine now, thanks. I have some friends here that I can stay with while I regain my strength. I'll try to send word to the Brotherhood to let them know that I am safe now, thanks to you. Bye}
-{114}{}{哦，我现在很好，谢谢。我有一些朋友在这里，他们可以照顾我。我会试着捎口信到兄弟会告诉他们我现在很安全，谢谢你，再见。}
+{114}{}{哦，我会好起来的，谢谢。我有一些朋友在这里，他们可以照顾我直到我完全恢复。我会试着捎口信到兄弟会告诉他们我现在很安全，谢谢你，再见。}
 #{115}{}{How?Oh, I'm sorry. You must have passed that "test" the Elders made up. I completely forgot
 # about that. Well, my thanks goes even deeper. I'm glad you never gave up. My life could have been in jeopardy at any moment. It must have taken you a while to hunt me down. This city is huge. The obstacles you must have overcome.}
 {115}{}{什么？哦，对不起。你应该通过了元老的“测试”。我都忘了。好吧，非常感谢你。很高兴你一直坚持不懈。我总是处在危险中。再迟一会我就会被他们打死。这个地方很大。你要处处小心。}
 
 #{116}{}{Well, you know?I'm just that good.}
-{116}{}{是的，你知道吗？我那仅仅是运气好。}
+{116}{}{嗯，你知道吗？我那仅仅是运气好。}
 
 #{117}{}{Actually, it was quite easy. Talus knew where you went.}
-{117}{}{实际上这很容易。塔鲁斯要我到这来。}
+{117}{}{实际上这很容易。塔鲁斯知道你去什么地方了。}
 
 #{118}{}{Just lucky I guess.}
 {118}{}{我猜仅仅是运气好而已。}
@@ -85,7 +89,7 @@
 {125}{}{很好，我很高兴你能救我出去。我听说旧城区发生了一些不好的事情。那些人鬼鬼祟祟的，我想一定有什么事情发生。}
 
 #{126}{}{Whatever you say. I'm just grateful to be free again. I don't take well to torture.}
-{126}{}{无论你怎么说。我非常感谢你让我获得自由。我不想再受折磨了。}
+{126}{}{无论你怎么说。我非常感谢你让我获得自由。我不用再受折磨了。}
 
 #{127}{}{No, really, Talus sent me.}
 {127}{}{不，我真的是塔鲁斯派来的。}
@@ -109,7 +113,7 @@
 {133}{}{你还好吗？}
 
 #{134}{}{Hello again.}
-{134}{}{再次见到你很高兴。}
+{134}{}{很高兴再次见到你。}
 
 #{135}{}{I'm leaving soon. Just gathering my strength.}
 {135}{}{我就要离开了。我得再休息一会来养足力气。}
@@ -131,4 +135,4 @@
 {1101}{}{唯一能拯救这个世界上所有受苦平民的组织。没有他们，世界就会灭亡。}
 
 #{1102}{}{He is my mentor and a great man.  I look forward to seeing him once again.}
-{1102}{}{他是一个伟大的人。我希望能有幸再次见到他。}
+{1102}{}{他是一个伟大的人，我的良师益友。我希望能再次见到他。}
