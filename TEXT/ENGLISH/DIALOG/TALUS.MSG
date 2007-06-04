@@ -346,7 +346,7 @@
  # I thought so. You should lay off the drugs, they can really mess you up.
  # If you don't watch it you'll end up like the Skags at the Hub. So what
  # was it you needed?}
-{400}{}{你可以经常……等等。看着我的眼睛……向我想的一样。你应该戒掉药瘾，它们会让你神志不清。如果你不去看医生你就会像哈勃城的斯盖格那样死去。那么你需要什么？}
+{400}{}{你可以经常……等等。看着我的眼睛……向我想的一样。你应该戒掉药瘾，它们会让你神志不清。如果你不去看医生你就会像哈勃城的瘾君子那样死去。那么你需要什么？}
 # {401}{}{Do you have a doctor? I'm hurt.}
 {401}{}{你这里有医生吗？我受伤了。}
 # {402}{}{Do you have a doctor?}
