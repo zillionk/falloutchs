@@ -21,6 +21,10 @@
 {110}{}{你知道吗，你因为杀害儿童被悬赏花红１５００？我吃定了！}
 # 1500 caps is equivalant to 1500 dollars. Children is considered male plural
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Adytum、Followers、Cathedral、Rippers、Blades、Gun、Hub、Junktown、Water、Nicole、Boneyard、Runners、Chip。}
+
+
 {1000}{}{Adytum}
 {1001}{}{Followers}
 {1002}{}{Cathedral}

@@ -572,6 +572,10 @@
 #
 # Overseer Tell-Me-Abouts
 #
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Water-水、Vault-避难所、War-大战、Outside-外面、Chip-芯片、Library-图书馆、Healing-治疗、Medic-医生、Vault13-十三号避难所、Vault-13-十三号避难所、Overseer-所长、Waterchip-净水芯片。}
+
 {1000}{}{Water}
 {1001}{}{Vault}
 {1002}{}{War}

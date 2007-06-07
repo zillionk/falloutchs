@@ -1,3 +1,6 @@
+{1099}{}{?}
+{1199}{}{我可以告诉你：Set-赛特、Master-主教、Water-水、Watershed-水处理室、Hall-亡者大厅、Necropolis-大墓地城、Chip-芯片。}
+
 #{100}{}{You see the ghoul leader.}
 {100}{}{你看见一名僵尸头目。}
 

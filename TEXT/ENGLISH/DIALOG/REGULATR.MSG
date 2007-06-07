@@ -132,6 +132,8 @@
 
 {139}{}{老头，我想我们不需要你了。}
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Adytum-内城区、Followers-末世论者、Cathedral-大教堂、Blades-利刃帮、Runners-军火商、Hub-哈勃、Junktown-迦克镇、Chip-芯片、Store-商店、Zimmerman-齐默曼、Necropolis-大墓地城、Glow闪光之地、Regulators-管理者、Scavs-拾荒者、Boneyard-晒骨场。}
 
 {1000}{}{Adytum}
 {1001}{}{Followers}
@@ -163,5 +165,5 @@
 {1112}{}{那是个神话。}
 {1113}{}{我们保卫内城区。}
 {1114}{}{他们去外面获取物品。}
-{1115}{}{这里是晒骨场。}
+{1115}{}{这里就是晒骨场。}
 

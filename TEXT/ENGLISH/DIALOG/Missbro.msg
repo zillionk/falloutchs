@@ -123,6 +123,11 @@
 
 
 #// Tell me abouts
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Brotherhood-兄弟会、Steel-钢铁、Talus-塔鲁斯。}
+
+
 {1000}{}{Brotherhood}
 {1001}{}{Steel}
 {1002}{}{Talus}

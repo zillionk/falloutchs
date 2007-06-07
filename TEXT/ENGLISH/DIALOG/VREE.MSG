@@ -372,6 +372,8 @@
 # Vree Tell-Me-Abouts
 #
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Master-主教、War-大战、Discs-磁碟、brotherhood-兄弟会、Chip-芯片、Elder-最高元老、Rhombus-隆伯斯、Exodus-大迁徙（大远征）、Strange Army-奇怪的部队、Merchants-商人、Missing Caravans-消失的商队、Hub-哈勃、Children of the Cathedral-大教堂教徒、Initiates-新兵、Scribes-研究员、Knights-骑士、Paladins-游侠、Holo-全息磁碟。}
 
 {1000}{}{Master}
 {1001}{}{War}

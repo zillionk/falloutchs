@@ -50,10 +50,12 @@
 # {139}{}{You've sealed the fate of everyone in this Vault, traitor. I hope you are
 # satisfied with yourself.}
 
-# {1000}{}{Overseer}
-# {1001}{}{Vault13}
-# {1002}{}{Vault-13}
-# {1003}{}{Vault}
+{1000}{}{Overseer}
+{1001}{}{Vault13}
+{1002}{}{Vault-13}
+{1003}{}{Vault}
+
+
 # {1100}{}{The Overseer just wants to keep everyone under his control in here. We
 # need to go out into the world for ourselves.}
 # {1101}{}{The Vault has been our home, but it just won't last any longer. It's time
@@ -104,10 +106,9 @@
 {138}{}{哦啊！}
 {139}{}{你毁了这避难所里所有人的未来，叛徒！现在你满意了吧！}
 
-{1000}{}{Overseer}
-{1001}{}{Vault13}
-{1002}{}{Vault-13}
-{1003}{}{Vault}
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Overseer-所长、Vault13-13号避难所、Vault-13-13号避难所、Vault-避难所。}
 
 {1100}{}{所长只是要这的所有人都处在自己的控制下。为了我们自己，我们要走出去，走到外面的世界。}
 {1101}{}{一直以来避难所都是我们的家，但今后不再是了，是时候建立一个新的家园了。}

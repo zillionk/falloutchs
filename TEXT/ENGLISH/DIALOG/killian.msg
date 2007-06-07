@@ -650,6 +650,8 @@
 # Killian Tell-Me-Abouts
 #
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Gizmo-吉斯莫、Killian-基利安、Lars-拉尔斯、Vinnie-维尼、Doc-医生、Skulz-骷髅帮、Khans-可汗帮、Vipers-蝮蛇帮、Darkwater's-黑水的店铺、Crash-睡觉、Gizmo's-吉斯莫的赌场、Skum-酒吧、Cathedral-大教堂、Claw-死亡爪、Hub-哈勃、Shady-沙荫镇、Necropolis-大墓地城、Raiders-歹徒、War-大战、Strange-奇怪、Darkwater-黑水、Morbid-莫彼得、Darkwaters-黑水、Gizmos-吉斯莫、Pitt-酒吧、Sands-沙荫镇、Pit-酒吧。}
 
 {1000}{}{Gizmo}
 {1001}{}{Killian}
