@@ -381,7 +381,8 @@
 #
 
 {1099}{}{?}
-{1199}{}{我可以告诉你：Junktown、Rangers、Chip、War、Wastes、Followers、Cathedral、Garl、Master、Unity、Set、Watershed、Necropolis、Hall、Library、Overseer、Medic、Healing、Vault、Vault-13、Vault13、Killian、Gizmo、Boneyard、Shady、Sands、Hub、Casino、Store、Deathclaw、Exodus、Initiates、Paladins、Scribes、Children、Brotherhood、Vats、Military、Base、Apocalypse、Mutants、Morpheus、Khans、Tandi、Alya、Diana、Gwen、Petrox、Tolya、Booze、Drugs、Seth、Aradesh、Razlo、Zimmerman、Regulators、Scavs、Blades、Nicole、Lieutenant、Psychics、Experiments、Police、Merchants。}
+{1199}{}{我可以告诉你：Water-水、War-大战、Shady-沙荫镇、Junktown-迦克镇、Hub-哈勃、Raiders-歹徒、Caravans-商队、Chip-芯片、Sands-沙荫镇、Followers-末世论者、Cathedral-大教堂、Garl-伽尔、Master-主教、Unity-“同一”、Set-赛特、Watershed-水处理房、Necropolis-大墓地城、hall-亡者大厅、Library-图书馆、Overseer-所长、Medic-医生、Healing-治疗、Vault-避难所、Vault-13-十三号避难所、Vault13-十三号避难所、Killian-基利安、Gizmo-吉斯莫、boneyard-晒骨场、Casino-赌场、Store-店铺、Deathclaw-死亡爪、Exodus-大迁徙、Initiates-新兵、Paladins-游侠、Scribes-研究员、Children-大教堂教徒、Brotherhood-兄弟会、Vats-病毒槽、Military-军事基地、Base-军事基地、Apocalypse-末世论、Mutants-变种人、Morpheus-墨菲斯、Khans-可汗帮、Tandi-坦蒂、Alya-艾丽娅、Diana-戴安娜、Gwen-格温、Petrox-派特拉克斯、Tolya-托利亚、Booze-酒、Drugs-毒品、Seth-赛思、Aradesh-亚拉德什、Razlo-拉斯洛、Zimmerman-齐默曼、Regulators-管理者、Scavs-拾荒者、Blades-利刃帮、Nicole-妮可尔、Lieutenant-主教副官、Psychics-心理、Experiments-试验、Police-警察、Merchants-商人。}
+
 
 {1000}{}{Junktown}
 {1001}{}{Rangers}

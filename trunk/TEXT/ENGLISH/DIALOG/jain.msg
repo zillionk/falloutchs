@@ -268,6 +268,10 @@
 
 #Tell Me Abouts
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：War-大战、Master-主教、Cathedral-大教堂、Mutants-变种人、Hub-哈勃、Steel-钢铁、vats-病毒槽、Holy-圣火、Unity-“同一”、Brotherhood-兄弟会、Flame-圣火、Children-大教堂教徒。}
+
+
 {1000}{}{War}
 {1001}{}{Master}
 {1002}{}{Cathedral}
