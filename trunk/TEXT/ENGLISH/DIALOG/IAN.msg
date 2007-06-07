@@ -294,7 +294,7 @@
 # Ian tell-me-abouts
 #
 {1099}{}{?}
-{1199}{}{我可以告诉你：Water-水、War-大战、Shady-沙荫镇、Junktown-迦克镇、Hub-哈勃、Raiders-歹徒、Caravans-商队、Chip-芯片、Sands-沙荫镇、Followers-末世论者、Cathedral-大教堂、Garl-伽尔、Master-主教、Unity-“同一”、Set-赛特、Watershed-水处理房、Necropolis-大墓地城、hall-亡者大厅、Library-图书馆、Overseer-所长、Medic-医生、Healing-治疗、Vault-避难所、Vault-13-十三号避难所、Vault13-十三号避难所、Killian-基利安、Gizmo-吉斯莫、boneyard-晒骨场、Casino-赌场、Store-店铺、Deathclaw-死亡爪、Exodus-大迁徙、Initiates-新兵、Paladins-游侠、Scribes-研究员、Children-大教堂教徒、Brotherhood-兄弟会、Vats-病毒槽、Military-军事基地、Base-军事基地、Apocalypse-末世论、Mutants-变种人、Morpheus-墨菲斯、Khans-可汗帮、Tandi-坦蒂、Alya-艾丽娅、Diana-戴安娜、Gwen-格温、Petrox-派特拉克斯、Tolya-托利亚、Booze-酒、Drugs-毒品、Seth-赛思、Aradesh-亚拉德什、Razlo-拉斯洛、Zimmerman-齐默曼、Regulators-管理者、Scavs-拾荒者、Blades-利刃帮、Nicole-妮可尔、Lieutenant-主教副官、Psychics-心理、Experiments-试验、Police-警察、Merchants-商人。}
+{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard晒骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
 
 {1000}{}{Water}
 {1001}{}{War}
