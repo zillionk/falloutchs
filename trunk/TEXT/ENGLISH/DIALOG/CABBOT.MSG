@@ -1,3 +1,7 @@
+{1099}{}{?}
+{1199}{}{我可以告诉你：Vree-芙蕾、Rhombus-隆伯斯、Elder-最高元老、Elders-元老、Scribes-研究员、Knights-骑士、Hub-哈勃城、Disks-磁碟、Merchants-商人、Brotherhood-兄弟会、Ancient-古代、Exodus-远征、Cabbot-卡波特、Order-命令、paladins-游侠、Master-主教、War-大战、Army-军队、Caravans-商队、Cathedral-大教堂、Chip-芯片。}
+
+
 # {100}{}{You see Cabbot, an Initiate of the Brotherhood of Steel.}
 # {100}{}{You see Cabbot, an Initiate of the Brotherhood of Steel.}
 # {101}{Cab_1}{Hello and welcome to the Brotherhood of Steel.
