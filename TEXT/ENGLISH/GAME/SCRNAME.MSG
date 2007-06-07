@@ -1252,7 +1252,7 @@
 {720}{}{钢铁兄弟会教官}                            # Spar.int
 {721}{}{QA Cheat}                                       # Cheater.int
 {722}{}{艾佐}                                            # Izo.int
-{723}{}{卡特加}                                          # Katja.int
+{723}{}{卡佳}                                          # Katja.int
 {724}{}{井口}                                        # Ady2Stor.int
 {725}{}{梯子}                                         # Stor2Ady.int
 {726}{}{向上的梯子}                                         # FolDn2Up.int
