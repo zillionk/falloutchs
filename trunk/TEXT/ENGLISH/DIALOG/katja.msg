@@ -223,7 +223,7 @@
 {163}{}{什么事？}
 
 #{164}{}{Can you give this lock a try?}
-{164}{}{你能解开这个缩么？}
+{164}{}{你能解开这个锁么？}
 
 #{165}{}{Can you take a look at this trap?}
 {165}{}{你能看看这个陷阱么？}
