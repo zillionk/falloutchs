@@ -1,6 +1,6 @@
 {1099}{}{?}
 
-{1199}{}{我可以告诉你……Aradesh、Dharma、Tandi、Razlo、Raiders、Vipers、Khans、Scorpions、Claw、Junktown、Spear、Station、Lair、Scorpion、Tower、Seth}
+{1199}{}{我可以告诉你：Aradesh-亚拉德什、Dharma-先知达玛、Tandi-坦蒂、Razlo-拉斯洛、Raiders-歹徒、Vipers-蝮蛇帮、Khans-可汗帮、Scorpions-辐射蝎、Claw-死亡爪、Junktown-迦克镇、Spear-矛、Station-小镇的哨所、Lair-巢穴、Scorpion-辐射蝎、Tower-小镇的了望塔、Seth-赛思。}
 
 #{100}{}{You see Aradesh.}
 {100}{}{你看见亚拉德什。}
