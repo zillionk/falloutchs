@@ -150,6 +150,10 @@
 {324}{}{我改变主意了，再见。}
 {325}{}{好吧。我一会儿会回来的，你等着我。}
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Khans-可汗帮、Garl-伽尔、Junktown-迦克镇、Shady-沙荫镇、Hub-哈勃、Water-水、Tandi-坦蒂、Aradesh-亚拉德什、Seth-赛思、Razlo-拉斯洛、Sands-沙荫镇、Scorpion-蝎子、Radscorpion-辐射蝎、scorpions-蝎子、Radscorpions-辐射蝎}
+
+
 {1000}{}{Khans}
 {1001}{}{Garl}
 {1002}{}{Junktown}
