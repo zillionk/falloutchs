@@ -294,6 +294,9 @@
 # Ian tell-me-abouts
 #
 
+{1099}{}{?}
+{1199}{}{厘辛參御盆低��Water、War、Shady、Junktown、Hub、Raiders、Caravans、Chip、Sands、Followers、Cathedral、Garl、Master、Unity、Set、Watershed、Necropolis、hall、Library、Overseer、Medic、Healing、Vault、Vault-13、Vault13、Killian、Gizmo、boneyard、Casino、Store、Deathclaw、Exodus、Initiates、Paladins、Scribes、Children、Brotherhood、Vats、Military、Base、Apocalypse、Mutants、Morpheus、Khans、Tandi、Alya、Diana、Gwen、Petrox、Tolya、Booze、Drugs、Seth、Aradesh、Razlo、Zimmerman、Regulators、Scavs、Blades、Nicole、Lieutenant、Psychics、Experiments、Police、Merchants。}
+
 {1000}{}{Water}
 {1001}{}{War}
 {1002}{}{Shady}

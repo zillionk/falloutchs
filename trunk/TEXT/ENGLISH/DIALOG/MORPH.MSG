@@ -457,6 +457,8 @@
 # Morpheus Tell-Me-Abouts
 #
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Nightkin-夜之团、Master-主教、Auditorium-布道大厅、Sanctum-内殿、Morpheus-墨菲斯、Order-官职、Caravans-商队、Hospitals-医院、Unity-“同一”事业、Lasher-拉舍尔、Followers-末世论者、Nicole-妮可尔、Adytum-内城区、Apocalypse-末世论、Mutants-变种人、Holy Flame-圣火、Children-教徒、Base-基地、Chip-芯片。}
 
 {1000}{}{Nightkin}
 {1001}{}{Master}

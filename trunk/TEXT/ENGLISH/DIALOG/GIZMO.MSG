@@ -397,14 +397,12 @@
 # Gizmo's Tell-Me-Abouts
 #
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Killian-基利安、Gizmo-吉斯莫、Darkwaters-黑水、Gizmo's-吉斯莫的、Darkwater-黑水、Gizmos-吉斯莫、Casino-赌场、Junktown-迦克镇。}
+
 {1000}{}{Killian}
-#{1000}{}{基利安}
-
 {1001}{}{Gizmo}
-#{1001}{}{吉斯莫}
-
 {1002}{}{Darkwaters}
-#{1002}{}{黑水}
 
 {1003}{}{Gizmo's}
 #{1003}{}{吉斯莫的}

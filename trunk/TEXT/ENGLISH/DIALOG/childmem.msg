@@ -138,6 +138,9 @@
 {143}{}{你为什么要这么做？我们又没伤害你！}
 
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Cathedral-大教堂、Mutants-变种人、Master-主教、Boneyard-晒骨场、Followers-末世论者、Chip-芯片、Apocalypse-末世论、Necropolis-大墓地城、Set-赛特、Watershed-水处理房、Hall-亡者大厅。}
+
 
 {1000}{}{Cathedral}
 {1001}{}{Mutants}
