@@ -226,6 +226,10 @@
 #{175}{}{We've been over this before. Leave us alone.}
 {175}{}{我们以前遇到过这样的情况。让我们自己解决吧。}
 
+{1099}{}{?}
+{1199}{}{我可以告诉你：Chip-芯片、Vault-避难所、War-大战、Outside-外面的世界、Overseer-所长、Water-水、Waterchip-净水芯片。}
+
+
 # Theresa's tell-me-abouts
 {1000}{}{Chip}
 {1001}{}{Vault}
