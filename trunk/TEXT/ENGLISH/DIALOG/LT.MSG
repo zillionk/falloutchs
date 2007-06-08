@@ -432,7 +432,7 @@
 {241}{}{你休想从我嘴里挖出点些什么！}
 
 #{242}{LIEUT43}{Why, when you become one of us, of course! I can't have a perfectly good prime normal and not make it one of the Chosen Ones, now can I? After you tell me where your Vault is.}
-{242}{LIEUT43}{当然是成为我们的一员了！我不能浪费一个极其完美的原始正常人，我一定要让它成为获选者，是吧？在此之前，你必须告诉我你的避难的所在。}
+{242}{LIEUT43}{当然是成为我们的一员了！我不能浪费一个极其完美的原始正常人，我一定要让它成为获选者，是吧？在此之前，你必须告诉我你的避难所的所在。}
 
 #{243}{}{Tell you? You're almost funny.}
 {243}{}{告诉你？你太可笑了。}
