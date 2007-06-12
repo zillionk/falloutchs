@@ -111,7 +111,7 @@
 
 #{136}{}{If you're lucky, you'll consider yourself one of us by the end of the day. At home, part of the
 # furniture, you know?}
-{136}{}{幸运的话，你今天就可以成为我们的一员，你都快成为我们这里的家具了，你明白吗？}
+{136}{}{幸运的话，你今天就可以成为我们的一员，你都快成为我们这里的家俱了，你明白吗？}
 
 #{137}{}{Tell me about Loxley.}
 {137}{}{告诉我有关洛克西里的事情。}
