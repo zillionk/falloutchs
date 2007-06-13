@@ -22,7 +22,7 @@
 #{109}{}{Who sent you?}
 {109}{}{谁派你来的？}
 #{110}{}{Father... Where are you father?... Yes Master... 【The mutant breathes his last breath and collapses】}
-{110}{}{父亲……你在哪儿父亲？……是的，主教【变种人咽下最后一口气，解脱了】}
+{110}{}{父亲……你在哪儿父亲？……是的，主教……【变种人咽下最后一口气，解脱了】}
 #{111}{}{Uhhhh....  Arrgghh....}
 {111}{}{呃……啊……}
 #{112}{}{Master....}
