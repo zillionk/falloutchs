@@ -30,7 +30,7 @@
 
 #{205}{}{I have a message for the Master from his Lieutenant. I must see the
 Master now.}
-{205}{}{我从主教的中尉那里给他带来了一个消息，我必须见主教。}
+{205}{}{副官让我给主教大人捎个信，我现在就要见他。}
 
 #{206}{}{The only news that I have is that you're about to become fertilizer.}
 {206}{}{唯一的消息就是你马上要变成原料了。}
@@ -42,7 +42,7 @@ Master now.}
 {208}{}{你的表情出卖了你，入侵者。我现在就会清除你对我们的威胁。}
 
 #{209}{}{You cannot be serious. In fact, you must be lying.}
-{209}{}{你一点也不严肃。事实上，你一定是在撒谎。}
+{209}{}{开什么玩笑。你一定是在扯谎。}
 
 #{210}{}{Uh, yeah, so what?}
 {210}{}{啊，好，那又如何？}
