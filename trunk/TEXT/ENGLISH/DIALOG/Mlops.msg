@@ -54,7 +54,7 @@ Master now.}
 {212}{}{从那里走，走廊上要注意，我想你做好了保护措施。}
 
 #{213}{}{Of course. Thank you. Unity prevails.}
-{213}{}{当然。谢谢你。同一必胜！}
+{213}{}{当然。谢谢你。“同一”必胜！}
 
 #{214}{}{No, not really. Should I?}
 {214}{}{不，还没，那我应该怎么做？}
@@ -69,7 +69,7 @@ Master now.}
 {217}{}{中尉没来得及给我一个。}
 
 #{218}{}{Ah, humor, I like that. 【pauses】 I do not have one, obviously. Youneed to go get one from the braindrains on the second level. Unity prevails.}
-{218}{}{啊，有意思，我喜欢。【停顿】很明显我没有。你需要到二层的洗脑室去拿一个。同一必胜！}
+{218}{}{啊，有意思，我喜欢。【停顿】很明显我没有。你需要到二层的洗脑室去拿一个。“同一”必胜！}
 
 #{219}{}{Then he was a fool, or you are not who you seem to be. What is it?}
 {219}{}{要么他是个笨蛋，要么你可能另有阴谋，你到底是怎么回事？}
