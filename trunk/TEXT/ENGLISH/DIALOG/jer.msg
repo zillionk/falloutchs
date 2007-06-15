@@ -41,7 +41,7 @@
 {111}{}{当然，我要递送报告。}
 
 #{112}{}{Reports of what? If I make ask.}
-{112}{}{报告什么？我可以问问么？}
+{112}{}{报告什么？我可以问问吗？}
 
 #{113}{}{And a mighty fine job you're doing.}
 {113}{}{你的工作干得不错。}
@@ -141,13 +141,13 @@
 {142}{}{对不起，给你添麻烦了。}
 
 #{143}{}{May I ask you some questions before I leave?}
-{143}{}{我走之前能问你几个问题么？}
+{143}{}{我走之前能问你几个问题吗？}
 
 #{144}{}{OK, but not before I split your head open.}
 {144}{}{好，我削完你脑袋就走。}
 
 #{145}{}{Morpheus would not send a slag like you on such a mission. Guards!!}
-{145}{}{墨菲斯不会让你这样一个鸦片鬼来送信的，卫兵！！！}
+{145}{}{墨菲斯不会让你这样一个瘾君子来送信的，卫兵！！！}
 
 #{146}{}{You idiot! You are not allowed in this area. Return to the Cathedral
 # proper at once!}
@@ -231,7 +231,7 @@
 {170}{}{没错，就是你！趴下，不准动。}
 
 #{171}{}{No, I don't believe it was you but may I ask you some questions?}
-{171}{}{可能不是你，我能问你几个问题么？}
+{171}{}{可能不是你，我能问你几个问题吗？}
 
 #{172}{}{Yes, my brother. How may I be of service?}
 {172}{}{好，我能帮你什么？}
@@ -262,7 +262,7 @@
 
 #{181}{}{Yes, and a very important job it is. And do you understand the
 # importance of your duties to the Master and all of us?}
-{181}{}{嗯，很重要的工作。你知道你的职责对于主教和我们的重要度么？}
+{181}{}{嗯，很重要的工作。你知道你的职责对于主教和我们的重要度吗？}
 
 #{182}{}{Why, yes. I am the one who brings the Master the news of new,
 # untainted humans untouched by radiation. I was the one who brought the

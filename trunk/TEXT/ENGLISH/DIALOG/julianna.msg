@@ -26,17 +26,17 @@
 {107}{}{我是茱莉亚娜。}
 
 #{108}{}{Do you have a job here?}
-{108}{}{你有工作么？}
+{108}{}{你有工作吗？}
 
 #{109}{}{Can I ask a little about your town?}
-{109}{}{我能问你几个有关这里的事情么？}
+{109}{}{我能问你几个有关这里的事情吗？}
 
 #{110}{}{I do what Caleb asks. But I am really only able to do a little farming.
 # I don't have the skills to help Smitty or Miles out.}
 {110}{}{卡勒布让我做什么我就做什么。但我也就懂一点农作。帮不上施密蒂和麦尔斯的忙。}
 
 #{111}{}{Tell me a bit about those others you mentioned.}
-{111}{}{你说的这些人，能多讲点他们的事情么？}
+{111}{}{你说的这些人，能多讲点他们的事情吗？}
 
 #{112}{}{We survive, and the Regulators make sure that nothing happens to hurt us.
 # Mostly by not letting us out of here.}

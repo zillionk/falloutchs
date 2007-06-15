@@ -26,7 +26,7 @@
 {108}{}{唔唔？}
 
 #{109}{Kill0a}{You want to buy something, friend?}
-{109}{Kill0a}{你想买点啥，朋友？}
+{109}{Kill0a}{你想买点什么，朋友？}
 
 #{110}{}{Uh-huh.}
 {110}{}{嗯嗯。}
@@ -140,7 +140,7 @@
 {143}{Kill09}{往西南走是哈勃城，可别往南走，那里是大墓地。那里……那里不管晴天雨天，总是阴森森的，你明白我的意思吧。}
 
 #{144}{}{Well, thanks for the information. Can I ask you a few more questions?}
-{144}{}{多谢你的信息。我还能问你几个问题么？}
+{144}{}{多谢你的信息。我还能问你几个问题吗？}
 
 #{145}{}{You just know everything, don't you?}
 {145}{}{你好像什么都知道哇。}
@@ -163,13 +163,13 @@
 {150}{}{自己的麻烦？}
 
 #{151}{}{What's there to do in this town?}
-{151}{}{镇里有什么好玩的地方么？}
+{151}{}{镇里有什么好玩的地方吗？}
 
 #{152}{}{What other cities are around here?}
 {152}{}{周围还有哪些城市？}
 
 #{153}{}{Thanks.}
-{153}{}{谢啦。}
+{153}{}{谢了。}
 
 #{154}{Kill12}{From outside, we've had the occasional to-do with the Khans. But
 # they've been pretty quiet lately. Inside, trouble's been from the Skulz.

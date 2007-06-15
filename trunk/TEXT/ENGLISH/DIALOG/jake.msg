@@ -20,7 +20,7 @@
 {105}{}{听说你们需要帮忙。有什么麻烦事？}
 
 #{106}{}{What can you tell me about the Followers?}
-{106}{}{你能说说末世论者信徒的事情么？}
+{106}{}{你能说说末世论者信徒的事情吗？}
 
 #{107}{}{You want to help. I don't think you are good enough to
 # help me out. Go talk to Neil.}
@@ -61,7 +61,7 @@
 
 #{118}{}{That's better. Now. I have a problem with a spy around here.
 # Will you help me?}
-{118}{}{这样就好。我现在要查一个间谍，你能帮我么？}
+{118}{}{这样就好。我现在要查一个间谍，你能帮我吗？}
 
 #{119}{}{Yes. What is it?}
 {119}{}{好，怎么回事？}
@@ -79,7 +79,7 @@
 {122}{}{好吧，我去找出那个间谍干掉。}
 
 #{123}{}{Have any leads on this spy?}
-{123}{}{有什么线索么？}
+{123}{}{有什么线索吗？}
 
 #{124}{}{Forget it. I won't help you.}
 {124}{}{算了，我不干了。}

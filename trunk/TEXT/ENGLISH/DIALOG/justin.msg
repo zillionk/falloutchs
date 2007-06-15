@@ -10,11 +10,11 @@
 
 #{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{102}{}{你好，先生！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
+{102}{}{你好，先生！我是贾斯丁·格林，这个城市的警长。我能帮你什么吗？}
 
 #{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can
 # do for you this fine day?}
-{103}{}{你好，女士！我是贾斯丁·格林，这个城市的警长。我能帮你什么么？}
+{103}{}{你好，女士！我是贾斯丁·格林，这个城市的警长。我能帮你什么吗？}
 
 #{104}{}{Well, spit it out!}
 {104}{}{很好，说出来！}

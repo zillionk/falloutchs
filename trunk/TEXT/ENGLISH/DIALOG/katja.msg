@@ -24,7 +24,7 @@
 {106}{}{我也想问你同样的问题。}
 
 #{107}{}{And what, may I ask, are you doing in the Boneyards?}
-{107}{}{你能说说你在晒骨场干什么么？}
+{107}{}{你能说说你在晒骨场干什么吗？}
 
 #{108}{}{You ask a lot of questions.}
 {108}{}{你的问题很多啊。}
@@ -51,7 +51,7 @@
 {115}{}{你再这么粗鲁，我可走了。}
 
 #{116}{}{I'm looking for information. Can you help?}
-{116}{}{我想打听点消息，你能帮我么？}
+{116}{}{我想打听点消息，你能帮我吗？}
 
 #{117}{}{You might, but you're on my home turf, not vice-versa. So put up or
 # shut up.}
@@ -69,7 +69,7 @@
 {120}{}{哦，谢谢。}
 
 #{121}{}{Miles? Where can I find him, and could he help?}
-{121}{}{麦尔斯？我怎么找到他？他会帮我么？}
+{121}{}{麦尔斯？我怎么找到他？他会帮我吗？}
 
 #{122}{}{Can you tell me more about the Boneyards, then?}
 {122}{}{那你再和我说说晒骨场的事情吧。}
@@ -111,10 +111,10 @@
 {133}{}{你能和我说说军火商的事情吗？}
 
 #{134}{}{What can you tell me about the Followers?}
-{134}{}{你能说说那些末世论者的事情么？}
+{134}{}{你能说说那些末世论者的事情吗？}
 
 #{135}{}{What can you tell me about Adytum?}
-{135}{}{你能说说内城区的事情么？}
+{135}{}{你能说说内城区的事情吗？}
 
 #{136}{}{Well, it was nice chatting. Gotta go.}
 {136}{}{和你聊的很愉快，再见。}
@@ -180,7 +180,7 @@
 {150}{}{你不用操这个心了，多谢。}
 
 #{151}{}{Can I ask some more questions first?}
-{151}{}{那我能先问几个问题么？}
+{151}{}{那我能先问几个问题吗？}
 
 #{152}{}{This area's overrun with the three gangs - the Blades, Rippers, and Gun
 # Runners - as well as serving as home for the Followers and for my own home,
@@ -199,7 +199,7 @@
 {155}{}{抱歉打扰你了，我要走了。}
 
 #{156}{}{Well, can I at least ask a few questions?}
-{156}{}{那我还能再问几个小小的问题么？}
+{156}{}{那我还能再问几个小小的问题吗？}
 
 #{157}{}{I'm not from around here, so I don't think I count.}
 {157}{}{我不是这里的人，所以我不算。}
@@ -211,10 +211,10 @@
 {159}{}{呵，我不知道怎么和你辩，你想做什么？}
 
 #{160}{}{Can I ask you some questions?}
-{160}{}{我能问几个问题么？}
+{160}{}{我能问几个问题吗？}
 
 #{161}{}{I'm looking for a water purification chip. Can you help?}
-{161}{}{我在找净水芯片，你能帮我么？}
+{161}{}{我在找净水芯片，你能帮我吗？}
 
 #{162}{}{Thanks anyhow, but I'll be going now.}
 {162}{}{谢谢你了。我走了。}
@@ -223,13 +223,13 @@
 {163}{}{什么事？}
 
 #{164}{}{Can you give this lock a try?}
-{164}{}{你能解开这个锁么？}
+{164}{}{你能解开这个锁吗？}
 
 #{165}{}{Can you take a look at this trap?}
-{165}{}{你能看看这个陷阱么？}
+{165}{}{你能看看这个陷阱吗？}
 
 #{166}{}{Any advice?}
-{166}{}{有什么建议么？}
+{166}{}{有什么建议吗？}
 
 #{167}{}{Thanks for your help. You can go now.}
 {167}{}{谢谢你的帮助，我走了。}
