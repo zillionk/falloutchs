@@ -62,7 +62,7 @@
 {117}{}{有兴趣否？}
 
 #{118}{}{I'll still give your sorry ass a job, if you're interested?}
-{118}{}{我还是愿意给你这个衰神一个工作，有兴趣否？}
+{118}{}{我还是愿意给你这个衰神一个工作，有兴趣吗？}
 
 #{119}{}{Sure.}
 {119}{}{好。}
@@ -100,7 +100,7 @@
 
 #{130}{}{Well now?I hate to say it but?I've heard of you.  Are you as tough in private as in public?  Let's
 # see?(She leads you around a corner)}
-{130}{}{那么……这个……我听说过你。你私底下也和你在外面那样强悍么？我们试试？【她把你领到了一个无人的地方】}
+{130}{}{那么……这个……我听说过你。你私底下也和你在外面那样强悍吗？我们试试？【她把你领到了一个无人的地方】}
 
 #{131}{}{(On the way back she slips you a few things.)}
 {131}{}{【回来的路上，她塞给了你一点东西。】}
@@ -131,7 +131,7 @@
 {139}{}{我不想私了，来干我啊！}
 
 #{140}{}{(Nod yes)}
-{140}{}{（点点头）}
+{140}{}{【点点头】}
 
 #{141}{}{OOOGABOOOGA!!!}
 {141}{}{吼吼！！！}
@@ -181,14 +181,14 @@
 {155}{}{你很聪明，但是我不喜欢。}
 
 #{156}{}{Good. Like I said before we pay 600 scripts. Which route did you want to take?}
-{156}{}{很好，我们说好了600块。你想走哪条路线？}
+{156}{}{很好，我们说好了６００块。你想走哪条路线？}
 
 #{157}{}{Cool.  The next one's going out on }
 {157}{}{酷啊，下一班是在}
 
 #{158}{}{. Come back then and I'll put you on a caravan. As always, it
 # pays 600 scripts.}
-{158}{}{。那时候来找我，我会给你安排。工钱是600块。}
+{158}{}{。那时候来找我，我会给你安排。工钱是６００块。}
 
 #{159}{}{Okay. }
 {159}{}{好的。}

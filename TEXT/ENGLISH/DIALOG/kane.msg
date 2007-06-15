@@ -195,11 +195,11 @@
 {160}{}{好，多谢了，再见。}
 
 #{161}{}{Do I look like a merchant? Stop wasting my time.}
-{161}{}{我看起来像商人么？别浪费时间了。}
+{161}{}{我看起来像商人吗？别浪费时间了。}
 
 #{162}{}{You might want to check with the Water Merchants.  They're south of the Merchant Market.  You can't
 # miss them.  They surround a big water tower.}
-{162}{}{你可以去问问纯水商人，他们在市场的南边，水塔一圈周围。}
+{162}{}{你可以去问问纯水商人，他们在市场的南边，水塔周围。}
 
 #{163}{}{You?  That's the funniest thing I've ever heard.}
 {163}{}{就你？这真是我这辈子听过的最搞笑的事情。}
@@ -347,7 +347,7 @@
 
 #{209}{}{Moron? Do you have any idea who you are talking to? For your sake I hope not. I don't 'run' the Maltese
 # Falcon but I AM the one in charge. What do you want before I lose my temper.}
-{209}{}{白痴？你知道你在和谁说话么？你大概不知道吧，那还情有可原。我虽然不是“开”马耳他猎鹰酒吧的人，但我就是这里管事的。你赶紧说自己想干嘛，别让我发火。}
+{209}{}{白痴？你知道你在和谁说话吗？你大概不知道吧，那还情有可原。我虽然不是“开”马耳他猎鹰酒吧的人，但我就是这里管事的。你赶紧说自己想干嘛，别让我发火。}
 
 #{210}{}{I know who you are and trust me, you 'are' a moron.}
 {210}{}{我知道你是谁，你就是一个白痴！}
@@ -769,7 +769,7 @@
 {337}{}{不行，再见。}
 
 #{338}{}{That's a secret you'll be taking to the grave.  Decker will never talk to a skag like you.}
-{338}{}{你就把这个秘密带到坟里去把。德克才不会和你这样的瘪三说话。}
+{338}{}{你就把这个秘密带到坟里去吧。德克才不会和你这样的瘪三说话。}
 
 #{339}{}{Then I suggest you leave.}
 {339}{}{那你就走吧。}
@@ -887,13 +887,13 @@
 {376}{}{【凯恩看起来很生气，你不知道为什么。】走开，你这个变态。}
 
 #{377}{}{(Kane looks angry. You don't know why.) Get out of here, you crazy bitch.}
-{377}{}{【凯恩看起来很生气，你不知道为什么。】走开，你这个女变态。}
+{377}{}{【凯恩看起来很生气，你不知道为什么。】走开，你这个臭娘们。}
 
 #{378}{}{I told you to get out of here, you crazy son of a bitch.}
 {378}{}{我说，走开，你这个变态。}
 
 #{379}{}{I told you to get out of here, you crazy bitch.}
-{379}{}{我说，走开，你这个女变态。}
+{379}{}{我说，走开，你这个臭娘们。}
 
 #{380}{}{No, I guess not.  Now LEAVE. (He does not look amused.)}
 {380}{}{不好。走开。【他好像也不是很乐的样子。】}

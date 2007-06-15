@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a raider who seems crazed.}
-{100}{}{你看见一个看起来很疯狂的强盗。}
+{100}{}{你看见一个看起来很疯狂的歹徒。}
 
 #{101}{}{That's it! Don't come any closer. I'll off her. I swear.}
 {101}{}{站住！别过来！我会杀了她的，真的！}
@@ -246,7 +246,7 @@
 {177}{}{滚开，他妈的！}
 
 #{178}{}{The raider, intent upon his business, ignores you.}
-{178}{}{这个强盗，态度很坚决地不理会你。}
+{178}{}{这个歹徒，态度很坚决地不理会你。}
 
 #{179}{}{Hmmm . . .}
 {179}{}{嗯……}
@@ -262,7 +262,7 @@
 
 #{183}{}{Your carefully-placed blow knocks the raider unconscious. He collapses
 # like a rag doll.}
-{183}{}{你精准的重击打昏了强盗，他像条死狗一样晕倒了。}
+{183}{}{你精准的重击打昏了歹徒，他像条死狗一样晕倒了。}
 
 #{184}{}{You might be able to sneak up on the raider if you're careful.}
-{184}{}{如果小心点，你可以悄悄过去打昏这个强盗。}
+{184}{}{如果小心点，你可以悄悄过去打昏这个歹徒。}

@@ -33,7 +33,7 @@
 {107}{}{噢噢哦噢噢哦！}
 
 #{108}{}{Could you tell me where I might find our High Elder?}
-{108}{}{你知道我在哪里可以找到最高元老么？}
+{108}{}{你知道我在哪里可以找到最高元老吗？}
 
 #{109}{}{Who's in charge of this hole?}
 {109}{}{谁是这个破洞的管事？}
@@ -87,7 +87,7 @@
 
 #{123}{}{Training hall? Do you think I could get some training there?
 # I am a member of the Brotherhood now, right?}
-{123}{}{训练室？我可以在那里得到训练么？我现在已经是兄弟会成员了啊，对吧？}
+{123}{}{训练室？我可以在那里得到训练吗？我现在已经是兄弟会成员了啊，对吧？}
 
 #{124}{}{Thank you for your help, Sister. It's good to see there are
 # women of rank in this organization. I didn't know what to
@@ -103,7 +103,7 @@
 {126}{}{啊，那里，好，再见。}
 
 #{127}{}{Excuse me? Is there something wrong?}
-{127}{}{对不起，你有什么毛病么？}
+{127}{}{对不起，你有什么毛病吗？}
 
 #{128}{}{Muk lug?}
 {128}{}{穆穆？}
@@ -124,7 +124,7 @@
 
 #{132}{}{Don't you find it peculiar that it is called the Brotherhood,
 # implying that its members consist solely of men?}
-{132}{}{你不觉得叫钢铁兄弟会很特别吗，搞的好像这里只有男人似的。}
+{132}{}{你不觉得叫钢铁兄弟会很特别吗？搞的好像这里只有男人似的。}
 
 #{133}{}{But why is it called the Brotherhood, then?}
 {133}{}{那么为什么要叫做兄弟会呢？}
@@ -245,7 +245,7 @@
 
 #{166}{}{Uh, okay . . . um. How about some weapons then? Where can
 # I get my hands on some of those?}
-{166}{}{哦，好吧……这里有什么好武器么？我怎么才能拿到？}
+{166}{}{哦，好吧……这里有什么好武器吗？我怎么才能拿到？}
 
 #{167}{}{Hmmph!}
 {167}{}{呼呼！}
@@ -327,7 +327,7 @@
 # on the line every minute I'm out there. Don't you think I should
 # be given training if I want or need it, or do you only 'say'
 # it is your primary objective to 'save' lives?}
-{187}{}{我要在兄弟会外面执行任务的，对吧？外面很危险啊，每时每刻我都是脑袋别在裤腰带上干活。你难道不觉得我有理由在我需要的时候接受训练么，这难道符合你们减少伤亡的初衷？}
+{187}{}{我要在兄弟会外面执行任务的，对吧？外面很危险啊，每时每刻我都是脑袋别在裤腰带上干活。你难道不觉得我有理由在我需要的时候接受训练吗，这难道符合你们减少伤亡的初衷？}
 
 #{188}{}{Thank you for the suggestion, I'll take a look.}
 {188}{}{多谢你的建议，我会去看看的。}
@@ -349,7 +349,7 @@
 {193}{}{他们最好答应我，我这阵子也算是居功至伟了。}
 
 #{194}{}{So, can you tell me where Maxson is?}
-{194}{}{那么，你告诉我在哪里找到马克松吧。}
+{194}{}{那么，你告诉我在哪里能找到马克松？}
 
 #{195}{}{Oh, my darling. When are we going to marry?}
 {195}{}{哦，亲爱的，我们啥时候成亲哇？}
