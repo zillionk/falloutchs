@@ -1855,7 +1855,7 @@
 {1023}{}{迈克尔}                                       # BYMike.int
 {1024}{}{克丽斯廷}                                     # BYChris.int
 {1025}{}{格雷格}                                          # BYGreg.int
-{1026}{}{刀片}                                         # InBlade.int
+{1026}{}{利刃帮成员}                                         # InBlade.int
 {1027}{}{死亡爪蛋}                                 # EggClaw.int
 {1028}{}{大蝎子}                                   # Radscor2.int
 {1029}{}{盒子}                                           # VanceBox.int
