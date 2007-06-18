@@ -200,7 +200,7 @@
 {162}{}{双头牛很酷。}
 
 #{163}{}{Dan抯 taking me to the Falcon if I do a good job.}
-{163}{}{丹说如果我干的好，就带我去猎鹰。}
+{163}{}{丹说如果我干的好，就带我去“猎鹰”。}
 
 #{164}{}{Dan抯 going to take me on a caravan some day!}
 {164}{}{丹打算某一天让我去商队！}

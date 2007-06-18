@@ -181,7 +181,7 @@
 {175}{}{什么？}
 #{176}{HROLD25}{
 #A robot crane crashed into us.  Last I saw of Grey, he was flying through the air in-into some sort of acid bath.  I was in bad shape and...well I passed out.}
-{176}{HROLD25}{一台起重机器人掉了下来砸下来。我最后看到格瑞时，他被砸飞了掉进了酸液槽。我伤得很重然后……我就晕了。}
+{176}{HROLD25}{一台起重机器人掉了下来。我最后看到格瑞时，他被砸飞了掉进了酸液槽。我伤得很重然后……我就晕了。}
 #{177}{}{How did you survive?}
 {177}{}{你怎样幸免于难的？}
 #{178}{}{And you never saw Grey again?}
@@ -224,7 +224,7 @@
 {194}{}{谢谢你的故事。}
 #{195}{HROLD30}{
 #Yeah, about a century or two in dog years.}
-{195}{HROLD30}{是啊，要是人活1年等于狗活7年的话，起码过了一两个狗世纪了。}
+{195}{HROLD30}{是啊，要是人活１年等于狗活７年的话，起码过了一两个狗世纪了。}
 #{196}{}{What?}
 {196}{}{什么？}
 #{197}{HROLD31}{

@@ -86,7 +86,7 @@
 # consider Male.
 
 {137}{}{Ok。多谢你的帮助。}
-{138}{}{不太肯定。我只觉得是个男的，可能是个学术或者卫兵。}
+{138}{}{不太肯定。我只觉得是个男的，可能是个学者或者卫兵。}
 # is is refering to a male spy. Scholar and guard are male.
 
 {139}{}{Ok。多谢你的帮助。}
