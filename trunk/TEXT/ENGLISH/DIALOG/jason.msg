@@ -5,7 +5,7 @@
 {100}{}{你看见一个尖嘴猴腮的年轻人。}
 
 #{101}{}{You see Jason Zimmerman.}
-{101}{}{你看见贾森·齐默曼。}
+{101}{}{你看见琼·齐默曼。}
 
 #{102}{}{Hey, are you from really far away? Have you had a lot
 # of adventures?}
@@ -24,7 +24,7 @@
 {106}{}{其实没经历过什么。}
 
 #{107}{}{Uh, far. Vault.}
-{107}{}{呃，远远的，逼难所。}
+{107}{}{呃，远远的，避难所。}
 
 #{108}{}{Oh. I thought someone who'd been through the wastes
 # outside would be, well, smarter. Never mind.}

@@ -79,7 +79,7 @@
 #{121}{}{The training hall is right around the corner. Just go down this
 # corridor, make a left, go through the door at the end of
 # the corridor and it will be through the door on your right.}
-{121}{}{走廊拐过去就是训练室。顺着这条走廊走，左转，一直走道底，进门往右便是了。}
+{121}{}{走廊拐过去就是训练室。顺着这条走廊走，左转，一直走到底，进门往右便是了。}
 
 #{122}{}{You have been extremely helpful. Thank you very much.
 # I hope we can talk again soon. Good day.}
