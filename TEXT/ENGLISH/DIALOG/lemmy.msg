@@ -66,7 +66,7 @@
 {120}{}{嗯，我的确是在找东西。}
 
 #{121}{}{Anything you can tell me about specifically?}
-{121}{}{你能具体点么？}
+{121}{}{你能具体点吗？}
 
 #{122}{}{I'm looking for a Water Chip.  You wouldn't happen to have one, would you?}
 {122}{}{我在找净水芯片，你不会正好有一个吧？}
@@ -145,10 +145,10 @@
 {144}{}{净水芯片的消息有什么能告诉我的？}
 
 #{145}{}{What do you know about Decker?}
-{145}{}{你了解德克么？}
+{145}{}{你了解德克吗？}
 
 #{146}{}{Do you know anything about the missing caravans?}
-{146}{}{你知道消失的商队么？}
+{146}{}{你知道消失的商队吗？}
 
 #{147}{}{Well, I'm looking for a certain commodity, if you know what I mean.}
 {147}{}{我在找一种日用品，你明白吗。}
@@ -160,7 +160,7 @@
 {149}{}{通常呢，我不介意卖点消息，但是德克先生的事情我可不说的。}
 
 #{150}{}{Ok, but can I ask you about some other things?}
-{150}{}{好，我能问问其他事情么？}
+{150}{}{好，我能问问其他事情吗？}
 
 #{151}{}{Thanks.}
 {151}{}{谢了。}
@@ -239,7 +239,7 @@
 {173}{}{呃，你去旧城区，找一个叫万斯的家伙，和他说，就可以了。}
 
 #{174}{}{You're all heart.  Can I ask you a few more things?}
-{174}{}{你真热心，我还能问点事儿么？}
+{174}{}{你真热心，我还能问点事儿吗？}
 
 #{175}{}{Thanks.}
 {175}{}{多谢。}

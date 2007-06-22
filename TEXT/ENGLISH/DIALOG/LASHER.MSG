@@ -5,27 +5,28 @@
 {100}{}{你看见大教堂的教徒之一，拉舍尔。}
 #{101}{}{I know who you are. You are a wicked, evil man and you must be punished.}
 {101}{}{我知道你是谁。你是一个毫无道德的恶徒，你必须受到惩罚。}
-#{102}{}{}
-{102}{}{ 我知道是是谁。你是一个藏在女人体内的恶魔，你的外壳是不会拯救你的。}
+#{102}{}{I know who you are. You are the devil in woman抯 form, but your shape will not save you.}
+{102}{}{我知道你是谁。你是一个藏在女人体内的恶魔，你的外壳是不会拯救你的。}
 #{103}{}{I know who you are. Your wickedness precedes you. You send the souls of children to Hades, before they can be cleansed of their perfidy. It is a black evil that you do, and you must be punished for it.}
 {103}{}{我知道你是谁。你的邪恶已经早早地暴露了你。你在教徒们净化自己的背叛前就把他们的灵魂打入了地狱。这是你所犯下的大恶中的大恶，为此你必须受到惩罚。}
 #{104}{}{I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!}
 {104}{}{我知道你是谁。你是行走的死亡，披着人皮的瘟疫。你的脚踏到哪里，哪里就会血流成河。但是不管你的邪恶多么逆天，它都可以被一个公正的灵魂终结！}
-#{105}{}{}
+#{105}{}{How dare you disturb me! Don抰 you know how important my position is? Get out!}
 {105}{}{你竟敢打扰我！难道你出知道我的位置是多么重要吗？滚出去！}
-#{106}{}{}
+#{106}{}{You are unwise to draw your weapon on me. The Master抯 shield is upon me, and I may not be touched
+#without retribution!}
 {106}{}{你愚蠢到了用武器对着我。主教的盾罩在我身上，除了受惩罚我不可能被触碰！}
-#{107}{}{}
+#{107}{}{I wouldn抰 mind the Master抯 shield myself.}
 {107}{}{我根本不在乎主教的盾。}
-#{108}{}{}
+#{108}{}{Nobody抯 ever accused me of being wise!}
 {108}{}{从没有人质疑过我是充满智慧的！}
 #{109}{}{I just want to speak with the man in charge.}
 {109}{}{我只想和负责人谈谈。}
-#{110}{}{}
+#{110}{}{Nice rod you抳e got there! Is that why they call you "Lasher?"}
 {110}{}{你这个棒子很帅啊！这就是别人为什么叫你“拉舍尔”的原因吗？}
 #{111}{}{Is it true that you enjoy abusing children?}
 {111}{}{你真的以虐待大教堂教徒为乐吗？}
-#{112}{}{}
+#{112}{}{You wanna see unwise? It抯 unwise to give me lip, bitch!}
 {112}{}{你想知道什么是愚蠢？跟我多嘴就是愚蠢，婊子！}
 #{113}{}{Why you talk so funny?}
 {113}{}{你为什么说话这么滑稽？}
@@ -57,9 +58,9 @@
 {126}{}{我来这是为了和你谈谈大教堂教徒的待遇。}
 #{127}{}{I just wanted to talk.}
 {127}{}{我只是想谈谈。}
-#{128}{}{}
+#{128}{}{Nice rod you抳e got there! Is that why they call you Lasher?}
 {128}{}{你这个棒子很帅啊！这就是别人为什么叫你拉舍尔的原因吗？}
-#{129}{}{}
+#{129}{}{You don't like drawn weapons. You抮e gonna hate what I do with it next!}
 {129}{}{你不喜欢我用武器对着你。你会憎恨我下面将要做的事！}
 #{130}{}{Out? Which way out?}
 {130}{}{出去？从哪出去？}
@@ -67,15 +68,15 @@
 {131}{}{我的地方不对那些还没被献给神的人开放。我必须让你马上离开。}
 #{132}{}{Forgive my intrusion, but I have important questions.}
 {132}{}{原谅我的冒失，因为我有重要的问题。}
-#{133}{}{}
+#{133}{}{I抦 here to talk about your treatment of the Children.}
 {133}{}{我来这是为了和你谈谈大教堂教徒的待遇。}
 #{134}{}{I wanted to ask you about consecration.}
 {134}{}{我想问你关于献祭的事情。}
-#{135}{}{}
+#{135}{}{Nice rod you抳e got there! Is that why they call you Lasher?}
 {135}{}{你这个棒子很帅啊！这就是别人为什么叫你拉舍尔的原因吗？}
-#{136}{}{}
+#{136}{}{This place don抰 look consecrated. I ain抰 killed anyone here yet.}
 {136}{}{这个地方看起来不够神圣。我还没在这杀过人呢。}
-#{137}{}{}
+#{137}{}{You stupid! I got plenty of conse卌ra卼ion厎}
 {137}{}{你这个蠢货！我已经得到了相当多的献祭！}
 #{138}{}{That is a privilege reserved for only the most faithful servants. Only baptism is a higher honor.}
 {138}{}{那是一个只为最忠诚的仆人所保留的特权。只有施洗才是一个更高的荣誉。}
@@ -87,7 +88,7 @@
 {141}{}{你能帮我让我受洗礼吗？}
 #{142}{}{Wow! You must be special!}
 {142}{}{喔！你一定很特别！}
-#{143}{}{}
+#{143}{}{Wow! You must be special!}
 {143}{}{当你死了的时候那些狗屁特权一文不值。}
 #{144}{}{I see no reason to converse with a fool. Away with you.}
 {144}{}{我没有理由和一个蠢货交谈。你走吧。}
@@ -105,7 +106,7 @@
 {150}{}{我有好几个办法解决那些问题。}
 #{151}{}{The rod is a holy instrument, through which I instruct my charges. Pain clears the mind of evil thoughts and allows them to better comprehend the glory of the Master.}
 {151}{}{这个棒是一个神圣的工具，通过它我可以发号施令。痛苦清除头脑中的邪念，并且让头脑充分领悟主教的荣耀。}
-#{152}{}{}
+#{152}{}{I see. So the Master抯 a pain?}
 {152}{}{我明白了。这么说主教是个痛苦喽？}
 #{153}{}{That抯 a horrible thing to do to children!}
 {153}{}{对教徒来说做那件事太可怕了！}
@@ -121,7 +122,7 @@
 {158}{}{你从没做过爱，是不是？}
 #{159}{}{Tell me more about your teaching methods.}
 {159}{}{告诉我更多关于你的教学方法。}
-#{160}{}{}
+#{160}{}{But what about the pleasure of killing? Ain抰 that allowed?}
 {160}{}{那么杀戮的快感呢？那不是被允许的吗？}
 #{161}{}{You filthy brainless abomination! How dare you defile my presence! Get out! Out! Now!}
 {161}{}{你这个污秽的没有脑子的低能儿！你怎么敢污染我的胜地！滚出去！滚！现在就滚！}
@@ -135,13 +136,17 @@
 {165}{}{我想知道关于大教堂的更多事情。}
 #{166}{}{I want to know about the Master.}
 {166}{}{我想知道关于主教的事情。}
-#{167}{}{}
+#{167}{}{You抮e alive. That抯 my problem, you son of a bitch!}
 {167}{}{你还活着。这就是我的问题！你这个狗娘养的！}
-#{168}{}{}
+#{168}{}{Learn to embrace pain as your closest friend, for pain is
+#the most instructive force in the universe. Break yourself until you can
+#exist no longer as an individual, then remake yourself into the Master抯 tool.
+#That is the solution to all of your problems.}
 {168}{}{学会像拥抱密友一样拥抱痛苦，因为痛苦是宇宙中最有益的力量。打碎你自己，直到你不再以个体的形式存在，然后把你自己改造成主教的工具。这就是你所有问题的解决办法。}
 #{169}{}{So where can I find the most pain?}
 {169}{}{那么我在哪里能找到最大的痛苦呢？}
-#{170}{}{}
+#{170}{}{Yeah, I want to get enough brain damage that I抣l join a zombie cult!
+# Dream on, pal!}
 {170}{}{耶！我要承受足够多的脑损伤因为我要加入丧尸的礼拜！做梦去吧，伙计！}
 #{171}{}{I would never have thought of that!}
 {171}{}{我真希望我没听过这个！}
@@ -163,7 +168,7 @@
 {179}{}{我正对大教堂教徒感到纳闷。}
 #{180}{}{The only thing I know that抯 quick is Death.}
 {180}{}{我唯一知道的如此快速的事情就是死亡。}
-#{181}{}{}
+#{181}{}{There comes a time when you must find the answers to life抯 questions yourself, and that time is now. Begone!}
 {181}{}{有一个时刻，你必须自己发现生活的真谛，这个时刻就是现在。离去吧！}
 #{182}{}{That is not my duty. Now begone.}
 {182}{}{那不是我的职责。现在离开吧。}
@@ -175,7 +180,7 @@
 {185}{}{你必须拒绝那在附近毁灭我们全部的光，把你自己投入到万物平等的黑暗中。现在我已经告诉了你这件事，去寻找它吧。寻找主教和他的智慧。}
 #{186}{}{I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.}
 {186}{}{我还没有向他讨教，但是我确信他对我带给他的那个正义的灵魂很满意。那是件困难的工作，但是我做得不错。不幸的是，它需要花很多的时间，这就是我为什么要你现在就去的原因。}
-#{187}{}{}
+#{187}{}{A flatterer抯 tongue is in the mouth of a devil! A devil such as you! Get out of my sight!}
 {187}{}{恶魔的嘴里有个谄媚的舌头！像你一样的恶魔！在我眼前消失！}
 #{188}{}{You foul mouthed beast! Begone! Learn some manners before you return.}
 {188}{}{你这个满嘴污言秽语的禽兽！走吧！学点礼貌再回来。}
@@ -183,7 +188,7 @@
 {189}{}{一个合理的要求。拿着这个标志。当你想通过的时候把它给夜行团看。}
 #{190}{}{I cannot help you with that. Begone.}
 {190}{}{我不能帮你做那个。离去吧。}
-#{191}{}{}
+#{191}{}{He is our leader. He is close to the Master抯 counsels and knows many of his purposes. Is that all?}
 {191}{}{他是我们的领导者。他是最遵循主教忠告的人，而且他明白主教的许多意图。这就是全部吗？}
 #{192}{}{Could you persuade the Nightkin to let me pass?}
 {192}{}{你能说服夜行团让我通过吗？}
@@ -207,7 +212,7 @@
 {201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？脱氧核糖核酸。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
 #{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}
 {202}{}{我分配痛苦。如果动物值得并且能从中学习，那么它们也能进化成正义的灵魂。如果它们不能，它们就不应该存在。尽管我不是一直都很喜欢，在很罕见的事件中，动物被改动了遗传库。这更多地发生在衰老的成年动物身上。}
-#{204}{}{}
+#{204}{}{You抮e a monster!}
 {204}{}{你是个怪物！}
 #{205}{}{I think I抣l leave you now.}
 {205}{}{我想我现在应该走了。}
@@ -221,7 +226,9 @@
 {209}{}{你是个邪恶的女人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
 #{210}{}{You are an evil man. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
 {210}{}{你是个邪恶的人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
-#{211}{}{}
+#{211}{}{Righteousness is attained through struggle, trauma, and recovery. We are animals who must be
+# continuously be broken until we accept the Master抯 truth without hesitation. Now that you have heard
+# the truth, seek it with the body of your experiences. Get out of here.}
 {211}{}{正义通过挣扎，创伤和恢复获得。我们是动物，我们必须被一直折磨直到我们毫不犹豫地接受主教的真理。现在你已经听到了真理，用你充满经验的肉身去寻找它。离开这里。}
 #{212}{}{Your tongue is a wicked thing that is beyond redemption. Get out of my sight!}
 {212}{}{你的污言秽语使情况无法补救。滚出我的视线！}
