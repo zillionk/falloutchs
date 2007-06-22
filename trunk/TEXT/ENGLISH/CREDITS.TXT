@@ -1,4 +1,97 @@
-#程序制作小组
+#程序汉化小组
+
+@程序
+
+noword
+
+
+@翻译:
+
+老貓
+蓝色◎流星
+seanfx
+西塞罗
+失控的胖子
+lspwjun（麻雀）
+duwei
+lbhzt（烟雨）
+venom2000
+anca_qin
+NukeCoke
+fabiocapello
+asasass
+noword
+圆石陷阱
+自由艺术家
+小写的牧歌
+sin
+bean
+laplace
+zhaoxf62
+天山七剑
+wawbwc
+无效指令
+weizheng1129
+nixcyx
+夜叉狼
+浪子小文
+ducky热牛奶
+rainboycn
+Cyric
+yuanyan
+ChenZhuo
+DoonerDie
+necroman
+bal
+angelcat
+darkhuang
+Jedi
+lonelyman
+Dricimitar
+wolfox
+CAS
+BAROCCO
+prosup
+AsTrAl
+Sagonnas
+硅光
+Dutycalls
+
+
+@校对：
+
+lbhzt（烟雨）
+seanfx 
+lspwjun（麻雀）
+
+
+@劳苦功高的超级苦力：
+老猫
+
+
+@鸣谢：
+炽天之翼
+阴酆主人
+刷锅
+http://www.bn13.com
+http://www.ntrpg.org
+http://tbsgame.net
+
+
+@β测试热心玩家：
+好大的棉花糖
+烟雨
+lwrt
+pkhehe
+蛾十三
+woody
+aribeth1999
+murray
+
+
+
+
+#原程序制作小组
 
 @主程序员
 Tim Cain
@@ -350,57 +443,7 @@ Frank Welker
 
 
 
-"Maybe"
-@Performed by Ink Spots
-@Courtesy of MCA Records
-@By Arrangement with Universial Music Special Markets, Inc.
 
-"MAYBE"
-@Written by Allan Flynn and Frank Madden
-@Used by permission of EMI Robbins Catalog Inc. (ASCAP)
-
-@WARNING: It is a violation of Federal Copyright Law
-@to copy, duplicate or reproduce this Program or any
-@portions of this Program without the express written
-@permission of the copyright owner.
-
-
-#销售
-
-@项目经理
-Genevieve Ostergard
-
-@市场发行
-Paul Sackman
-
-@销售经理
-Mike Markin
-Craig Owens
-Michael Courtney
-
-@销售合作商
-Tod Mack
-
-@流通经理
-Thom Dohner
-
-
-
-
-@鸣谢: Scott Everts for contributing above and beyond the
-@call of duty to the Quotes File, Bomberman, Quake, Diablo,
-@Warcraft II, various movie soundtracks, Brian Eno, the soda
-@fridge (thanks Gus & Rusty!), the Spirit of Christmas
-@(Go Santa!), Demo the cat, Nicol, Tracy, Mary & Adam, Lisa
-@(for moral support), Jamal, T-Ray's Mom, the two Donalds,
-@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, The Lunch
-@Court, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
-@X-Files, Xena, Buffy, The Simpsons, ER, Jeepin' and
-@the Last Minute Talking Dog for finding that damn bug!
-
-@Special thanks to the Fallout webpage bulletin board members
-@for comments, suggestions and bug reports about the demo.
-@Your feedback was appreciated!
 
 
 
@@ -435,86 +478,6 @@ Thom Dohner
 《Fallout》的版权归原作者所有。
 《Fallout 汉化包》的版权归其开发者共同所有，未经许可，请勿用于任何商业目的！！！
 
-程序：
- noword
-
-翻译:
- 老貓
- 蓝色◎流星
- seanfx
- 西塞罗
- 失控的胖子
- lspwjun（麻雀）
- duwei
- lbhzt（烟雨）
- venom2000
- anca_qin
- NukeCoke
- fabiocapello
- asasass
- noword
- 圆石陷阱
- 自由艺术家
- 小写的牧歌
- sin
- bean
- laplace
- zhaoxf62
- 天山七剑
- wawbwc
- 无效指令
- weizheng1129
- nixcyx
- 夜叉狼
- 浪子小文
- ducky热牛奶
- rainboycn
- Cyric
- yuanyan
- ChenZhuo
- DoonerDie
- necroman
- bal
- angelcat
- darkhuang
- Jedi
- lonelyman
- Dricimitar
- wolfox
- CAS
- BAROCCO
- prosup
- AsTrAl
- Sagonnas
- 硅光
- Dutycalls
-
-校对：
- lbhzt（烟雨）
- seanfx 
- lspwjun（麻雀）
-
-劳苦功高的超级苦力：
- 老猫
-
-鸣谢：
- 炽天之翼
- 阴酆主人
- 刷锅
- http://www.bn13.com
- http://www.ntrpg.org
- http://tbsgame.net
-
-β测试热心玩家：
- 好大的棉花糖
- 烟雨
- lwrt
- pkhehe
- 蛾十三
- 奴隶贩子
- woody
- aribeth1999
- murray
 
 
 
