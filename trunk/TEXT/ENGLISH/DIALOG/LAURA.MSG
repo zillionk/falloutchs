@@ -50,7 +50,7 @@
 
 #{124}{laura10}{Are you . . . certain? Uh . . . excuse my curiosity,
 # but you seemed to be looking specifically for me.}
-{124}{laura10}{你……确定么？啊……请别介意我的好奇，但是你好像就是在找我。}
+{124}{laura10}{你……确定吗？啊……请别介意我的好奇，但是你好像就是在找我。}
 
 #{125}{}{Well, Nicole sent me.}
 {125}{}{喔，妮可尔派我来的。}

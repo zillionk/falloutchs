@@ -163,7 +163,7 @@
 #{146}{}{The sewers there are filled with monsters, and none of my people
 # that I have sent to retrieve them have come back. Are you willing to
 # retrieve the parts, so that the Water Pump can be fixed?}
-{146}{}{下水道里都是怪物，我派去找零件的人都没回来。你愿意去帮我们拿来再修好水泵么？}
+{146}{}{下水道里都是怪物，我派去找零件的人都没回来。你愿意去帮我们拿来再修好水泵吗？}
 
 #{147}{}{Sounds like too much trouble, I think I'll just take the Water
 # Chip.}
@@ -339,7 +339,7 @@
 {200}{}{运气不好。}
 
 #{201}{}{Can't the water pump be repaired?}
-{201}{}{水泵不能修好么？}
+{201}{}{水泵不能修好吗？}
 
 #{202}{}{I'm sorry but my people need the chip to survive.}
 {202}{}{对不起，我们的人民需要芯片才能生存。}

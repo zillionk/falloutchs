@@ -126,7 +126,7 @@
 # Vipers. Another group of yahoos out east called the Khans. Neither
 # one of them likely to invite you to supper as anything but the main course,
 # if you know what I mean.}
-{140}{Kill08}{嗯，旅行者们说，北边还住着一些叫做蝮蛇帮的坏蛋，另外还有一群叫做可汗帮的土匪住在东边。这两拨强盗都不是善茬，只有死人才能和他们和平相处，你明白吧？}
+{140}{Kill08}{嗯，旅行者们说，北边还住着一些叫做蝮蛇帮的坏蛋，另外还有一群叫做可汗帮的土匪住在东边。这两拨歹徒都不是善茬，只有死人才能和他们和平相处，你明白吧？}
 
 #{141}{}{What else is outside Junktown?}
 {141}{}{外边还有什么地方？}
@@ -257,7 +257,7 @@
 {177}{}{好好好，我马上走。}
 
 #{178}{}{You? Wake up, pal, you're still dreaming.}
-{178}{}{你？醒醒吧，伙计，你还在做梦那。}
+{178}{}{你？醒醒吧，伙计，你还在做梦呐。}
 
 #{179}{Kill34}{Uh, no. You got stupid. Get out of here!}
 {179}{Kill34}{不是吧，你笨啊，走开！}
@@ -307,7 +307,7 @@
 {193}{Kill44}{行，行，行，我看看把你关一晚上你还会不会这么嘴硬。}
 
 #{194}{Kill45}{Any more questions?}
-{194}{Kill45}{还有问题么？}
+{194}{Kill45}{还有问题吗？}
 
 #{195}{}{You bet.}
 {195}{}{当然。}
@@ -321,7 +321,7 @@
 #{198}{Kill47}{Listen. Thanks for saving my life. It's a mighty brave thing to do.
 # Looks like we got ourselves a situation here. I know Gizmo's behind this,
 # but I need proof.  You interested in helpin'?}
-{198}{Kill47}{我很感谢你救了我的命，你很勇敢。我们的麻烦不小，我知道这是吉斯莫幕后策划的，但是我需要证据，你有兴趣来帮忙么？}
+{198}{Kill47}{我很感谢你救了我的命，你很勇敢。我们的麻烦不小，我知道这是吉斯莫幕后策划的，但是我需要证据，你有兴趣来帮忙吗？}
 
 #{199}{}{Me? What do you need me for?}
 {199}{}{我？我能做什么呢？}
@@ -338,7 +338,7 @@
 {202}{Kill48}{如果我有证据，迦克镇的人就会把他赶出城去。我的办法是，你把窃听器安在他办公室或者用录音机录下他的自供，你能搞定吗？}
 
 #{203}{}{Whoa. Sounds kinda dangerous . . .}
-{203}{}{哦，看起来有点危险那……}
+{203}{}{哦，看起来有点危险呐……}
 
 #{204}{}{What do I get in return?}
 {204}{}{我能得到什么？}
