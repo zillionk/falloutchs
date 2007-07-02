@@ -177,7 +177,7 @@
 # even knows the way to their lair, but I think he is a little scared
 # of going out there.  His brother was seriously injured by one of
 # the mutants, and Seth doesn't quite know what to do.}
-{142}{}{赛思一直在试图跟踪辐射蝎。他甚至宣称他知道去蝎子窝的路，但我认为他有些害怕它们，不敢离开这里。他的兄弟被一个变种人打伤了，赛思根本就无能为力。}
+{142}{}{赛思一直在试图跟踪辐射蝎。他甚至宣称他知道去蝎子窝的路，但我认为他有些害怕它们，不敢离开这里。他的兄弟被一只辐射蝎咬伤了，赛思对此就无能为力。}
 
 #{143}{}{As a matter of fact, yes.  My old home, Vault-15, had one.  I
 # haven't been there since I was hurt, but you might find what you
