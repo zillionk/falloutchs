@@ -112,7 +112,7 @@
 #
 # Maximum Hit Points
 #{207}{}{How much damage your character can take before dying.  If you reach 0 HP or less, you are dead.}
-{207}{}{在死亡之前可以承受的损伤。如果ＨＰ变成了０或是更低的数目，就代表死亡。}
+{207}{}{在死亡之前可以承受的损伤。如果HP变成了0或是更低的数目，就代表死亡。}
 # Maximum Action Points
 #{208}{}{The number of actions that the character can take during one combat turn.}
 {208}{}{在一回合结束之前一个角色可以进行的动作多寡。}
@@ -225,7 +225,7 @@
 #
 # Unspent Skill Points
 #{500}{}{Points earned by going up a Level. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
-{500}{}{升级后所得到的点数。每一点可以用来增加％１的技术点数，若是专长技术则会增加％２。}
+{500}{}{升级后所得到的点数。每一点可以用来增加1%的技术点数，若是专长技术则会增加2%。}
 # Level
 #{501}{}{The general competency of the player character. A measure of your experience and abilities.}
 {501}{}{代表人物目前的各项能力的等级。}
