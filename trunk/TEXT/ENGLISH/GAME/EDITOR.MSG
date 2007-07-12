@@ -129,7 +129,7 @@
 #{157}{}{All stats must be between 1 and 10} # 1
 #{158}{}{before starting the game!}          # 2
 {157}{}{在游戏开始之前，所有的点数} # 1
-{158}{}{都得要在１到１０之间！}          # 2
+{158}{}{都得要在1到10之间！}          # 2
 
 #
 # Abbreviated basic stat levels
