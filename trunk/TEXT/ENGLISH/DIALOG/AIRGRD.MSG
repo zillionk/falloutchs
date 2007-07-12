@@ -6,14 +6,14 @@
 #{102}{}{耶利米, you may pass.}
 #{103}{}{Move along.}
 #{104}{}{Move faster, messenger.}
-#{105}{}{Normals cannot carry weapons here! Halt and identify yourself!}
-#{106}{}{Grrr!}
+#{105}{}{Normals cannot carry weapons here！ Halt and identify yourself！}
+#{106}{}{Grrr！}
 #{107}{}{Uh, sorry. I'll put it away.}
 #{108}{}{I'm just passing through. No need for identities here.}
-#{109}{}{Die! Die! Die! I always wanted to say that.}
+#{109}{}{Die！ Die！ Die！ I always wanted to say that.}
 #{110}{}{I will not be spoken to that way. You will be punished.}
-#{111}{}{Halt! What is your business here, 'child'.}
-#{112}{}{Hng!}
+#{111}{}{Halt！ What is your business here, 'child'.}
+#{112}{}{Hng！}
 #{113}{}{I'm, uh, doing stuff.}
 #{114}{}{I'm on important business. You have no right to stop and question me.}
 #{115}{}{Don't talk to me, big boy.}
@@ -27,15 +27,15 @@
 #{121}{}{Ok, thanks. See you around.}
 #{122}{}{And what's that?}
 #{123}{}{Blessing to you, brother.}
-#{124}{}{A true follower of the Master would have that knowledge. You are an intruder!}
+#{124}{}{A true follower of the Master would have that knowledge. You are an intruder！}
 #{125}{}{Move along. I don't have time for your questions.}
 #{126}{}{You are annoying me.}
 #{127}{}{I have work to do. Do you?}
 #{128}{}{You are making a mistake by coming here. Explain yourself or perish...}
-#{129}{}{Nuggie!}
+#{129}{}{Nuggie！}
 #{130}{}{I have nothing to say.}
 #{131}{}{I'm here to protect humanity from the likes of you.}
-#{132}{}{Oh, shut up!}
+#{132}{}{Oh, shut up！}
 #{133}{}{You should not try to fool me by playing dumb. I tire of this...}
 #{134}{}{What kind of foolish bigotry is that, we are 'humanity.' We're just as human as you are.}
 #{135}{}{What kind of crap is that?}
@@ -48,7 +48,7 @@
 #{139}{}{You may be human, but that still doesn't make your Unity right. I guess we will be enemies.}
 #{140}{}{It is a pity that you act this way, but you will not proceed further...}
 #{141}{}{It will be a true shame to see your head on a pike.}
-#{142}{}{Intruders!}
+#{142}{}{Intruders！}
 #{143}{}{I no speak to you.}
 #{200}{}{You gain }
 #{201}{}{ experience points for bluffing your way past the guards.}
@@ -59,13 +59,13 @@
 {103}{}{往前走。}
 {104}{}{快点走，传信的。}
 {105}{}{普通人类不能在这里携带武器！不许动，说明你是谁！}
-{106}{}{呃!}
+{106}{}{呃！}
 {107}{}{嗯，对不起。我会把它收起来的。}
 {108}{}{我只是通过这里。这里没有必要做什么身份证明。}
 {109}{}{去死！死！死！我一直想这么说。}
 {110}{}{我不会再这么说了。你要接受惩罚。}
 {111}{}{不许动！你来这里有什么事，孩子？}
-{112}{}{嗯!}
+{112}{}{嗯！}
 {113}{}{我啊，嗯, 做事。}
 {114}{}{我在这里有很重要的事情要做。你没有权力阻止我或查问我。}
 {115}{}{别跟我说，大家伙。}
@@ -82,7 +82,7 @@
 {126}{}{你很烦人啊。}
 {127}{}{我有工作要做。你呢？}
 {128}{}{你出现在这里犯了大错。解释或者死……}
-{129}{}{噗嗤!}
+{129}{}{噗嗤！}
 {130}{}{我没有什么好说的。}
 {131}{}{我来这就是为了从你这种家伙的手里拯救人类。}
 {132}{}{哦，闭嘴！}
