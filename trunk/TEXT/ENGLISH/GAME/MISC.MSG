@@ -88,11 +88,11 @@
 #{5000}{}{uses}
 #{5001}{}{is out of ammo for the}
 #{5002}{}{reloads the}
-{5000}{}{用}
+{5000}{}{使用}
 {5001}{}{没有弹药可用}
 {5002}{}{重新上膛}
 #
 # from gdialog.c - new tell me about stuff
 #
 #{6000}{}{Ask about what?}
-{6000}{}{输入 ？可得到更多提示。}
+{6000}{}{输入“?”可得到更多提示。}
