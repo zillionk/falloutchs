@@ -159,15 +159,15 @@
 #{209}{}{You are more likely to cause Critical Hits in combat if you have this Perk.  Each level of More Criticals will get you a +5% chance to cause a critical hit.  This is a good thing.}
 #{210}{}{With the Night Vision Perk, you can see in the dark better.  Each level of this Perk will reduce the overall darkness level by 10%.}
 {201}{}{拥有这项能力，当你检查每一个生物时都会得到更多的资料。你可以看到他们的生命点数以及身上配有的武器。}
-{202}{}{你学到了东方的神秘技巧，或者你只是拳出的很快而已。无论如何，你的空手攻击将会少使用１点的动作点数。}
-{203}{}{熟悉空手攻击技巧让你有更高的破坏力。你在空手或是武器攻击时每个等级都会造成＋２的伤害。}
-{204}{}{这种能力每提高一级你都会在每一轮得到２点的动作点数。也就是说，每一个等级中，你都可以多移动２格。}
-{205}{}{你在长程武器和枪炮方面的训练让你的长程攻击力大增。在每一个等级中若使用长程武器，你都会造成＋２的伤害。}
-{206}{}{这个能力可以让你更快的开火，同时保有原来的准头。每种长程的武器在使用上都会少用１个动作点数。}
-{207}{}{在每一个等级中，你的战斗顺序点数都会＋２，因此你在一个战斗之中几乎都可以比你的敌人先移动。}
-{208}{}{在每一个等级中，你都会得到＋１的治疗速率。这是在普通速率上面另外加上去的点数，因此，你自我疗伤的速度会更加的快。}
-{209}{}{你在战斗中将可更容易的使出特别攻击。这能力的每一级都会增加５％的特别攻击使出机会。}
-{210}{}{当你拥有这项能力后，在夜晚与地道中你可以看得更清楚。这能力的每一级会将画面的阴暗度减少１０％。}
+{202}{}{你学到了东方的神秘技巧，或者你只是拳出的很快而已。无论如何，你的空手攻击将会少使用1点的动作点数。}
+{203}{}{熟悉空手攻击技巧让你有更高的破坏力。你在空手或是武器攻击时每个等级都会造成+2的伤害。}
+{204}{}{这种能力每提高一级你都会在每一轮得到2点的动作点数。也就是说，每一个等级中，你都可以多移动2格。}
+{205}{}{你在长程武器和枪炮方面的训练让你的长程攻击力大增。在每一个等级中若使用长程武器，你都会造成+2的伤害。}
+{206}{}{这个能力可以让你更快的开火，同时保有原来的准头。每种长程的武器在使用上都会少用1个动作点数。}
+{207}{}{在每一个等级中，你的战斗顺序点数都会+2，因此你在一个战斗之中几乎都可以比你的敌人先移动。}
+{208}{}{在每一个等级中，你都会得到+1的治疗速率。这是在普通速率上面另外加上去的点数，因此，你自我疗伤的速度会更加的快。}
+{209}{}{你在战斗中将可更容易的使出特别攻击。这能力的每一级都会增加5%的特别攻击使出机会。}
+{210}{}{当你拥有这项能力后，在夜晚与地道中你可以看得更清楚。这能力的每一级会将画面的阴暗度减少10%。}
 
 #{211}{}{You command attention by just walking into a room.  The initial reaction of another person is improved by 10% for each level of this Perk.}
 #{212}{}{You are better able to avoid radiation, and the bad effects radiation causes.  Each level of this Perk will improve your Radiation Resistance by 10%.}
@@ -179,16 +179,16 @@
 #{218}{}{You have mastered one aspect of bartering - the ability to buy goods far cheaper than a normal person.  With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
 #{219}{}{Each level of Educated will add +2 skill points when you gain a new experience level.  This Perk works best when purchased early in your adventure.}
 #{220}{}{The healing of bodies comes easier to you with this Perk.  Each level will add 2-5 more hit points healed when using the First Aid or Doctor skills.}
-{211}{}{你只要进入房间内就会特别引人注意。别人对你的第一印象在每个等级都会增加１０％。}
-{212}{}{你将会变得较能抵抗放射线伤害。每个等级都会增加１０％的放射线免疫力。}
-{213}{}{当你有壮大的体格时，就比较不易受到伤害。每个等级都会增加１０％的普通攻击免疫力。}
-{214}{}{每个等级你都可以多背５０磅的物品。}
-{215}{}{你得到了可在射程之外射中目标的能力。每个等级都会增加２点的观察能力。现在攻击射程之外的敌人就更加容易了！}
+{211}{}{你只要进入房间内就会特别引人注意。别人对你的第一印象在每个等级都会增加10%。}
+{212}{}{你将会变得较能抵抗放射线伤害。每个等级都会增加10%的放射线免疫力。}
+{213}{}{当你有壮大的体格时，就比较不易受到伤害。每个等级都会增加10%的普通攻击免疫力。}
+{214}{}{每个等级你都可以多背50磅的物品。}
+{215}{}{你得到了可在射程之外射中目标的能力。每个等级都会增加2点的观察能力。现在攻击射程之外的敌人就更加容易了！}
 {216}{}{拥有这能力之后你可以更快的移动，但是仍然不会发出声音。如果没有这项能力，只要一跑步就会跳出潜行模式。}
-{217}{}{你是户外求生的专家。这一个能力可以让你在任何的环境中生存得更好。每个等级你会增加２０％的户外求生点数。}
+{217}{}{你是户外求生的专家。这一个能力可以让你在任何的环境中生存得更好。每个等级你会增加20%的户外求生点数。}
 {218}{}{你得到了讨价还价的能力，现在你可以用更便宜的价钱买到许多物品。当你有这项能力时，你与商店或者是商人买东西时都会得到七五折的优待。}
-{219}{}{每个等级都会让人物在升级时增加＋２点的技术点数。你越早得到这一项能力，对你越有利。}
-{220}{}{拥有这项能力，对你的治伤技术会有很大的帮助。每个等级都可以让你在治伤时多治２～５的生命点数。}
+{219}{}{每个等级都会让人物在升级时增加+2点的技术点数。你越早得到这一项能力，对你越有利。}
+{220}{}{拥有这项能力，对你的治伤技术会有很大的帮助。每个等级都可以让你在治伤时多治2～5的生命点数。}
 
 #{221}{}{You have the talent of finding money.  You will find additional money in random encounters in the desert.}
 #{222}{}{The critical hits you cause in combat are more devastating.  You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done.  This does not affect the chance to cause a critical hit.}
@@ -201,7 +201,7 @@
 #{229}{}{With each level of this Perk, you gain an additional 4 Hit Points.  This may not seem like a lot, but every little bit helps.}
 #{230}{}{You are less likely to be hit in combat, if you have this Perk.  Every level will add +5% to your Armor Class, in addition to the AC bonus from any worn armor.}
 {221}{}{你拥有寻找钱的能力。在每次找到钱的时候，你找到的数量都会比较多。}
-{222}{}{你在战斗时所使出的特别攻击将具有更高的伤害力。你在特别攻击表中将会多得２０％的点数，也就是说，攻击时会造成更大的伤害。不过这将不会影响使出特别攻击的机率。}
+{222}{}{你在战斗时所使出的特别攻击将具有更高的伤害力。你在特别攻击表中将会多得20%的点数，也就是说，攻击时会造成更大的伤害。不过这将不会影响使出特别攻击的机率。}
 {223}{}{你对于人们都有著相当的研究，让你可以很清楚的了解他们的心情。你在与他人长谈时可以看到他们目前对你的感觉为何。}
 {224}{}{你是世上一流的杀手！在空手攻击时你的每一击都会变成特别攻击，造成相当强的杀伤力。}
 {225}{}{你对于长程武器相当的拿手。拥有这个能力，每当你成功的使用长程武器攻击敌人时，每一击都会变成特别攻击。}
@@ -209,7 +209,7 @@
 {227}{}{每个等级的能力都会给予你更多的动作点数。}
 {228}{}{这一种能力可以让你不受到外界的脑波干扰。你只能从别人的身上学到这种技术，或是每天到酒吧待到很晚也可以练成这种技术。}
 {229}{}{当你升级时每个等级都会多得到４点生命点数。这是除了每次升级都会增加的生命点数之外额外的增加值。}
-{230}{}{如果你拥有这项能力，在战斗中你就比较不会被打中。你会增加＋５点到你的防御点数之中。}
+{230}{}{如果你拥有这项能力，在战斗中你就比较不会被打中。你会增加+5点到你的防御点数之中。}
 
 #{231}{}{Yum!  Tastes like chicken. You have gained an immunity to poison, resulting in a +25% to your Poison Resistance.}
 #{232}{}{This Perk will give you a one-time bonus of +20% to the Repair and Science skills.  A little late night cramming never hurt anybody, especially you.}
@@ -221,15 +221,15 @@
 #{238}{}{You are much more adept at Stealing than the normal crook.  You can Steal with the best of them, because with this Perk, you ignore size and facing modifiers, when stealing from a person.}
 #{239}{}{When the sun goes down, or you are in a poorly lit area, you move like a Ghost with this Perk.  Your Sneak skill is enhanced +20% during darkness conditions.}
 #{240}{}{Your reputation is always positive to people.  Without this Perk, a large negative reputation would have a bad effect on good natured people.  Works with a good rep and bad people, too.}
-{231}{}{嗯！好喝！每个等级你的毒免疫力都会增加２５％。}
-{232}{}{这个能力会增加２０％的维修以及科学技术点数。不过只会增加一次。}
-{233}{}{这个能力会增加２０％的急救以及治疗技术点数。不过只会增加一次。}
-{234}{}{一次性的增加＋１０的潜行、偷窃、开锁和陷阱技术点数。}
-{235}{}{这个技术可以让你的演说能力增加２０％，只会增加一次。}
-{236}{}{每个等级都会增加２点的力量（最高１０点）。}
+{231}{}{嗯！好喝！每个等级你的毒免疫力都会增加25%。}
+{232}{}{这个能力会增加20%的维修以及科学技术点数。不过只会增加一次。}
+{233}{}{这个能力会增加20%的急救以及治疗技术点数。不过只会增加一次。}
+{234}{}{一次性的增加+10的潜行、偷窃、开锁和陷阱技术点数。}
+{235}{}{这个技术可以让你的演说能力增加20%，只会增加一次。}
+{236}{}{每个等级都会增加2点的力量（最高10点）。}
 {237}{}{如果拥有这个技能，你队伍中的角色在战斗中会以绿色高亮边框显示。而红色高亮边框的角色也未必就是敌人。}
 {238}{}{你将比一般小偷拥有更高深的偷窃技术。因为当你得到这个能力时，你在偷东西时无论敌人是谁，你都能以平常心去进行偷窃的工作。}
-{239}{}{当太阳下山时，或是当你到达一个没有灯的地方，你都可以像鬼魂一样移动而不被他人发现。你的潜行能力会在黑暗中增加２０％。}
+{239}{}{当太阳下山时，或是当你到达一个没有灯的地方，你都可以像鬼魂一样移动而不被他人发现。你的潜行能力会在黑暗中增加20%。}
 {240}{}{你在人心目中的印象将会永远是正面的。没有这个能力的话，你的名誉将会改变他人对你的看法。对于邪恶的人来说，他们也会对你有好印象，以为你也是邪恶的人。}
 
 #{241}{}{You can find more ammo than the normal post-holocaust survivor.  This Perk will double the amount of ammo found in random encounters.}
@@ -244,14 +244,14 @@
 #{250}{}{A Smooth Talker has learned to increase their options in dialogue, without understanding what they are talking about.  Each level of this Perk will increase your IN by one, for purposes of dialogue only.}
 {241}{}{你比别人都容易找到武器的弹药。这个能力会让你每一次找到弹药的数量变成双倍。}
 {242}{}{探险家最主要的目的就是寻找新的东西及地方。当你有这个能力时，你找到特别地方或是人物的机率就会增加。}
-{243}{}{当你拥有这个能力时，你就比较不容易上化学药品的瘾。（上瘾机率会变成平常的５０％）就算你上瘾后，回复正常的速度也是别人的两倍。}
-{244}{}{这个能力可以让你较容易找到最短的捷径。这个能力的每个等级都会将你在世界地图上移动的时间减少２５％。}
+{243}{}{当你拥有这个能力时，你就比较不容易上化学药品的瘾。（上瘾机率会变成平常的50%）就算你上瘾后，回复正常的速度也是别人的两倍。}
+{244}{}{这个能力可以让你较容易找到最短的捷径。这个能力的每个等级都会将你在世界地图上移动的时间减少25%。}
 {245}{}{动物们都不会攻击他们自己的朋友，除非他们首先受到了攻击或是遭到了威胁。}
 {246}{}{你远眺的能力增强了，在世界地图上看到范围的每个方向将会增加一格。}
 {247}{}{当你有这个能力时，你将会得到神秘陌生人更多的注意，这些陌生人将会随时出现助你一臂之力。不过，他们将不会代替你死去的战友。}
-{248}{}{你的户外求生能力将会增加１５％。你在路上遇到的敌人将会减少许多，不过却会时常的遇到“特别”的事件。}
-{249}{}{你学会如何将物品作更有效的整理。这能力可以让你拿取背包内物品时，每一级少用１点动作点数。}
-{250}{}{你的对话反应选项会增加，虽然你并不知道你在说什么。这个能力的每个等级都会增加１点的智力点数，直到最高１０点为止。这一些增加的点数只对谈话有效。}
+{248}{}{你的户外求生能力将会增加15%。你在路上遇到的敌人将会减少许多，不过却会时常的遇到“特别”的事件。}
+{249}{}{你学会如何将物品作更有效的整理。这能力可以让你拿取背包内物品时，每一级少用1点动作点数。}
+{250}{}{你的对话反应选项会增加，虽然你并不知道你在说什么。这个能力的每个等级都会增加1点的智力点数，直到最高10点为止。这一些增加的点数只对谈话有效。}
 
 #{251}{}{You are indeed a Swift Learner with this Perk, as each level will give you an additional +5% bonus whenever you earn experience points.  Best purchased at an early level.}
 #{252}{}{Your skills have improved to the point where you can pick an additional Tag Skill, increasing that skill by +20% immediately and 2% per skill point spent.}
@@ -263,7 +263,7 @@
 #{258}{}{You feel nauseous.}
 #{259}{}{Weapon Long Range}
 #{260}{}{Weapon Accurate}
-{251}{}{拥有这个能力，你就是个学习速度快的人。当你每一次升级时都会多得到５％的点数可以使用。因此越早得到这个能力对你越有利。}
+{251}{}{拥有这个能力，你就是个学习速度快的人。当你每一次升级时都会多得到5%的点数可以使用。因此越早得到这个能力对你越有利。}
 {252}{}{你可以再选择另一个“特长技能”了。“特长技能”的点数比普通技能点数增加的速度要快两倍。}
 {253}{}{在荒野中的放射线已经改变了你的体质！你的其中一种特徵已经变成了另一种特徵了……}
 {254}{}{你想要再来一瓶核子可乐。}
