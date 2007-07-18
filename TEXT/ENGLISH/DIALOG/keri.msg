@@ -14,13 +14,13 @@
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{103}{}{老杂碎居然同意你来干活了？你他妈的一定是个很耐操的婊子啊。我很欣赏，但要看你的表现了。我们每个月出发两次，３号和１７号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
+{103}{}{老杂碎居然同意你来干活了？你他妈的一定是个很耐操的婊子啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{104}{}{So, that old bastard gave you the okay to work for us, eh?  Well you must have balls of steel.
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{104}{}{老杂碎居然同意你来干活了？你他妈的一定是个很吊的鸟哥啊。我很欣赏，但要看你的表现了。我们每个月出发两次，３号和１７号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
+{104}{}{老杂碎居然同意你来干活了？你他妈的一定是个很吊的鸟哥啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{105}{}{And the pay?}
 {105}{}{报酬如何？}
@@ -31,7 +31,7 @@
 #{107}{}{Our pay's the best, 600 scripts, and yes, that is for each way?but you don't have to do both.  This
 # is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders?or worse.  We'll have no
 # sissies on my caravans and you better have plenty of ammo.}
-{107}{}{我们的薪水最高。６００块，没错，单程６００块。不过，你也不必来回都跟着。商队的旅行是很危险的，肯定会遇见强盗的或者更可怕的东西。我们的队伍里没有胆小鬼，你最好带足弹药。}
+{107}{}{我们的薪水最高。600块，没错，单程600块。不过，你也不必来回都跟着。商队的旅行是很危险的，肯定会遇见强盗的或者更可怕的东西。我们的队伍里没有胆小鬼，你最好带足弹药。}
 
 #{108}{}{ We're leaving today.  Are you interested?}
 {108}{}{我们今天走，你有兴趣么？}
@@ -81,7 +81,7 @@
 
 #{124}{}{Ha, I thought you were a coward!  Well?if you brave'n up, stop by and I might still give you a job. We
 # leave on the 3rd and 17th, you can just show up that day if you like.  We can always use more guns.}
-{124}{}{哈，我还以为你是个胆小鬼的！那么，如果你够种，下次来找我，我给你工作。我们每个月３号和１７号出发，你那天来就是了。我们从来都是需要人才的。}
+{124}{}{哈，我还以为你是个胆小鬼的！那么，如果你够种，下次来找我，我给你工作。我们每个月3号和17号出发，你那天来就是了。我们从来都是需要人才的。}
 
 #{125}{}{You just love to waste my time, don't you.}
 {125}{}{你是不是想浪费我时间啊。}
@@ -181,14 +181,14 @@
 {155}{}{你很聪明，但是我不喜欢。}
 
 #{156}{}{Good. Like I said before we pay 600 scripts. Which route did you want to take?}
-{156}{}{很好，我们说好了６００块。你想走哪条路线？}
+{156}{}{很好，我们说好了600块。你想走哪条路线？}
 
 #{157}{}{Cool.  The next one's going out on }
 {157}{}{酷啊，下一班是在}
 
 #{158}{}{. Come back then and I'll put you on a caravan. As always, it
 # pays 600 scripts.}
-{158}{}{。那时候来找我，我会给你安排。工钱是６００块。}
+{158}{}{。那时候来找我，我会给你安排。工钱是600块。}
 
 #{159}{}{Okay. }
 {159}{}{好的。}

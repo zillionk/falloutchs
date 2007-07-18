@@ -76,7 +76,7 @@
 # I live here.  Hopefully you will find what you are looking for, even
 # if it is just another place to live.  I hope that your Vault did not
 # kick you out due to your wits.  I do hope there is another reason.}
-{121}{}{是的，我能看出来你是来自于一个避难所。深层次的印记是很难抹去的。我来自东边的１５号避难所。但我不得不离开了自己的家园，而我现在生活在这里。希望你能够找到你要找的东西，即使你要找的只是另外一个容身之处。我希望你的避难所不是因为你的智力而把你赶了出来。我真的希望是因为别的什么原因。}
+{121}{}{是的，我能看出来你是来自于一个避难所。深层次的印记是很难抹去的。我来自东边的15号避难所。但我不得不离开了自己的家园，而我现在生活在这里。希望你能够找到你要找的东西，即使你要找的只是另外一个容身之处。我希望你的避难所不是因为你的智力而把你赶了出来。我真的希望是因为别的什么原因。}
 
 #{122}{}{Hng.}
 {122}{}{呼。}
@@ -165,7 +165,7 @@
 #{140}{}{It was Vault-15.  It is due east of here.  We tried to make contact
 # with some other Vaults, but we always failed.  I think it was the
 # raiders who attacked my fellow dwellers.  Be careful!}
-{140}{}{那是１５号避难所。它就在正东方。我们尝试联络其他的避难所，但总是失败。我认为是歹徒攻击了居住在那里的同胞。所以你要小心点！}
+{140}{}{那是15号避难所。它就在正东方。我们尝试联络其他的避难所，但总是失败。我认为是歹徒攻击了居住在那里的同胞。所以你要小心点！}
 
 #{141}{}{I hope you find her.  She is like a little sister to me.  I think it
 # was one of the raider groups who took her.  Find out as much information
@@ -184,7 +184,7 @@
 # are looking for there.  Someone said that they tried to go to the
 # Vault to have a look around, but it was dark and the elevator was
 # broken.  I hope you're better prepared.}
-{143}{}{事实上，是的。１５号避难所是我以前的家。自从我受伤后再也没有回去过那里，但你很可能会在那里找到你需要的东西。有些人说他们试图进入避难所看看，但那里很黑，而且电梯坏了。我希望你能准备周全些。}
+{143}{}{事实上，是的。15号避难所是我以前的家。自从我受伤后再也没有回去过那里，但你很可能会在那里找到你需要的东西。有些人说他们试图进入避难所看看，但那里很黑，而且电梯坏了。我希望你能准备周全些。}
 
 #{144}{}{Hello again.  I hope you are doing well.  Is there anything I can help you with?}
 {144}{}{很高兴再次见到你。我希望你的任务进行得顺利。我能帮你什么吗？}
@@ -212,7 +212,7 @@
 
 #{150}{}{You gain 250 experience points for the knowledge you have gained from
 # Katrina.}
-{150}{}{你通过卡特里娜得到了知识，因此你获得２５０点经验值。}
+{150}{}{你通过卡特里娜得到了知识，因此你获得250点经验值。}
 
 #{151}{}{They usually hang thieves around here.  Be good.}
 {151}{}{经常有小偷在这里被绞死。注意你的行为。}

@@ -218,7 +218,7 @@
 {172}{}{我原先不认为你会成功，但你确实干的不错。谢谢你救了我们所有人。}
  
 #{173}{}{You gain 750 experience points for peacefully calming the Vault's revolutionary faction.}
-{173}{}{由于和平说服了避难所的革命派系，你获得了７５０经验值。}
+{173}{}{由于和平说服了避难所的革命派系，你获得了750经验值。}
  
 #{174}{}{Traitor! Why did you ever come back here? Now everybody will die!}
 {174}{}{叛徒！你怎么还有脸回到这里！现在所有人都要死了！}

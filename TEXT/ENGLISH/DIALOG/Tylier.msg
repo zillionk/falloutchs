@@ -80,7 +80,7 @@
 
 #{125}{}{I have not received orders to do otherwise. Network access is
 # unavailable; central processor ZAX has apparently been destroyed.}
-{125}{}{我无法识别认证命令以外的语言。网络访问无法进行；中央处理器ＺＡＸ显然已经被损坏。}
+{125}{}{我无法识别认证命令以外的语言。网络访问无法进行；中央处理器ZAX显然已经被损坏。}
 
 #{126}{}{Fine. Voice override: Sigma Alpha Delta. Disarm systems.}
 {126}{}{很好。声音改变：西格马、阿尔法、德尔塔。系统防御解除。}

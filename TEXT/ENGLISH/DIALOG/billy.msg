@@ -75,7 +75,7 @@
 #{137}{}{He's just trying to help. Work hard and I'm sure he'll be nicer.}
 {137}{}{他只是想帮忙。努力工作后我想他会更好的。}
 #{138}{}{Here kid, take 50 bucks and get away from this jerk.}
-{138}{}{这里，孩子，拿上５０个瓶盖，离开这个笨蛋。}
+{138}{}{这里，孩子，拿上50个瓶盖，离开这个笨蛋。}
 #{139}{}{Okay.}
 {139}{}{好吧。}
 #{140}{}{Aaaaaarg!}

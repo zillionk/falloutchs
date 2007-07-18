@@ -273,7 +273,7 @@
 {179}{}{好吧，尽管我没了好刀浑身不自在。}
 
 #{180}{}{You gain 200 experience points for picking up Katja, the Boneyard scav.}
-{180}{}{你让晒骨场的盗贼卡佳加入了你的队伍，获得了２００点经验值。}
+{180}{}{你让晒骨场的盗贼卡佳加入了你的队伍，获得了200点经验值。}
 
 #{181}{}{What do you want now?}
 {181}{}{你想做什么？}

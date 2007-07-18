@@ -44,7 +44,7 @@
 
 #{112}{}{It's not going well. I've been injecting the FEV directly into the
 # pineal gland, but I'm not getting the results I'd hoped for.}
-{112}{}{进展并不顺利。我曾经把ＦＥＶ病毒直接注射到松果体，但是没有得到我所期待的结果。}
+{112}{}{进展并不顺利。我曾经把FEV病毒直接注射到松果体，但是没有得到我所期待的结果。}
 
 #{113}{}{Why don't you try injecting it  into the Amygdala?}
 {113}{}{你为什么不试试把它注射到扁桃腺？}
@@ -92,7 +92,7 @@
 {125}{}{感谢你的帮助。再见。}
 
 #{126}{}{Yeah, uh. What's FEV?}
-{126}{}{呀，嗯。什么是ＦＥＶ？}
+{126}{}{呀，嗯。什么是FEV？}
 
 #{127}{}{You can die!}
 {127}{}{你给我死吧！}
@@ -200,13 +200,13 @@
 {300}{}{你看见一位睡着的疯狂科学家。}
 
 #{301}{}{Zzzzzz}
-{301}{}{ＺＺｚｚｚ}
+{301}{}{ZZzzz}
 
 #{302}{}{Huh! What? 【rubs eyes】 Vincent, remove this heathen from our chambers!}
 {302}{}{哼！什么？【擦眼睛】文森特，把这个野蛮人从我们的房间弄走！}
 
 #{303}{}{Huh? 【snort】 ...zzzzzzzzz}
-{303}{}{哼？【打鼾】……ｚｚｚｚｚｚ}
+{303}{}{哼？【打鼾】……zzzzzz}
 
 #{400}{}{You see Vincent. He is guarding the sleeping mads.}
 {400}{}{你看见文森特．他正在守护着疯狂的科学家。}

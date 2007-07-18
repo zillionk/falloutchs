@@ -18,7 +18,7 @@
 {109}{}{嗯，别在这儿闲逛。}
 # Alternate for "poke around" could be "Look around"
 
-{110}{}{你知道吗，你因为杀害儿童被悬赏花红１５００？我吃定了！}
+{110}{}{你知道吗，你因为杀害儿童被悬赏花红1500？我吃定了！}
 # 1500 caps is equivalant to 1500 dollars. Children is considered male plural
 
 {1099}{}{?}

@@ -45,7 +45,7 @@
 #{113}{}{This terminal is an Artificial Intelligence. This terminal
 # is part of a WLAN matrix network to optimize remote unit
 # operations.}
-{113}{}{这个终端机是智能化的。这个终端机是ＷＬＡＮ矩阵网络的一部分，可以优化控制细微的单元。}
+{113}{}{这个终端机是智能化的。这个终端机是WLAN矩阵网络的一部分，可以优化控制细微的单元。}
 
 #{114}{}{Thanks. Uh, end input.}
 {114}{}{谢谢。呃，结束操作。}
@@ -78,7 +78,7 @@
 
 #{122}{}{Current applications are: Facility Maintenance v2.1, Movement
 # v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and Sensors '76.}
-{122}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６。}
+{122}{}{当前软件是：设备维护v2．1，运转系统v4．8b，修理系统v0．8，病毒控制系统v1．4，红心大战v1．0，传感器＇76。}
 
 #{123}{}{Terminate Movement.}
 {123}{}{终止运转。}
@@ -117,7 +117,7 @@
 #{134}{}{Current application: Movement v4.8b. Current setting:
 # 【maximum/half rate/minimum】. Change to: maximum, half rate,
 # or minimum.}
-{134}{}{当前请求：运转系统ｖ４·８ｂ。当前设置：【最大的、一半比率的、最小的】。可变成：最大的、一半比率的、最小的。}
+{134}{}{当前请求：运转系统v4·8b。当前设置：【最大的、一半比率的、最小的】。可变成：最大的、一半比率的、最小的。}
 
 #{135}{}{Maximum movement.}
 {135}{}{最大运转。}
@@ -130,7 +130,7 @@
 
 #{138}{}{Current application: Sensors '76. Current setting:
 # 【full/minumum】. Change to: full, or minimum.}
-{138}{}{当前软件：感应器＇７６。当前设置：【完整／最小】。可变为；完整或最小。}
+{138}{}{当前软件：感应器＇76。当前设置：【完整／最小】。可变为；完整或最小。}
 
 #{139}{}{Full sensors.}
 {139}{}{完整传感器。}
@@ -141,7 +141,7 @@
 #{141}{}{Current application: Pest Control v1.4. Current setting:
 # 【Click!】 unauthorized. Change to: 【Click!】 all, none, small
 # living, large living, or unauthorized.}
-{141}{}{当前请求：病毒活体控制系统ｖ１·４。当前设置【叮叮！】未经认可活体。转换为：【叮叮！】所有的、空的、少量的活体、大量的活体、未认可的活体。}
+{141}{}{当前请求：病毒活体控制系统v1·4。当前设置【叮叮！】未经认可活体。转换为：【叮叮！】所有的、空的、少量的活体、大量的活体、未认可的活体。}
 
 #{142}{}{All pests.}
 {142}{}{全部病毒活体。}
@@ -168,7 +168,7 @@
 #{149}{}{Program parameter changed. Current applications are: Facility
 # Maintenance v2.1, Movement v4.8b, Repair v0.8a, Pest Control
 # v1.4, Hearts v1.0 and Sensors '76.}
-{149}{}{程序参数改变。当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６}
+{149}{}{程序参数改变。当前软件是：设备维护v2．1，运转系统v4．8b，修理系统v0．8，病毒控制系统v1．4，红心大战v1．0，传感器＇76}
 
 #{150}{}{Adjust parameters on Movement.}
 {150}{}{调整运转系统参数。}
@@ -188,7 +188,7 @@
 #{155}{}{Current applications are: Facility Maintenance v2.1, Movement
 # v4.8b, Repair v0.8a, Pest Control v1.4, Hearts v1.0 and
 # Sensors '76.}
-{155}{}{当前软件是：设备维护ｖ２．１，运转系统ｖ４．８ｂ，修理系统ｖ０．８，病毒控制系统ｖ１．４，红心大战ｖ１．０，传感器＇７６}
+{155}{}{当前软件是：设备维护v2．1，运转系统v4．8b，修理系统v0．8，病毒控制系统v1．4，红心大战v1．0，传感器＇76}
 
 #{156}{}{Adjust parameters on Movement.}
 {156}{}{调整运转系统参数。}
@@ -255,10 +255,10 @@
 # terminal online 2074. Final pre-production process 2075. It
 # is currently under final construction, and is due to open
 # 2078. 【Click!】}
-{176}{}{【叮叮！】本终端在启动于２０７４，最近一次试生产于２０７５，目前正在调试，最终将于２０７８正式投入生产【叮叮！】}
+{176}{}{【叮叮！】本终端在启动于2074，最近一次试生产于2075，目前正在调试，最终将于2078正式投入生产【叮叮！】}
 
 #{177}{}{Do you know what FEV is?}
-{177}{}{什么是ＦＥＶ？}
+{177}{}{什么是FEV？}
 
 #{178}{}{Do you know what date it is?}
 {178}{}{你知道日期吗？}
@@ -267,7 +267,7 @@
 # Livermore/Broansoun Laboratories. It is designed to increase
 # the genetic complexity of a DNA/RNA series in a shorter period
 # of time.}
-{179}{}{ＦＥＶ是被强行【叮叮！】进化的病毒，产自雷蒙莫／布朗讯实验室。它的功能是短时间迅速改变基因／核糖核酸的排列顺序。}
+{179}{}{FEV是被强行【叮叮！】进化的病毒，产自雷蒙莫／布朗讯实验室。它的功能是短时间迅速改变基因／核糖核酸的排列顺序。}
 
 #{180}{}{Show programs.}
 {180}{}{显示程序。}
@@ -276,7 +276,7 @@
 {181}{}{结束。}
 
 #{182}{}{Affirmative. Terminal date is February 2, 2077.}
-{182}{}{确定。终端的日期是２０７７年２月２日。}
+{182}{}{确定。终端的日期是2077年2月2日。}
 
 #{183}{}{Show programs.}
 {183}{}{显示程序。}

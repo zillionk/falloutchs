@@ -33,10 +33,10 @@
 #{109}{}{Ahh, straight to the point, my friend. Excellent. I will help
 # you around town for a measly $500 a week. My services are
 # not cheap, but then again, I am worth it.}
-{109}{}{啊，开门见山，朋友。好极了，在镇子上活动我收你一星期５００块。这服务不便宜，但我再说一遍，值得你花这个钱。}
+{109}{}{啊，开门见山，朋友。好极了，在镇子上活动我收你一星期500块。这服务不便宜，但我再说一遍，值得你花这个钱。}
 
 #{110}{}{Great, I'll hire you. Here's $500.}
-{110}{}{太棒了，我雇你。这是５００块。}
+{110}{}{太棒了，我雇你。这是500块。}
 
 #{111}{}{Sorry to bother you, but I don't think I need your
 # services.}
@@ -84,7 +84,7 @@
 
 #{124}{}{Of course you do. My bill is small, and my worth is
 # so large. $500, please.}
-{124}{}{当然是这样。我要价低，又能打。请出５００块吧。}
+{124}{}{当然是这样。我要价低，又能打。请出500块吧。}
 
 #{125}{}{Here you go.}
 {125}{}{拿去。}

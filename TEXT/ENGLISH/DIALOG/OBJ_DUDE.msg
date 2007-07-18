@@ -586,7 +586,7 @@
 {16101}{}{他领导着可汗。而且是曾经想侵占沙荫镇最危险的人物之一，他以铁腕统领着这个匪帮。}
 #{16102}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
 # more often than not, they try to stiff us.}
-{16102}{}{需要４到６天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
+{16102}{}{需要4到6天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
 #{16103}{}{You're standing in it.}
 {16103}{}{你正站在它里面。}
 #{16104}{}{Much farther to the south than Junktown.  The Hub is the largest
@@ -628,7 +628,7 @@
 {16701}{}{他领导着可汗。而且是曾经想侵占沙荫镇最危险的人物之一，他以铁腕统领着这个匪帮。}
 #{16702}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
 # more often than not, they try to stiff us.}
-{16702}{}{需要４到６天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
+{16702}{}{需要4到6天才能到西南方。运气好的话可以遇到商队进行交易，但经常不行，他们会刁难我们。}
 #{16703}{}{You're standing in it.}
 {16703}{}{你正站在它里面。}
 #{16704}{}{Much farther to the south than Junktown.  The Hub is the largest

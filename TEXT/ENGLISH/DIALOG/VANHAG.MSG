@@ -24,6 +24,6 @@
 #{110}{}{Oh, this is most exciting. What Vault is it that we plunder?}
 {110}{}{哦，这真令人兴奋，我们要洗劫哪个避难所？}
 #{111}{}{Vault-13. And we shall have them soon. Very soon.}
-{111}{}{１３号避难所。我们马上就要占领它了，马上。}
+{111}{}{13号避难所。我们马上就要占领它了，马上。}
 #{112}{}{You gain 1000 experience points for overhearing the whole conversation about your Vault.}
-{112}{}{你偷听到关于你避难所的完整谈话，得到了１０００点经验值。}
+{112}{}{你偷听到关于你避难所的完整谈话，得到了1000点经验值。}

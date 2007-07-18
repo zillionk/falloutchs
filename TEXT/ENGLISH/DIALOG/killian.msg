@@ -112,7 +112,7 @@
 
 #{137}{}{No, no. It's called a Vault. It protected us
 # from the war. It's been full of people for 80 years!}
-{137}{}{不是锁，是避难所。它可以在战争期间庇护我们，８０多年来那里住满了人。}
+{137}{}{不是锁，是避难所。它可以在战争期间庇护我们，80多年来那里住满了人。}
 
 #{138}{}{Heh, you got my joke. I actually come from a
 # village not far from Shady Sands.}
@@ -449,7 +449,7 @@
 
 #{235}{Kill61b}{Well, I can pay you the standard rate for mercenary work,
 # 500 caps.}
-{235}{Kill61b}{那，我就再付给你标准的佣兵价格：５００个瓶盖。}
+{235}{Kill61b}{那，我就再付给你标准的佣兵价格：500个瓶盖。}
 
 #{236}{}{Done.}
 {236}{}{成交！}
@@ -554,7 +554,7 @@
 #{261}{Kill82}{Where've you been for the last 100 years? In a closet? My father used
 # to tell me stories about the War. His father was a soldier before starting
 # Junktown.}
-{261}{Kill82}{你过去１００年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
+{261}{Kill82}{你过去100年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
 
 #{262}{Kill83}{Well, there're some rumors coming up from the Hub. Caravans
 # disappearing, people being butchered, even some talk of big green monsters
@@ -581,10 +581,10 @@
 
 #{269}{}{You gain 600 experience points for your part in the defeat of Killian.
 # Junktown will never be the same.}
-{269}{}{你击败了基利安，获得了６００点经验值，迦克镇的未来改变了。}
+{269}{}{你击败了基利安，获得了600点经验值，迦克镇的未来改变了。}
 
 #{270}{}{You gain 500 experience points for securing Gizmo's confession.}
-{270}{}{你获取了吉斯莫的证词，得到５００点经验值。}
+{270}{}{你获取了吉斯莫的证词，得到500点经验值。}
 
 #{271}{}{I'm here to take you in, Gizmo. This time, I've got the proof I need.}
 {271}{}{我来这里抓你，吉斯莫，这次我有充分的证据。}
@@ -761,7 +761,7 @@
 #{1118}{Kill82}{Where've you been for the last 100 years? In a closet? My father used
 # to tell me stories about the War. His father was a soldier before starting
 # Junktown.}
-{1118}{Kill82}{你过去１００年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
+{1118}{Kill82}{你过去100年在外星球啊！要么就是在柜子里？我爸爸以前跟我讲起世界大战的事情。我爷爷在建立这个镇子之前就是个当兵的。}
 
 #{1119}{Kill83}{Well, there're some rumors coming up from the Hub. Caravans
 # disappearing, people being butchered, even some talk of big green monsters

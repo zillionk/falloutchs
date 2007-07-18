@@ -132,7 +132,7 @@
 #{137}{}{Why, honey, I take care of men, and they take care of me in
 # return. Gizmo gets 25% and I supposedly get his protection.
 # You saw how well that went, huh?"}
-{137}{}{唉，甜心，我照顾男人，作为报答他们也照顾我。吉斯莫得到我收入的２５％，象征性地为我提供保护。你看到他把我保护得有多“好”了吧？}
+{137}{}{唉，甜心，我照顾男人，作为报答他们也照顾我。吉斯莫得到我收入的25％，象征性地为我提供保护。你看到他把我保护得有多“好”了吧？}
 
 #{138}{}{What else does Gizmo control?}
 {138}{}{除了你之外，吉斯莫还控制了什么？}
@@ -184,7 +184,7 @@
 {151}{}{我只是来看看你怎么样了。}
 
 #{152}{}{I've got $40, if you got ten minutes.}
-{152}{}{我有４０块，如果你能给我十分钟的话。}
+{152}{}{我有40块，如果你能给我十分钟的话。}
 
 #{153}{}{I need some more info on your boss.}
 {153}{}{我需要更多关于你老板的情报。}

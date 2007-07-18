@@ -38,7 +38,7 @@
 #{117}{}{So? 【Dugan raises his eyebrows at you.】}
 {117}{}{那么？【杜根对你扬起眉毛】}
 #{118}{}{About 5 litres a day.}
-{118}{}{大概一天５升。}
+{118}{}{大概一天5升。}
 #{119}{}{Razor's the woman you'll want to talk to.}
 {119}{}{你该和剃刀那女人谈谈。}
 #{120}{}{I am the dumbest person I've ever met - well, besides you. Get out of here!}

@@ -439,7 +439,7 @@
 {245}{}{主教，我相信你会喜欢这个……}
 
 #{500}{}{You gain 1000 experience points for destroying the leader of the Children of the Cathedral.}
-{500}{}{你消灭了大教堂的领袖之一，得到了１０００点经验值。}
+{500}{}{你消灭了大教堂的领袖之一，得到了1000点经验值。}
 
 
 # Morpheus Tell-Me-Abouts generic responses

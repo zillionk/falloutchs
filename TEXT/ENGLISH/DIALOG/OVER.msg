@@ -510,7 +510,7 @@
 
 #{252}{}{You gain 7,500 experience points for returning the water chip and saving
 # the Vault. Congratulations!}
-{252}{}{你成功找回了净水芯片并拯救了避难所，获得７５００点经验值。恭喜！}
+{252}{}{你成功找回了净水芯片并拯救了避难所，获得7500点经验值。恭喜！}
 
 #{253}{Over_0ab}{Here's a picture to help you identify it.}
 {253}{Over_0ab}{这里有张图片帮你识别它。}

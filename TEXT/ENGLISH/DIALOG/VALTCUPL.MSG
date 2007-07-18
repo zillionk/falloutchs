@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a citizen of Vault 13.}
-{100}{}{你看到一个１３号避难所的公民。}
+{100}{}{你看到一个13号避难所的公民。}
 
 #{101}{}{We didn't think that you were coming back. You have
 # such a nice room, and we were a little crowded with

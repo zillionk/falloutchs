@@ -350,7 +350,7 @@
 {215}{}{你的家庭是怎么幸存下来的？}
 
 #{216}{}{It's still that radioactive? After 80 years?}
-{216}{}{那里仍旧有辐射吗？在８０年后？}
+{216}{}{那里仍旧有辐射吗？在80年后？}
 
 #{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. 【Sigh】 That's when my parents were killed.}
 {217}{Nic_37}{我们住在闪光之地的附近。疾病开始漫延，于是我们聚集了所有的人来到北方，【叹气】那时我的双亲被杀害了。}
@@ -503,7 +503,7 @@
 {266}{}{抱歉，那只是个玩笑。这与夜行团有关。}
 
 #{267}{Nic_65a}{So you're a mercenary. Fine, I'll give you 100 caps.}
-{267}{Nic_65a}{这么说你是个佣兵类型的人了。很好，我给你１００个瓶盖。}
+{267}{Nic_65a}{这么说你是个佣兵类型的人了。很好，我给你100个瓶盖。}
 
 #{268}{Nic_66b}{Now, what do you have for me?}
 {268}{Nic_66b}{现在，你为我带来什么？}

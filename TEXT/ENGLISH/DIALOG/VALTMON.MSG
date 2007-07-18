@@ -3,5 +3,5 @@
 
 # {100}{}{You see one of those classic Science Fiction movies from the early 21st Century playing.}
 # {101}{}{You are too pressed for time to be watching movies.}
-{100}{}{你看到一部２１世纪福克斯公司的经典科幻电影正在放映。}
+{100}{}{你看到一部21世纪福克斯公司的经典科幻电影正在放映。}
 {101}{}{你没有时间看电影了。}

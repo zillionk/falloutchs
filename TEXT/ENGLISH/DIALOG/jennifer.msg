@@ -392,7 +392,7 @@
 {207}{}{我们可以明天上午去结婚。}
 
 #{208}{}{I think we should have about five kids.}
-{208}{}{我想我们会有５个孩子。}
+{208}{}{我想我们会有5个孩子。}
 
 #{209}{}{Where do you want to go for our honeymoon? I hear
 # the Children of the Cathedral have a beautiful place.}

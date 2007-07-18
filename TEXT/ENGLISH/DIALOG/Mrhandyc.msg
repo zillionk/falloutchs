@@ -28,7 +28,7 @@
 
 #{107}{}{Unit #462 online. Self-test. Adjusting unit location data. Fixed.
 # Rebuilding memory file. Fixed. Error - task incomplete.}
-{107}{}{４６２号单位在线。测试。调整单元位置数据。修复。重新建立存储文件。修复。错误－任务不完善。}
+{107}{}{462号单位在线。测试。调整单元位置数据。修复。重新建立存储文件。修复。错误－任务不完善。}
 
 #{108}{}{Rogga.}
 {108}{}{诺嘎。}
@@ -44,7 +44,7 @@
 
 #{112}{}{Unit #462 is a cleaning model. Must finish cleaning and maintenance of
 # this level.}
-{112}{}{４６２号单位是一个清洁模式。必须完成本层的清洁和维护。}
+{112}{}{462号单位是一个清洁模式。必须完成本层的清洁和维护。}
 
 #{113}{}{Go to it!}
 {113}{}{立刻去执行！}
@@ -59,4 +59,4 @@
 {116}{}{嗯，你完成了任务。}
 
 #{117}{}{You gain 1000 experience points for doing a little clean-up work.}
-{117}{}{因为完成了一个小的清洁工作，你获得了１０００点经验值。}
+{117}{}{因为完成了一个小的清洁工作，你获得了1000点经验值。}

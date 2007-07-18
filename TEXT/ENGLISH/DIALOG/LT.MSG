@@ -156,17 +156,17 @@
 #{150}{}{Pretty lofty goal. How are you made like this?}
 {150}{}{相当崇高的目标。你们怎么变成这个样子的？}
 
-#{151}{LIEUT15}{Ahh, the wonders of technology. Before the war, the human scientists made a drug called ＦＥＶ. It was designed to make the perfect human.}
-{151}{LIEUT15}{啊哈，科学技术的奇迹。战前，人类的科学家制造了一种药品叫做ＦＥＶ。它是设计用来创造完美的人类。}
+#{151}{LIEUT15}{Ahh, the wonders of technology. Before the war, the human scientists made a drug called FEV. It was designed to make the perfect human.}
+{151}{LIEUT15}{啊哈，科学技术的奇迹。战前，人类的科学家制造了一种药品叫做FEV。它是设计用来创造完美的人类。}
 
 #{152}{}{So you're the perfect human?}
 {152}{}{那你们是完美的人类吗？}
 
-#{153}{LIEUT16}{Better. More than human. I, too, was once human. Like you, I was a slug, wallowing in the mud before being exposed to ＦＥＶ and undergoing my glorious transformation.}
-{153}{LIEUT16}{比人类更好些。我，曾经也是人类。象你一样，在感染ＦＥＶ病毒之前，我也是一条在泥浆里打滚的鼻滴虫，直到经历我光荣的改造。}
+#{153}{LIEUT16}{Better. More than human. I, too, was once human. Like you, I was a slug, wallowing in the mud before being exposed to FEV and undergoing my glorious transformation.}
+{153}{LIEUT16}{比人类更好些。我，曾经也是人类。象你一样，在感染FEV病毒之前，我也是一条在泥浆里打滚的鼻滴虫，直到经历我光荣的改造。}
 
-#{154}{}{So you're planning on dipping everyone in this ＦＥＶ?}
-{154}{}{那你们计划在这种ＦＥＶ药水中浸泡每个人吗？}
+#{154}{}{So you're planning on dipping everyone in this FEV?}
+{154}{}{那你们计划在这种FEV药水中浸泡每个人吗？}
 
 #{155}{LIEUT17}{Exactly. Now you see.}
 {155}{LIEUT17}{没错。现在你明白了。}
@@ -213,8 +213,8 @@
 #{169}{}{So what's this Master like?}
 {169}{}{那这个主教象什么样呢？}
 
-#{170}{LIEUT22}{Before the war, the humans made a virus called ＦＥＶ to create the perfect man. They were successful, as you can plainly see. The Master has been the first to truly utilize the ＦＥＶ to its full potential.}
-{170}{LIEUT22}{战前，人们合成了名叫ＦＥＶ的病毒来创造完美的人类。他们成功了，显然正如你见到的一样。主教是真正发挥ＦＥＶ全部潜力的第一个。}
+#{170}{LIEUT22}{Before the war, the humans made a virus called FEV to create the perfect man. They were successful, as you can plainly see. The Master has been the first to truly utilize the FEV to its full potential.}
+{170}{LIEUT22}{战前，人们合成了名叫FEV的病毒来创造完美的人类。他们成功了，显然正如你见到的一样。主教是真正发挥FEV全部潜力的第一个。}
 
 #{171}{}{So where is this Master?}
 {171}{}{那这个主教在哪里呢？}
@@ -286,8 +286,8 @@
 #{193}{}{Where is he?}
 {193}{}{他在哪里？}
 
-#{194}{LIEUT30}{The ＦＥＶ was mutated by the war radiation. Those living in this desolate wasteland have been exposed to this mutant ＦＥＶ, essentially inoculating them from the full effects.}
-{194}{LIEUT30}{ＦＥＶ病毒在核战争的辐射下变异了。那些生活在荒凉废墟中的人类已经感染这些突变的ＦＥＶ，从本质上来说，他们不能获得病毒的全部能效。}
+#{194}{LIEUT30}{The FEV was mutated by the war radiation. Those living in this desolate wasteland have been exposed to this mutant FEV, essentially inoculating them from the full effects.}
+{194}{LIEUT30}{FEV病毒在核战争的辐射下变异了。那些生活在荒凉废墟中的人类已经感染这些突变的FEV，从本质上来说，他们不能获得病毒的全部能效。}
 
 #{195}{}{So?}
 {195}{}{所以？}
@@ -295,8 +295,8 @@
 #{196}{}{So you need those who are uncontaminated in order to make Super Mutants?}
 {196}{}{所以你们需要那些未受感染的人类来制造超级变种人？}
 
-#{197}{LIEUT31}{So, you're from a Vault and have limited exposure to this mutated virus. The original ＦＥＶ in the Vats should work quite well on you.}
-{197}{LIEUT31}{所以，由于你是来自于避难所，感染这种变异病毒的程度比较低。病毒槽里原来的ＦＥＶ应该在你身上很好地发挥作用了。}
+#{197}{LIEUT31}{So, you're from a Vault and have limited exposure to this mutated virus. The original FEV in the Vats should work quite well on you.}
+{197}{LIEUT31}{所以，由于你是来自于避难所，感染这种变异病毒的程度比较低。病毒槽里原来的FEV应该在你身上很好地发挥作用了。}
 
 #{198}{}{And how do you know this?}
 {198}{}{那你怎么会知道这些呢？}
@@ -482,11 +482,11 @@
 #{258}{LIEUT55}{You're an annoying little human, aren't you? I'm not going to repeat it again.}
 {258}{LIEUT55}{你是个令人讨厌的渺小人类，不是吗？我再也不会多费口舌。}
 
-#{259}{LIEUT56}{The Unity is the goal of all Super Mutants. Through the ＦＥＶ virus, we will bring all of humanity together in peace.}
-{259}{LIEUT56}{“同一”是所有超级变种人的目标。借助ＦＥＶ病毒，我们会实现所有人类的大团结。}
+#{259}{LIEUT56}{The Unity is the goal of all Super Mutants. Through the FEV virus, we will bring all of humanity together in peace.}
+{259}{LIEUT56}{“同一”是所有超级变种人的目标。借助FEV病毒，我们会实现所有人类的大团结。}
 
-#{260}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago. It is what makes us the Chosen Ones. But you will soon learn that, I assure you.}
-{260}{LIEUT57}{ＦＥＶ病毒数年前由主教发明出来。是它让我们成为获选者。但我敢保证，你很快就会认识到那点。}
+#{260}{LIEUT57}{The FEV virus was discovered by the Master many years ago. It is what makes us the Chosen Ones. But you will soon learn that, I assure you.}
+{260}{LIEUT57}{FEV病毒数年前由主教发明出来。是它让我们成为获选者。但我敢保证，你很快就会认识到那点。}
 
 #{261}{LIEUT58}{The Master is father to us all.}
 {261}{LIEUT58}{主教是我们大家的创造者。}
@@ -494,8 +494,8 @@
 #{262}{LIEUT59}{Nothing but a device to further our plans. No matter, all humans will be Chosen . . . or dead.}
 {262}{LIEUT59}{只不过是促进我们计划的一个手段而已。无论如何，所有人要么会获选……要么死亡。}
 
-#{263}{LIEUT60}{The Vats are where the ＦＥＶ is stored, and where you normals become one of us. Of course, some die horrible, excruciatingly painful deaths, but well, those are the breaks.}
-{263}{LIEUT60}{病毒槽是ＦＥＶ存放的地方，也是你们正常人成为我们一员的地方。当然，一些人会死得很可怕，极其痛苦的死亡，但是，那些是个别现象。}
+#{263}{LIEUT60}{The Vats are where the FEV is stored, and where you normals become one of us. Of course, some die horrible, excruciatingly painful deaths, but well, those are the breaks.}
+{263}{LIEUT60}{病毒槽是FEV存放的地方，也是你们正常人成为我们一员的地方。当然，一些人会死得很可怕，极其痛苦的死亡，但是，那些是个别现象。}
 
 #{264}{LIEUT61}{They are humans who have not been exposed to radiation. They tend to fare better in the Vats than others. You are a perfect example of this.}
 {264}{LIEUT61}{他们是没有暴露在辐射下的人类。他们在病毒槽中的进展比其他人会更好。你是这些人理想的样品。}
@@ -550,11 +550,11 @@
 {1007}{}{Morpheus}
 {1008}{}{Virus}
 
-#{1100}{LIEUT56}{The Unity is the goal of all Super Mutants.  Through the ＦＥＶ virus, we will bring all of humanity together in peace.}
-{1100}{LIEUT56}{“同一”是所有超级变种人的目标。通过ＦＥＶ病毒，我们会实现所有人类的大团结。}
+#{1100}{LIEUT56}{The Unity is the goal of all Super Mutants.  Through the FEV virus, we will bring all of humanity together in peace.}
+{1100}{LIEUT56}{“同一”是所有超级变种人的目标。通过FEV病毒，我们会实现所有人类的大团结。}
 
-#{1101}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
-{1101}{LIEUT57}{ＦＥＶ病毒是主教数年前发明的。是它让我们成为获选者。但我敢保证，你很快就会认识到那点的。}
+#{1101}{LIEUT57}{The FEV virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
+{1101}{LIEUT57}{FEV病毒是主教数年前发明的。是它让我们成为获选者。但我敢保证，你很快就会认识到那点的。}
 
 #{1102}{LIEUT58}{The Master is father to us all.}
 {1102}{LIEUT58}{主教是我们所有人的创造者。}
@@ -562,8 +562,8 @@
 #{1103}{LIEUT59}{Nothing but a device to further our plans.  No matter, all humans will be Chosen...or dead.}
 {1103}{LIEUT59}{只是促进我们计划的一个手段而已。无论如何，所有人要么获选……要么死亡。}
 
-#{1104}{LIEUT60}{The Vats are where the ＦＥＶ is stored, and where you normals become one of us.  Of course, some die horrible, excruciatingly painful deaths, but well, those are the breaks.}
-{1104}{LIEUT60}{病毒槽是ＦＥＶ存放的地方，也是你们正常人成为我们一员的地方。当然，有些人死得很可怕，痛苦至极的死亡，但是，那些是运气差的。}
+#{1104}{LIEUT60}{The Vats are where the FEV is stored, and where you normals become one of us.  Of course, some die horrible, excruciatingly painful deaths, but well, those are the breaks.}
+{1104}{LIEUT60}{病毒槽是FEV存放的地方，也是你们正常人成为我们一员的地方。当然，有些人死得很可怕，痛苦至极的死亡，但是，那些是运气差的。}
 
 #{1105}{LIEUT61}{They are humans who have not been exposed to radiation.  They tend to fare better in the Vats than others.  You are a perfect example of this.}
 {1105}{LIEUT61}{他们是没有暴露在辐射下的人类。他们在病毒槽中进展比其他人更顺利。你是这些人理想的样品。}
@@ -574,8 +574,8 @@
 #{1107}{LIEUT63}{Morpheus.  It's quite amusing.  He thinks he's so much more than just a slug the Master recruited to head his Children of the Cathedral nonsense.  Ah, well.  He, too, will be dipped in the Vats and he'll probably die a horrible death...I hope.}
 {1107}{LIEUT63}{墨菲斯。相当滑稽。他以为自己比一条鼻滴虫强多少，不过是主教收来领导大教堂教徒那些废物的傀儡而已。啊，是的。他，也会被浸泡在病毒槽里，他或许会死得很惨……我希望如此。}
 
-#{1108}{LIEUT57}{The ＦＥＶ virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
-{1108}{LIEUT57}{ＦＥＶ病毒是主教数年前发明的。是它让我们成为获选者。不过，我敢保证，你很快就会认识到那一点。}
+#{1108}{LIEUT57}{The FEV virus was discovered by the Master many years ago.  It is what makes us the Chosen Ones.  But you will soon learn that, I assure you.}
+{1108}{LIEUT57}{FEV病毒是主教数年前发明的。是它让我们成为获选者。不过，我敢保证，你很快就会认识到那一点。}
 #{1109}{LIEUT65}{That question is irrelevant to the Unity.}
 {1109}{LIEUT65}{那个问题与“同一”无关。}
 

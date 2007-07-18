@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 # {100}{}{Before you is a Mach IV Computer.}
-{100}{}{在你前面的是一部马赫ＩＶ型计算机。}
+{100}{}{在你前面的是一部马赫IV型计算机。}
 
 # {101}{}{It seems as though the system is in a reboot status.}
 {101}{}{看上去它好像处于重新启动状态。}
