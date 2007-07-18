@@ -9,7 +9,7 @@
 #gentlefolk about seem rude. As Dharma said, 'Tough
 #times tan the human hide.' Your business in Shady
 #Sands might be?}
-{101}{Ara_1g}{你好，旅行者。这里的居民们或许有点粗鲁，请不要生气。达玛说：“乱世能让人坚强。”你来沙荫镇有何贵干？}
+{101}{Ara_1g}{你好，旅行者。这里的居民们或许有点粗鲁，但不要生气。达玛说：“乱世能让人坚强。”你来沙荫镇有何贵干？}
 
 #{102}{Ara_1n}{Greetings. Your business in Shady Sands might be?}
 {102}{Ara_1n}{你好。你来沙荫镇有何贵干？}
@@ -20,10 +20,10 @@
 
 #{104}{}{I'm from a small village west of here. I'm just
 #exploring and mean you no harm.}
-{104}{}{我来自于这里西面的一个小村子。我只是在探险，并无恶意。}
+{104}{}{我从西面的一个小村子来。我只是在探险，没有恶意。}
 
 #{105}{}{What's it to you?}
-{105}{}{与你何干？}
+{105}{}{关你什么事？}
 
 #{106}{}{My reasons are mine to keep.}
 {106}{}{我保留我的理由。}
@@ -31,7 +31,7 @@
 #{107}{}{I'm from a Vault to the west. My people are dying
 #of thirst and I need to find a water purifier chip
 #for them to survive.}
-{107}{}{我来自西面的一个避难所。我的人民正受到缺水的死亡威胁，我要找一个净水芯片让他们能活下去。}
+{107}{}{我从西面的一个避难所来。我的人正受到颗缺水渴死的危险，我要找一个净水芯片让他们能活下去。}
 
 #{108}{}{I'm saving an entire people from destruction!}
 {108}{}{我正在救民于水火！}
@@ -89,7 +89,7 @@
 {123}{}{我不必告诉你任何事情。}
 
 #{124}{}{I mean you no harm, really.}
-{124}{}{我对你无恶意，真的。}
+{124}{}{我对你没有恶意，真的。}
 
 #{125}{}{Don't worry, I'm leaving.}
 {125}{}{别担心，我就走。}
@@ -454,7 +454,7 @@
 {232}{}{好吧。谁可能把她带走？}
 
 #{233}{}{I'll do it . . . for a fee.}
-{233}{}{我能帮你的忙……不过是有偿的。}
+{233}{}{我能帮你的忙……不过你要出点血。}
 
 #{234}{}{I am sorry, but I have other things I have to do.}
 {234}{}{我很抱歉，不过我还有别的该去做的事。}
@@ -463,7 +463,7 @@
 # responsible - retribution for our resistance to
 # them. Take this spear. It was found where my daughter
 # was last seen.}
-{235}{Ara_40}{赛思和我相信是其中一派歹徒干的——是对我们的抵抗的报复。拿上这把矛。这是我在女儿失踪的地方找到的。}
+{235}{Ara_40}{赛思和我相信是其中一伙强盗干的——为了报复我们的抵抗。拿上这把矛。这是我在女儿失踪的地方找到的。}
 
 #{236}{}{Okay, I'll check it out.}
 {236}{}{好的，我会去查查。}
@@ -537,7 +537,7 @@
 #{255}{Ara_53}{A wonderful woman. She just celebrated her sixtieth
 # birthday! She spends much time with Razlo, talking his
 # ear off with her veritable treasure trove of stories.}
-{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当成宝了。}
+{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的１６岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当宝了。}
 
 #{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
 # that we know of. They call themselves the Vipers and
@@ -547,12 +547,12 @@
 #{257}{Ara_55}{Be very careful with such as these. Raiders who are
 # fanatically  religious can be quite dangerous. No one
 # here knows of their base.}
-{257}{Ara_55}{对这些人要尤其小心。那些狂热迷信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
+{257}{Ara_55}{对这些人要尤其小心。那些狂信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
 
 #{258}{Ara_56}{Umm, yes, yes. The Khans are nastier then the Vipers,
 # let me tell you. These barbarians attack from the
 # southeast.}
-{258}{Ara_56}{嗯啊，是的。要我说，那些可汗帮比毒蛇帮得更卑鄙。这些野蛮人都是从东南方向袭击的。}
+{258}{Ara_56}{嗯啊，是的。要我说，那些可汗帮比毒蛇帮得更卑鄙。这些野蛮人都是从东南方向进攻的。}
 
 #{259}{Ara_57}{Mean creatures, they are. Be careful of their tail.
 # Their poison can be lethal if not looked after.}

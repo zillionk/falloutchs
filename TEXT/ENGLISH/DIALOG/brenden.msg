@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a stern, young initiate with a book.}
-{100}{}{你看见一个拿着一本书表情严肃的年轻新兵。}
+{100}{}{你看见一个年轻新兵拿着一本书表情严肃。}
 #{101}{}{You see Initiate Brenden.}
 {101}{}{你看见新兵布兰顿。}
 #{102}{}{Good day. How may I be of assistance?}

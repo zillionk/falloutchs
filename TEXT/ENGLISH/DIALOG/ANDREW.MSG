@@ -36,11 +36,11 @@
 {110}{}{哦。}
 
 #{111}{}{You have a good day. And stay out of trouble.}
-{111}{}{你现在还可以。但别惹麻烦。}
+{111}{}{祝你愉快，而且不惹麻烦。}
 
 #{112}{}{Someone might leave something to help a prisoner escape. Or someone
 # might get locked inside, and stuck until we could get the keys.}
-{112}{}{有人或许会留些东西在这里帮助犯人逃跑。或是有些人会被锁在里面，而且会给关到我们能拿到钥匙为止。}
+{112}{}{有人也许会留些东西在这帮助犯人逃跑。也许也有人会被锁在里面，而且会给关到我们能拿到钥匙为止。}
 
 #{113}{}{Eergh!}
 {113}{}{呃！}

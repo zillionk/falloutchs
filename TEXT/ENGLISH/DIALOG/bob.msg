@@ -54,7 +54,7 @@
 #{125}{}{No sissy portions! Me want all iguana! Ugh!}
 {125}{}{别小家子气！我要所有的烤蜥蜴！噢！}
 #{126}{}{Hmm, smell good! Prime select make tummy happy!}
-{126}{}{呣, 闻起来不错！精选肉块吃得我很舒服！}
+{126}{}{呣, 闻起来不错！肉块吃得我很舒服！}
 #{127}{}{We don't serve that here. Anything else?}
 {127}{}{我们这里不卖那个。要点别的？}
 #{128}{}{Gimme an iguana on a stick.}
@@ -78,7 +78,7 @@
 #{137}{}{Nothing.}
 {137}{}{没什么。}
 #{138}{}{He was a mean son of a bitch and anyone who isn't glad he's dead is a damned liar. Can I take your order?}
-{138}{}{他是个婊子养的贱胚，如果他死了，没人会不高兴。你要来点什么？}
+{138}{}{他是个婊子养的杂种，如果他死了，没人会不高兴。你要来点什么？}
 #{139}{}{Gimme an iguana on a stick.}
 {139}{}{给我一串烤蜥蜴。}
 #{140}{}{Tell me a little about the water merchants.}
@@ -192,7 +192,7 @@
 #{194}{}{Thank you. Come again!}
 {194}{}{多谢光顾。下次再来！}
 #{195}{}{You must be new in town if you're asking me about the Water Merchants. Water is life. And you don't get much more powerful than life and death.}
-{195}{}{如果你会问我净水芯片的事，那你一定是刚到这城里。水就是生命，没有什么其他的东西能大过生死了。}
+{195}{}{如果你会问我净水芯片的事，那你一定是刚到这城里。水就是命，没有什么其他的东西能大过生死了。}
 #{196}{}{Gimme an iguana on a stick.}
 {196}{}{给我一串烤蜥蜴。}
 #{197}{}{I think we need to talk about Doc Morbid and some of your secret ingredients.}
@@ -222,4 +222,4 @@
 #{209}{}{No way! I ain't letting you screw me! Eat this!}
 {209}{}{决不！我不会让你敲诈我的！尝尝这个！}
 #{210}{}{I ain't going broke because of your scruples, but you are going to die from them! Eat this!}
-{210}{}{我才不会因为你的狗屁良心而把自己弄破产，而你却会为此送命！尝尝这个！}
+{210}{}{我才不会因为你的狗屁良心而把自己弄破产，不过你倒会送命！尝尝这个！}

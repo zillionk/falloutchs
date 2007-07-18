@@ -5,7 +5,7 @@
 {100}{}{你看见一具损坏了的能量装甲。}
 
 #{101}{}{You cannot use this until it is repaired.}
-{101}{}{直到它被修好前你不能使用这套装甲。}
+{101}{}{你不能使用这套装甲，除非你能修好它。}
 
 #{102}{}{It seems to be missing a part that you can't find.}
 {102}{}{它似乎缺少你没能找到的一个部件。}

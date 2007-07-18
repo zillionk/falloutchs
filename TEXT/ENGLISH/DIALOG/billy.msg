@@ -16,13 +16,13 @@
 #{106}{}{Ta.}
 {106}{}{切！}
 #{107}{}{Why would you want a brahmin? Do you have a caravan? Well, it doesn't matter. I only take care of them. Dan is the one that owns them; he won't sell them though.}
-{107}{}{你为什么想要双头牛？你有一部货车吗？算了，这都无所谓。我只是看牛的。丹才是主人；不过他是不会卖的。}
+{107}{}{你为什么想要双头牛？你有货车吗？算了，这都无所谓。我只是看牛的。丹才是主人；不过他是不会卖的。}
 #{108}{}{Why?}
 {108}{}{为什么？}
 #{109}{}{I was just kidding.}
 {109}{}{我只是开个玩笑而已。}
 #{110}{}{Cuz of all the missing caravans. He doesn't have any to spare, the caravans use most of them. The others are sold for food. Well, I better stop talking; Dan will get mad if he sees me talking to a stranger.}
-{110}{}{是由于那些失踪的商队。他没多少可给了，大部分被商队用了。其余的卖了换食物了。算了，我还是不说了；要是丹看到我和陌生人说话，他会气疯的。}
+{110}{}{是因为那些失踪的商队。他没多少可卖了，大部分被商队用了。其余的卖了换了粮食。算了，我还是不说了；要是丹看到我和陌生人说话，他会气疯的。}
 #{111}{}{Oh, okay.}
 {111}{}{喔，好的。}
 #{112}{}{Nothing . . . I mean, I'm taking care of the brahmin.}
@@ -32,7 +32,7 @@
 #{114}{}{What's a brahmin?}
 {114}{}{双头牛是什么？}
 #{115}{}{What's a brahmin? You must be joking. Why they're one of the major food sources and forms of transportation around here. They haul the caravans. Dan says this is a really important job, but it's the Bone.}
-{115}{}{双头牛是什么？你在开玩笑吧。它们是这里主要的食物来源和运输方法。它们拖运货车。丹说这是真正重要的工作，不过没什么油水。}
+{115}{}{双头牛是什么？你在开玩笑吧。我们吃喝运货就靠它。它们还能拖货车。丹说这是真正重要的工作，不过没什么油水。}
 #{117}{}{Dan's right. You are doing a great job.}
 {117}{}{丹说得对。你是在做一件重要的工作。}
 #{118}{}{Yea, it looks that way. Have fun.}
@@ -64,7 +64,7 @@
 #{131}{}{Stop that!}
 {131}{}{停下来！}
 #{132}{}{Dangerous? No, not really. They can give you a really nasty bite, but they're pretty cool. They fart and burp a lot. I don't know why.}
-{132}{}{危险？不，其实没什么危险。它们会给你来上一大口，不过它们挺酷的。它们经常又放屁又打嗝，我也不知道为什么。}
+{132}{}{危险？不，其实没什么危险。它们会给你来上一大口，不过它们挺酷的，经常又放屁又打嗝，我也不知道为什么。}
 {133}{}{那这根矛用来干什么？}
 #{134}{}{Okay, thanks.}
 {134}{}{好了，谢谢。}
@@ -129,7 +129,7 @@
 #{164}{}{I'm going to be an adventurer when I grow up.}
 {164}{}{我长大以后要当一个冒险家。}
 #{165}{}{Really? Oh, okay. I hope you didn't hurt him. He's really not so bad. He just yells a lot.}
-{165}{}{真的？哦，好吧。我希望你没伤着他。他其实并不坏。他只是吼叫得太多了。}
+{165}{}{真的？哦，好吧。我希望你没伤着他。他其实并不坏。他只是吼得太多了。}
 #{166}{}{Hello again.}
 {166}{}{你好。}
 #{167}{}{What is it you do again?}
