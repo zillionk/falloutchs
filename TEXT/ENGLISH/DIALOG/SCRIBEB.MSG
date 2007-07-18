@@ -36,7 +36,7 @@
 # there won't be any more space travel until long after I'm dead.}
  {113}{}{你可知道黑洞事实上是一个通向另一个宇宙的开口？我在纸上已经将它全演算出来了。糟糕的是直到我死后很长时间都不会有任何的空间旅行。}
 #{114}{}{Did you know that the hydrogen atom is 99.9843425% empty space?}
-{114}{}{你可知道氢原子中99．9843425％是空的？}
+{114}{}{你可知道氢原子中99．9843425%是空的？}
 #{115}{}{Time travel will one day be possible and we might be able to
 # prevent the disaster that ruined our world in the past. But
 # wouldn't that . . . stop us from going back if it was fixed . . .

@@ -108,5 +108,5 @@
 {301}{}{你得到了}
 
 #{302}{}{ experience points for releasing prisoners from misery.}
-{302}{}{经验值，因为你把囚犯从痛苦中解救出来。}
+{302}{}{点经验值，因为你把囚犯从痛苦中解救出来。}
 

@@ -87,4 +87,4 @@
 
 #{126}{}{You gain 250 for assisting the star-crossed lovers with the delivery of
 # Romero's locket to Julianna.}
-{126}{}{你帮助罗梅罗把盒子送给茱莉亚娜，成全了一对坎坷爱人，你获得25点经验值。}
+{126}{}{你帮助罗梅罗把盒子送给茱莉亚娜，成全了一对坎坷爱人，你获得250点经验值。}

@@ -42,7 +42,7 @@
 #{119}{}{Razor's the woman you'll want to talk to.}
 {119}{}{你该和剃刀那女人谈谈。}
 #{120}{}{I am the dumbest person I've ever met - well, besides you. Get out of here!}
-{120}{}{我是这世上最蠢的人---当然，除了你。滚出去！}
+{120}{}{我是这世上最蠢的人——当然，除了你。滚出去！}
 #{121}{}{I need another Nuka-Cola!}
 {121}{}{我需要另一瓶核子可乐！}
 #{122}{}{Where'd my hair go!}

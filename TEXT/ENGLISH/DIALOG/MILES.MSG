@@ -79,7 +79,7 @@
 #{130}{}{Sure, I appreciate you finding them for us.}
 {130}{}{好，非常感谢你替我们找到它们。}
 #{131}{}{And . . .}
-{131}{}{还有。。。}
+{131}{}{还有……}
 #{132}{}{Not a problem.}
 {132}{}{没问题。}
 #{133}{}{Oh. I almost forgot. Here is some stuff, for your trouble.

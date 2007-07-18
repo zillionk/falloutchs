@@ -126,7 +126,7 @@
 #male units and two female units. All individuals suffering from FEV exposure.
 #Vital signs are within normal parameters. FEV process on all subjects is
 #approxiamtely 50% complete. Expect full FEV transformation within 12 hours.}
-{143}{}{患者当前情况如下：FEV病毒批次＃23872－A包括四名男性感染者和两名女性感染者。所有个体受到FEV病毒的感染。生命体征在正常范围内。每个对象体内FEV病毒进程大约50％。预计12小时内FEV病毒转化全部完成。}
+{143}{}{患者当前情况如下：FEV病毒批次＃23872－A包括四名男性感染者和两名女性感染者。所有个体受到FEV病毒的感染。生命体征在正常范围内。每个对象体内FEV病毒进程大约50%。预计12小时内FEV病毒转化全部完成。}
 
 #{144}{}{I think something is happening to one of the patients. Is there anything
 #I can do?}
@@ -145,7 +145,7 @@
 {148}{}{关闭生命维持系统。}
 
 #{149}{}{Increase dosage of original DNA strands of subjects to 100%.}
-{149}{}{增大对象的原始DNA链剂量比例至100％}
+{149}{}{增大对象的原始DNA链剂量比例至100%}
 
 #{150}{}{Log off.}
 {150}{}{退出登录。}
@@ -176,7 +176,7 @@
 {158}{}{终止FEV病毒批次＃23872－A的生命维持系统。}
 
 #{159}{}{Increase original DNA strand dosage to 100% on all subjects.}
-{159}{}{增大所有对象的原始DNA链剂量比例至100％}
+{159}{}{增大所有对象的原始DNA链剂量比例至100%}
 
 #{160}{}{Access granted. Which patient file would you like to examine?}
 {160}{}{允许访问。你想检查哪位患者的档案？}
@@ -196,7 +196,7 @@
 #{165}{}{Patient file #23869. Subject: Male. Age 25. Radiation count: 40. FEV exposure:
 #50%. Original DNA strands remaining: 50%. Vital signs are high but within normal
 #parameters.}
-{165}{}{患者档案 ＃23869。对象：男。年龄25。辐射计数：40。FEV病毒感染：50％。原始DNA链残留：50％。生命体征较高但在正常范围内。}
+{165}{}{患者档案 ＃23869。对象：男。年龄25。辐射计数：40。FEV病毒感染：50%。原始DNA链残留：50%。生命体征较高但在正常范围内。}
 
 #{166}{}{I would like to examine another patient file.}
 {166}{}{我要检查其他患者档案。}
@@ -204,17 +204,17 @@
 #{167}{}{Patient file #23870. Subject: Male. Age 23. Radiation count: 15. FEV
 #exposure: 60%. Original DNA strands remaining: 40%. Vital signs are within
 #normal parameters.}
-{167}{}{患者档案 ＃23870。对象：男。年龄23。辐射计数：15。FEV病毒感染：60％。原始DNA链残留：40％。生命体征在正常范围内。}
+{167}{}{患者档案 ＃23870。对象：男。年龄23。辐射计数：15。FEV病毒感染：60%。原始DNA链残留：40%。生命体征在正常范围内。}
 
 #{168}{}{Patient file #23781. Subject: Female. Age 20. Radiation count: 10. FEV
 #exposure: 55%. Original DNA strands remaining: 45%. Vital signs are within normal
 #parameters.}
-{168}{}{患者档案 ＃23871。对象：女。年龄20。辐射计数：10。FEV病毒感染：55％。原始DNA链残留：45％。生命体征在正常范围内。}
+{168}{}{患者档案 ＃23871。对象：女。年龄20。辐射计数：10。FEV病毒感染：55%。原始DNA链残留：45%。生命体征在正常范围内。}
 
 #{169}{}{Patient file #23782. Subject: Male. Age 26. Radiation count: 35. FEV
 #exposure: 60%. Original DNA strands remaining: 40%. Vital signs are above
 #normal but within acceptable parameters.}
-{169}{}{患者档案 ＃23872。对象：女。年龄26。辐射计数：35。FEV病毒感染：60％。原始DNA链残留：40％。生命体征较低但在正常范围内。}
+{169}{}{患者档案 ＃23872。对象：女。年龄26。辐射计数：35。FEV病毒感染：60%。原始DNA链残留：40%。生命体征较低但在正常范围内。}
 
 #{170}{}{Are you sure you wish to terminate the life support systems on FEV batch
 ##23872-A?}
@@ -235,7 +235,7 @@
 
 #{175}{}{Increasing dosage of original DNA to 100%. WARNING: Auto-correction has
 #been disabled.}
-{175}{}{增大所有对象的原始DNA链剂量比例至100％。警告：自动校正已被禁止。}
+{175}{}{增大所有对象的原始DNA链剂量比例至100%。警告：自动校正已被禁止。}
 
 #{176}{}{You manage to get an interface screen out of the vats control computer.}
 {176}{}{你进入了病毒槽控制计算机的一个控制界面。}
