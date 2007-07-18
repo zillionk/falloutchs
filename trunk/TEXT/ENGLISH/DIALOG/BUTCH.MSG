@@ -99,13 +99,13 @@
 #{149}{}{How do I find out about the Death Claw?}
 {149}{}{我怎么知道关于死亡爪的事？}
 #{150}{butch13a}{How do ya……Go talk to Beth, she knows more about that crap.}
-{150}{butch13a}{你怎么……去和贝斯谈谈，她对那东西知道很多。}
+{150}{butch13a}{你怎么……去和贝斯谈谈，她对那东西很了解。}
 #{151}{}{Yep, you're as scared as a whipped dog.}
-{151}{}{不错，你小子就像条被打怕了的癞狗。}
+{151}{}{哈，你小子就像条被打怕了的癞狗。}
 #{152}{}{I'll go check it out.}
 {152}{}{我去查清楚。}
 #{153}{}{I need some more information.}
-{153}{}{我需要更多的信息。}
+{153}{}{我需要更多的消息。}
 #{154}{BUTCH14}{Listen you, I ain't scared. I'm……cautious. You'd be stupid not to be, with the Death Claw. Go talk to Beth, she'll tell ya more.}
 {154}{BUTCH14}{听着，我不是害怕。我是……小心。对于死亡爪，你不小心点，你就是个蠢粪蛋子。去和贝斯谈谈，她会告诉你更多的情况。}
 #{155}{}{You sound as scared as a whipped dog.}
@@ -367,7 +367,7 @@
 #{280}{BUTCH72}{Listen, I ain't gonna say it again!}
 {280}{BUTCH72}{听着，我不会再说了！}
 #{281}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
-{281}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，我很实在的。}
+{281}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，就像我。}
 #{282}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
 {282}{BUTCH74}{哦，不。哦，不，我们不谈这个。}
 #{283}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
@@ -391,7 +391,7 @@
 #{292}{BUTCH84}{That's me. You blind or something?}
 {292}{BUTCH84}{那就是我。你是瞎了还是怎么了？}
 #{293}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
-{293}{BUTCH85}{喔。贝斯是武器店的老板。如果你喜欢听传言，她知道许多这类东西。}
+{293}{BUTCH85}{喔。贝斯是武器店的老板。如果你喜欢听各种留言，她知道很多。}
 #{294}{BUTCH86}{Rutger's my assistant.}
 {294}{BUTCH86}{罗格尔是我的副手。}
 #{295}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
@@ -576,7 +576,7 @@
 #{1111}{BUTCH84}{That's me. You blind or something?}
 {1111}{BUTCH84}{那就是我。你是瞎了还是怎么了？}
 #{1112}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
-{1112}{BUTCH85}{喔。贝斯是武器店的老板。她知道许多传言，如果你要这类东西的话。}
+{1112}{BUTCH85}{喔。贝斯是武器店的老板。她知道许多流言，如果你要这类东西，就去找她。}
 #{1113}{BUTCH86}{Rutger's my assistant.}
 {1113}{BUTCH86}{罗格尔是我的副手。}
 #{1114}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}

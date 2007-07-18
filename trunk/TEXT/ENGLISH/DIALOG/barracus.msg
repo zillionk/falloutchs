@@ -14,17 +14,17 @@
 #{105}{}{【More】}
 {105}{}{【更多】}
 #{106}{}{Sorry man, but you passed the point of no return with us. Time to slam off!}
-{106}{}{对不起老兄，但你跟我们走上了一条不归路。该走了！}
+{106}{}{抱歉哥们儿，上了我们的船就没回头路了。该走了！}
 #{107}{}{Sorry woman, but you passed the point of no return with us. Time to slam off!}
-{107}{}{对不起女士，但你跟我们走上了一条不归路。该走了！}
+{107}{}{抱歉姐们儿，上了我们的船就没回头路了。该走了！}
 #{108}{}{Why would I want to talk with someone who goes around killing kids? Get out of my face!}
 {108}{}{我为什么要和到处杀小孩的人说话？从我面前消失！}
 #{109}{}{I hear you're pretty tough. But tough don't impress Ton. You got something to say or you wanna get it on? Let's do it!}
 {109}{}{我听说你很强。但那打动不了唐。你是有话要说还是就开始？快点！}
 #{110}{}{Peace, brother! I'm just checking the place out.}
-{110}{}{和平，兄弟！我只是查看一下这地方。}
+{110}{}{安静，兄弟！我只是查看一下这地方。}
 #{111}{}{I'm not interested in impressing you. You got something intelligent to say, say it!}
-{111}{}{我对如何引起你注意毫无兴趣。你有什么事要说，快说！}
+{111}{}{我对怎么引起你注意不感兴趣。你有什么事要说，快说！}
 #{112}{}{Get it on? Mister, I don't go for scrawny little boys.}
 {112}{}{开始？先生，我不是为了这些瘦孩子而来的。}
 #{113}{}{What do you want?}
@@ -32,7 +32,7 @@
 #{114}{}{You talk too much.}
 {114}{}{你话太多了。}
 #{115}{}{You wanna die, and I wanna kill someone. Works for me.}
-{115}{}{你想找死，而我想杀人。替我干吧。}
+{115}{}{你想找死，我想杀人。替我干吧。}
 #{116}{}{Waa!}
 {116}{}{哇！}
 #{117}{}{Man, I already talked to you! Take your shit somewhere else!}
@@ -42,11 +42,11 @@
 #{119}{}{girl}
 {119}{}{女孩}
 #{120}{}{Hey, you think your weapon's gonna earn you some 'spect? It's gonna earn you a grave, man. Put it away.}
-{120}{}{嗨，你觉得你的武器会给你赢来尊敬？它只会给你赢来一座坟墓，老兄。把它拿开。}
+{120}{}{嗨，你觉得武器会让你出人头地？它只会让你踏进棺材，老兄。把它拿开。}
 #{121}{}{Hey, you think your weapon's gonna earn you some 'spect? It's gonna earn you a grave, girl. Put it away.}
-{121}{}{嗨，你觉得你的武器会给你赢来尊敬？它只会给你赢来一座坟墓，女士。把它拿开。}
+{121}{}{嗨，你觉得武器会让你出人头地？它只会让你踏进棺材，姑娘。把它拿开。}
 #{122}{}{What do you want, you stupid zombie? Get outta my face before I break it.}
-{122}{}{你想要什么，你这蠢货？从我面前消失，不然我打烂了你。}
+{122}{}{你想要什么，你这蠢货？从我面前消失，不然我打烂你。}
 #{123}{}{I was looking for someone smart enough to tell me what's really going on around this joint!}
 {123}{}{我在找一个够聪明的人，能告诉我这里究竟发生了什么！}
 #{124}{}{What will the priests say if they hear you talking like this?}
@@ -56,7 +56,7 @@
 #{126}{}{Hey, what's the problem? A few drinks and we'll be buds!}
 {126}{}{嗨，有什么问题？来点喝的，我们交个朋友！}
 #{127}{}{Did you know that even a child can apply enough pressure to the right spot in your kneecap to cripple you for life? Just thought you'd want to know.}
-{127}{}{你知不知道，只要在你膝盖的某个准确部位用点力，就是一个小孩也能让你一辈子都成瘸子？你可能想知道这点吧。}
+{127}{}{你知不知道，只要在你膝盖的某点准确的用点力，一个小孩也能让你一辈子成瘸子？你可能想知道这点吧。}
 #{128}{}{You wanna talk to Ton? Fine. But if I hear the word "praise," I'll kill you.}
 {128}{}{你想和唐说话？好吧。不过如果我听到了“赞美”这个词，我会杀了你。}
 #{129}{}{You're not a big fan of worship services?}
@@ -70,7 +70,7 @@
 #{133}{}{Fine. The first one of us who says that word dies. Bargain?}
 {133}{}{好吧。我们中谁先说那个词的就得死。怎么样？}
 #{134}{}{Hello, miss. I am Ton, 2,000 pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.}
-{134}{}{你好，小姐。我是唐，主教的最强的战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
+{134}{}{你好，小姐。我是唐，主教的最强战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
 #{135}{}{No way in hell.}
 {135}{}{决不可能。}
 #{136}{}{That's a little too fast. Let's get to know each other first.}
@@ -80,7 +80,7 @@
 #{138}{}{Check it out somewhere else. Ton don't like your company.}
 {138}{}{去别的地方吧。唐不喜欢你陪着。}
 #{139}{}{Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.}
-{139}{}{好吧。你想开门见山？有时候杀人是必须的。有时候我甚至喜欢杀人。但是我听说你酷爱杀人……任何时候。每次我碰到一个疯子，不是他死，就是唐死。唐现在还活着。所以你还是去别的地方吧。}
+{139}{}{好吧。你想开门见山？有时候杀人是必须的。有时候我甚至喜欢杀人。但我听说你酷爱杀人……任何时候。每次我碰到一个疯子，不是他死，就是唐死。唐现在还活着。所以你还是去别的地方吧。}
 #{140}{}{Man, I could learn to like you. You're either an incredible asshole,or you got guts. Either way is fine with Ton, as long as you don't jam me up. You want to join up?}
 {140}{}{老兄，我可能会喜欢上你。你要不是个英雄，就是个混蛋。两样唐都喜欢，只要你不给我惹麻烦。你想加入我们吗？}
 #{141}{}{Whatever happened to peace and love?}
@@ -108,7 +108,7 @@
 #{152}{}{You're dead . . .}
 {152}{}{你去死……}
 #{153}{}{Shit! You're dumber than the zombies! Just get out of here!}
-{153}{}{操！你比僵尸还愚蠢！快滚吧！}
+{153}{}{操！你比僵尸还蠢！快滚吧！}
 #{154}{}{The Master wants peace, and he wants us to get it for him, so we're going to have fun. Capiche?}
 {154}{}{主教想要和平，他要我们为他取得和平，所以我们就有乐子找了。明白?}
 #{155}{}{Yeah, but there's got to be more going on than just that.}
@@ -150,9 +150,9 @@
 #{173}{}{I am losing it in this zombie pit, and I don't need you helping me. Get the hell away from me.}
 {173}{}{我在这里把它弄丢了，而我不需要你帮我。快走开。}
 #{174}{}{That's Morpheus. He stays upstairs, except to give sermons. He don't even do that much anymore. He's smart and he's a winner, and that's all that counts. Go see him for yourself.}
-{174}{}{那是墨菲斯。他除了布道，一直呆在楼上。他也不常布道。他很聪明，他是个成功者,这是最关键的。你自己去找他吧。}
+{174}{}{那是墨菲斯。他除了布道，一直呆在楼上。他也不常布道。他很聪明，他是个成功者,这才最关键。你自己去找他吧。}
 #{175}{}{You need to go out into the Boneyard, pal. Ain't no slosh in here, and I've looked!}
-{175}{}{你得去晒骨场，朋友。这里没有，我已经看过了！}
+{175}{}{你得去曝骨场，朋友。这里没有，我已经看过了！}
 #{176}{}{Agree. What can Ton do for you?}
 {176}{}{同意。唐能为你做什么？}
 #{177}{}{Bitch! You don't know what you're missing! Get out!}

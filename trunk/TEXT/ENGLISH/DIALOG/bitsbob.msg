@@ -44,7 +44,7 @@
 #{120}{}{You are?  Well, Ok...}
 {120}{}{你是？嗯，好吧...}
 #{121}{}{He's a mean son of a bitch.  You don't want to mess with him.  Anything else?}
-{121}{}{他是个婊子养的贱胚。你可不要惹祸上身。还要什么？}
+{121}{}{他是个婊子养的杂种。你可不要惹祸上身。还要什么？}
 #{122}{}{Fine.  What do you want me to pay?}
 {122}{}{好吧，你想要我付多少？}
 #{123}{}{I want }
@@ -96,7 +96,7 @@
 #{146}{}{No sissy portions!  Me want all iguana!  Ugh!}
 {146}{}{别小家子气了！我要所有的烤蜥蜴！噢！}
 #{147}{}{Hmm, smell good!  Me want prime!}
-{147}{}{呣, 闻来好！偶要精花的！}
+{147}{}{呣, 闻来好！偶要精选的！}
 #{148}{}{Never seen any of them around here.  Water Merchants don't need 'em.}
 {148}{}{这里从没见过这种东西。纯水商队不会需要它们的。}
 #{149}{}{Water Merchants?}
@@ -144,7 +144,7 @@
 #{170}{}{One whole iguana coming up!  Anything else?}
 {170}{}{一份烤整蜥蜴来了！还要别的吗？}
 #{171}{}{You know what they're made from and you still want one?  You make Decker look like a charity worker!  Anything else?}
-{171}{}{你知道了它们是用什么做的你还想要一份？跟你这个变态比起来，德克简直就像个大学生志愿者了！还想要什么？}
+{171}{}{你知道了它们是用什么做的你还想要一份？跟你这个变态比起来，德克简直就像个义务志愿者了！还想要什么？}
 #{172}{}{I don't like your attitude.}
 {172}{}{我不喜欢你的态度。}
 #{173}{}{Sorry, you can't afford it.}
@@ -162,13 +162,13 @@
 #{179}{}{No, I'm not.  And I want a piece of the action.}
 {179}{}{不，不是。我是要你意思一下。}
 #{180}{}{You must be new in town if you're asking me about the Water Merchants.  Water is life, and you don't get much more powerful than life and death.}
-{180}{}{如果你会问我纯水商队的事，那你一定是刚到这城里。水是生命，没有什么事情比生死还大。}
+{180}{}{如果你会问我纯水商队的事，那你一定是刚进城的。水就是命，没有什么事情比生死还大。}
 #{181}{}{Who's in charge of the Water Merchants?}
 {181}{}{谁是纯水商队的头儿？}
 #{182}{}{If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it.  Anything else?}
-{182}{}{在哈勃城，如果有什么事情牵扯到不幸和痛苦，那么即使不是德克干的，也是他琢磨着想干的。你还要什么？}
+{182}{}{在哈勃，如果有什么事情牵扯到不幸和痛苦，那么即使不是德克干的，也是他琢磨着想干的。你还要什么？}
 #{183}{}{I don't know what you're talking about, and I don't appreciate your slander!  I suggest you don't show your face in here again.}
-{183}{}{我不知道你在说什么，我也不喜欢你的诬蔑！我希望你不要再来了}
+{183}{}{我不知道你在说什么，也不喜欢你的诬蔑！希望你不要再来了}
 #{184}{}{Don't do that!  Fine, I've been using some questionable portions.  But it's not like I'm committing murder.  Doc Morbid's stuff is already dead, isn't it?}
 {184}{}{不要那样做！好吧，我是用了一些可疑的配料。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{185}{}{I'm sure it is, Bob.  Have a nice day...}

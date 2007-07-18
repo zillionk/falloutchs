@@ -24,7 +24,7 @@
 
 #{107}{}{This is Junktown. Nice place to live, as long as you stay on
 # our good side.}
-{107}{}{这里是迦克镇。居住的好地方，只要你别干坏事。}
+{107}{}{这里是迦克镇。落脚的好地方，只要你别干坏事。}
 
 #{108}{}{Watch out for Gizmo and his cronies.}
 {108}{}{小心吉斯莫和他的走狗。}
@@ -62,7 +62,7 @@
 # Put your weapon away. Don't draw it unless in self-defense and
 # you won't have a problem with us guards. Disobey the law and we
 # will return you to the lawless wasteland--dead or alive.}
-{118}{}{你最好规矩点，既然这里有法律，并且我执法。把你的武器收起来。除非你需要自卫，不然不要拿出你的武器，这样你就不会与我们守卫有什么麻烦。不服从法律的，我们会送你回到无法律的废土上——无论生死。}
+{118}{}{你最好规矩点，既然这里有法律，并且我执法。把你的武器收起来。除非你要自卫，不然不要拿出你的武器，这样你就不会与我们守卫有什么麻烦。不服从法律的，我们会送你回到无法律的废土上——无论生死。}
 
 #{119}{}{Sure, since you put it that way.}
 {119}{}{好吧，既然你照做了。}
@@ -139,7 +139,7 @@
 # strangers like you. And this place is called Junktown. Hey, don't laugh.
 # I happen to like the name myself. We mostly do trading. Sometimes we trade
 # with those stuck up bastards from Hub. Hey, you're not from the Hub are you?}
-{141}{}{我看起来像什么？我是一个守卫，而且我就是专门留意你这类外来者的。这里是一个叫迦克镇的地方。嘿，别笑。我恰好喜欢这个名字。我们主要是做贸易的。有些时候我们和从哈勃城来的那些混蛋商人交易。嘿，你不是从哈勃城来的吧？}
+{141}{}{我看起来像什么？我是一个守卫，而且我就是专门留意你这类外人的。这里是一个叫迦克镇的地方。嘿，别笑。我恰好喜欢这个名字。我们主要是做贸易的。有些时候我们和从哈勃城来的那些混蛋商人交易。嘿，你不是从哈勃城来的吧？}
 
 #{142}{}{What? The Hub? Sure I am!}
 {142}{}{什么？哈勃城？我当然是！}
