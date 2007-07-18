@@ -364,7 +364,7 @@
 {216}{LOX_42}{啊，和往常一样。商队靠骗穷人的钱越来越富，恶棍德克挑拨各派互殴从中得利。}
 
 #{217}{LOX_43}{Well, you've got the usual numbers of shops and things.  Mix in some Children of the Cathedral nut cases.  Add a dollop of Decker and his underground making life hard for us all.  Top it with a sprinkle of greedy merchants and that will jus#t about cover it.}
-{217}{LOX_43}{嗯，商店和铺子已经不少了，大教堂教徒还尽来添乱，外加德克帮和他的地下组织让，全城人的日子都不爽。最操蛋的就是那些奸商，这就是大概情况吧。}
+{217}{LOX_43}{嗯，商店和铺子已经不少了，大教堂教徒还尽来添乱，外加德克帮和他的地下组织让全城人的日子都不爽。最操蛋的就是那些奸商，这就是大概情况吧。}
 
 #{218}{}{Merchants are pretty much scum, huh?}
 {218}{}{商人就是一堆极品杂碎，对吧？}
