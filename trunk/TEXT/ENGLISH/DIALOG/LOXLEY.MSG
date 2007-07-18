@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－晒骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。◎}
+{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－晒骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。}
 #上述表述字面不准的，乃刻意为之，必有深意，切勿修改。
 
 
@@ -394,7 +394,7 @@
 {226}{LOX_51}{除了失踪商队的事，没什么了。啊，等下。我有个兄弟昨天全身放光的带着辐射回来了。真恶心。可能是和辐射点离得太近了。}
 
 #{227}{LOX_53}{We steal from the rich, plain and simple.  We give about, oh, ten to twenty percent to the poor folks over in Old Town.  The Circle keeps twenty, which leaves the rest for the thief.  Not a bad deal all round.}
-{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，10％到20％分给旧城区的穷人。组织保留20％，其余留给那个盗贼。还算公平合理。}
+{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，10%到20%分给旧城区的穷人。组织保留20%，其余留给那个盗贼。还算公平合理。}
 
 #{228}{LOX_54}{We're a bunch of crooks!  What did you think we were, a bunch of cooks?}
 {228}{LOX_54}{我们是骗子！你认为我们是什么？厨子？}

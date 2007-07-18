@@ -49,7 +49,7 @@
 
 #{113}{}{Well m' specialty is fightin with my fists, and takin a punch or two more than 
 #the guy throwin 'em at me.}
-{113}{}{嗯。。。我拿手的是空手格斗，在对方出拳打我之前，我可以更快的打出一两拳。}
+{113}{}{嗯……我拿手的是空手格斗，在对方出拳打我之前，我可以更快的打出一两拳。}
 
 #{114}{}{Sounds like a dumb idea, I'd rather use a gun.}
 {114}{}{听起来像是个白痴想法,我宁可用枪。}
@@ -116,7 +116,7 @@
 
 #{133}{}{Well it's been a wee bit quiet since the Blades helped out Adytum with the Regulators.  Me 
 #teaching services haven't been in such demand.}
-{133}{}{嗯。。。自从利刃帮帮助内城对抗那些管理者以后，这地区就稍微安宁了些。我所能提供的帮助也不是那么炙手可热了。}
+{133}{}{嗯……自从利刃帮帮助内城对抗那些管理者以后，这地区就稍微安宁了些。我所能提供的帮助也不是那么炙手可热了。}
 
 #{134}{}{What do you teach?}
 {134}{}{你都教些什么？}
@@ -140,7 +140,7 @@
 #{140}{}{Well I used to be helpin the Blades out by teachin them a few things about protectin themselves 
 #against the DeathClaws and the Regulators.  Now with you takin care of all that, things have been a wee 
 #bit on the boring side lately.}
-{140}{}{嗯。。。我过去一直对利刃帮传授经验以便他们能对抗死亡爪和管理者。现在由于你搞定了那些麻烦，我最近的生活开始变得有那么一点点无聊了。}
+{140}{}{嗯……我过去一直对利刃帮传授经验以便他们能对抗死亡爪和管理者。现在由于你搞定了那些麻烦，我最近的生活开始变得有那么一点点无聊了。}
 
 #{141}{}{Good seein ya.}
 {141}{}{见到你很高兴。}

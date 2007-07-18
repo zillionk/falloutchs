@@ -282,7 +282,7 @@ only one we've hired so, it's ok.}
 {187}{}{猜想是不够的，我们需要证明。 }
 
 #{188}{}{Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.}
-{188}{}{贝斯就在外面右边的门里，她经营着我们的武器店，告诉她你为我们工作，你可以得到15％的折扣。 }
+{188}{}{贝斯就在外面右边的门里，她经营着我们的武器店，告诉她你为我们工作，你可以得到15%的折扣。 }
 
 #{189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's 
 supposed to be. Just stick with reality, and you'll be fine.}

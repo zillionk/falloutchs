@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{马克松可以告诉你：Brotherhood－兄弟会、Mathia－玛蒂雅、Cabbot－卡波特、Vree－弗蕾、Library－图书馆、Rhombus－隆勃斯、Elder－最高元老、Elders－元老、Initiates－新兵、Scribes－研究员、Knights－骑士、Paladins－游侠、Hub－哈勃、Butch－布奇、Traders－远足商会、Merchants－水商队、Disks－磁碟、Player－读碟机、Roger－罗杰、Exodus－大迁徙、Army－军队、Cathedral－大教堂、Angel's－洛杉矶、Gangs－帮派、Adytum－内城区、Claw－死亡爪、Harris－哈里斯、Maxson－马克松、Angels－洛杉矶、Boneyard－晒骨场、Master－主教、War－大战、Caravans－远足商队、Chip－芯片。◎}
+{1199}{}{马克松可以告诉你：Brotherhood－兄弟会、Mathia－玛蒂雅、Cabbot－卡波特、Vree－弗蕾、Library－图书馆、Rhombus－隆勃斯、Elder－最高元老、Elders－元老、Initiates－新兵、Scribes－研究员、Knights－骑士、Paladins－游侠、Hub－哈勃、Butch－布奇、Traders－远足商会、Merchants－水商队、Disks－磁碟、Player－读碟机、Roger－罗杰、Exodus－大迁徙、Army－军队、Cathedral－大教堂、Angel's－洛杉矶、Gangs－帮派、Adytum－内城区、Claw－死亡爪、Harris－哈里斯、Maxson－马克松、Angels－洛杉矶、Boneyard－晒骨场、Master－主教、War－大战、Caravans－远足商队、Chip－芯片。}
 
 
 # {100}{}{You see General Maxson.}

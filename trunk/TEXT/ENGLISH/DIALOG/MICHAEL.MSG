@@ -52,8 +52,8 @@
 #{116}{}{Oh，nothing quite as glorious as our Paladins。I just run the supply room，checking equipment and other supplies out to people。}
 {116}{}{哦，没有什么工作比得上我们的游侠光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
 
-#{117}{}{I was sent here by 。。。Bob。He wanted me to get him 。。。that new high tech weapon-thingy。He said to bring it right away。}
-{117}{}{派我到这里来的人是。。。鲍勃。他让我帮他取。。。那个新的高科技武器单元。让我马上拿过去。}
+#{117}{}{I was sent here by ……Bob。He wanted me to get him ……that new high tech weapon-thingy。He said to bring it right away。}
+{117}{}{派我到这里来的人是……鲍勃。他让我帮他取……那个新的高科技武器单元。让我马上拿过去。}
 
 #{118}{}{I'd like to check out something。How do I do that？}
 {118}{}{我想领些东西。该怎么做？}
@@ -65,7 +65,7 @@
 {120}{}{【说谎失败】鲍勃？鲍勃是谁？你说什么啊？什么新的高科技武器单元？我需要比这更详细的解释，任何时候你必须让那个人给我正确的授权书。没有授权书我不能给你任何东西。}
 
 #{121}{}{【Successful Lie】 Oh，you mean the laser pistol？Okay，hold on a second please。I don't have any authorization from a Bob to give anyone a laser。Oh，wait a second。I get it。Those girls downstairs think they are really funny don't they。I wish they would stop bothering me。}
-{121}{}{【说谎成功】哦，你是说镭射手枪吗？好的，等等。。。我没有从鲍勃那里得到给任何人一支镭射手枪的授权。哦，等一下。我明白了。楼下那些女孩以为她们真的很会搞笑，不是吗？我希望她们别要再骚扰我。}
+{121}{}{【说谎成功】哦，你是说镭射手枪吗？好的，等等……我没有从鲍勃那里得到给任何人一支镭射手枪的授权。哦，等一下。我明白了。楼下那些女孩以为她们真的很会搞笑，不是吗？我希望她们别要再骚扰我。}
 
 #{122}{}{Well，you know。They told me not to tell you，but it's just because they like you so much。I think one of them has a crush on you。}
 {122}{}{呃，被你猜到了。她们不让我告诉你，但那不过是因为她们很喜欢你。我想她们有人看上你了。}
@@ -408,7 +408,7 @@
 {231}{}{是的，我还要领些别的东西。}
 
 #{232}{}{Hmmm···Powered Armor。Be sure to take care of it。I can't give out more than one set。Was there another item you needed？}
-{232}{}{嗯。。。动力装甲。务必小心保养它。我就只能给你这一套。你还需要另外的物品吗？}
+{232}{}{嗯……动力装甲。务必小心保养它。我就只能给你这一套。你还需要另外的物品吗？}
 
 #{233}{}{No，that's it。Thanks。}
 {233}{}{不，就这样吧。谢谢。}

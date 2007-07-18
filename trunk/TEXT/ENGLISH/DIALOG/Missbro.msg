@@ -1,5 +1,5 @@
 +{1099}{}{?}
-+{1199}{}{这个人可以告诉你：Brotherhood－兄弟会、Steel－钢铁兄弟会、Talus－塔鲁斯。◎}
++{1199}{}{这个人可以告诉你：Brotherhood－兄弟会、Steel－钢铁兄弟会、Talus－塔鲁斯。}
 
 
 #{100}{}{You see a battered man.}

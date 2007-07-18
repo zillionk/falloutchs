@@ -23,7 +23,7 @@
 #{109}{}{I need help。}
 {109}{}{我需要帮助。}
 #{110}{}{Lol？}
-{110}{}{呵呵呵。。。【傻笑】}
+{110}{}{呵呵呵……【傻笑】}
 #{111}{}{Ah。 Yes。 Here， I found these。 Try them when you need a boost。}
 {111}{}{哦。这样啊。来这边儿，我找到了这些东西。当你需要干劲儿的时候就用它们吧。}
 #{112}{}{Good， keep up the good work。 And let me know if you need anything。}
@@ -104,7 +104,7 @@
 #{150}{}{ minutes。 It will be able to remove about }
 {150}{}{ 分钟。这将会去掉大约 }
 #{151}{}{ percent。 Do you want to start the process？}
-{151}{}{ ％。你希望开始医疗程序吗？}
+{151}{}{ %。你希望开始医疗程序吗？}
 #{152}{}{No。}
 {152}{}{不。}
 #{153}{}{Yes。}

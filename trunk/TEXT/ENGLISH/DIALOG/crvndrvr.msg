@@ -260,7 +260,7 @@
 {184}{}{28号}
 
 #{185}{}{. Let me know when you're ready to leave. It pays the standard 400 scripts.}
-{185}{}{，你想出发的时候跟我说，我会付你400个瓶盖。}
+{185}{}{。你想出发的时候跟我说，我会付你400个瓶盖。}
 
 #{186}{}{Sorry, but I already made a bad mistake about giving you a chance the last time you messed up.}
 {186}{}{抱歉，我上次已经给了你机会，后来被你搞砸了。我不会再犯这种错误了。}
@@ -282,7 +282,7 @@
 {191}{}{好，不见不散。}
 
 #{192}{}{Da.}
-{192}{}{那。}
+{192}{}{哒。}
 
 #{193}{}{Hi there.  You're early.  Quite early.  The next caravan doesn't leave until the }
 {193}{}{嗨，你来早了。太早了。下一趟商队要在这个时间才走：}
@@ -291,7 +291,7 @@
 {195}{}{18号}
 {196}{}{28号}
 #{197}{}{. Come back then if you're still interested.}
-{197}{}{如果你那时候还有兴趣再来。}
+{197}{}{。如果你那时候还有兴趣再来。}
 
 #{198}{}{I don't want the job.}
 {198}{}{我不干了。}
@@ -398,7 +398,7 @@
 {232}{}{他们在}
 
 #{233}{}{ days.}
-{233}{}{ 天后出发。}
+{233}{}{天后出发。}
 
 #{234}{}{Are you interested?}
 {234}{}{有兴趣吗？}
@@ -416,7 +416,7 @@
 {238}{}{他们在}
 
 #{239}{}{ days.}
-{239}{}{ 天后出发。}
+{239}{}{天后出发。}
 
 #{240}{}{I suppose you want a job.  I might give you one.  Are you interested?}
 {240}{}{我猜你在找工作。我可以给你一个。有兴趣吗？}
@@ -456,7 +456,7 @@
 
 {252}{}{8号}
 {253}{}{18号}
-{254}{}{28好}
+{254}{}{28号}
 #{255}{}{ and we'll get the crew together.}
 {255}{}{，我们再给你安排队员。}
 
