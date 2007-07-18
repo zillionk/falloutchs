@@ -54,7 +54,7 @@
 {116}{}{好的，在哪可以找到他们？}
 
 #{117}{}{Ok. Thanks for the info, bye.}
-{117}{}{ＯＫ。谢谢你的帮助，再见。}
+{117}{}{OK。谢谢你的帮助，再见。}
 
 #{118}{}{They are both on the first floor of the base.  Talus is usually in the training
 # room and Michael does his duty just outside of the storage room.}

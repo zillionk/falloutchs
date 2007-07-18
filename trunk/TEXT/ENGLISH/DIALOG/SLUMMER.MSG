@@ -392,7 +392,7 @@
 {230}{}{那么洗礼用的圣盘在哪里？}
 
 #{231}{}{That sounds like he's going to dump everybody in the FEV-2 Virus! }
-{231}{}{听起来似乎是说他要把所有人都扔进ＦＥＶ二代的大病毒槽里！}
+{231}{}{听起来似乎是说他要把所有人都扔进FEV二代的大病毒槽里！}
 
 #{232}{}{What a wonderful day that's going to be! }
 {232}{}{那真是超级棒的一天！}
@@ -689,7 +689,7 @@
 {329}{}{那么洗礼用的圣盘在哪里？}
 
 #{330}{}{That sounds like he's going to dump everybody in the FEV-2 Virus! }
-{330}{}{那听起来似乎是说他要把所有人都扔进ＦＥＶ－２的大病毒槽里！}
+{330}{}{那听起来似乎是说他要把所有人都扔进FEV－2的大病毒槽里！}
 
 #{331}{}{What a wonderful day that's going to be! }
 {331}{}{那真是超级棒的一天！}
@@ -737,7 +737,7 @@
 {345}{}{没错。我有一个很好的主意！让我们打开圣酒，为主教的睿智而痛饮一番吧！}
 
 #{346}{}{All the wisdom in the world won't help against a .56 caliber slug between the eyes. }
-{346}{}{在这世界上，任何圣贤都敌不过一颗能射进两眼中间的．５６口径子弹！}
+{346}{}{在这世界上，任何圣贤都敌不过一颗能射进两眼中间的．56口径子弹！}
 
 #{347}{}{We're forging a world that's better for everyone. That's all. I'm sorry if you don't understand yet. I pray that someone wiser than I can change your mind. Farewell, my friend. Praise the Master! Praise Peace and Unity! }
 {347}{}{我们在为所有的人创造一个更好的世界。那就是全部。我很遗憾你并没有理解。我祈祷会有更智慧的人能够改变你的主意。再见，我的朋友。赞美主教！赞美和平与“同一”！}

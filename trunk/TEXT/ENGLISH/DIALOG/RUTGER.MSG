@@ -107,7 +107,7 @@
 
 #{134}{}{You'd be surprised at what's in demand out there. Something that's taken for granted in one place may be a highly sought 
 after commodity in a settlement 10 miles away.}
-{134}{}{不用惊奇，对于这个地方看来一文不值的东西，或许在１０英里就是抢手货。 }
+{134}{}{不用惊奇，对于这个地方看来一文不值的东西，或许在10英里就是抢手货。 }
 
 #{135}{}{Ok, enough with the boring merchant chatter. Where's the door?}
 {135}{}{好吧，我对无聊商人的喋喋不休已经受够了。出去的门在哪儿？}
@@ -215,7 +215,7 @@ draw blood. At least, not in public.}
 #{167}{}{The job pays 500 Hubbucks when you can tell Butch exactly what has been happening to all of the caravans that have
 # disappeared recently. So, collect any proof you might find. I personally think it's those damn Water Merchants or those
 # gun freaks at the Brotherhood of Steel. Butch thinks it's some Claw of death or something. Check with Beth, she would know more about that.}
-{167}{}{如果你能把失踪的商队的情况调查清楚并且告诉布奇的话，我付你５００哈勃币。去吧，找到你能找到的证据。我个人认为这是那些水商或者那些兄弟会的军火贩子做的。布奇则认为是死亡爪那一类的东西弄的。你可以去和贝斯谈谈，她知道更多。 }
+{167}{}{如果你能把失踪的商队的情况调查清楚并且告诉布奇的话，我付你500哈勃币。去吧，找到你能找到的证据。我个人认为这是那些水商或者那些兄弟会的军火贩子做的。布奇则认为是死亡爪那一类的东西弄的。你可以去和贝斯谈谈，她知道更多。 }
 
 #{168}{}{Ok, but I don't know what you missed. There's not much to it.}
 {168}{}{好吧，但是我不知道你到底在找什么，你给的信息太少。}
@@ -282,7 +282,7 @@ only one we've hired so, it's ok.}
 {187}{}{猜想是不够的，我们需要证明。 }
 
 #{188}{}{Beth's right out that door and to the right. She runs our weapon shop. Tell her you're working for us, and you'll get a 15% discount.}
-{188}{}{贝斯就在外面右边的门里，她经营着我们的武器店，告诉她你为我们工作，你可以得到１５％的折扣。 }
+{188}{}{贝斯就在外面右边的门里，她经营着我们的武器店，告诉她你为我们工作，你可以得到15％的折扣。 }
 
 #{189}{}{Oh, yeah, Deathclaw, whatever. They're all crazy. It's just people's imagination getting carried away. There's no ghost or monster or whatever it's 
 supposed to be. Just stick with reality, and you'll be fine.}
@@ -376,7 +376,7 @@ and we'll wipe them out.}
 #{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's 
 see.厖Sorry, I didn't believe you. This does not bode well for the good guys. Well, here's your 500 H#ubbucks. Hell, make it 800, and thanks for the information! 
  If you need anymore work you will always be welcome.}
-{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆吧。好吧，这里是你的５００哈勃币。靠，加到８００吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
+{218}{}{嘿，我知道该如何使用这个。布奇很久以前从钢铁兄弟会搞到一些小玩意能读这些东西。让我们看看。真对不起，我不相信你。不会是不好的征兆吧。好吧，这里是你的500哈勃币。靠，加到800吧，感谢你的消息！如果你需要别的工作，欢迎你再来。}
 
 #{219}{}{Please, don't add to Butch's paranoia. He's a little bit touchy when it comes to the Deathclaw. Now tell me, did you actually find anything out? 
 Was it the Water Merchants?}
@@ -528,7 +528,7 @@ on hold. Thanks for asking though.}
 {267}{}{实际上，事情并没有太大的改善。那些变种人还在为我们带来麻烦。我们所有的商队都几乎不能正常经营了。}
 
 #{268}{}{Sure, we could use you in one of our caravans.  Do you do guard work? The pay抯 standard, 400 hubbucks. Interested?}
-{268}{}{当然，我们可以用你。你想做警卫工作吗？标准薪水，４００哈勃币。有兴趣吗?}
+{268}{}{当然，我们可以用你。你想做警卫工作吗？标准薪水，400哈勃币。有兴趣吗?}
 
 #{269}{}{Sure}
 {269}{}{当然}
@@ -556,7 +556,7 @@ our drivers will hire you.}
 {276}{}{当下次商队准备离开的时候，你只要和前门我们商队的领队说就可以了。只要你完成的好，我们的领队会给你付薪水的。}
 
 #{277}{}{I抣l give you one more chance. The pay抯 400 hubbucks.  Go talk to the caravan driver by the front door to see when the next one goes out.}
-{277}{}{我将给你另外一个机会。薪水４００哈勃币。 等下次出发的时候，去和前门的商队领队谈话。}
+{277}{}{我将给你另外一个机会。薪水400哈勃币。 等下次出发的时候，去和前门的商队领队谈话。}
 
 #{278}{}{I抦 sorry, but I抳e given you a chance.  I think you should leave.}
 {278}{}{对不起，我不能给你什么机会。我认为你应该离开。}

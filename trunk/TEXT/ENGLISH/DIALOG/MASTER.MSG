@@ -69,7 +69,7 @@
 #{134}{Mast10}{I'm not after the world, yet. When I turn your fellow vault-dwellers into mutants, my forces will be too strong for any to stand against! But don't worry, you won't care. Care! Care!}
 {134}{Mast10}{我还没有启动征服世界的圣战。当我把你的避难所同胞变成变种人的时候，我的军队将所向披靡，横扫全球！但是你不必担心了，因为你看不到那天了！你看不到了！}
 #{135}{Mast11}{Preposterous! The FEV-2 virus doesn't destroy the reproductive organs of those it mutates.}
-{135}{Mast11}{荒谬绝伦！ＦＥＶ－２型病毒不会破坏那些变种个体的生殖器官。}
+{135}{Mast11}{荒谬绝伦！FEV－2型病毒不会破坏那些变种个体的生殖器官。}
 #{136}{}{Perhaps the virus didn't sterilize people once, but it does now.}
 {136}{}{或许病毒以前不会让人绝育，但是现在却是千真万确的事情。}
 #{137}{}{Have you talked to any of your mutants about this?}
@@ -141,7 +141,7 @@
 #{170}{}{OK, it's better than dying . . .}
 {170}{}{哦，好死不如赖活着……}
 #{171}{Mast28}{Radiation has no effect on us. The FEV virus makes us immune. Your argument is weak, and so are you.}
-{171}{Mast28}{辐射在我们身上无效。ＦＥＶ病毒让我们免疫辐射。你的论据是苍白无力的，你也一样。}
+{171}{Mast28}{辐射在我们身上无效。FEV病毒让我们免疫辐射。你的论据是苍白无力的，你也一样。}
 #{172}{Mast29}{Oh, I think you are wrong. But just to be sure, I will order this matter researched. After I have taken care of you. Care. Care!}
 {172}{Mast29}{哼，你这是一派胡言。不过为了确认真相，我会下令调查这件事。不过，那是在我处理掉你之后。处理！处理！}
 #{173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
@@ -203,7 +203,7 @@
 #{201}{Mast41}{One moment while I check out your story. You might be telling the truth. Guards! Take this human to the reactor core. Deal with the problem before it's too late.}
 {201}{Mast41}{等一下，我看看你是不是在骗我……你说的是真的。警卫！把这个人类带到反应堆内核，在爆炸前解除核弹。}
 #{202}{Mast42}{I doubt even the FEV will help you. Why am I talking? It's unlikely you even understand . . .}
-{202}{Mast42}{ＦＥＶ病毒都治不了你的榆木脑袋。为什么我要和你说话？你甚至可能都无法理解……}
+{202}{Mast42}{FEV病毒都治不了你的榆木脑袋。为什么我要和你说话？你甚至可能都无法理解……}
 #{203}{Mast43}{You must be joking. }
 {203}{Mast43}{你一定在开玩笑。}
 #{204}{Mast44}{My patience is almost at an end with you. Now, will you join the Unity or not? Join. Not!}

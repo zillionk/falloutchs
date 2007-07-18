@@ -255,12 +255,12 @@
 {179}{}{今天}
 {180}{}{明天}
 {181}{}{在}
-{182}{}{８号}
-{183}{}{１８号}
-{184}{}{２８号}
+{182}{}{8号}
+{183}{}{18号}
+{184}{}{28号}
 
 #{185}{}{. Let me know when you're ready to leave. It pays the standard 400 scripts.}
-{185}{}{，你想出发的时候跟我说，我会付你４００个瓶盖。}
+{185}{}{，你想出发的时候跟我说，我会付你400个瓶盖。}
 
 #{186}{}{Sorry, but I already made a bad mistake about giving you a chance the last time you messed up.}
 {186}{}{抱歉，我上次已经给了你机会，后来被你搞砸了。我不会再犯这种错误了。}
@@ -287,9 +287,9 @@
 #{193}{}{Hi there.  You're early.  Quite early.  The next caravan doesn't leave until the }
 {193}{}{嗨，你来早了。太早了。下一趟商队要在这个时间才走：}
 
-{194}{}{８号}
-{195}{}{１８号}
-{196}{}{２８号}
+{194}{}{8号}
+{195}{}{18号}
+{196}{}{28号}
 #{197}{}{. Come back then if you're still interested.}
 {197}{}{如果你那时候还有兴趣再来。}
 
@@ -327,17 +327,17 @@
 
 #{209}{}{Great timing, our caravans are leaving today. It pays the standard 400 scripts.  Which caravan route
 # did you want to take?}
-{209}{}{很准时，我们的车队今天就走。工资是标准的４００个瓶盖。你想跟哪条线路？}
+{209}{}{很准时，我们的车队今天就走。工资是标准的400个瓶盖。你想跟哪条线路？}
 
 #{210}{}{Great.  Our next caravan is going out on the }
 {210}{}{很好，我们的商队将在如下时间出发：}
 
-{211}{}{８号}
-{212}{}{１８号}
-{213}{}{２８号}
+{211}{}{8号}
+{212}{}{18号}
+{213}{}{28号}
 
 #{214}{}{.  Come back then and we'll assign you to a caravan.  It pays the standard 400 scripts.}
-{214}{}{。到时候来的话，我给你安排商队。报酬是４００个瓶盖。}
+{214}{}{。到时候来的话，我给你安排商队。报酬是400个瓶盖。}
 
 #{215}{}{Okay.}
 {215}{}{好。}
@@ -386,7 +386,7 @@
 # has his reasons.  Our caravans leave here three times a month:  on the 8th, 18th and 28th.  There are three
 # places we go to on a regular basis: the Brotherhood of Steel, Junktown, and the Boneyard. The pay is
 # always 400 scripts, and that's one way.  You can come back with the caravan for another 400 scripts.}
-{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，８号，１８号和２８号。通常的路线是三条：钢铁兄弟会、迦克镇和晒骨场。工资一样，都是４００个瓶盖，单程。你可以保护商队回程，那样又是４００个瓶盖。}
+{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，8号，18号和28号。通常的路线是三条：钢铁兄弟会、迦克镇和晒骨场。工资一样，都是400个瓶盖，单程。你可以保护商队回程，那样又是400个瓶盖。}
 
 #{230}{}{You've got great timing because they're all heading out today.}
 {230}{}{你来的真巧，三条路线都正准备出发。}

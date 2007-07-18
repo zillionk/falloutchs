@@ -22,7 +22,7 @@
 #some minor traps, so be careful. Here are some lockpicks and a couple of flares to make your job a little 
 #easier.. And a bottle of Nuka-Cola.  Try not to kill Mr. Hightower.  He's one of our "favorite" people. You 
 #got all that?}
-{105}{}{欢迎来到盗贼工会，我是茉莉。我来是帮你更容易的潜入达伦·海托的宅邸。他的宅邸就座落在山上，至少有２个守卫２４小时值勤。项链很可能在保险箱里，上面可能还有几个陷阱。这是个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
+{105}{}{欢迎来到盗贼工会，我是茉莉。我来是帮你更容易的潜入达伦·海托的宅邸。他的宅邸就座落在山上，至少有2个守卫24小时值勤。项链很可能在保险箱里，上面可能还有几个陷阱。这是个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
 
 #{106}{}{What do you mean by "favorite."}
 {106}{}{“最喜爱”？你什么意思？}
@@ -55,10 +55,10 @@
 {117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克西里先生才能拿到报酬。}
 
 #{118}{}{Well done, lad.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你３０００个瓶盖】}
+{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你3000个瓶盖】}
 
 #{119}{}{Well done, miss.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{119}{}{干的不错，小妞，这是你的报酬。【茉莉给你３０００个瓶盖】}
+{119}{}{干的不错，小妞，这是你的报酬。【茉莉给你3000个瓶盖】}
 
 #{121}{}{By the way, here's a little something extra to help you out in your future felonious forays.}
 {121}{}{顺便，送你点额外的小礼物，希望能在你日后杀人放火的时候用的着。}

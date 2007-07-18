@@ -170,7 +170,7 @@
 
 #{153}{}{Ok. I want $100. Then we walk out of here.
 # No one follows me, and I'll let her go when we get to the edge of town.}
-{153}{}{好，那我要１００个瓶盖。然后我和她一起走出去，没人跟着我，到城边后我放她走。}
+{153}{}{好，那我要100个瓶盖。然后我和她一起走出去，没人跟着我，到城边后我放她走。}
 
 #{154}{}{Here's your money.}
 {154}{}{这是你的钱。}
@@ -201,13 +201,13 @@
 {162}{}{好吧，走着瞧。}
 
 #{163}{}{Here's $100. Have a good day.}
-{163}{}{这是１００个瓶盖，再见。}
+{163}{}{这是100个瓶盖，再见。}
 
 #{164}{}{You can leave peacefully.}
 {164}{}{你可以安全地离开了。}
 
 #{165}{}{I want my money. I want $200.}
-{165}{}{我要钱，２００个瓶盖。}
+{165}{}{我要钱，200个瓶盖。}
 
 #{166}{}{I don't have enough money.}
 {166}{}{我没有那么多钱。}

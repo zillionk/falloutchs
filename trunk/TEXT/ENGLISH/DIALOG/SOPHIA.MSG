@@ -14,7 +14,7 @@
 {103}{}{复习你们的笔记。}
 
 #{104}{}{We'll be having another test tomorrow for those of you that are on section 14.}
-{104}{}{学到第１４部分的同学，我们明天要进行一次测试。}
+{104}{}{学到第14部分的同学，我们明天要进行一次测试。}
 
 #{105}{}{I'm sorry, but I can't talk right now. I have a class to run.}
 {105}{}{对不起，我现在不能说话，还要上课呢。}
@@ -325,7 +325,7 @@
 
 #{374}{}{I gave you the disk with some of our early writings on it.  Just
 # load it up into your PIPBoy 2000 and you will be able to read it.}
-{374}{}{我已经给了你载有我们最初历史的磁盘。只要把它下载到你的哔哔小子２０００上就可以阅读了。}
+{374}{}{我已经给了你载有我们最初历史的磁盘。只要把它下载到你的哔哔小子2000上就可以阅读了。}
 
 #{375}{}{Thank you.}
 {375}{}{谢谢你。}

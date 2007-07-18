@@ -8,9 +8,9 @@
 #Spare change, old friend, old pal?  Can you help a poor mutant down on his luck? 【Cough】}
 {101}{HROLD0}{给点零钱花好吗，老朋友，老伙计？帮帮我这个可怜的变种人吧？【咳嗽】}
 #{102}{}{Yeah, here's $25. Good luck to you.}
-{102}{}{好吧，这里是２５个瓶盖。祝你好运。}
+{102}{}{好吧，这里是25个瓶盖。祝你好运。}
 #{103}{}{How about $5.}
-{103}{}{５个瓶盖如何。}
+{103}{}{5个瓶盖如何。}
 #{104}{}{Sorry, don't have any money on me.}
 {104}{}{抱歉，我没有钱。}
 #{105}{}{Keep away from me!}
@@ -116,7 +116,7 @@
 {147}{}{是什么？}
 #{148}{HROLD15}{
 #I like telling it my way.  Short version will cost you 25 extra, friend.  Which will it be?}
-{148}{HROLD15}{我喜欢按自己的意思说。简化版需要你多花２５个瓶盖，朋友。同意吗？}
+{148}{HROLD15}{我喜欢按自己的意思说。简化版需要你多花25个瓶盖，朋友。同意吗？}
 #{149}{}{Ok, long it is.}
 {149}{}{好吧，讲长的。}
 #{150}{}{Short.}
@@ -224,7 +224,7 @@
 {194}{}{谢谢你的故事。}
 #{195}{HROLD30}{
 #Yeah, about a century or two in dog years.}
-{195}{HROLD30}{是啊，要是人活１年等于狗活７年的话，起码过了一两个狗世纪了。}
+{195}{HROLD30}{是啊，要是人活1年等于狗活7年的话，起码过了一两个狗世纪了。}
 #{196}{}{What?}
 {196}{}{什么？}
 #{197}{HROLD31}{
@@ -265,9 +265,9 @@
 #Hey, can you help me out, friend?}
 {210}{HROLD39}{嗨，你能帮我吗，朋友？}
 #{211}{}{Yeah, here's $25.}
-{211}{}{给，这是２５个瓶盖。}
+{211}{}{给，这是25个瓶盖。}
 #{212}{}{Take $5.}
-{212}{}{给你５个瓶盖。}
+{212}{}{给你5个瓶盖。}
 #{213}{}{Don't bug me.}
 {213}{}{不要打扰我。}
 #{214}{}{Uhhh?}
@@ -283,7 +283,7 @@
 #Oh, hey, it's you again.}
 {218}{HROLD41}{哦，嗨，你又来了。}
 #{219}{}{Here's $20, if you need it.}
-{219}{}{这是２０个瓶盖，如果你需要的话。}
+{219}{}{这是20个瓶盖，如果你需要的话。}
 #{220}{}{Hi.}
 {220}{}{嗨。}
 #{221}{}{Uhh?}

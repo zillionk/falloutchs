@@ -50,7 +50,7 @@
 
 #{115}{}{You somehow manage to destroy the parts while cutting
 # your hand for 1 point of damage.}
-{115}{}{不知什么原因，损坏的零件割破了你的手对你造成１点伤害。}
+{115}{}{不知什么原因，损坏的零件割破了你的手对你造成1点伤害。}
 
 #{116}{}{You are having difficulties making these parts work.}
 {116}{}{你修理那个部件有些困难。}
@@ -59,5 +59,5 @@
 {117}{}{这个不能用在水泵上。}
 
 #{118}{}{You gain 1000 experience points for fixing the pump.}
-{118}{}{你修好了水泵，获得了１０００点经验值。}
+{118}{}{你修好了水泵，获得了1000点经验值。}
 

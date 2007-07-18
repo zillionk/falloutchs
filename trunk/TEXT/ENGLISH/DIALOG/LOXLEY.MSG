@@ -394,7 +394,7 @@
 {226}{LOX_51}{除了失踪商队的事，没什么了。啊，等下。我有个兄弟昨天全身放光的带着辐射回来了。真恶心。可能是和辐射点离得太近了。}
 
 #{227}{LOX_53}{We steal from the rich, plain and simple.  We give about, oh, ten to twenty percent to the poor folks over in Old Town.  The Circle keeps twenty, which leaves the rest for the thief.  Not a bad deal all round.}
-{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，１０％到２０％分给旧城区的穷人。组织保留２０％，其余留给那个盗贼。还算公平合理。}
+{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，10％到20％分给旧城区的穷人。组织保留20％，其余留给那个盗贼。还算公平合理。}
 
 #{228}{LOX_54}{We're a bunch of crooks!  What did you think we were, a bunch of cooks?}
 {228}{LOX_54}{我们是骗子！你认为我们是什么？厨子？}

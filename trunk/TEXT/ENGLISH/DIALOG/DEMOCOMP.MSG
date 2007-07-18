@@ -34,4 +34,4 @@
 # {118}{}{Hmm. This is a great game!}
 {118}{}{嗯，这是个伟大的游戏！}
 #{119}{}{You gain 100 experience points for playing Fallout.}
-{119}{}{你因为玩《辐射》得到了１００点经验值。}
+{119}{}{你因为玩《辐射》得到了100点经验值。}

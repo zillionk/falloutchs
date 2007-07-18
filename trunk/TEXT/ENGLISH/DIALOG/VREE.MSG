@@ -314,7 +314,7 @@
 
 #{196}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}
-{196}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过４０００ＧＢ的信息。}
+{196}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
 
 #{197}{Vree303}{The only salvation this tortured planet and its people have.
 #Without us, humanity is sure to perish.}
@@ -404,7 +404,7 @@
 
 #{1102}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}
-{1102}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过４０００ＧＢ的信息。}
+{1102}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
 
 #{1103}{Vree303}{The only salvation this tortured planet and its people have.
 #Without us, humanity is sure to perish.}
@@ -461,6 +461,6 @@
 
 #{1117}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
 #Each one holds over 4,000 gigabytes of information.}
-{1117}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过４０００ＧＢ的信息。}
+{1117}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
 
 

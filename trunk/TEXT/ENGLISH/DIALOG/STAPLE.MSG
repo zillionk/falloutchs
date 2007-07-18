@@ -47,14 +47,14 @@
 
 #{113}{}{Information is hard to come by in this day and age.  I will need to charge you 750
 # Hub Bucks for the disk.}
-{113}{}{如今信息可是非常难得的哦。我需要你用７５０块哈勃币交换磁盘。}
+{113}{}{如今信息可是非常难得的哦。我需要你用750块哈勃币交换磁盘。}
 
 #{114}{}{Sounds good. Here's the money.}
 {114}{}{听起来还可以。给你钱。}
 
 #{115}{}{Now that looks like a worn Holodisk if I've ever seen one.  I'll give you 500 for
 # it.}
-{115}{}{就是那个磁盘吗？我靠，我从来没见过这么破的磁盘。我只能给你５００块。}
+{115}{}{就是那个磁盘吗？我靠，我从来没见过这么破的磁盘。我只能给你500块。}
 
 #{116}{}{How about I take a blowtorch to this whole place instead! Huh lady?!}
 {116}{}{那我把整个地方用火焰喷射器给你装修一番如何啊？女士？！}
@@ -75,7 +75,7 @@
 
 #{121}{}{You are right, the Disk has seen better days.  Since that is the case, I will
 # accept 500 instead of my original price. 【Mrs Stapleton takes your money.】}
-{121}{}{你说得对，这个磁盘的确应该有更好些的样子。因此我决定接受５００块的价格。【斯塔布雷顿夫人拿走了你的钱。】}
+{121}{}{你说得对，这个磁盘的确应该有更好些的样子。因此我决定接受500块的价格。【斯塔布雷顿夫人拿走了你的钱。】}
 
 #{122}{}{Normally, I do not give in to such methods, but to protect my collection from such
 # a threat I will give you the Disk.  In exchange, I would ask that you never return here.}
@@ -107,7 +107,7 @@
 {130}{}{你有整套的化学杂志吗？内城区的麦尔斯说你可能有。}
 
 #{131}{}{Yes, I've heard from Miles and I have the ones he's looking for.  They will cost you 750 bucks.}
-{131}{}{我听说过麦尔斯，我正好有他要找的东西。不过你需要付７５０个瓶盖才能拿走。}
+{131}{}{我听说过麦尔斯，我正好有他要找的东西。不过你需要付750个瓶盖才能拿走。}
 
 #{132}{}{Here you are, sir.  Say hello to Miles for me.}
 {132}{}{这里你的东西，先生。替我向麦尔斯问好。}

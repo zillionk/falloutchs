@@ -18,4 +18,4 @@
 #{107}{}{Thanks for dealing with that dog.}
 {107}{}{谢谢你处理了这条狗。}
 #{108}{}{You get 50 experience points.}
-{108}{}{你得到５０点经验值。}
+{108}{}{你得到50点经验值。}

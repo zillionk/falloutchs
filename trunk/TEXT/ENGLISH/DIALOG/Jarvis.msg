@@ -73,4 +73,4 @@
 {120}{}{嘟。}
 
 #{200}{}{You gain 400 experience points for curing Jarvis of his poisoning.}
-{200}{}{你帮贾维斯解了毒，因此你获得了４００点的经验。}
+{200}{}{你帮贾维斯解了毒，因此你获得了400点的经验。}

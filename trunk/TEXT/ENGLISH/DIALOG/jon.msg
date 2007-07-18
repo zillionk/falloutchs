@@ -195,7 +195,7 @@
 
 #{156}{}{【He looks at you warily.】 . . . The Blades camp is to the north of here.
 # Come back when you've done the job, and I'll pay you 2000 caps.}
-{156}{}{【他谨慎地看了看你】……利刃帮在北边，完事后回来领赏，２０００个瓶盖。}
+{156}{}{【他谨慎地看了看你】……利刃帮在北边，完事后回来领赏，2000个瓶盖。}
 
 #{157}{}{Why haven't you taken care of it yet?}
 {157}{}{你怎么还没把事情做完？}
@@ -232,7 +232,7 @@
 #{167}{}{Finally she knows the taste of hell fire! Bless you, my son.
 # 【He wipes away a tear】. Here's an extra 500 caps for putting in the extra
 # effort. You'll always be welcome here.}
-{167}{}{她终于知道惨死是什么感受了。【老泪纵横】再给你５００个瓶盖，谢谢你特殊地关照她。我们永远欢迎你。}
+{167}{}{她终于知道惨死是什么感受了。【老泪纵横】再给你500个瓶盖，谢谢你特殊地关照她。我们永远欢迎你。}
 
 #{168}{}{Have you done it?!? Is she dead? Is she dead?}
 {168}{}{你完事了？！她死了？她死了？}

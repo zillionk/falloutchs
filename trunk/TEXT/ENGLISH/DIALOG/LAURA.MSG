@@ -607,7 +607,7 @@
 {343}{}{他们是高级祭司。}
 
 #{344}{}{Ah, those are the high priests. So far I think there's only 13, but I'm not really sure.}
-{344}{}{啊，那些是高级祭司。目前为止，我想他们只有１３人，但是我不确定。}
+{344}{}{啊，那些是高级祭司。目前为止，我想他们只有13人，但是我不确定。}
 
 #{345}{}{That's not important.}
 {345}{}{这不重要。}

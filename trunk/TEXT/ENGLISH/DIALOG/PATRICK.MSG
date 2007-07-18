@@ -76,7 +76,7 @@
 # inland, and Junktown a few days south of there. Hub's just another couple days
 # south of Junktown. Avoid Necropolis to the east of those, though. Not worth
 # the trouble.}
-{123}{}{以海岸线作为参考，你向内陆走大概１个星期到达沙荫镇，向南几天的功夫可以到迦克镇。再向南２天吧，你会到哈勃城。不要向东走，那里叫大墓地，没必要去找麻烦。}
+{123}{}{以海岸线作为参考，你向内陆走大概1个星期到达沙荫镇，向南几天的功夫可以到迦克镇。再向南2天吧，你会到哈勃城。不要向东走，那里叫大墓地，没必要去找麻烦。}
 
 #{124}{}{What do you know about Shady Sands?}
 {124}{}{你对沙荫镇知道点什么？}

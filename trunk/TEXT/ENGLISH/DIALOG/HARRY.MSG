@@ -183,7 +183,7 @@
 #{188}{}{HARRY FIGHT NOW}
 {188}{}{哈里正在战斗}
 #{189}{}{HARRY WAIT 30 SECONDS}
-{189}{}{哈里等候３０秒}
+{189}{}{哈里等候30秒}
 #{190}{}{HARRY LEAVE NOW}
 {190}{}{哈里正在离开}
 #{191}{}{You're not taking me anywhere!}

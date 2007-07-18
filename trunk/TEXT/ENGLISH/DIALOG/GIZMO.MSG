@@ -101,7 +101,7 @@
 {132}{}{除非你这身赘肉两个人就能搬的动，否则我不会相信你的。没门，老滑头。}
 
 #{133}{gizmo_9}{【Gizmo laughs and coughs】 Maybe you're right. I think you're worth more. 1500.}
-{133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。１５００。}
+{133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。1500。}
 
 #{134}{}{Now we're talking.}
 {134}{}{这样的话还值得谈一谈。}
@@ -356,7 +356,7 @@
 {216}{gizmo_48}{嘿，我只说一次！}
 
 #{217}{}{You gain 600 experience points for your work in the defeat of Gizmo. May the bastard rest in pieces.}
-{217}{}{由于在打倒吉斯莫的战斗中做出的贡献，你获得了６００点经验值。愿这混蛋的碎片能够安息。}
+{217}{}{由于在打倒吉斯莫的战斗中做出的贡献，你获得了600点经验值。愿这混蛋的碎片能够安息。}
 
 #{218}{}{This is easily the most corpulent individual you have ever seen.}
 {218}{}{这无疑是你看到过的最肥胖的人。}

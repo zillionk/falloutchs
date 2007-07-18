@@ -197,7 +197,7 @@
 
 #{156}{}{Hmm. Tempting offer, since this place gets boring. Tell ya what. Standard
 # rates. 100 caps, and you've got a deal.}
-{156}{}{嗯，诱人的提议, 况且这地方开始变的愈加无聊。那么告诉你吧，公道价格，１００瓶盖，然后我们就成交。}
+{156}{}{嗯，诱人的提议, 况且这地方开始变的愈加无聊。那么告诉你吧，公道价格，100瓶盖，然后我们就成交。}
 
 #{157}{}{Deal.}
 {157}{}{成交。}
@@ -241,7 +241,7 @@
 {168}{}{你他妈狗娘养的杂种！}
 
 #{169}{}{You gain 100 experience points for convincing Ian to join your quest.}
-{169}{}{你说服伊恩加入队伍，因而得到了１００点经验值。}
+{169}{}{你说服伊恩加入队伍，因而得到了100点经验值。}
 
 #{170}{}{Heard about some of these places before, but never been in one. Seems nice
 # and clean . . . a little too clean for my taste.}

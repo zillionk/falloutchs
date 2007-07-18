@@ -370,7 +370,7 @@
 {250}{}{我马上去办。}
 #{251}{}{It's a bigger list. #3 is: What if I twist off
 # your head instead?}
-{251}{}{还有个选项。３是：我扭断你的头怎么样？}
+{251}{}{还有个选项。3是：我扭断你的头怎么样？}
 #{252}{Set51}{Still in my shadow? Why do normie tongues waggle
 # and take the movement from their bones? Clear-time, walk now.}
 {252}{Set51}{仍在我地盘上？为什么正常人儿的舌头没有骨头也能活蹦乱跳的？清理时间，现在走开。}

@@ -24,7 +24,7 @@
 #{110}{}{Decker sends his regards.}
 {110}{}{德克表示问候。}
 #{111}{}{Um... Bob sent me... ah... he said you overpaid him 100 caps and sent me to give it to you.}
-{111}{}{嗯……鲍勃让我……啊……他说你多付了１００瓶盖，让我把它给你。}
+{111}{}{嗯……鲍勃让我……啊……他说你多付了100瓶盖，让我把它给你。}
 #{112}{}{There is no message really, I was just trying to talk my way out of this.}
 {112}{}{其实没有什么消息，我正要换个话题。}
 #{113}{}{I love you.}
@@ -44,7 +44,7 @@
 #{120}{}{.  Now my assistant Leon will see you out of my home.}
 {120}{}{。现在我的助手利昂会送你走的。}
 #{121}{}{I don't know any Bob, but I'll take the 100 caps and you can leave.}
-{121}{}{我不认识任何叫鲍勃的，但是我将收下这１００瓶盖，你可以离开了。}
+{121}{}{我不认识任何叫鲍勃的，但是我将收下这100瓶盖，你可以离开了。}
 #{122}{}{Go to hell!}
 {122}{}{去死吧！}
 #{123}{}{OK, here you go.  Thanks for your time.}

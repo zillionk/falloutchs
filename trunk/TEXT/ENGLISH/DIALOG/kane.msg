@@ -588,7 +588,7 @@
 
 #{284}{}{I didn't think you wanted the job.  I hope it was just a misunderstanding. I'll pay you half, and be
 # grateful that I'm giving you anything. 【Kane gives you 1500 hubbucks】}
-{284}{}{我以为你不愿意干呢，大概是我误会你了。那就付你一半钱吧，你应该高兴，至少我们还会给你钱。【凯恩给了你１５００块钱】}
+{284}{}{我以为你不愿意干呢，大概是我误会你了。那就付你一半钱吧，你应该高兴，至少我们还会给你钱。【凯恩给了你1500块钱】}
 
 #{285}{}{Thanks.}
 {285}{}{多谢。}
@@ -651,38 +651,38 @@
 # anyone about it.  Once you've finished your little errand come back here. One more thing.  Don't even think
 # about going to the police, that's the worst mistake you could ever make. If you can, try not attract their
 # attention when doing your work, they can be quite a pain sometimes. 【Kane gives you 500 caps】}
-{301}{}{那个商人和他老婆住在西边的高地，巴特街和桑德大道的交道口，很可能有保镖。悄悄地进去，别被人看见，如果被人看见了就灭他们的口。等你完事后回到我这里来。还有，别想着去警察那里告密，那将是一个大大的错误。尽量不要惊动警察，有时候他们确实很麻烦的。【凯恩给了你５００个瓶盖】}
+{301}{}{那个商人和他老婆住在西边的高地，巴特街和桑德大道的交道口，很可能有保镖。悄悄地进去，别被人看见，如果被人看见了就灭他们的口。等你完事后回到我这里来。还有，别想着去警察那里告密，那将是一个大大的错误。尽量不要惊动警察，有时候他们确实很麻烦的。【凯恩给了你500个瓶盖】}
 
 #{302}{}{Good work.  Here're your scripts for the completion of the first job. 【Kane hands you 2500 hubbucks】.}
-{302}{}{干得好，这是剩下的２５００个瓶盖。【凯恩给了你２５００个瓶盖】}
+{302}{}{干得好，这是剩下的2500个瓶盖。【凯恩给了你2500个瓶盖】}
 
 #{303}{}{Nice work on the merchant.  I'm expecting the same results on your next job.  Here's your last payment
 # for the first job and the first payment for the second. (Kane hands you 3500 Hubbucks). I'm sure you
 # already know, but the Children of the Cathedral are down south just north of the water merchants.
 # Again, no 'live' witnesses.}
-{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【凯恩给了你的３５００个瓶盖】你应知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{303}{}{上次的事做得很好，我期待你的这次表现。这里是你上个工作的赏钱，还有你现在这个任务的首付。【凯恩给了你的3500个瓶盖】你应知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{304}{}{Were you in a hurry to get out of here?  You didn't get your scripts.  Here's your money, initial
 # payment and the completion bonus for the first job. (Kane hands you 3000 Hubbucks)}
-{304}{}{你上次急着走做什么？你还没拿钱呢，这里是第一个工作给你的首付和余款。【凯恩给了你３００个瓶盖】}
+{304}{}{你上次急着走做什么？你还没拿钱呢，这里是第一个工作给你的首付和余款。【凯恩给了你300个瓶盖】}
 
 #{305}{}{Hey, good work!  You forgot to pick up your initial payment for the job, so here it is with the
 # completion fee.  You've proven yourself to be quite useful. }
 {305}{}{嘿，干的漂亮！你上次忘了拿首付款了，这次连同余款一起给你。你真是很能干的一个人。}
 
 #{306}{}{ (Kane hands you 5000 hubbucks)}
-{306}{}{【凯恩给了你５０００个瓶盖】}
+{306}{}{【凯恩给了你5000个瓶盖】}
 
 #{307}{}{And that's all you're going to get.  Now take off before you regret it.}
 {307}{}{这是你所有的钱，赶紧走，否则你会后悔的。}
 
 #{308}{}{Here's your starting pay. (Kane hands you 1000 Hubbucks) I'm sure you already know, but the Children
 # of the Cathedral are south, just north of the water merchants.  Again, no 'live' witnesses.}
-{308}{}{这是你这个任务的首付款。【凯恩给了你１０００个瓶盖】你应该知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
+{308}{}{这是你这个任务的首付款。【凯恩给了你1000个瓶盖】你应该知道，大教堂教徒的地盘在这里的南边，纯水商队的北边。还是那个规矩，不留目击活口。}
 
 #{309}{}{Damn, this is a lot of cash.  Decker really wanted that bitch dead, here're your scripts. (Kane gives
 # you 4000 Hubbucks) You've proven yourself to be quite useful.}
-{309}{}{靠，真是很多钱呐。德克真是要把那个婊子毙了，这是你的余款。【凯恩给了你４０００个瓶盖】你还真是能干呢。}
+{309}{}{靠，真是很多钱呐。德克真是要把那个婊子毙了，这是你的余款。【凯恩给了你4000个瓶盖】你还真是能干呢。}
 
 #{310}{}{What the hell do you want?  I thought you didn't want to meet with Decker.}
 {310}{}{你他妈的想做什么？我以为你不愿意见德克呢。}
@@ -943,7 +943,7 @@
 {394}{}{玛丽？我不认识什么玛丽……我没时间和你聊这个！我都不知道你要说什么。如果她要钱，让她自己来！}
 
 #{395}{}{(You gain 100 experience for thoroughly pissing Kane off.)}
-{395}{}{你成功地让凯恩抓狂了，获得了１００点经验值。}
+{395}{}{你成功地让凯恩抓狂了，获得了100点经验值。}
 
 #{396}{}{(For a split second you think you see Kane Blush) That's... (he looks side to side) nice.  Now what did
 # you want.}

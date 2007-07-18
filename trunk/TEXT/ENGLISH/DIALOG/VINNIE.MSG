@@ -210,10 +210,10 @@
 
 #{163}{}{You gain 400 experience points for stealing Neal's urn. The dead shall
 #never rest in peace.}
-{163}{}{你偷到了尼尔的骨灰罐，得到４００经验值。死者将永不安息。}
+{163}{}{你偷到了尼尔的骨灰罐，得到400经验值。死者将永不安息。}
 
 #{164}{}{You gain 300 experience points for puttin' a cap in Neal's ass, you Skul.}
-{164}{}{你日翻了尼尔，成为骷髅党徒。得到４００经验值。}
+{164}{}{你日翻了尼尔，成为骷髅党徒。得到400经验值。}
 
 #{165}{}{You ready to take out Neal?}
 {165}{}{你准备好收拾尼尔了？}

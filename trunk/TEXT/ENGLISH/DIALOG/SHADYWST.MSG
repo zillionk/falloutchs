@@ -2,11 +2,11 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You gain 400 experience points for returning Tandi.}
-{100}{}{因为找回坦蒂你得到４００点经验值。}
+{100}{}{因为找回坦蒂你得到400点经验值。}
 #{101}{}{To the south, you see an adobe wall surrounding a peaceful-looking village.}
 {101}{}{在南方，你看见一圈泥砖墙环绕着一个和平的村庄。}
 #{102}{}{A small shack is all that remains of this area. Fortunately, your records indicate a secondary entrance to Vault-15 there.}
-{102}{}{一个小窝棚是这个区域留下的唯一的东西。幸运的是，你的记录显示出那有进入１５号避难所的第二个入口。}
+{102}{}{一个小窝棚是这个区域留下的唯一的东西。幸运的是，你的记录显示出那有进入15号避难所的第二个入口。}
 #{103}{}{You see a small building, with a series of tents nearby. The inhabitants look dirty and mean.}
 {103}{}{你看见一个周围有帐篷的小房子。那些居民看起来又脏又卑贱。}
 #{104}{}{You come across a medium-sized town. A wall of junked cars blocks easy entrance. A hazy smoke lies low over the town.}

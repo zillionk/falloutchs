@@ -8,7 +8,7 @@
 # {104}{}{Be careful while traveling outside the Vault.}
 # {105}{}{Don't forget to see the medic if you are hurt.}
 # {106}{}{The Overseer makes sure everyone is well cared for in the Vault.}
-{100}{}{你看到一个１３号避难所居民。}
+{100}{}{你看到一个13号避难所居民。}
 {101}{}{外面世界里的人是什么样的？}
 {102}{}{你敢到避难所外面去冒险，胆子真大啊。}
 {103}{}{所长说外面的世界很危险。}
