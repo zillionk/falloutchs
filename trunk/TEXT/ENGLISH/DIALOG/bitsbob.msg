@@ -168,7 +168,7 @@
 #{182}{}{If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it.  Anything else?}
 {182}{}{在哈勃，如果有什么事情牵扯到不幸和痛苦，那么即使不是德克干的，也是他琢磨着想干的。你还要什么？}
 #{183}{}{I don't know what you're talking about, and I don't appreciate your slander!  I suggest you don't show your face in here again.}
-{183}{}{我不知道你在说什么，也不喜欢你的诬蔑！希望你不要再来了}
+{183}{}{我不知道你在说什么，也不喜欢你的诬蔑！希望你不要再来了。}
 #{184}{}{Don't do that!  Fine, I've been using some questionable portions.  But it's not like I'm committing murder.  Doc Morbid's stuff is already dead, isn't it?}
 {184}{}{不要那样做！好吧，我是用了一些可疑的配料。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{185}{}{I'm sure it is, Bob.  Have a nice day...}
@@ -210,7 +210,7 @@
 #{203}{}{No sissy portions!  Me want all iguana!  Ugh!}
 {203}{}{别小家子气！我要所有的烤蜥蜴！噢！}
 #{204}{}{Hmm, smell good!  Me want prime!}
-{204}{}{呣, 闻来好！偶要精花肉！}
+{204}{}{呣，闻来好！偶要精花肉！}
 #{205}{}{How the hell am I gonna pay you if you eat all my stock?  Fine!  Have another iguana!  I hope you choke on it!}
 {205}{}{如果你吃掉了我所有的存货，该死的我拿什么付你钱？好了！再来一串！最好噎死你！}
 #{206}{}{I don't like your attitude.}
