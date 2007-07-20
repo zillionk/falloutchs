@@ -71,7 +71,7 @@
 {128}{}{好吧，当你想去那洞穴的时候就告诉我一声。}
 {129}{}{【完成】}
 {130}{}{呃-喔。}
-{131}{}{唔唔。}
+{131}{}{唔-唔。}
 #{200}{}{Our entire town is grateful to you for destroying the
 # radscorpions. Thank you.}
 #{201}{}{Thanks to you, we are now safe from them.}
