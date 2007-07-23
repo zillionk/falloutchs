@@ -17,13 +17,13 @@
 {104}{}{我有些事要和你说。}
 
 #{105}{Nic_1}{Greetings. Hey! We're very glad you could join us. We hope you have found our humble abode to your satisfaction.}
-{105}{Nic_1}{你好。嗨！我们很高兴你能加入。希望我们的陋堂不至于冒犯了你。}
+{105}{Nic_1}{你好。嗨！我们很高兴你能加入。希望我们的陋室不至于冒犯了你。}
 
 #{106}{}{Thanks. Can you tell me more about what you worship here?}
 {106}{}{谢谢。你能告诉我更多有关于你们的信仰吗？}
 
 #{107}{}{'Humble' is a good word. 'Dump' would be better.}
-{107}{}{“陋堂”是个好词。不过“垃圾山”更贴切些。}
+{107}{}{“陋室”是个好词。不过“垃圾山”更贴切些。}
 
 #{108}{}{I have. Can I ask you a few questions?}
 {108}{}{这里还好。我能问你一些问题吗？}
