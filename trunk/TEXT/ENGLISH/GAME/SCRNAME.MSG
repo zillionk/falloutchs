@@ -1317,7 +1317,7 @@
 {754}{}{楼梯口}                                      # ThfU2D.int
 {755}{}{楼梯}                                      # ThfD2U.int
 {756}{}{报纸贩卖机}                              # MVNews.int
-{757}{}{旧的售货车}                              # Dealer.int
+{757}{}{旧车销售员}                              # Dealer.int
 {758}{}{旧的罗德轿车}                                   # UsedCar.int
 {759}{}{钢铁兄弟会}                           # BroDead.int
 {760}{}{大教堂教徒}                      # ChilDead.int
