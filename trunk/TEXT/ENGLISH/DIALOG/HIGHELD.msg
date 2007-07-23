@@ -66,7 +66,7 @@
 
 #{118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and
 # don't come back until you have a FULL report.}
-{118}{}{我不这么认为。你没去很长时间。现在，回到那边去并且不要这么快回来，直道你有一份完整的报告。}
+{118}{}{我不这么认为。你没去很长时间。现在，回到那边去并且不要这么快回来，直到你有一份完整的报告。}
 
 #{119}{}{Yes, sir.}
 {119}{}{是的，先生。}
@@ -85,7 +85,7 @@
 {123}{}{你得到我的注意。}
 
 #{124}{}{You can go to hell old man.}
-{124}{}{你下地狱吧老家伙。}
+{124}{}{去死吧老东西。}
 
 #{125}{}{Forget it. I've got more important things to do.}
 {125}{}{忘了它。我有更重要的事要做。}
@@ -187,7 +187,7 @@
 
 #{153}{}{Since they are coming out of that old military installation, I would imagine
 # that they would have weapons comparable to your own.}
-{153}{}{因为他们从那个老军事基地出来，我能想象出他们的武器比得上你们自己的。}
+{153}{}{因为他们从那个老军事基地出来，我可以想象他们的武器不比你们的差。}
 
 #{154}{}{What do you suggest? A preemptive strike at their military base?}
 {154}{}{你建议什么？先去袭击他们的军事基地？}
@@ -202,7 +202,7 @@
 
 #{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{157}{}{好吧。你将在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
+{157}{}{好吧。你会在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，非常感谢你们。祝好运。}
 
 #{158}{}{If they are being led by a group out of the Boneyard Cathdral, then chances are
 # they have a small army down there as well. }
@@ -220,11 +220,11 @@
 
 #{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard
 # Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，谢谢你们花的时间。好运。}
+{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，非常感谢你们。祝好运。}
 
 #{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
-{163}{}{好吧。你将在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，谢谢你们花的时间。好运。}
+{163}{}{好吧。你将在军事基地和我为你挑选的三名骑士汇合，他们能帮你进入基地。元老，非常感谢你们。祝好运。}
 
 #{164}{}{Obviously we made a mistake. Elders, I am sorry for wasting your time. Would someone
 # please remove this mental abomination?}
