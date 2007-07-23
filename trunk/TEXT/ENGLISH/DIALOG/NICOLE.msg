@@ -65,7 +65,7 @@
 {120}{}{你不觉得你想象力过于丰富了吗？}
 
 #{121}{}{'Us?' Is this what all the Followers think or just you?}
-{121}{}{“我们”？这究竟是末世论者的想法呢，还是只是你的一相情愿？}
+{121}{}{“我们”？这究竟是末世论者的想法呢，还是只是你的一厢情愿？}
 
 #{122}{Nic_7}{Call it instinct. We've seen Morpheus and the Nightkin and they don't look like peace makers to us. Their hospitals and message of peace make them attractive, but we know there's evil there.}
 {122}{Nic_7}{称其为直觉吧。我们已经见过了墨菲斯和夜行团，他们在我们看来并不像和平主义者。他们的医院和和平信条使得他们有吸引力，但我们知道那是个邪恶之处。}
