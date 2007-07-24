@@ -33,6 +33,8 @@
 {114}{}{双头牛是什么？}
 #{115}{}{What's a brahmin? You must be joking. Why they're one of the major food sources and forms of transportation around here. They haul the caravans. Dan says this is a really important job, but it's the Bone.}
 {115}{}{双头牛是什么？你在开玩笑吧。我们吃喝运货就靠它。它们还能拖货车。丹说这是真正重要的工作，不过没什么油水。}
+#{116}{}{Oh, I knew that!}
+{116}{}{哦，我知道那个！}
 #{117}{}{Dan's right. You are doing a great job.}
 {117}{}{丹说得对。你是在做一件重要的工作。}
 #{118}{}{Yea, it looks that way. Have fun.}
