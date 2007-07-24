@@ -19,7 +19,7 @@
 #{107}{}{I wouldn抰 mind the Master抯 shield myself.}
 {107}{}{我根本不在乎主教的保护。}
 #{108}{}{Nobody抯 ever accused me of being wise!}
-{108}{}{从没有人质疑过我是充满智慧的！}
+{108}{}{聪明难道有错！！}
 #{109}{}{I just want to speak with the man in charge.}
 {109}{}{我只想和负责人谈谈。}
 #{110}{}{Nice rod you抳e got there! Is that why they call you "Lasher?"}
