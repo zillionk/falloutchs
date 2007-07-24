@@ -248,7 +248,7 @@
 #{222}{}{Fine.  It's a deal. }
 {222}{}{好吧。就这样。}
 #{223}{}{ bucks, due every five days.  I guess I'll see you in five...}
-{223}{}{ 块，每五天。我想我们五天后再见……}
+{223}{}{块，每五天。我想我们五天后再见……}
 #{224}{}{No way I'm going for that.  I can't afford more than what I'm paying you now.}
 {224}{}{那没办法。我付不起比现在更多的钱了。}
 #{225}{}{Too bad, Bob.  I'd hate to start singing.}
