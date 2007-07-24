@@ -1375,7 +1375,7 @@
 {783}{}{囚犯}                                       # GenPris.int
 {784}{}{计算机}                                       # PrisCon.int
 {785}{}{托马斯}                                         # thomas2.int
-{786}{}{教主的宠物}                                   # Monster.int
+{786}{}{主教的宠物}                                   # Monster.int
 {787}{}{计算机}                                       # PsyCon.int
 {788}{}{雷}                                            # Ray.int
 {789}{}{非常牢靠的门}                               # BHDoor.int
@@ -1845,7 +1845,7 @@
 {1013}{}{赛特的警卫}                               # PGuard.int
 {1014}{}{副警长弗莱}                                    # FryStub.int
 {1015}{}{变种人警卫}                                  # NukeGrd.int
-{1016}{}{教主的士兵}                              # Hord.int
+{1016}{}{主教的士兵}                              # Hord.int
 {1017}{}{杜根}                                         # Dugan.int
 {1018}{}{麦克雷}                                        # MacRae.int
 {1019}{}{深红商队警卫}                         # CCGuard1.int
