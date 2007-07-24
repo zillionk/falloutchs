@@ -15,9 +15,9 @@
 {105}{}{你竟敢打扰我！难道你出知道我的位置是多么重要吗？滚出去！}
 #{106}{}{You are unwise to draw your weapon on me. The Master抯 shield is upon me, and I may not be touched
 #without retribution!}
-{106}{}{你愚蠢到了用武器对着我。主教的盾罩在我身上，除了受惩罚我不可能被触碰！}
+{106}{}{你愚蠢到了用武器对着我。主教的守护在我身上，除了受惩罚我不可能被触碰！}
 #{107}{}{I wouldn抰 mind the Master抯 shield myself.}
-{107}{}{我根本不在乎主教的盾。}
+{107}{}{我根本不在乎主教的保护。}
 #{108}{}{Nobody抯 ever accused me of being wise!}
 {108}{}{从没有人质疑过我是充满智慧的！}
 #{109}{}{I just want to speak with the man in charge.}
@@ -257,4 +257,4 @@
 #{223}{}{【DONE】}
 {223}{}{【完成】}
 #{224}{}{This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.}
-{224}{}{这个对能可能有点应用。带上这个标志。当你想通过的时候把它给夜行团看。它会让你见到墨菲斯神父的。}
+{224}{}{这个对你可能有点用。带上这个标志。当你想通过的时候把它给夜行团看。它会让你见到墨菲斯神父的。}
