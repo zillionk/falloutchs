@@ -209,7 +209,7 @@
 #{200}{}{Decadence and ease prevents evolution, evolution that is necessary for survival in a harsh world. Fortunately, I am a hard man who cares nothing for seductive pleasures. I see that you disagree with me. I do not care about your opinion. Get out of here!}
 {200}{}{腐败和安乐阻止发展，发展对在严酷的世界中幸存是必要的。幸运的是，我是一个对充满诱惑的事物漠不关心的糙汉子。我明白你不同意我的想法。我不在乎你的观点。滚出去吧！}
 #{201}{}{Mutation is nothing to fear. Every birth is a mutation of our parents?DNA. We are all mutants. The only thing that matters is that the mutant is guided on a moral and productive path. This is my job. And this also ends this discussion. Leave me now.}
-{201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？脱氧核糖核酸。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
+{201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？DNA。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
 #{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}
 {202}{}{我分配痛苦。如果动物值得并且能从中学习，那么它们也能进化成正义的灵魂。如果它们不能，它们就不应该存在。尽管我不是一直都很喜欢，在很罕见的事件中，动物被改动了遗传库。这更多地发生在衰老的成年动物身上。}
 #{203}{}{And the Master approves of the teaching methods?}
