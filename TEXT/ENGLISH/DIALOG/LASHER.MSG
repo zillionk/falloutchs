@@ -201,7 +201,7 @@
 #{196}{}{So why do you follow this Morpheus bozo?}
 {196}{}{那么你为什么要跟随墨菲斯这家伙？}
 #{197}{}{They serve the Master. They bring the pain of healing to the world. Angels in the Night, who redeem the world by bloodshed. Curiosity is a foolhardy emotion, but doubly so when it comes to the Nightkin. That is your only warning. I have much to do now. Away with you.}
-{197}{}{他们为教主效劳。他们带来用来拯救世界的痛苦。夜里的天使，用流血救赎世界。好奇是一种卤莽的情绪，对夜行团的好奇心更是大大地如此。那是对你唯一的警告。我现在有许多事情要做。你走吧。}
+{197}{}{他们为主教效劳。他们带来用来拯救世界的痛苦。夜里的天使，用流血救赎世界。好奇是一种卤莽的情绪，对夜行团的好奇心更是大大地如此。那是对你唯一的警告。我现在有许多事情要做。你走吧。}
 #{198}{}{Your courtesy does you credit. Perhaps you are worthy to talk with Morpheus. If the Nightkin stops you, show them this symbol. Now, away with you!}
 {198}{}{你的礼貌令你让人尊重。也许你是值得和墨菲斯交谈的。如果夜行团阻止你，给他们看这个标志。现在你走吧！}
 #{199}{}{You are a fool if you think petty subterfuge will defeat the Nightkin. Get out of here!}
@@ -213,7 +213,7 @@
 #{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}
 {202}{}{我分配痛苦。如果动物值得并且能从中学习，那么它们也能进化成正义的灵魂。如果它们不能，它们就不应该存在。尽管我不是一直都很喜欢，在很罕见的事件中，动物被改动了遗传库。这更多地发生在衰老的成年动物身上。}
 #{203}{}{And the Master approves of the teaching methods?}
-{203}{}{和教主认可的教学方法？}
+{203}{}{主教认可这种教学方法吗？}
 #{204}{}{You抮e a monster!}
 {204}{}{你是个怪物！}
 #{205}{}{I think I抣l leave you now.}
