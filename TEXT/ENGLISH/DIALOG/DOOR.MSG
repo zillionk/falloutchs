@@ -22,7 +22,7 @@
 #{109}{}{The door is already unlocked.}
 {109}{}{门锁已经解开了。}
 #{110}{}{The lock is beyond your ability to pick.}
-{110}{}{解开这把锁已经超出了你的能力。}
+{110}{}{这把锁不是你能打开的。}
 #{200}{}{There is no lock on this door to pick.}
 {200}{}{门上没有锁。}
 #{201}{}{You notice some irregularities in the wall.}
