@@ -26,7 +26,7 @@
 #{111}{}{Glad to see you're standing up for yourself.}
 {111}{}{很高兴看到你能为自己辩护。}
 #{112}{}{Your reputation is history, Bob.  Hi-sto-ree!}
-{112}{}{你的名声已经是过去式了，鲍勃。过-去-了！}
+{112}{}{你的名声已经是过去式了，鲍勃。过——去——了！}
 #{113}{}{Fine, I'll decide what to do with you later.}
 {113}{}{很好，我慢慢再想怎么对付你。}
 #{114}{}{Well, it was nice knowing you Bob.  Say 'hi' to Satan for me.}
@@ -278,7 +278,7 @@
 #{237}{}{Anything interesting happening in the Hub?}
 {237}{}{哈勃城发生了什么有趣的事吗？}
 #{238}{}{Me hungry!  Grrrrr!}
-{238}{}{我饿了！呃啊！}
+{238}{}{我饿！呃啊！}
 #{239}{}{Terrible business.  Those poor people.  Oh, those poor people.  Losing their lives in such a ghastly way!  Is there anything else I can do for you?  Like feed you, perhaps?}
 {239}{}{可怕的行当。那些可怜的人。喔，那些可怜虫，小命丢得这么惨！我还能为你做些什么？也许，来点吃的？}
 #{240}{}{Nothing, bye.}
