@@ -90,7 +90,7 @@
 #{144}{}{And maybe you need a doctor one day and the doctor won't be there. Psycho asshole! You wanna get fixed? Maybe I do something about shit in your brains, too!}
 {144}{}{也许某天你需要医生而医生不在。白痴！你想医好吗？也许我也要往你的脑子里塞点垃圾。}
 #{145}{}{Fine -- do it and shut up!}
-{145}{}{好吧---动手并住嘴！}
+{145}{}{好吧——动手并住嘴！}
 #{146}{}{Go to Hell.}
 {146}{}{去死吧。}
 #{147}{}{Shut up and gimme a diagnosis.}
