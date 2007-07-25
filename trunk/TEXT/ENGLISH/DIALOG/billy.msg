@@ -141,9 +141,9 @@
 #{169}{}{Just stopping by to see how things are going. Bye.}
 {169}{}{只是过来看看情况怎么样。再见。}
 #{170}{}{Arg!}
-{170}{}{啊!}
+{170}{}{啊！}
 #{171}{}{Ta.}
-{171}{}{哈.}
+{171}{}{哈。}
 #{172}{}{I'd better get back to work.}
 {172}{}{我得回去干活了。}
 #{173}{}{Those girls over there sure are dumb.}
