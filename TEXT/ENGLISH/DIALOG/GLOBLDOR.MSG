@@ -5,7 +5,7 @@
 {100}{}{安全门的架构上残留着蓝色喷涂。}
 
 #{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
-{101}{}{门上的电场发出轻微的电击，你受到一点伤害}
+{101}{}{门上的电场发出轻微的电击，你受到1点伤害}
 
 #{102}{}{You get a strong shock from the electric field on the door. You sustain }
 {102}{}{门上的电场的强电击震荡击中了你。你受到}
