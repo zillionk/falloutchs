@@ -37,7 +37,7 @@
 #{111}{}{Our village is small, but we support ourselves. Aside from
 # the attacks by raiders and the occasional Rad Scorpion,
 # we have no problems. Aradesh is a good leader.}
-{111}{}{我们村不大，但是能够自给自足。除了歹徒来袭，或者偶尔来点辐射蝎，我们这里没什么大事。亚拉德什是我们的好领袖。}
+{111}{}{我们村不大，但是能够自给自足。除了强盗，或者偶尔来点辐射蝎，我们这里没什么大事。亚拉德什是我们的好领袖。}
 
 #{112}{}{I am a farmer. We irrigated the desert many years ago.
 # Although the wasteland is harsh, it is possible to
@@ -70,4 +70,4 @@
 
 #{200}{}{You gain 500 experience points for helping to improve the
 # agriculture of Shady Sands.}
-{200}{}{你提高了沙荫镇的农耕水平，获得500点经验值。}
+{200}{}{你提高了沙荫镇的农耕水平，获得５００点经验值。}

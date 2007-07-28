@@ -20,7 +20,7 @@
 #{108}{}{What, me trouble? What gives you that impression?}
 {108}{}{什么，我有麻烦？你从哪里看出来的？}
 #{109}{}{Me hungry! Grrrr!}
-{109}{}{我饿！呃啊！}
+{109}{}{我饿了！呃啊！}
 #{110}{}{Hi. Welcome to Bob's Iguana Bits, the family eating place. May I take your order?}
 {110}{}{嗨！欢迎到“鲍勃的蜥蜴料理”，吃饭的好地方。要来点什么？}
 #{111}{}{Gimme an iguana on a stick.}
@@ -68,7 +68,7 @@
 #{132}{}{Anything interesting happening in the Hub?}
 {132}{}{哈勃城发生了什么有趣的事吗？}
 #{133}{}{Me hungry! Grrrr!}
-{133}{}{我饿！呃啊！}
+{133}{}{我饿了！呃啊！}
 #{134}{}{Mr. Decker is a distinguished businessman in a less than distinguished business. Anything else?}
 {134}{}{德克先生是一个高尚的商人，却从事着并不高尚的行业。还有别的吗？}
 #{135}{}{I want information on Doc Morbid.}
@@ -188,7 +188,7 @@
 #{192}{}{Me want another iguana!}
 {192}{}{我还要再来一串烤蜥蜴！}
 #{193}{}{Me stuffed! URRRP!}
-{193}{}{我饱！嗝！}
+{193}{}{我饱了！嗝！}
 #{194}{}{Thank you. Come again!}
 {194}{}{多谢光顾。下次再来！}
 #{195}{}{You must be new in town if you're asking me about the Water Merchants. Water is life. And you don't get much more powerful than life and death.}
@@ -202,7 +202,7 @@
 #{199}{}{Anything interesting happening in the Hub?}
 {199}{}{哈勃城发生了什么有趣的事吗？}
 #{200}{}{Me hungry! Grrrr!}
-{200}{}{我饿！呃啊！}
+{200}{}{我饿了！呃啊！}
 #{201}{}{You greedy son of a bitch!}
 {201}{}{你这贪心鬼！}
 #{202}{}{You greedy whore!}

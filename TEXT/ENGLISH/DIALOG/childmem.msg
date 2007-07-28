@@ -39,7 +39,7 @@
 {113}{}{我们需要你捐助}
 
 #{114}{}{ before we can heal you. Is this acceptable?}
-{114}{}{元才能给你治伤。可以吗？}
+{114}{}{个瓶盖才能给你治伤。可以吗？}
 
 #{115}{}{Yes.}
 {115}{}{好。}
@@ -54,7 +54,7 @@
 {118}{}{要不给你}
 
 #{119}{}{?}
-{119}{}{元？}
+{119}{}{个瓶盖？}
 
 #{120}{}{The Children do not haggle. Now, will you accept our price?}
 {120}{}{我们不讨价还价。你到底接不接受这个价格？}
@@ -100,7 +100,7 @@
 #{133}{}{We are the Children of the Cathedral. We live and work amongst those
 # unfortunates living in the wasteland. If you ever get to the Boneyard,
 # stop by the Cathedral.}
-{133}{}{我们是大教堂的教徒。我们和废土上受难的人们一起生活和奋斗。如果你到了晒骨场，可以去教堂参观一下。}
+{133}{}{我们是大教堂的教徒。我们和废土上受难的人们一起生活和奋斗。如果你到了曝骨场，可以去教堂参观一下。}
 
 #{134}{}{Thank you.}
 {134}{}{谢谢。}
@@ -111,7 +111,7 @@
 #{136}{}{We are the healers and teachers of peace. We heal the body to heal
 # the spirit. All we ask is a small donation to pay for our healing
 # supplies.}
-{136}{}{我们是医疗师，也是和平的布道者。我们治疗身体的伤痛，也治疗人们的灵魂。我们只要求一点点相当于医疗成本的捐献。}
+{136}{}{我们是医生，也是和平的布道者。我们治疗身体的伤痛，也治疗人们的灵魂。我们只要求一点点相当于医疗成本的捐献。}
 
 #{137}{}{Sounds like a good idea to me.}
 {137}{}{听起来很不错。}
@@ -139,7 +139,7 @@
 
 
 {1099}{}{?}
-{1199}{}{我可以告诉你：Cathedral-大教堂、Mutants-变种人、Master-主教、Boneyard-晒骨场、Followers-末世论者、Chip-芯片、Apocalypse-末世论、Necropolis-大墓地城、Set-赛特、Watershed-水处理房、Hall-亡者大厅。}
+{1199}{}{我可以告诉你：Cathedral-大教堂、Mutants-变种人、Master-主教、Boneyard-曝骨场、Followers-末世论者、Chip-芯片、Apocalypse-末世论、Necropolis-大墓地城、Set-赛特、Watershed-水处理房、Hall-亡者大厅。}
 
 
 {1000}{}{Cathedral}
@@ -167,7 +167,7 @@
 #{1103}{}{The boneyard is a breeding ground of hatred. There are
 # the Followers of the Apocalypse, the gangs: The Rippers, The Blades,
 # and The Gunrunners, and a small settlement called Adytum. }
-{1103}{}{晒骨场是滋生恨意的地方。那里有末世论者、电锯党、利刃帮、军火商，还有一个很小的内城区。}
+{1103}{}{曝骨场是滋生恨意的地方。那里有末世论者、电锯党、利刃帮、军火商，还有一个很小的内城区。}
 
 #{1104}{}{They are people who seek to destroy the peace which
 # the Master is trying to set forth.}

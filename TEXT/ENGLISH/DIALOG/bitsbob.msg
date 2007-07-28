@@ -26,7 +26,7 @@
 #{111}{}{Glad to see you're standing up for yourself.}
 {111}{}{很高兴看到你能为自己辩护。}
 #{112}{}{Your reputation is history, Bob.  Hi-sto-ree!}
-{112}{}{你的名声已经是过去式了，鲍勃。过——去——了！}
+{112}{}{你的名声已经是过去式了，鲍勃。过-去-了！}
 #{113}{}{Fine, I'll decide what to do with you later.}
 {113}{}{很好，我慢慢再想怎么对付你。}
 #{114}{}{Well, it was nice knowing you Bob.  Say 'hi' to Satan for me.}
@@ -168,7 +168,7 @@
 #{182}{}{If there's anything that involves misery and suffering in the Hub, Decker either controls it or wants to control it.  Anything else?}
 {182}{}{在哈勃，如果有什么事情牵扯到不幸和痛苦，那么即使不是德克干的，也是他琢磨着想干的。你还要什么？}
 #{183}{}{I don't know what you're talking about, and I don't appreciate your slander!  I suggest you don't show your face in here again.}
-{183}{}{我不知道你在说什么，也不喜欢你的诬蔑！希望你不要再来了。}
+{183}{}{我不知道你在说什么，也不喜欢你的诬蔑！希望你不要再来了}
 #{184}{}{Don't do that!  Fine, I've been using some questionable portions.  But it's not like I'm committing murder.  Doc Morbid's stuff is already dead, isn't it?}
 {184}{}{不要那样做！好吧，我是用了一些可疑的配料。但这和我搞谋杀不一样。莫彼得的原料本来就是死的，是不是？}
 #{185}{}{I'm sure it is, Bob.  Have a nice day...}
@@ -210,7 +210,7 @@
 #{203}{}{No sissy portions!  Me want all iguana!  Ugh!}
 {203}{}{别小家子气！我要所有的烤蜥蜴！噢！}
 #{204}{}{Hmm, smell good!  Me want prime!}
-{204}{}{呣，闻来好！偶要精花肉！}
+{204}{}{呣, 闻来好！偶要精花肉！}
 #{205}{}{How the hell am I gonna pay you if you eat all my stock?  Fine!  Have another iguana!  I hope you choke on it!}
 {205}{}{如果你吃掉了我所有的存货，该死的我拿什么付你钱？好了！再来一串！最好噎死你！}
 #{206}{}{I don't like your attitude.}
@@ -230,15 +230,15 @@
 #{213}{}{I want }
 {213}{}{我想要每五天}
 #{214}{}{50}
-{214}{}{50}
+{214}{}{５０}
 #{215}{}{75}
-{215}{}{75}
+{215}{}{７５}
 #{216}{}{100}
-{216}{}{100}
+{216}{}{１００}
 #{217}{}{150}
-{217}{}{150}
+{217}{}{１５０}
 #{218}{}{200}
-{218}{}{200}
+{218}{}{２００}
 #{219}{}{ bucks every five days.}
 {219}{}{块。}
 #{220}{}{I don't think I'll blackmail you.  Carry on.}
@@ -248,7 +248,7 @@
 #{222}{}{Fine.  It's a deal. }
 {222}{}{好吧。就这样。}
 #{223}{}{ bucks, due every five days.  I guess I'll see you in five...}
-{223}{}{块，每五天。我想我们五天后再见……}
+{223}{}{ 块，每五天。我想我们五天后再见……}
 #{224}{}{No way I'm going for that.  I can't afford more than what I'm paying you now.}
 {224}{}{那没办法。我付不起比现在更多的钱了。}
 #{225}{}{Too bad, Bob.  I'd hate to start singing.}
@@ -278,7 +278,7 @@
 #{237}{}{Anything interesting happening in the Hub?}
 {237}{}{哈勃城发生了什么有趣的事吗？}
 #{238}{}{Me hungry!  Grrrrr!}
-{238}{}{我饿！呃啊！}
+{238}{}{我饿了！呃啊！}
 #{239}{}{Terrible business.  Those poor people.  Oh, those poor people.  Losing their lives in such a ghastly way!  Is there anything else I can do for you?  Like feed you, perhaps?}
 {239}{}{可怕的行当。那些可怜的人。喔，那些可怜虫，小命丢得这么惨！我还能为你做些什么？也许，来点吃的？}
 #{240}{}{Nothing, bye.}

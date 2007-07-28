@@ -6,7 +6,7 @@
 #{101}{}{Do you want to trade?}
 {101}{}{你想交易吗？}
 #{102}{}{Click Barter -->}
-{102}{}{点击交易→}
+{102}{}{点击交易-->}
 #{103}{}{Nope.}
 {103}{}{不。}
 #{104}{}{We have been plagued by Rad Scorpions for some time now. All who have been sent to destroy these monsters have not returned. I will give you weapons and armor if you will follow my guide to their lair and kill them all.}

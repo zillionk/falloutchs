@@ -70,13 +70,13 @@
 #{133}{}{Fine. The first one of us who says that word dies. Bargain?}
 {133}{}{好吧。我们中谁先说那个词的就得死。怎么样？}
 #{134}{}{Hello, miss. I am Ton, 2,000 pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.}
-{134}{}{你好，小姐。我是唐，主教的最强战士。我也被FEV改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
+{134}{}{你好，小姐。我是唐，主教的最强战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
 #{135}{}{No way in hell.}
 {135}{}{决不可能。}
 #{136}{}{That's a little too fast. Let's get to know each other first.}
 {136}{}{这有点太快了。我们先互相了解一下。}
 #{137}{}{Hello. I've been evolved by the FEV so that anyone that annoys me dies. Stop annoying me, little man.}
-{137}{}{你好。我被FEV改造了，所以任何烦我的人都得死。别烦我，小子。}
+{137}{}{你好。我被ＦＥＶ改造了，所以任何烦我的人都得死。别烦我，小子。}
 #{138}{}{Check it out somewhere else. Ton don't like your company.}
 {138}{}{去别的地方吧。唐不喜欢你陪着。}
 #{139}{}{Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.}

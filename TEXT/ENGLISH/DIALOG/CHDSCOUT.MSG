@@ -1,28 +1,7 @@
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
-#{100}{}{You see before you a alert scout.}
-#{101}{}{Who goes there?}
-#{102}{}{Me. Me.}
-#{103}{}{Who goes where?}
-#{104}{}{I do!}
-#{105}{}{Deathslayer!}
-#{106}{}{Be at peace. I am a friend.}
-#{107}{}{Meme? Well, get out of here! This is the property of the Children of
-# the Cathedral.}
-#{108}{}{Huh? Me stay!}
-#{109}{}{Huh? You Die!}
-#{110}{}{Me no want to go.}
-#{111}{}{Great. Of all the people I had to stop, I stopped a piece of
-# cannon fodder. What can I do for you?}
-#{112}{}{Go night-night!}
-#{113}{}{Nahnah.}
-#{114}{}{Hep ew.}
-#{115}{}{OK. I suggest you get out of here before you get hurt.}
-#{116}{}{You want to help me? I doubt that. What do you have?}
-#{117}{}{Nahnah.}
-#{118}{}{Dis!}
-#{119}{}{Vaut.}
+
 #{120}{}{Wasting my time, I see. Get lost!}
 #{121}{}{Vaut. Vaut? What's a vaut?}
 #{122}{}{Numnum.}
@@ -210,4 +189,4 @@
 {193}{}{这是好事啊。嗯，再见。}
 {194}{}{现在，你也玩完了！}
 {195}{}{我明白！你该遭报应了！}
-{196}{}{又是你，我以为你会长点记性，你真是狗改不了吃屎。}
+{196}{}{又是你，我以为你会长点记性，没想到你偏不见棺材不落泪。}
