@@ -8,11 +8,11 @@
 #{102}{}{Good day. How may I be of assistance?}
 {102}{}{你好。我能帮你吗？}
 #{103}{}{I'm looking for Master Scribe Vree.}
-{103}{}{我要找首席研究员弗蕾。}
+{103}{}{我要找首席研究员弗蕾.}
 #{104}{}{I'm looking for General Maxson.}
-{104}{}{我要找马克松将军。}
+{104}{}{我要找马克松将军.}
 #{105}{}{I'm looking for Paladin Rhombus.}
-{105}{}{我要找游侠隆伯斯。}
+{105}{}{我要找游侠隆伯斯.}
 #{106}{}{What're you reading?}
 {106}{}{你在看什么书？}
 #{107}{}{Gaahh.}

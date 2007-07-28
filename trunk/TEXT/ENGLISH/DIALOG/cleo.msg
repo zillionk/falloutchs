@@ -38,7 +38,7 @@
 {111}{}{嗯，吼！}
 
 #{112}{}{Hey! What's happening?}
-{112}{}{嘿！什么事？}
+{112}{}{嘿！怎么回事？}
 
 #{113}{}{Tell me about Loxley.}
 {113}{}{告诉我关于洛克西里的事情。}
@@ -111,7 +111,7 @@
 
 #{136}{}{If you're lucky, you'll consider yourself one of us by the end of the day. At home, part of the
 # furniture, you know?}
-{136}{}{幸运的话，你今天就可以成为我们的一员，你都快成为我们这里的家俱了，你明白吗？}
+{136}{}{幸运的话，你今天就可以成为我们的一员，在家里，做某个家具，你懂我意思吗？}
 
 #{137}{}{Tell me about Loxley.}
 {137}{}{告诉我有关洛克西里的事情。}
@@ -181,7 +181,7 @@
 
 #{159}{}{A great leader. He's doing everything to screw over the right people and keep the Hub together --
 # for a small fee, of course.}
-{159}{}{伟大的领导者。他把那些所谓的好人玩的团团转，是他凝聚了哈勃城……当然，他也收点钱的。}
+{159}{}{伟大的领袖。他把那些所谓的好人玩的团团转，是他团结了整个哈勃城……当然，他也收点钱的。}
 
 #{160}{}{Tell me about Jasmine.}
 {160}{}{告诉我有关茉莉的事情。}
@@ -206,7 +206,7 @@
 
 #{167}{}{It's both a job and an adventure. Helping the poor, risking your life, meeting new and interesting
 # blokes. That us, the good guys!}
-{167}{}{这是工作也是冒险。替天行道，扶危济困，脑袋别在裤腰带上拼命，和各种各样的混球打交道。这就是我们，我们是好淫！}
+{167}{}{这是工作也是冒险。劫富济贫，浪荡生涯，脑袋别在裤腰带上拼命，和各种各样的混球打交道。这就是我们，都是棒小伙子！}
 
 #{168}{}{Tell me about Loxley.}
 {168}{}{告诉我有关洛克西里的事情。}
@@ -231,11 +231,11 @@
 
 #{175}{}{I had a friend who worked for him once. When the assignment went bad, he ran back to Decker for# reinforcements. Decker called him a fool, 
 #and he had him lobotomized as an example to others. We don't# like Decker very much around here.}
-{175}{}{我有一个兄弟以前帮他做事。后来有一次活儿搞砸了，他回去找德克想再带点弟兄去帮忙，结果呢，德克说他是猪头，居然当着那么多人把他的脑袋开了瓢！我们这里的人都不太喜欢德克这家伙。}
+{175}{}{我有一个兄弟以前帮他做事。后来活儿搞砸了，他回去找德克想再带点弟兄去帮忙，结果呢，德克说他是猪头，还拿他当弱者的典型给大家看！我们这里的人都不喜欢德克这家伙。}
 #{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants# for more protection. The Children 
 #of the Cathedral sacrificed it to their god. The Deathclaw ate it. Rumors# ain't worth nothing. The world's full of rumor and suspicion, and empty of truth.  
 #Look for fact, not# fiction. But why are you asking? You had friends on the caravan?}
-{176}{}{你想知道什么小道消息？有可能是纯水商队想推卸责任，也有可能是德克想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，真相却很少。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
+{176}{}{你想知道什么小道消息？有可能是纯水商队在玩把戏，也有可能是德克压榨佣兵，想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，真相却很少。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
 #{177}{}{I can't talk about my reasons.}
 {177}{}{不能告诉你，我有隐衷。}
 
@@ -265,14 +265,14 @@
 {185}{}{沙荫镇往北一点。}
 
 #{186}{}{Vault 13.}
-{186}{}{13号避难所。}
+{186}{}{１３号避难所。}
 
 #{187}{}{Here and there. I do odd jobs for places which let me stick around.}
 {187}{}{不定，到处打零工，我很少在一个地方多待。}
 
 #{188}{}{Sorry to hear that. I've lost a couple of good friends in my time, and one of them I found worse than
 # dead, but I'd rather not go into it.}
-{188}{}{同情你，我过去也失去了好多好兄弟，有一个老弟死的贼惨了，不过我还是建议你不要去查这件事情了。}
+{188}{}{同情你，我过去也失去了好多好兄弟，而且我知道其中一个比死还惨，还好建议我没卷进去。}
 
 #{189}{}{Didn't we already discuss that? You've got a one-track mind, pal.}
 {189}{}{我们不是聊过这破事儿吗？伙计，你脑袋一根筋啊。}
@@ -282,7 +282,7 @@
 {190}{}{你要是喜欢沙子的话，那里确实是个好地方啊。对我来说太荒凉太干燥了。至少，在哈勃城，你不用担心那些满地乱爬的辐射蝎吧。当然，我们这里的厉害主也不少了，我觉得。}
 
 #{191}{}{You're from a Vault? Get out of here! Don't go feeding me that bull.}
-{191}{}{你是避难所出来的？！滚！少他娘的给我放屁扯淡了！}
+{191}{}{你是避难所出来的？！滚！少给我放屁扯淡了！}
 
 #{192}{}{I don't envy you. Of course if you make a name for yourself, you can become one of those wilderness
 # fighting legends like Magnum Tom Goddard or Scorpion Joe Cornelius. Man, that must be something!}

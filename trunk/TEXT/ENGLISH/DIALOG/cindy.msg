@@ -54,7 +54,7 @@
 
 #{116}{}{Some people have been accused and fights have broken out over it, but
 # nobody really knows.}
-{116}{}{有人互相指责，还有人大打出手，但没人知道谁是元凶。}
+{116}{}{有人互相指责，还有人大打出手，但没人知道究竟是谁干。}
 
 #{117}{}{Okay. Thanks.}
 {117}{}{好，多谢。}
@@ -63,7 +63,7 @@
 # more water but some friends shared with them. After this everybody got very
 # paranoid and started guarding their water. A few days later someone knocked the
 # guard out in the ration supply area and stole water.}
-{118}{}{有人报告说他们的水被偷了，上面的人说不能多发水，他们只能问朋友要水喝。这件事情后，所有人都疑神疑鬼的，把自己的水看得死死的。后来有一天，还有人把配给水站的守卫打晕了偷水呢！}
+{118}{}{有人报告说他们的水被偷了，上面的人说不能多发水，他们只能问朋友要水喝。这件事情后，所有人都疑神疑鬼的，把自己的水看得死死的。后来有一天，还有人把配给水站的守卫打晕了偷水！}
 
 #{119}{}{That's terrible! What can I do?}
 {119}{}{太可怕了！我能做什么？}
@@ -78,7 +78,7 @@
 {122}{}{你是偷水贼？怎么可能？}
 
 #{123}{}{Thank you so much for saving us all.}
-{123}{}{谢谢你拯救了我们。}
+{123}{}{谢谢你救了我们。}
 
 #{124}{}{You did a good job catching the thief. Please hurry and find the water
 # chip.}

@@ -1,6 +1,17 @@
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
+
+
+#{134}{}{Thanks, see you later.}
+#{135}{}{We have all sorts of special items to remember your trip to the Cathedral.
+# These memories can't be bought cheaply, you understand.}
+#{136}{}{Thanks...}
+#{137}{}{You're welcome. Have pleasant days for the rest of your life.}
+
+
+
+
 #{100}{}{You see a shopkeeper.}
 #{101}{}{The Holy Flame does not appreciate thieves and scoundrels in his house of worship.  You will be punished!}
 #{102}{}{Hng!}
@@ -16,6 +27,24 @@
 # causing us a serious problem. I would like you to go away before I
 # have to call in reinforcements.}
 #{112}{}{You don't have to do that. I'm your friend.}
+{100}{}{你看见一位店主。}
+{101}{}{圣火不会纵容在他的殿堂之中存在小偷和恶棍。你会受到惩罚的！}
+{102}{}{哼！}
+{103}{}{我没偷东西，真的！}
+{104}{}{在你的“惩罚”之后上西天见你的狗屁圣火吧！}
+{105}{}{我不会相信你的谎言的，主教也不会。}
+{106}{}{对不起，店铺打烊了。}
+{107}{}{啊，啥？}
+{108}{}{没事，多谢。}
+{109}{}{为什么？}
+{110}{}{不客气。}
+{111}{}{我们教徒不想和你这样的人打交道，你给我们造成了很大的麻烦，快走开，要不我就喊人了。}
+{112}{}{别啊，我是你的朋友。}
+{113}{}{那就算了。}
+{114}{}{我不会和那些用枪说话的人做买卖。我们教徒可不是被枪吓大的。}
+{115}{}{枪支管理？你们是纳粹猪啊！}
+{116}{}{那我就收起来，我们和平买卖。}
+{117}{}{好，这样才好，那我很乐意和你交易。}
 #{113}{}{Whatever.}
 #{114}{}{I refuse to deal with those that use weapons to make demands.  We
 # Children have grown beyond the simple use of guns and weapons.}
@@ -41,30 +70,6 @@
 #{132}{}{Oh, well. What do you have to trade?}
 #{133}{}{Oh, stuff to pander to the rubes who walk in the door.  Nothing too special.
 # Go ahead, take a look.}
-#{134}{}{Thanks, see you later.}
-#{135}{}{We have all sorts of special items to remember your trip to the Cathedral.
-# These memories can't be bought cheaply, you understand.}
-#{136}{}{Thanks...}
-#{137}{}{You're welcome. Have pleasant days for the rest of your life.}
-
-{100}{}{你看见一位店主。}
-{101}{}{神圣的火焰不会纵容在他的殿堂之中存在小偷和恶棍。你会受到惩罚的！}
-{102}{}{哼！}
-{103}{}{我没偷东西，真的！}
-{104}{}{在你的“惩罚”之后上西天见你的狗屁圣火吧！}
-{105}{}{我不会相信你的谎言的，主教也不会。}
-{106}{}{对不起，店铺打烊了。}
-{107}{}{啊，啥？}
-{108}{}{没事，多谢。}
-{109}{}{为什么？}
-{110}{}{不客气。}
-{111}{}{我们教徒不想和你这样的人打交道，你给我们造成了很大的麻烦，你赶紧走开，要不我就喊人了。}
-{112}{}{别啊，我是你的朋友。}
-{113}{}{那就算了。}
-{114}{}{我拒绝和那些用枪说话的人做买卖。我们教徒不会用简单的枪炮来做事。}
-{115}{}{枪支管理？你们是纳粹猪啊！}
-{116}{}{那我就收起来，我们和平的买卖。}
-{117}{}{好，这样才好，那我很乐意和你交易。}
 {118}{}{你好教友，我能帮你什么？}
 {119}{}{甚么？！}
 {120}{}{你都卖些什么？}

@@ -2,10 +2,10 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a dark-skinned man adorned with bright scarves and trinkets.}
-{100}{}{你看见一个戴着亮闪闪围巾和饰物的黝黑皮肤男人。}
+{100}{}{你看见一个戴着亮闪闪围巾和各种饰物的黝黑皮肤男人。}
 
 #{101}{}{You see Chuck, the gypsy fortune-teller.}
-{101}{}{你看见查克，吉普赛的算命师。}
+{101}{}{你看见查克，吉普赛算命师。}
 
 #{102}{}{Hello, stranger. May I be of service?}
 {102}{}{你好陌生人。我能帮你什么？}
@@ -53,7 +53,7 @@
 {116}{}{一路平安。}
 
 #{117}{}{We all need something, don't we? And you wouldn't have talked to me if you didn't want something, whether information, conversation, or perhaps guidance. I can tell that you've been through a lot. What do you need?}
-{117}{}{每个人都想做点什么，问点什么，对吧？你要是什么都不想要，比如信息啊，聊天啊，指导啊，那你就不会和我说话了。我知道你经历了很多事情。你需要什么帮助？}
+{117}{}{每个人都想做点什么，问点什么，对吧？你要是什么都不想要，比如消息，聊天，或是引导，也就不会和我说话了。我知道你经历了很多事情。你需要什么帮助？}
 
 #{118}{}{Uh, I don't need anything, thanks.}
 {118}{}{我什么都不需要，谢谢。}
@@ -86,10 +86,10 @@
 {127}{}{你相信这些吗？}
 
 #{128}{}{It works for me. If you don't want to believe then it's not for you.}
-{128}{}{我信。信则灵，不信则不灵。}
+{128}{}{对我来说就是如此，心诚则灵。}
 
 #{129}{}{No offense, but it sounds like a load of superstition.}
-{129}{}{老实说，我觉得有点像迷信活动。}
+{129}{}{别生气，我觉得这有点迷信。}
 
 #{130}{}{Well, I guess we each have our own beliefs.}
 {130}{}{哈，我们都有自己的信仰吧。}
@@ -124,7 +124,7 @@
 
 #{140}{}{Since I wish to stay here, I accept the Regulators as part of that
 # which is Adytum. However, I do what I can to lighten their lives.}
-{140}{}{既然我要在这里过活，我就要忍受管理者的存在。再说，我也可以帮助这里的人啊。}
+{140}{}{既然我要在这里生活，我就要接受管理者是内城区一部分的这个事实。再说，我也可以减轻人们的负担。}
 
 #{141}{}{You do not seem to agree with what they do.}
 {141}{}{你看起来不喜欢他们的行为吧。}
@@ -133,7 +133,7 @@
 {142}{}{你还能做什么？}
 
 #{143}{}{The Regulators protect their own interests, and I must respect that.}
-{143}{}{管理者有他们的利益范围，这点我也要表示理解。}
+{143}{}{管理者有他们自己的利益，这点我尊重他们。}
 
 #{144}{}{Yeah, whatever.}
 {144}{}{好，随你怎么说了。}
@@ -201,18 +201,18 @@
 #{162}{}{Yes, unfortunately. I think . . . it is a kind of crucible, that
 # by surviving these hard times, we come to rely on each other and to learn
 # the skills we need to survive. I think, eventually, mankind will be better for it.}
-{162}{}{没错，很不幸。我想……现在是个艰难的时期，在熬这些日子的时候，我们互相依靠，学会了生存技巧。我想最后人类还会有复兴的机会的。}
+{162}{}{没错，很不幸。我想……现在是个艰难的时期，在熬这些日子的时候，我们互相依靠，学会了生存技巧。我想不管怎么样人们总会越过越好。}
 
 #{163}{}{I don't agree.  I have come across many gangs and raiders in my travels.
 # They've become petty killers and thieves. I think that we all risk that eventually.}
-{163}{}{我不同意，我在路上遇见很多歹徒和强盗，他们就是彻头彻尾的杀手和坏蛋。我们最后都会走上这条路的。}
+{163}{}{我不同意，我在路上遇见很多帮派和强盗，他们就是彻头彻尾的小偷和杀人犯。我们最后都会走上这条路的。}
 
 #{164}{}{Perhaps you're right. Certainly those who survive will be stronger.}
-{164}{}{也许你说的对，生存下来的人的确是强壮的。}
+{164}{}{也许你说的对，但生存下来的人会更强壮。}
 
 #{165}{}{They will eventually destroy themselves. And the people who will be
 # left will be the ones who work together to survive, like us.}
-{165}{}{他们会最后毁掉自己的。最后活下来的一定是团结的人们，就像我们。}
+{165}{}{他们会自取灭亡。最后活下来的一定是那些努力团结活下去的人，就像我们。}
 
 #{166}{}{I'm glad that some of the outsiders, like you, feel that way.
 # We need to find ways to work together to build something new.

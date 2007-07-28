@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a busy cook preparing a meal.}
-{100}{}{你看见一个忙着备饭的厨子。}
+{100}{}{你看见一个忙着做饭的厨子。}
 
 #{101}{}{I'm too busy to talk right now. I've got to get this meal ready!}
 {101}{}{太忙了，我不能和你聊天，我要把饭做好！}
