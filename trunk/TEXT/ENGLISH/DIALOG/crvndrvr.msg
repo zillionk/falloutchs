@@ -89,7 +89,7 @@
 {127}{}{你想要什么？}
 
 #{128}{}{Ah, shut up and get out of my way!}
-{128}{}{啊，闭嘴！给我消失！}
+{128}{}{啊，闭嘴！给我滚！！}
 
 #{129}{}{I want another job.}
 {129}{}{我要工作。}
@@ -134,11 +134,11 @@
 {142}{}{睡个觉，清醒了再来。}
 
 #{143}{}{You sicko. Go back to the pens.}
-{143}{}{精神病啊！回你的疯人院去！}
+{143}{}{你这个精神病！滚回猪圈去！}
 
 #{144}{}{Seemed okay? You never leave a caravan, not even if it's a mile from its rendezvous. You were
 # hired to guard it for the entire trip, otherwise we would have gotten someone else.}
-{144}{}{大家没事？你不能离开商队！哪怕是距离集合点只有一里都不行。我们雇你是为了全程保护商队，要不然我们也用不着你了。}
+{144}{}{没事吧？你不能离开商队！哪怕是距离集合点只有一里都不行。我们雇你是为了全程保护商队，要不然我们也用不着你了。}
 
 #{145}{}{Well, no one told me I couldn't leave!}
 {145}{}{哎，没人说我不能离开那。}
@@ -151,7 +151,7 @@
 
 #{148}{}{What?  Is this your first caravan?  How did you get hired? This is a very delicate and important job;
 # it's to be taken seriously. Lives are at stake, both the caravan and the towns we supply.}
-{148}{}{什么？这是你第一次参加商队？你是怎么被挑中的？这是一个很重要也很难做的工作，你必须要认认真真的。你的行为会影响到商队和我们要补给的城市的存亡。}
+{148}{}{什么？这是你第一次参加商队？你是怎么被挑中的？这是一个很重要也很棘手的工作，你必须时刻认认真真的，不管对我们商队还是要去的城市，生活就是赌命。}
 
 #{149}{}{And you must be so proud of yourself.}
 {149}{}{你肯定很自豪了。}
@@ -164,7 +164,7 @@
 
 #{152}{}{I hope so!  This is a very delicate and important job; it's to be taken seriously. Lives are at
 # stake! The caravans and the towns we supply depend on us!}
-{152}{}{但愿如此，这是一个很重要也很难做的工作，你必须要认认真真的。你的行为会影响到商队和我们要补给的城市的存亡。}
+{152}{}{但愿如此，这是一个很重要也很棘手的工作，你必须要认认真真的。商队和我们要去的城市可全靠我们。}
 
 #{153}{}{You must be so proud of yourself.}
 {153}{}{你肯定很自豪了。}
@@ -188,16 +188,16 @@
 {159}{}{我要走了，再见。}
 
 #{160}{}{Uh, yeah.  This is hard and dirty work! We risk our lives for those in less fortunate places.}
-{160}{}{对，这是一件苦差事。我们要冒生命危险为那些穷苦地方的人们带来福音。}
+{160}{}{对，这是一件苦差事。我们要为那些穷地方的人冒生命危险。}
 
 #{161}{}{Get a life! }
-{161}{}{你真他妈的高尚哦！}
+{161}{}{活得有意义点！}
 
 #{162}{}{Oh?  And what about all the less fortunate people right under your nose?}
 {162}{}{哦？那么你眼皮底下这些受苦的人呢？}
 
 #{163}{}{You're right.  Can I have another job or what?}
-{163}{}{你说的对，你给不给我这个工作啊？}
+{163}{}{你说的对，我能不能找这个工作或是其他什么的？}
 
 #{164}{}{What?  I don't know what you're talking about! Oh, you mean the skags?  They don't count.  They choose
 # to live that way.}
@@ -219,16 +219,16 @@
 {169}{}{当然，我是一个好人那……大多数时间里。}
 
 #{170}{}{Of course you are.  Can I have another job or what?}
-{170}{}{你就是好淫啊！我可以要这个工作？}
+{170}{}{当然没错啊！我能不能找这个工作或是其他什么的？}
 
 #{171}{}{I'm out of here.}
 {171}{}{我受不了了。}
 
 #{172}{}{That's the attitude!  To bad I can't give you another job.}
-{172}{}{态度太那娘的差了！我不能给你这个工作。}
+{172}{}{就这态度！我能再给你一份工作？笑话。}
 
 #{173}{}{What? After all that?  Oh come on!  Please can I have another job?}
-{173}{}{什么？这么多废话就……别啊，我想要这个工作哇。}
+{173}{}{什么？这么多废话就……别啊，请问我能不能拿到这个工作哇。}
 
 #{174}{}{Well, back to saving the world then.}
 {174}{}{好吧，回来拯救世界吧。}
@@ -255,12 +255,12 @@
 {179}{}{今天}
 {180}{}{明天}
 {181}{}{在}
-{182}{}{8号}
-{183}{}{18号}
-{184}{}{28号}
+{182}{}{８号}
+{183}{}{１８号}
+{184}{}{２８号}
 
 #{185}{}{. Let me know when you're ready to leave. It pays the standard 400 scripts.}
-{185}{}{。你想出发的时候跟我说，我会付你400个瓶盖。}
+{185}{}{，你想出发的时候跟我说，我会付你４００个瓶盖。}
 
 #{186}{}{Sorry, but I already made a bad mistake about giving you a chance the last time you messed up.}
 {186}{}{抱歉，我上次已经给了你机会，后来被你搞砸了。我不会再犯这种错误了。}
@@ -282,16 +282,16 @@
 {191}{}{好，不见不散。}
 
 #{192}{}{Da.}
-{192}{}{哒。}
+{192}{}{那。}
 
 #{193}{}{Hi there.  You're early.  Quite early.  The next caravan doesn't leave until the }
 {193}{}{嗨，你来早了。太早了。下一趟商队要在这个时间才走：}
 
-{194}{}{8号}
-{195}{}{18号}
-{196}{}{28号}
+{194}{}{８号}
+{195}{}{１８号}
+{196}{}{２８号}
 #{197}{}{. Come back then if you're still interested.}
-{197}{}{。如果你那时候还有兴趣再来。}
+{197}{}{如果你那时候还有兴趣再来。}
 
 #{198}{}{I don't want the job.}
 {198}{}{我不干了。}
@@ -318,7 +318,7 @@
 {205}{}{钢铁兄弟会}
 
 #{206}{}{Boneyard }
-{206}{}{晒骨场}
+{206}{}{曝骨场}
 
 {207}{}{迦克镇}
 
@@ -327,17 +327,17 @@
 
 #{209}{}{Great timing, our caravans are leaving today. It pays the standard 400 scripts.  Which caravan route
 # did you want to take?}
-{209}{}{很准时，我们的车队今天就走。工资是标准的400个瓶盖。你想跟哪条线路？}
+{209}{}{很准时，我们的车队今天就走。工资是标准的４００个瓶盖。你想跟哪条线路？}
 
 #{210}{}{Great.  Our next caravan is going out on the }
 {210}{}{很好，我们的商队将在如下时间出发：}
 
-{211}{}{8号}
-{212}{}{18号}
-{213}{}{28号}
+{211}{}{８号}
+{212}{}{１８号}
+{213}{}{２８号}
 
 #{214}{}{.  Come back then and we'll assign you to a caravan.  It pays the standard 400 scripts.}
-{214}{}{。到时候来的话，我给你安排商队。报酬是400个瓶盖。}
+{214}{}{。到时候来的话，我给你安排商队。报酬是４００个瓶盖。}
 
 #{215}{}{Okay.}
 {215}{}{好。}
@@ -365,13 +365,13 @@
 {222}{}{可以出发了！路上离山区远一点。}
 
 #{223}{}{The Boneyard's a rough place -- be careful. Make sure everyone sticks to their shifts.}
-{223}{}{晒骨场是个不好处的地方。小心点，所有人都要守好岗位。}
+{223}{}{曝骨场是个不好处的地方。小心点，所有人都要守好岗位。}
 
 #{224}{}{The crew's almost ready. I heard there was some trouble around the Boneyard recently -- watch your back.}
-{224}{}{人员基本准备完毕。我听说最近晒骨场有麻烦，你要小心。}
+{224}{}{人员基本准备完毕。我听说最近曝骨场有麻烦，你要小心。}
 
 #{225}{}{Okay, the caravan crew for the Boneyard is ready and waiting.}
-{225}{}{好了，前往晒骨场的人员已待命。}
+{225}{}{好了，前往曝骨场的人员已待命。}
 
 #{226}{}{Junktown is normally a short and easy trip -- you shouldn't have any problems.}
 {226}{}{去迦克镇的路比较短，也比较安全，你们应该没什么太大问题。}
@@ -386,7 +386,7 @@
 # has his reasons.  Our caravans leave here three times a month:  on the 8th, 18th and 28th.  There are three
 # places we go to on a regular basis: the Brotherhood of Steel, Junktown, and the Boneyard. The pay is
 # always 400 scripts, and that's one way.  You can come back with the caravan for another 400 scripts.}
-{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，8号，18号和28号。通常的路线是三条：钢铁兄弟会、迦克镇和晒骨场。工资一样，都是400个瓶盖，单程。你可以保护商队回程，那样又是400个瓶盖。}
+{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，８号，１８号和２８号。通常的路线是三条：钢铁兄弟会、迦克镇和曝骨场。工资一样，都是４００个瓶盖，单程。你可以保护商队回程，那样又是４００个瓶盖。}
 
 #{230}{}{You've got great timing because they're all heading out today.}
 {230}{}{你来的真巧，三条路线都正准备出发。}
@@ -398,7 +398,7 @@
 {232}{}{他们在}
 
 #{233}{}{ days.}
-{233}{}{天后出发。}
+{233}{}{ 天后出发。}
 
 #{234}{}{Are you interested?}
 {234}{}{有兴趣吗？}
@@ -416,7 +416,7 @@
 {238}{}{他们在}
 
 #{239}{}{ days.}
-{239}{}{天后出发。}
+{239}{}{ 天后出发。}
 
 #{240}{}{I suppose you want a job.  I might give you one.  Are you interested?}
 {240}{}{我猜你在找工作。我可以给你一个。有兴趣吗？}
@@ -443,7 +443,7 @@
 {247}{}{钢铁兄弟会。}
 
 #{248}{}{Boneyard.}
-{248}{}{晒骨场。}
+{248}{}{曝骨场。}
 
 #{249}{}{Junktown.}
 {249}{}{迦克镇。}
@@ -456,7 +456,7 @@
 
 {252}{}{8号}
 {253}{}{18号}
-{254}{}{28号}
+{254}{}{28好}
 #{255}{}{ and we'll get the crew together.}
 {255}{}{，我们再给你安排队员。}
 
