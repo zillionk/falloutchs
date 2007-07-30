@@ -21,7 +21,7 @@
 
 #{106}{}{Ack! You must be Dumb Fred, Merciless Killer of the Dirt. Please
 # don't kill me!}
-{106}{}{啊！你就是“笨蛋”弗雷德，肮脏血腥的杀手！不要杀我！}
+{106}{}{啊！你就是“笨蛋”弗蕾德，肮脏血腥的杀手！不要杀我！}
 
 #{107}{}{Here. Here. Take this. It's all I have.}
 {107}{}{拿走，拿走，这是我的全部家当了。}
