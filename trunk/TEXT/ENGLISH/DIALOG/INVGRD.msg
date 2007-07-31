@@ -94,7 +94,7 @@
 {207}{}{好的。}
 
 #{208}{}{So, what were you working on this morning Ray?}
-{208}{}{那么，今天早上你都干了些什么，Ray？}
+{208}{}{那么，今天早上你都干了些什么，雷？}
 
 #{209}{}{Just trying to increase the range on the plasma rifle.}
 {209}{}{我一直在尝试为电浆来复枪扩展射程。}
