@@ -3,19 +3,19 @@
 #{101}{}{I know who you are. You are a wicked, evil man and you must be punished.}
 {101}{}{我知道你是谁。你是一个毫无道德的恶徒，你必须受到惩罚。}
 #{102}{}{}
-{102}{}{ 我知道是是谁。你是一个藏在女人体内的恶魔，你的外壳是不会拯救你的。}
+{102}{}{ 我知道你是是谁。你是一个藏在女人体内的恶魔，你的外壳是不会拯救你的。}
 #{103}{}{I know who you are. Your wickedness precedes you. You send the souls of children to Hades, before they can be cleansed of their perfidy. It is a black evil that you do, and you must be punished for it.}
 {103}{}{我知道你是谁。你的邪恶已经早早地暴露了你。你在教徒们净化自己的背叛前就把他们的灵魂打入了地狱。这是你所犯下的大恶中的大恶，为此你必须受到惩罚。}
 #{104}{}{I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!}
 {104}{}{我知道你是谁。你是行走的死亡，披着人皮的瘟疫。你的脚踏到哪里，哪里就会血流成河。但是不管你的邪恶多么逆天，它都可以被一个公正的灵魂终结！}
 #{105}{}{}
-{105}{}{你竟敢打扰我！难道你出知道我的位置是多么重要吗？滚出去！}
+{105}{}{你竟敢打扰我！难道你不知道我的位置是多么重要吗？滚出去！}
 #{106}{}{}
-{106}{}{你愚蠢到了用武器对着我。主教的盾罩在我身上，除了受惩罚我不可能被触碰！}
+{106}{}{你愚蠢到了用武器对着我。主教的守护在我身上，除了受惩罚我不可能被触碰！}
 #{107}{}{}
-{107}{}{我根本不在乎主教的盾。}
+{107}{}{我根本不在乎主教的保护。}
 #{108}{}{}
-{108}{}{从没有人质疑过我是充满智慧的！}
+{108}{}{聪明难道有错！}
 #{109}{}{I just want to speak with the man in charge.}
 {109}{}{我只想和负责人谈谈。}
 #{110}{}{}
@@ -75,9 +75,9 @@
 #{137}{}{}
 {137}{}{你这个蠢货！我已经得到了相当多的献祭！}
 #{138}{}{That is a privilege reserved for only the most faithful servants. Only baptism is a higher honor.}
-{138}{}{那是一个只为最忠诚的仆人所保留的特权。只有施洗才是一个更高的荣誉。}
+{138}{}{那是一个只为最忠诚的仆人所保留的特权。只有洗礼才是一个更高的荣誉。}
 #{139}{}{And how does one earn baptism?}
-{139}{}{那么一个人怎样才能获得施洗呢？}
+{139}{}{那么一个人怎样才能获得洗礼呢？}
 #{140}{}{I suppose you are teaching the children and preparing them for baptism.}
 {140}{}{我以为你在教育教徒并且为他们准备洗礼呢。}
 #{141}{}{Can you help me to be baptized?}
@@ -89,13 +89,13 @@
 #{144}{}{I see no reason to converse with a fool. Away with you.}
 {144}{}{我没有理由和一个蠢货交谈。你走吧。}
 #{145}{}{You should speak to Father Morpheus. He is in the tower, but it is unlikely that the Nightkin will allow you to pass.}
-{145}{}{你应该和墨菲斯神父谈谈。他在塔中，但是隐形人是不太可能让你通过的。}
+{145}{}{你应该和墨菲斯神父谈谈。他在塔中，但是夜行团是不太可能让你通过的。}
 #{146}{}{Could you persuade the Nightkin to let me pass?}
-{146}{}{你能说服隐形人让我通过吗？}
+{146}{}{你能说服夜行团让我通过吗？}
 #{147}{}{What can you tell me about Morpheus?}
 {147}{}{你能告诉我关于墨菲斯的事情吗？}
 #{148}{}{What can you tell me about the Nightkin.}
-{148}{}{你能告诉我关于隐形人的事情吗？}
+{148}{}{你能告诉我关于夜行团的事情吗？}
 #{149}{}{Thank you, sir.}
 {149}{}{谢谢你，先生。}
 #{150}{}{I have ways of getting around these sorts of problems.}
@@ -129,7 +129,7 @@
 #{164}{}{Tell me how to attain righteousness!}
 {164}{}{告诉我如何达到正义！}
 #{165}{}{I want to know more about the Cathedral.}
-{165}{}{我想知道关于大教堂的更多事情。}
+{165}{}{我想知道关于大教堂更多的事情。}
 #{166}{}{I want to know about the Master.}
 {166}{}{我想知道关于主教的事情。}
 #{167}{}{}
@@ -139,7 +139,7 @@
 #{169}{}{So where can I find the most pain?}
 {169}{}{那么我在哪里能找到最大的痛苦呢？}
 #{170}{}{}
-{170}{}{耶！我要承受足够多的脑损伤因为我要加入丧尸的礼拜！做梦去吧，伙计！}
+{170}{}{耶！要我承受足够多的脑损伤就因为我要加入丧尸的礼拜！做梦去吧，伙计！}
 #{171}{}{I would never have thought of that!}
 {171}{}{我真希望我没听过这个！}
 #{172}{}{It is? That sucks, pal!}
@@ -155,7 +155,7 @@
 #{177}{}{Tell me about the Cathedral.}
 {177}{}{告诉我关于大教堂的事。}
 #{178}{}{I was wondering where I could find the Master.}
-{178}{}{我不知道在哪能找高主教。}
+{178}{}{我不知道在哪能找到主教。}
 #{179}{}{I was wondering about the Children.}
 {179}{}{我正对大教堂教徒感到纳闷。}
 #{180}{}{The only thing I know that抯 quick is Death.}
@@ -169,7 +169,7 @@
 #{184}{}{[More]}
 {184}{}{【更多】}
 #{185}{}{You must reject the Light that nearly destroyed us all, and pledge yourself to the Darkness in which all are equal. Now that I have told you this thing, go seek it. Seek the Master and his wisdom.}
-{185}{}{你必须拒绝那在附近毁灭我们全部的光，把你自己投入到万物平等的黑暗中。现在我已经告诉了你这件事，去寻找它吧。寻找主教和他的智慧。}
+{185}{}{你必须拒绝那在附近毁灭我们全部的光芒，把你自己投入到万物平等的黑暗中。现在我已经告诉了你这件事，去寻找它吧。寻找主教和他的智慧。}
 #{186}{}{I have not consulted him, but I am certain he is pleased with the righteous souls I have brought him. It is difficult work, but I do it well. Unfortunately, it is also quite time consuming, which is why I must order to you to leave right now.}
 {186}{}{我还没有向他讨教，但是我确信他对我带给他的那个正义的灵魂很满意。那是件困难的工作，但是我做得不错。不幸的是，它需要花很多的时间，这就是我为什么要你现在就去的原因。}
 #{187}{}{}
@@ -177,33 +177,35 @@
 #{188}{}{You foul mouthed beast! Begone! Learn some manners before you return.}
 {188}{}{你这个满嘴污言秽语的禽兽！走吧！学点礼貌再回来。}
 #{189}{}{A reasonable request. Take this symbol. Show it to the Nightkin when you wish to pass.}
-{189}{}{一个合理的要求。拿着这个标志。当你想通过的时候把它给隐形人看。}
+{189}{}{一个合理的要求。拿着这个标志。当你想通过的时候把它给夜行团看。}
 #{190}{}{I cannot help you with that. Begone.}
 {190}{}{我不能帮你做那个。离去吧。}
 #{191}{}{}
 {191}{}{他是我们的领导者。他是最遵循主教忠告的人，而且他明白主教的许多意图。这就是全部吗？}
 #{192}{}{Could you persuade the Nightkin to let me pass?}
-{192}{}{你能说服隐形人让我通过吗？}
+{192}{}{你能说服夜行团让我通过吗？}
 #{193}{}{Tell me more about Morpheus?}
 {193}{}{告诉我更多关于墨菲斯的事？}
 #{194}{}{What can you tell me about the Nightkin?}
-{194}{}{你能告诉我关于隐形人的事情吗？}
+{194}{}{你能告诉我关于夜行团的事情吗？}
 #{195}{}{Thank you, sir.}
 {195}{}{谢谢你，先生。}
 #{196}{}{So why do you follow this Morpheus bozo?}
 {196}{}{那么你为什么要跟随墨菲斯这家伙？}
 #{197}{}{They serve the Master. They bring the pain of healing to the world. Angels in the Night, who redeem the world by bloodshed. Curiosity is a foolhardy emotion, but doubly so when it comes to the Nightkin. That is your only warning. I have much to do now. Away with you.}
-{197}{}{他们为教主效劳。他们带来用来拯救世界的痛苦。夜里的天使，用流血救赎世界。好奇是一种卤莽的情绪，对隐形人的好奇心更是大大地如此。那是对你唯一的警告。我现在有许多事情要做。你走吧。}
+{197}{}{他们为教主效劳。他们带来用来拯救世界的痛苦。夜里的天使，用流血救赎世界。好奇是一种卤莽的情绪，对夜行团的好奇心更是大大地如此。那是对你唯一的警告。我现在有许多事情要做。你走吧。}
 #{198}{}{Your courtesy does you credit. Perhaps you are worthy to talk with Morpheus. If the Nightkin stops you, show them this symbol. Now, away with you!}
-{198}{}{你的礼貌令你让人尊重。也许你是值得和墨菲斯交谈的。如果隐形人阻止你，给他们看这个标志。现在你走吧！}
+{198}{}{你的礼貌令你让人尊重。也许你是值得和墨菲斯交谈的。如果夜行团阻止你，给他们看这个标志。现在你走吧！}
 #{199}{}{You are a fool if you think petty subterfuge will defeat the Nightkin. Get out of here!}
-{199}{}{如果你认为用粗鄙的借口就能说服隐形人，那你真是个蠢货。滚出去！}
+{199}{}{如果你认为用粗鄙的借口就能说服夜行团，那你真是个蠢货。滚出去！}
 #{200}{}{Decadence and ease prevents evolution, evolution that is necessary for survival in a harsh world. Fortunately, I am a hard man who cares nothing for seductive pleasures. I see that you disagree with me. I do not care about your opinion. Get out of here!}
 {200}{}{腐败和安乐阻止发展，发展对在严酷的世界中幸存是必要的。幸运的是，我是一个对充满诱惑的事物漠不关心的糙汉子。我明白你不同意我的想法。我不在乎你的观点。滚出去吧！}
 #{201}{}{Mutation is nothing to fear. Every birth is a mutation of our parents?DNA. We are all mutants. The only thing that matters is that the mutant is guided on a moral and productive path. This is my job. And this also ends this discussion. Leave me now.}
-{201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？脱氧核糖核酸。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
+{201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？DNA（脱氧核糖核酸）。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
 #{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}
-{202}{}{我分配痛苦。如果动物值得并且能从中学习，那么它们也能进化成正义的灵魂。如果它们不能，它们就不应该存在。尽管我不是一直都很喜欢，在很罕见的事件中，动物被改动了遗传库。这更多地发生在衰老的成年动物身上。}
+{202}{}{我使之受苦。如果那些动物有价值并且能从中学习，那么它们也能进化成正义的灵魂。如果它们不能，它们就不应该存在。不过在极为罕见的情况下，虽然我也不想，但一些动物会被移出基因库。这种事情多发生在实验失败的成年动物身上。}
+#{203}{}{And the Master approves of the teaching methods?}
+{203}{}{那么主教认可这种教学方法吗？}
 #{204}{}{}
 {204}{}{你是个怪物！}
 #{205}{}{I think I抣l leave you now.}
@@ -215,9 +217,9 @@
 #{208}{}{Hey, I can remove them for you! No one else needs to know!}
 {208}{}{嘿，我能为你改动它们！不必让其他人知道！}
 #{209}{}{You are an evil girl. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{209}{}{你是个邪恶的女人。你要小心地从这走过去。隐形人不喜欢竞争者。现在，去吧！}
+{209}{}{你是个邪恶的女人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
 #{210}{}{You are an evil man. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{210}{}{你是个邪恶的人。你要小心地从这走过去。隐形人不喜欢竞争者。现在，去吧！}
+{210}{}{你是个邪恶的人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
 #{211}{}{}
 {211}{}{正义通过挣扎，创伤和恢复获得。我们是动物，我们必须被一直折磨直到我们毫不犹豫地接受主教的真理。现在你已经听到了真理，用你充满经验的肉身去寻找它。离开这里。}
 #{212}{}{Your tongue is a wicked thing that is beyond redemption. Get out of my sight!}
@@ -227,7 +229,7 @@
 #{214}{}{As do I. It appears we have many things in common, but unfortunately, you irritate me beyond my ability to tolerate. Get out of here. Now.}
 {214}{}{我也是。看起来我们已经有很多共同的地方了，但不幸的是，你的挑衅超过了我忍耐的极限。现在从这滚蛋吧。}
 #{215}{}{It is not my place to judge. You must persuade the Nightkin. Good luck. You will need it.}
-{215}{}{这不是我能决定的。你必须说服隐形人。祝你好运。你会需要它的。}
+{215}{}{这不是我能决定的。你必须说服夜行团。祝你好运。你会需要它的。}
 #{216}{}{The Cathedral is a sanctuary for the human race. When the apocalypse fell on this foul city, the Cathedral was spared, which allowed for the birth of the Master. Thus a healing darkness emerged from a terrible light.}
 {216}{}{大教堂是人类这个种族的圣地。当启示录中的灾难降临在这个污秽的城市的时候，大教堂被分隔开了。这使得主教得以诞生。治疗创伤的黑暗从可怕的光明中浮现。}
 #{217}{}{ When I came, I saw this place lacked a moral center, and so I have endeavored to administer teaching pain to a place once consumed with idle pleasure. That is all you need to know.}
@@ -245,4 +247,4 @@
 #{223}{}{[DONE]}
 {223}{}{【完成】}
 #{224}{}{This may be of some use to you. Take this symbol. Show it to the Nightkin when you wish to pass. It will allow you to see Father Morpheus.}
-{224}{}{这个对能可能有点应用。带上这个标志。当你想通过的时候把它给隐形人看。它会让你见到墨菲斯神父的。}
+{224}{}{这个对你可能有点用。带上这个标志。当你想通过的时候把它给夜行团看。它会让你见到墨菲斯神父的。}
