@@ -16,7 +16,7 @@
 #{106}{}{Set ain't here, so git.}
 {106}{}{赛特不在这里，快滚。}
 #{107}{}{Oh, OK. Bye.}
-{107}{}{噢，好. 再见。}
+{107}{}{噢，好。再见。}
 #{108}{}{Well, when I find that son of a bitch, I'm gonna make it
  so no one can find him.}
 {108}{}{好，等我找到那个狗娘养的，我会让他消失的无影无踪。} 
