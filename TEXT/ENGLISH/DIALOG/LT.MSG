@@ -260,7 +260,7 @@
 {184}{}{在那发生之前，我还有几件别的事情想知道。}
 
 #{185}{LIEUT27}{【The Lieutenant sighs.】 Haven't you figured it out yet? You're a prime normal. Soon you'll be one of us.}
-{185}{LIEUT27}{【叹气。】 你还没有觉悟吗？你是一个原始的正常人类。很快你就会成为我们中的一员。}
+{185}{LIEUT27}{【叹气】你还没有觉悟吗？你是一个原始的普通人类。很快你就会成为我们中的一员。}
 
 #{186}{}{How does 'no way' sound?}
 {186}{}{“决不”，这个词听起来怎样？}
@@ -411,7 +411,7 @@
 {234}{}{我能先问你几个问题吗？}
 
 #{235}{LIEUT41}{Oh, this is excellent. You know, I actually doubted my officers when they said they'd captured a prime normal. It is so nice to see you.}
-{235}{LIEUT41}{哦，这太好了。听我说，我的军官说他们抓到了一个原始的正常人，说实话，我还不太相信。见到你真是太好了。}
+{235}{LIEUT41}{哦，这太好了。你知道，当我的军官说他们抓到了一个原始的普通人时，说实话，我还不太相信。见到你真是太好了。}
 
 #{236}{}{Go to hell.}
 {236}{}{去死吧。}
