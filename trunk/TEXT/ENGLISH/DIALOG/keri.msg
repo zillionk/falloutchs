@@ -31,7 +31,7 @@
 #{107}{}{Our pay's the best, 600 scripts, and yes, that is for each way?but you don't have to do both.  This
 # is a pretty tough caravan ride, and you're almost guaranteed to run into some raiders?or worse.  We'll have no
 # sissies on my caravans and you better have plenty of ammo.}
-{107}{}{我们的薪水最高。600块，没错，单程600块。不过，你也不必来回都跟着。商队的旅行是很危险的，肯定会遇见强盗的或者更可怕的东西。我们的队伍里没有胆小鬼，你最好带足弹药。}
+{107}{}{我们的薪水最高。600个瓶盖，没错，单程600个瓶盖。不过，你也不必来回都跟着。商队的旅行是很危险的，肯定会遇见强盗的或者更可怕的东西。我们的队伍里没有胆小鬼，你最好带足弹药。}
 
 #{108}{}{ We're leaving today.  Are you interested?}
 {108}{}{我们今天走，你有兴趣么？}
@@ -181,7 +181,7 @@
 {155}{}{你很聪明，但是我不喜欢。}
 
 #{156}{}{Good. Like I said before we pay 600 scripts. Which route did you want to take?}
-{156}{}{很好，我们说好了600块。你想走哪条路线？}
+{156}{}{很好，我们说好了600个瓶盖。你想走哪条路线？}
 
 #{157}{}{Cool.  The next one's going out on }
 {157}{}{酷啊，下一班是在}

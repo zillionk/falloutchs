@@ -55,10 +55,10 @@
 {117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克西里先生才能拿到报酬。}
 
 #{118}{}{Well done, lad.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你3000个瓶盖】}
+{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你3000元】}
 
 #{119}{}{Well done, miss.  Here's your reward.  [Jasmine gives you 3000 bucks]}
-{119}{}{干的不错，小妞，这是你的报酬。【茉莉给你3000个瓶盖】}
+{119}{}{干的不错，小妞，这是你的报酬。【茉莉给你3000元】}
 
 #{121}{}{By the way, here's a little something extra to help you out in your future felonious forays.}
 {121}{}{顺便，送你点额外的小礼物，希望能在你日后杀人放火的时候用的着。}

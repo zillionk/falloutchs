@@ -102,9 +102,9 @@
 #{149}{}{It will take }
 {149}{}{这要花去 }
 #{150}{}{ minutes。 It will be able to remove about }
-{150}{}{ 分钟。这将会去掉大约 }
+{150}{}{分钟。这将会去掉大约}
 #{151}{}{ percent。 Do you want to start the process？}
-{151}{}{ %。你希望开始医疗程序吗？}
+{151}{}{%。你希望开始医疗程序吗？}
 #{152}{}{No。}
 {152}{}{不。}
 #{153}{}{Yes。}

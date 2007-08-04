@@ -107,58 +107,58 @@
 {134}{}{点野外生存技能点数。}
 
 #{135}{}{You gain a skill point in Small Guns.}
-{135}{}{你获得了一点轻型枪械技能点数。}
+{135}{}{你获得了1点轻型枪械技能点数。}
 
 #{136}{}{You gain a skill point in Big Guns.}
-{136}{}{你获得了一点重型枪械技能点数。}
+{136}{}{你获得了1点重型枪械技能点数。}
 
 #{137}{}{You gain a skill point in Energy Weapons.}
-{137}{}{你获得了一点能量武器技能点数。}
+{137}{}{你获得了1点能量武器技能点数。}
 
 #{138}{}{You gain a skill point in Unarmed Combat.}
-{138}{}{你获得了一点徒手格斗技能点数。}
+{138}{}{你获得了1点徒手格斗技能点数。}
 
 #{139}{}{You gain a skill point in Melee Weapons.}
-{139}{}{你获得了一点近战武器技能点数。}
+{139}{}{你获得了1点近战武器技能点数。}
 
 #{140}{}{You gain a skill point in Throwing.}
-{140}{}{你获得了一点投掷技能点数。}
+{140}{}{你获得了1点投掷技能点数。}
 
 #{141}{}{You gain a skill point in First Aid.}
-{141}{}{你获得了一点急救技能点数。}
+{141}{}{你获得了1点急救技能点数。}
 
 #{142}{}{You gain a skill point in Doctor.}
-{142}{}{你获得了一点医疗技能点数。}
+{142}{}{你获得了1点医疗技能点数。}
 
 #{143}{}{You gain a skill point in Sneak.}
-{143}{}{你获得了一点潜行技能点数。}
+{143}{}{你获得了1点潜行技能点数。}
 
 #{144}{}{You gain a skill point in Steal.}
-{144}{}{你获得了一点偷窃技能点数。}
+{144}{}{你获得了1点偷窃技能点数。}
 
 #{145}{}{You gain a skill point in Lockpick.}
-{145}{}{你获得了一点开锁技能点数。}
+{145}{}{你获得了1点开锁技能点数。}
 
 #{146}{}{You gain a skill point in Traps.}
-{146}{}{你获得了一点陷阱技能点数。}
+{146}{}{你获得了1点陷阱技能点数。}
 
 #{147}{}{You gain a skill point in Science.}
-{147}{}{你获得了一点科技技能点数。}
+{147}{}{你获得了1点科技技能点数。}
 
 #{148}{}{You gain a skill point in Repair.}
-{148}{}{你获得了一点修理技能点数。}
+{148}{}{你获得了1点修理技能点数。}
 
 #{149}{}{You gain a skill point in Speech.}
-{149}{}{你获得了一点口才技能点数。}
+{149}{}{你获得了1点口才技能点数。}
 
 #{150}{}{You gain a skill point in Barter.}
-{150}{}{你获得了一点交易技能点数。}
+{150}{}{你获得了1点交易技能点数。}
 
 #{151}{}{You gain a skill point in Gambling.}
-{151}{}{你获得了一点赌博技能点数。}
+{151}{}{你获得了1点赌博技能点数。}
 
 #{152}{}{You gain a skill point in Outdoorsman.}
-{152}{}{你获得了一点野外生存技能点数。}
+{152}{}{你获得了1点野外生存技能点数。}
 
 #{153}{}{Your Strength is increased by }
 {153}{}{你的力量增加了}
@@ -185,25 +185,25 @@
 {160}{}{点。}
 
 #{161}{}{Your Strength is increased by a point.}
-{161}{}{你的力量增加了一点。}
+{161}{}{你的力量增加了1点。}
 
 #{162}{}{Your Perception is increased by a point.}
-{162}{}{你的感知增加了一点。}
+{162}{}{你的感知增加了1点。}
 
 #{163}{}{Your Endurance is increased by a point.}
-{163}{}{你的体质增加了一点。}
+{163}{}{你的体质增加了1点。}
 
 #{164}{}{Your Charisma is increased by a point.}
-{164}{}{你的魅力增加了一点。}
+{164}{}{你的魅力增加了1点。}
 
 #{165}{}{Your Intelligence is increased by a point.}
-{165}{}{你的智力增加了一点。}
+{165}{}{你的智力增加了1点。}
 
 #{166}{}{Your Agility is increased by a point.}
-{166}{}{你的敏捷增加了一点。}
+{166}{}{你的敏捷增加了1点。}
 
 #{167}{}{Your Luck is increased by a point.}
-{167}{}{你的运气增加了一点。}
+{167}{}{你的运气增加了1点。}
 
 #{168}{}{Thanks for your help.}
 {168}{}{谢谢你的帮助。}
