@@ -60,10 +60,10 @@ Master now.}
 {214}{}{不，还没，那我应该怎么做？}
 
 #{215}{}{Of course! You cannot hope to pass the Corridor without it. What didyou do with your nullifier!}
-{215}{}{当然！没有保护装置你别幻想能通过走廊。你把精神攻击免疫器弄到哪去了？}
+{215}{}{当然！没有保护装置你别想通过走廊。你把精神攻击免疫器弄到哪去了？}
 
 #{216}{}{I left it in my other robes.}
-{216}{}{我把它忘在我另一个长袍里了。}
+{216}{}{我把它落在我另一件长袍里了。}
 
 #{217}{}{The Lieutenant did not have time to give me one.}
 {217}{}{中尉没来得及给我一个。}
