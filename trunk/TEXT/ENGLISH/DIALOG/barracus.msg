@@ -76,7 +76,7 @@
 #{136}{}{That's a little too fast. Let's get to know each other first.}
 {136}{}{这有点太快了。我们先互相了解一下。}
 #{137}{}{Hello. I've been evolved by the FEV so that anyone that annoys me dies. Stop annoying me, little man.}
-{137}{}{你好。我被ＦＥＶ改造了，所以任何烦我的人都得死。别烦我，小子。}
+{137}{}{你好。我被FEV改造了，所以任何烦我的人都得死。别烦我，小子。}
 #{138}{}{Check it out somewhere else. Ton don't like your company.}
 {138}{}{去别的地方吧。唐不喜欢你陪着。}
 #{139}{}{Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.}

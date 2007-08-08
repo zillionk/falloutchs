@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The explosion closes off the tunnel with a mighty blast!}
 {100}{}{爆炸的强大冲击波把隧道封死了！}
