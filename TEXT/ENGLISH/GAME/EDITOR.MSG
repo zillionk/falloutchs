@@ -292,7 +292,7 @@
 #{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
 #{622}{}{hours} # Title line 3
 {620}{}{辐射}                   # Title line 1
-{621}{}{第１３号避难所人员记录} # Title line 2
+{621}{}{第13号避难所人员记录} # Title line 2
 {622}{}{小时} # Title line 3
 # -
 # -
