@@ -33,7 +33,7 @@
 {109}{}{带我见你们的主教。}
 
 #{110}{}{Try these words -- Drop dead!}
-{110}{}{那我就换个说法－－你去死！}
+{110}{}{那我就换个说法——你去死！}
 
 #{111}{}{Surely one of your intellect can see that such things will solve nothing.}
 {111}{}{你再白痴也肯定会明白这是没有用的。}

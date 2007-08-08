@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see Zax, the machine intelligence controlling the Glow.}
 #{101}{}{You see an extremely advanced computer.}
@@ -100,34 +98,34 @@
 # capabilities.}
 #{155}{}{Uh . . . yeah.}
 #{156}{}{Right . . . can we talk about something else?}
-#{157}{}{My research into the Forced Evolution Virus, or ＦＥＶ,
+#{157}{}{My research into the Forced Evolution Virus, or FEV,
 # indicates that it is a shifting-absorptive virus.
-# It copies ＤＮＡ patterns much like RNA, storing these
+# It copies DNA patterns much like RNA, storing these
 # patterns in exons.}
-#{158}{}{These exons, combined with the ＦＥＶ, are re-injected into
+#{158}{}{These exons, combined with the FEV, are re-injected into
 # the host cells in typical viral infectious fashion.
-# This causes the host cells to 'regenerate' their ＤＮＡ.}
-#{159}{}{How do you catch ＦＥＶ?}
-#{160}{}{Why isn't ＦＥＶ affected by radiation?}
-#{161}{}{If the ＦＥＶ re-infects the host with its assimilated viral
+# This causes the host cells to 'regenerate' their DNA.}
+#{159}{}{How do you catch FEV?}
+#{160}{}{Why isn't FEV affected by radiation?}
+#{161}{}{If the FEV re-infects the host with its assimilated viral
 # patterns, how does it make a 'better specimen'?}
-#{162}{}{ＦＥＶ is not 'caught', per se. It is not air-transmittable.
+#{162}{}{FEV is not 'caught', per se. It is not air-transmittable.
 # Typically, infection is through injection, or direct
-# physical contact with an ＦＥＶ sample.}
+# physical contact with an FEV sample.}
 #{163}{}{Let's talk about something else, okay?}
-#{164}{}{Why isn't ＦＥＶ affected by radiation?}
-#{165}{}{If the ＦＥＶ re-infects the host with its assimilated viral
+#{164}{}{Why isn't FEV affected by radiation?}
+#{165}{}{If the FEV re-infects the host with its assimilated viral
 # patterns, how does it make a 'better specimen'?}
-#{166}{}{The ＦＥＶ is a megavirus, with a protein sheath reinforced by
+#{166}{}{The FEV is a megavirus, with a protein sheath reinforced by
 # ionized hydrogen. It is therefore capable of absorbing
 # neutrons without becoming radioactive.}
 #{167}{}{Can we talk about something else?}
-#{168}{}{If the ＦＥＶ re-infects the host with its assimilated viral
+#{168}{}{If the FEV re-infects the host with its assimilated viral
 # patterns, how does it make a 'better specimen'?}
-#{169}{}{The ＦＥＶ is pre-programmed with introns of corrected ＤＮＡ
+#{169}{}{The FEV is pre-programmed with introns of corrected DNA
 # appropriate to the proper type of species. It therefore
-# attempts to correct the ＤＮＡ of the individual.}
-#{170}{}{However, as the ＦＥＶ is partially reliant upon the ＤＮＡ of
+# attempts to correct the DNA of the individual.}
+#{170}{}{However, as the FEV is partially reliant upon the DNA of
 # the individual, and also includes portions of its own
 # recursive code, the effects can be unpredictable.}
 #{171}{}{When inoculated into an individual with significant
@@ -135,32 +133,32 @@
 # the body's systems to suffer massive overhauling, leading
 # to organ failure and death.}
 #{172}{}{In a genetically viable individual, it re-writes portions
-# of ＤＮＡ, causing accelerated mutation, usually leading to
-# recursive growth due to the ＦＥＶ's own patterns.}
+# of DNA, causing accelerated mutation, usually leading to
+# recursive growth due to the FEV's own patterns.}
 #{173}{}{This recursive growth leads to an increase in muscle and
 # brain mass, but is often accompanied by disfigurement and
 # damage to existing neural patterns, causing loss of memory.}
 #{174}{}{What potential long-term side effects exist?}
-#{175}{}{Could ＦＥＶ mutation be corrected with a counter-virus?}
+#{175}{}{Could FEV mutation be corrected with a counter-virus?}
 #{176}{}{Can we change the subject?}
 #{177}{}{Thanks for the information.}
-#{178}{}{As the ＦＥＶ causes constant regenerative update to ＤＮＡ, it
+#{178}{}{As the FEV causes constant regenerative update to DNA, it
 # would effectively render the subject largely immortal, as
 # cell death would be offset by augmented growth.}
 #{179}{}{Additionally, as the gametes of the reproductive system consist
-# of 'half-cells' using split ＤＮＡ, they could be perceived as
-# 'damage' by ＦＥＶ, which would 'repair' them, rendering the
+# of 'half-cells' using split DNA, they could be perceived as
+# 'damage' by FEV, which would 'repair' them, rendering the
 # subject sterile.}
 #{180}{}{However, as my laboratory facilities are damaged beyond repair,
 # this is conjectural. I cannot offer physical proof. You will
 # have to, in human terms, 'take my word for it.'}
-#{181}{}{Could ＦＥＶ mutation be corrected with a counter-virus?}
+#{181}{}{Could FEV mutation be corrected with a counter-virus?}
 #{182}{}{Can we change the subject?}
 #{183}{}{Thanks for the information.}
-#{184}{}{No. ＦＥＶ does not retain unaltered original copies of the subject's
-# ＤＮＡ. Only a virus which re-infected the subject with original
-# ＤＮＡ could reverse the effects. Additionally, there is no known
-# way to remove the ＦＥＶ itself.}
+#{184}{}{No. FEV does not retain unaltered original copies of the subject's
+# DNA. Only a virus which re-infected the subject with original
+# DNA could reverse the effects. Additionally, there is no known
+# way to remove the FEV itself.}
 #{185}{}{What potential long-term side effects exist?}
 #{186}{}{Can we change the subject?}
 #{187}{}{Thanks for the information.}
@@ -180,7 +178,7 @@
 #{198}{}{Level Five: Secure Testing Labs. This level contains a lab for
 # experimental prototype testing and a research lab for classified
 # subjects. These subjects provided some of the necessary impetus
-# for the development of ＦＥＶ.}
+# for the development of FEV.}
 #{199}{}{Tell me about level four.}
 #{200}{}{Tell me about level six.}
 #{201}{}{Back up a bit.}
@@ -220,7 +218,7 @@
 {114}{}{你真的能有感知，你能完全人格化吗，我的意思是，你是“活生生的”？}
 {115}{}{我明白了，谢谢。}
 {116}{}{这些功能都超出我所能掌握的能力。}
-{117}{}{这些２０５５年制造的生物研究设备是用来开发制造新型生物病毒，然而，２０７１年，这些技术设备被美国军方所控制了。}
+{117}{}{这些2055年制造的生物研究设备是用来开发制造新型生物病毒，然而，2071年，这些技术设备被美国军方所控制了。}
 {118}{}{研究有关新型生物病毒，一种更强更先进的病毒，进行更长远的发展，尝试制造一种基因工程病毒，拥有惊人的传染速度。}
 {119}{}{可以告诉我有关这个特殊区域的细节吗？}
 {120}{}{那病毒的工作怎么样？}
@@ -230,7 +228,7 @@
 {124}{}{所以你非常的聪明，恩？}
 {125}{}{你主要研究的细节是什么？}
 {126}{}{谁制造设计了你？}
-{127}{}{我的中枢网络系统是由贾斯汀·李在２０５３年设计的。设计这“程序”是为了把我设计成一台高智能机器。}
+{127}{}{我的中枢网络系统是由贾斯汀·李在2053年设计的。设计这“程序”是为了把我设计成一台高智能机器。}
 {128}{}{你真的能有感知，你能完全人格化吗，我的意思是，你是“活生生的”？}
 {129}{}{我擅长于学习，独立思考，具有创造力。但我的中枢网络也会出现错误为了避免绝对化，让处理问题更为灵活。}
 {130}{}{就某种意义来说，我是“活生生”的，虽然不是从生理上讲。}
@@ -260,34 +258,34 @@
 {154}{}{我的能力远远超过人类。或许我可以很肯定的说，即使人类有十亿年的历史也无法超过我的能力。}
 {155}{}{恩……好。}
 {156}{}{好……我们谈谈其他的吧。}
-{157}{}{我研究的高进化病毒或是ＦＥＶ都是高吸收性病毒，它复制ＤＮＡ的方式就和ＲＮＡ一样，通过生化编码顺序来储存它们。}
-{158}{}{这些生化编码顺序，结合了ＦＥＶ，再次感染到传染性病毒的主体细胞，使得这些主体细胞的ＤＮＡ再生。}
-{159}{}{你怎么得到ＦＥＶ的？}
-{160}{}{为什么ＦＥＶ会被辐射所影响？}
-{161}{}{如果ＦＥＶ通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
-{162}{}{ＦＥＶ不是“吸收”，本质上，它是无法遗传的。一般来说，是通过注射或接触ＦＥＶ样本而被感染的。}
+{157}{}{我研究的高进化病毒或是FEV都是高吸收性病毒，它复制DNA的方式就和RNA一样，通过生化编码顺序来储存它们。}
+{158}{}{这些生化编码顺序，结合了FEV，再次感染到传染性病毒的主体细胞，使得这些主体细胞的DNA再生。}
+{159}{}{你怎么得到FEV的？}
+{160}{}{为什么FEV会被辐射所影响？}
+{161}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{162}{}{FEV不是“吸收”，本质上，它是无法遗传的。一般来说，是通过注射或接触FEV样本而被感染的。}
 {163}{}{我们能谈谈其他的吗？}
-{164}{}{为什么ＦＥＶ没有受到辐射？}
-{165}{}{如果ＦＥＶ通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
-{166}{}{ＦＥＶ是一种氢电离蛋白质外壳的脑系统病毒，它具有高吸收力的中子，不会受到辐射。}
+{164}{}{为什么FEV没有受到辐射？}
+{165}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{166}{}{FEV是一种氢电离蛋白质外壳的脑系统病毒，它具有高吸收力的中子，不会受到辐射。}
 {167}{}{我们能谈谈其他的吗？}
-{168}{}{如果ＦＥＶ通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
-{169}{}{ＦＥＶ的前期是与ＤＮＡ的基因内区相类似，因此它会改变ＤＮＡ的个体。}
-{170}{}{然后ＦＥＶ部分依赖ＤＮＡ的个体，也同时包括自身的一部分循环的基因码，这样的效果是不可预知的。}
+{168}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{169}{}{FEV的前期是与DNA的基因内区相类似，因此它会改变DNA的个体。}
+{170}{}{然后FEV部分依赖DNA的个体，也同时包括自身的一部分循环的基因码，这样的效果是不可预知的。}
 {171}{}{当基因被破坏被接种之后，再受到辐射感染，就会引起身体机能的变化，变得强壮过人，没有成功的就会死亡。}
-{172}{}{对于一般可行的个体，改写他们几ＤＮＡ基因，会加速这种变化，依靠ＦＥＶ自身的方式会循环成长。}
+{172}{}{对于一般可行的个体，改写他们几DNA基因，会加速这种变化，依靠FEV自身的方式会循环成长。}
 {173}{}{这样的循环成长会增强肌肉组织和脑容量，但也同时会造成畸形破坏自然肌体，使得丧失记忆。}
 {174}{}{还有什么长期的潜在作用？}
-{175}{}{ＦＥＶ所造成的变化会被病毒所改变吗？}
+{175}{}{FEV所造成的变化会被病毒所改变吗？}
 {176}{}{我们能换个话题吗？}
 {177}{}{谢谢你的消息。}
-{178}{}{因为ＦＥＶ使得相当数量的ＤＮＡ再生，更有效的让肌体发生变化，细胞的死亡使得肌体壮大成长。}
-{179}{}{那么，再生的配子系统“半细胞”结合了分裂的ＤＮＡ后，它们就会被ＦＥＶ破坏。再进行“修复”成为新的个体。}
+{178}{}{因为FEV使得相当数量的DNA再生，更有效的让肌体发生变化，细胞的死亡使得肌体壮大成长。}
+{179}{}{那么，再生的配子系统“半细胞”结合了分裂的DNA后，它们就会被FEV破坏。再进行“修复”成为新的个体。}
 {180}{}{然后，我的实验设备被破坏了，无法修复，无法进行实验，你必须…用人类的话说，“请相信我。”}
-{181}{}{ＦＥＶ所造成的变化会被病毒所改变吗？}
+{181}{}{FEV所造成的变化会被病毒所改变吗？}
 {182}{}{我们能换个话题吗？}
 {183}{}{谢谢你的消息。}
-{184}{}{不，ＦＥＶ原本的ＤＮＡ源体是不会被它们改变的，只有一种病毒能通过ＤＮＡ才能改变，而且，没有任何已知的方法来去除ＦＥＶ自身。}
+{184}{}{不，FEV原本的DNA源体是不会被它们改变的，只有一种病毒能通过DNA才能改变，而且，没有任何已知的方法来去除FEV自身。}
 {185}{}{到底有什么潜在的长期效果存在呢？}
 {186}{}{我们换个话题吧。}
 {187}{}{谢谢你的消息。}
@@ -301,7 +299,7 @@
 {195}{}{告诉我有关第六层的事。}
 {196}{}{退后一点。}
 {197}{}{谢谢。}
-{198}{}{第五层：安全实验室。这层包括一个模型测试实验室和一个机密研究实验室。这些都是用来研制开发病毒ＦＥＶ的。}
+{198}{}{第五层：安全实验室。这层包括一个模型测试实验室和一个机密研究实验室。这些都是用来研制开发病毒FEV的。}
 {199}{}{告诉我有关第四层的事。}
 {200}{}{告诉我有关第六层的事。}
 {201}{}{退后一点。}
