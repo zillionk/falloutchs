@@ -206,7 +206,7 @@
 {161}{}{有大堆的人正涌到那个酒吧。}
 
 #{162}{}{Fuck you, cop!}
-{162}{}{操你，条子！}
+{162}{}{肏，条子！}
 
 #{163}{}{You gain 400 experience points for stealing Neal's urn. The dead shall
 #never rest in peace.}

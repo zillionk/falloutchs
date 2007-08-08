@@ -87,7 +87,7 @@
 #{128}{Vree21}{Use your Pip-Boy 2000 to read the discs. Insert the disc into the
 #reader. If you have the proper computer skills, you should be able
 #to scan the data.}
-{128}{Vree21}{用你的哔哔小子来读这些磁盘。把盘放到读取器里。如果你有足够的电脑技术，就可以扫描出数据。}
+{128}{Vree21}{用你的哔哔小子2000来读这些磁盘。把盘放到读取器里。如果你有足够的电脑技术，就可以扫描出数据。}
 
 #{129}{}{Where can I learn the computer skills?}
 {129}{}{我在哪可以学到电脑技术？}
