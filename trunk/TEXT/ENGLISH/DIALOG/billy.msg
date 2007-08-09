@@ -4,7 +4,7 @@
 #{100}{}{You see Billy.}
 {100}{}{你看见比利。}
 #{101}{}{Hi there.}
-{101}{}{嘿，你。}
+{101}{}{你好。}
 #{102}{}{Hi, what are you doing?}
 {102}{}{嘿，你在干嘛？}
 #{103}{}{Can I have a brahmin?}
@@ -14,7 +14,7 @@
 #{105}{}{Arg!}
 {105}{}{啊喔！}
 #{106}{}{Ta.}
-{106}{}{切！}
+{106}{}{噶！}
 #{107}{}{Why would you want a brahmin? Do you have a caravan? Well, it doesn't matter. I only take care of them. Dan is the one that owns them; he won't sell them though.}
 {107}{}{你为什么想要双头牛？你有货车吗？算了，这都无所谓。我只是看牛的。丹才是主人；不过他是不会卖的。}
 #{108}{}{Why?}
@@ -32,7 +32,7 @@
 #{114}{}{What's a brahmin?}
 {114}{}{双头牛是什么？}
 #{115}{}{What's a brahmin? You must be joking. Why they're one of the major food sources and forms of transportation around here. They haul the caravans. Dan says this is a really important job, but it's the Bone.}
-{115}{}{双头牛是什么？你在开玩笑吧。我们吃喝运货就靠它。它们还能拖货车。丹说这是真正重要的工作，不过没什么油水。}
+{115}{}{双头牛是什么？你在开玩笑吧。我们吃喝运货就靠它。它们还能拖货车。丹说这是真正重要的工作，我很关键的。}
 #{117}{}{Dan's right. You are doing a great job.}
 {117}{}{丹说得对。你是在做一件重要的工作。}
 #{118}{}{Yea, it looks that way. Have fun.}
