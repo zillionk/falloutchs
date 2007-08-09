@@ -16,7 +16,7 @@
 #{106}{}{No thanks.}
 {106}{}{不，谢了。}
 #{107}{}{That is a shame. Please leave.}
-{107}{}{那真可耻。请你走吧。}
+{107}{}{真懦弱。请你走吧。}
 #{108}{}{Excellent. Sammy here will guide you to the lair. Take these items, they will come in useful. }
 {108}{}{好极了。萨米会带你去它们的窝。拿上这些东西，它们会有用的。}
 #{109}{}{Please help us as soon as possible. Time is wasting.}
