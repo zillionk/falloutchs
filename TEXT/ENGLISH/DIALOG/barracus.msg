@@ -20,23 +20,23 @@
 #{108}{}{Why would I want to talk with someone who goes around killing kids? Get out of my face!}
 {108}{}{我为什么要和到处杀小孩的人说话？从我面前消失！}
 #{109}{}{I hear you're pretty tough. But tough don't impress Ton. You got something to say or you wanna get it on? Let's do it!}
-{109}{}{我听说你很强。但那打动不了唐。你是有话要说还是就开始？快点！}
+{109}{}{我听说你很强。但那不能让唐感兴趣。你是有话要说还是就开搞？快点！}
 #{110}{}{Peace, brother! I'm just checking the place out.}
 {110}{}{安静，兄弟！我只是查看一下这地方。}
 #{111}{}{I'm not interested in impressing you. You got something intelligent to say, say it!}
-{111}{}{我对怎么引起你注意不感兴趣。你有什么事要说，快说！}
+{111}{}{我对怎么引起你注意不感兴趣。你有什么情报要说，快说！}
 #{112}{}{Get it on? Mister, I don't go for scrawny little boys.}
-{112}{}{开始？先生，我不是为了这些瘦孩子而来的。}
+{112}{}{开搞？先生，我不是为了这些瘦孩子而来的。}
 #{113}{}{What do you want?}
 {113}{}{你想要什么？}
 #{114}{}{You talk too much.}
 {114}{}{你话太多了。}
 #{115}{}{You wanna die, and I wanna kill someone. Works for me.}
-{115}{}{你想找死，我想杀人。替我干吧。}
+{115}{}{你想找死，我想杀人。我有活干了。}
 #{116}{}{Waa!}
 {116}{}{哇！}
 #{117}{}{Man, I already talked to you! Take your shit somewhere else!}
-{117}{}{老兄，我已经说过了！去别的地方吧！}
+{117}{}{老兄，我已经和你说过话了！省省吧！}
 #{118}{}{boy}
 {118}{}{男孩}
 #{119}{}{girl}
@@ -52,7 +52,7 @@
 #{124}{}{What will the priests say if they hear you talking like this?}
 {124}{}{如果牧师听到你说这些话，他们会怎么说？}
 #{125}{}{Any time, pal. I've been waiting for a good scrap!}
-{125}{}{任何时候，朋友。我一直在等好事呢！}
+{125}{}{随时奉陪，朋友。我一直在等一场好斗呢！}
 #{126}{}{Hey, what's the problem? A few drinks and we'll be buds!}
 {126}{}{嗨，有什么问题？来点喝的，我们交个朋友！}
 #{127}{}{Did you know that even a child can apply enough pressure to the right spot in your kneecap to cripple you for life? Just thought you'd want to know.}
@@ -70,7 +70,7 @@
 #{133}{}{Fine. The first one of us who says that word dies. Bargain?}
 {133}{}{好吧。我们中谁先说那个词的就得死。怎么样？}
 #{134}{}{Hello, miss. I am Ton, 2,000 pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.}
-{134}{}{你好，小姐。我是唐，主教的最强战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开始吧，宝贝。}
+{134}{}{你好，小姐。我是唐，主教的最强战士。我也被ＦＥＶ改造成了别的东西，这点你会知道的。我们开搞吧，宝贝。}
 #{135}{}{No way in hell.}
 {135}{}{决不可能。}
 #{136}{}{That's a little too fast. Let's get to know each other first.}
@@ -82,11 +82,11 @@
 #{139}{}{Fine. You want to play it straight? Sometimes killing's necessary. Sometimes I even like it. But I hear you love killing . . . all the time. Every time I've met a psycho, either he dies, or Ton dies. Ton is still here. So why don't you go elsewhere.}
 {139}{}{好吧。你想开门见山？有时候杀人是必须的。有时候我甚至喜欢杀人。但我听说你酷爱杀人……任何时候。每次我碰到一个疯子，不是他死，就是唐死。唐现在还活着。所以你还是去别的地方吧。}
 #{140}{}{Man, I could learn to like you. You're either an incredible asshole,or you got guts. Either way is fine with Ton, as long as you don't jam me up. You want to join up?}
-{140}{}{老兄，我可能会喜欢上你。你要不是个英雄，就是个混蛋。两样唐都喜欢，只要你不给我惹麻烦。你想加入我们吗？}
+{140}{}{老兄，我可能会喜欢上你。你要不是个英雄，就是个极品混蛋。两样唐都喜欢，只要你不给我惹麻烦。你想加入我们吗？}
 #{141}{}{Whatever happened to peace and love?}
-{141}{}{和平和爱怎么了？}
+{141}{}{和平和爱也不管了？}
 #{142}{}{What's involved?}
-{142}{}{发生了什么？}
+{142}{}{有什么好处？}
 #{143}{}{No way in hell, pal.}
 {143}{}{决不，朋友。}
 #{144}{}{I'll jam whatever I want, wherever I want. So let's kick out the jams!}
@@ -124,7 +124,7 @@
 #{160}{}{It's not healthy to ask the wrong question, compadre. They have all the answers they want you to hear. People who ask the wrong questions, or people who screw up, well, they don't stay around here very long.}
 {160}{}{兄弟，别问错问题。他们只告诉你他们想说的事。问错问题的人，惹麻烦的人，嗯，他们在这里都呆不长。}
 #{161}{}{I do my job. They like it when I do my job. They like it when street trash and Followers stop breathing. It lets the Nightkin do other things. Don't mess with me . . . it ain't healthy.}
-{161}{}{我做我的事。他们喜欢我做事。他们喜欢街上到处是垃圾，末世论者干个没完。这让夜行团能去做别的事。别把我扯进去……这不好。}
+{161}{}{我做我的事。他们喜欢我做事。他们喜欢街头的混混和末世论者都死绝。这让夜行团能去做别的事。别把我扯进去……这不好。}
 #{162}{}{What are you doing dressed like a zombie? If you got the 'tude, you gotta let it show!}
 {162}{}{你穿得像个僵尸干什么？如果你有礼貌，你得把它表示出来！}
 #{163}{}{I don't care about the clothes, man. I just want to know what's going on here!}
@@ -138,7 +138,7 @@
 #{167}{}{It ain't 'tude. It's a way of death.}
 {167}{}{这不是你的礼貌. 这是想找死。}
 #{168}{}{We don't drink in here. Nightkin don't like it. You better get a few more clues before you talk to Ton again.}
-{168}{}{我们在这里不喝酒。夜行团不喜欢。你最好在和唐谈话前找到更多的线索。}
+{168}{}{我们在这里不喝酒。夜行团不喜欢。你最好在和唐谈话前能明白些基本的道理。}
 #{169}{}{You're crazy! I could almost like you, except that I have the feeling that people who hang around you don't live long. Get the hell out of here.}
 {169}{}{你疯了！我差不多喜欢你了，不过我感觉和你扯上关系的人都活不长。快给我出去。}
 #{170}{}{You stand around this for months and you go crazy as them. What do you want from Ton?}
@@ -150,7 +150,7 @@
 #{173}{}{I am losing it in this zombie pit, and I don't need you helping me. Get the hell away from me.}
 {173}{}{我在这里把它弄丢了，而我不需要你帮我。快走开。}
 #{174}{}{That's Morpheus. He stays upstairs, except to give sermons. He don't even do that much anymore. He's smart and he's a winner, and that's all that counts. Go see him for yourself.}
-{174}{}{那是墨菲斯。他除了布道，一直呆在楼上。他也不常布道。他很聪明，他是个成功者,这才最关键。你自己去找他吧。}
+{174}{}{那是墨菲斯。他除了布道，一直呆在楼上。他也不常布道。他很聪明，也是个成功者，这才最关键。你自己去找他吧。}
 #{175}{}{You need to go out into the Boneyard, pal. Ain't no slosh in here, and I've looked!}
 {175}{}{你得去曝骨场，朋友。这里没有，我已经看过了！}
 #{176}{}{Agree. What can Ton do for you?}
@@ -184,7 +184,7 @@
 #{190}{}{Okay, I'll join up.}
 {190}{}{好吧，我加入。}
 #{191}{}{Someone should put them out of their misery. Like me . . .}
-{191}{}{总得有人把他们从不幸中解救出来。就像我……}
+{191}{}{总得有人结束他们的不幸。就像我……}
 #{192}{}{When we get the word, we go out and kill people. People like the Followers or some of the more dangerous gang types.}
 {192}{}{我们一得到命令，就出去杀人。杀那些末世论者或者更危险一点的帮派之类。}
 #{193}{}{So the Followers are a problem?}
@@ -228,7 +228,7 @@
 #{212}{}{Nobody's gonna do this to me!}
 {212}{}{没人敢对我做这个！}
 #{213}{}{You talk to Morpheus or to Lasher, or you can bother Ton, and Ton give you more violence than you can handle.}
-{213}{}{你和墨菲斯或者拉舍尔谈吧，或者你可以去打扰唐，唐会让你对付不过来的。}
+{213}{}{你和墨菲斯或者拉舍尔谈吧，如果你去打扰唐，唐会让你吃不了兜着走的。}
 #{214}{}{Well baby, what's going on is that there are a lot of zombies chanting, a lot of people dying and the Children are going to take over everything. And there's you and me and nothing else matters!}
 {214}{}{好了宝贝，发生了什么？发生的就是许多僵尸在唱圣歌，许多人死了，大教堂教徒要接管所有东西。还有就是你和我，没别的了！}
 #{215}{}{But Barracas, darling, surely there's more going on than that . . .}
@@ -252,9 +252,9 @@
 #{224}{}{They're cowards. They set ambushes against our patrols. They send spies and saboteurs. They know they can't win a real fight. The Master says we should feel sorry for them, but Ton just want to kill them. Smart man, Ton.}
 {224}{}{他们是些懦夫。他们伏击我们的巡逻队。他们派遣间谍和破坏分子。他们知道他们赢不了真正的战争。主教说我们应该为他们感到难过，但唐只想杀了他们。是个聪明人，唐。}
 #{225}{}{We need discipline, fool! We're soldiers now! We obey orders. Killers die, but soldiers win their battles. We're going to beat the Followers. We're going to beat EVERYONE!}
-{225}{}{我们需要纪律，白痴！我们现在是战士！我们要服从命令。杀手会丧命，而战士会赢得战斗。我们要打败信徒。我们要打败所以人！}
+{225}{}{我们需要纪律，白痴！我们现在是战士！我们要服从命令。杀手会丧命，而战士会赢得战斗。我们要打败末世论者。我们要打败所·有·人！}
 #{226}{}{Who the hell knows? Maybe it's just Morpheus pulling the strings. Things are good, and if this dries up, Ton goes somewhere else.}
-{226}{}{谁他妈知道？也许只是墨菲斯在拉绳子。情况还不错，要是这里不行了，唐就到别的地方去。}
+{226}{}{谁他妈知道？也许只是墨菲斯在操纵。目前情况还不错，要是这里不行了，唐就到别的地方去。}
 #{227}{}{Well, don't get too eager. Even with the Nightkin, it's still tough fighting. But if we play it smart, we get out ahead. That's the only thing Ton cares about.}
 {227}{}{好了，别太激动。就算是和夜行团, 那也是很困难的战斗。但是如果我们干得聪明，我们就能搞定。那是唐唯一关心的事。}
 #{228}{}{The conversion isn't easy. You see these people, all these zombies? They used to be like you and me. Ton survived. These people didn't. But why should Ton care about you?}
