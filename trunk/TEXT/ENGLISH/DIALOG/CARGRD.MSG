@@ -4,7 +4,7 @@
 {100}{}{你看见商队护卫。}
 #{101}{}{I can't believe we lost the boss. Do you want to come back with us?
 # We can still pay you the 400 scripts.}
-{101}{}{老板居然挂了。你愿意跟我们回去吗？我们仍会付你4００瓶盖。}
+{101}{}{老板居然挂了。你愿意跟我们回去吗？我们仍会付你400瓶盖。}
 #{102}{}{It's a shame we lost the Driver; Rutger won't like that one bit.
 # If you want, we can still pay you the same to come back with us to
 # the Hub.}
@@ -15,15 +15,15 @@
 #{104}{}{Well, I don't know about you, but I think I'll wait around for another
 # caravan. I don't want to go back alone. If you want to go back I'll go
 # with you, but if I don't make it you won't get paid the 400 scripts.}
-{104}{}{我不知道你怎么打算的。我可以再这里等下一趟商队，我可不想自己一个人回去。如果你也想回去，我就跟你走，但如果我路上挂了，你就拿不到那4００个瓶盖了。}
+{104}{}{我不知道你怎么打算的。我可以再这里等下一趟商队，我可不想自己一个人回去。如果你也想回去，我就跟你走，但如果我路上挂了，你就拿不到那400个瓶盖了。}
 #{105}{}{That was pretty nasty. If you really want, I can get you another
 # 400 scripts if you come back to the Hub with me. It's dangerous for one
 # person.}
-{105}{}{太糟了。如果你同意，我会再给你4００个瓶盖作为你陪我回哈勃的报酬。一个人走太危险了。}
+{105}{}{太糟了。如果你同意，我会再给你400个瓶盖作为你陪我回哈勃的报酬。一个人走太危险了。}
 #{106}{}{You'll get another 400 scripts if you can get me and the caravan
 # back safely to the Hub, but only if I make it. You've got to cover
 # me if we get in a fight.}
-{106}{}{如果你能帮我和车队安全返回哈勃城，我会再给你4００个瓶盖，但是如果我路上挂了，你就没钱拿了。打仗时，你要掩护我。}
+{106}{}{如果你能帮我和车队安全返回哈勃城，我会再给你400个瓶盖，但是如果我路上挂了，你就没钱拿了。打仗时，你要掩护我。}
 #{107}{}{Okay, I'll go with you.}
 {107}{}{好，我跟你走。}
 #{108}{}{No thanks. I've had enough guard duty.}
@@ -46,24 +46,24 @@
 {116}{}{我觉得你应该去兄弟会的医生那里治疗一下。}
 #{117}{}{We lost the boss. Can you come back with us? We can still pay you
 # the 400 scripts.}
-{117}{}{老板死了，你能跟我们回去么？价钱还是一样，我们会付给你4００个瓶盖。}
+{117}{}{老板死了，你能跟我们回去么？价钱还是一样，我们会付给你400个瓶盖。}
 #{118}{}{Our Driver was a good person . . . a terrible loss. I can still pay
 # you the 400 scripts if you want to come back with us to the Hub.}
-{118}{}{车夫是个好人……没想到，唉，真可怜。你能跟我们回哈勃去吗？价钱还是一样，我们会付给你4００个瓶盖。}
+{118}{}{车夫是个好人……没想到，唉，真可怜。你能跟我们回哈勃去吗？价钱还是一样，我们会付给你400个瓶盖。}
 #{119}{}{I'll get us back if you want to come with us. The pay'll be the
 # same.}
 {119}{}{如果你跟我们走，我会把队伍带回去。给你的工钱照旧。}
 #{120}{}{Wow, I can't believe we're the only two left. I'll go with you,
 # but if I don't make it you won't get paid the 400 scripts.}
-{120}{}{天，没想到只剩下我们两个人了。我会跟你回去，但如果我路上挂了，你就拿不到那4００个瓶盖了。}
+{120}{}{天，没想到只剩下我们两个人了。我会跟你回去，但如果我路上挂了，你就拿不到那400个瓶盖了。}
 #{121}{}{That was pretty nasty. If you really want, I can get you
 # another 400 scripts if you come back to the Hub with me. It's too
 # dangerous for one person.}
-{121}{}{真惨啊。你能跟我回哈勃城去吗？价钱还是一样，我会付给你4００个瓶盖。一个人走太危险了。}
+{121}{}{真惨啊。你能跟我回哈勃城去吗？价钱还是一样，我会付给你400个瓶盖。一个人走太危险了。}
 #{122}{}{You'll get another 400 scripts if you can get me and the caravan
 # back safely to the Hub, but only if I make it. You've got to cover
 # me if we get in a fight.}
-{122}{}{如果你能帮我和商队安全回到哈勃，我会再给你4００个瓶盖，但是如果我路上挂了，你就没钱拿了。记得打仗时要掩护我。}
+{122}{}{如果你能帮我和商队安全回到哈勃，我会再给你400个瓶盖，但是如果我路上挂了，你就没钱拿了。记得打仗时要掩护我。}
 #{123}{}{So, did you change your mind?}
 {123}{}{那么，你改主意了？}
 #{124}{}{Yes, I'll take the job.}
