@@ -1,7 +1,7 @@
 
 #
 # Talking cows special encounter text
-#
+# 谁再敢在这里面加些胡言乱语，一律拖出去谈经济谈党史！！！
 
 
 #{100}{}{Moo.}

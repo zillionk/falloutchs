@@ -56,9 +56,9 @@
 #{126}{}{Let's see what I've got in stock.}
 {126}{}{我看看还有什么存货。}
 #{127}{}{I've got a whole iguana for twenty caps.}
-{127}{}{整个的烤蜥蜴我收二十瓶盖。}
+{127}{}{整个的烤蜥蜴我收28个瓶盖。}
 #{128}{}{I've got prime cut choice for eight caps.}
-{128}{}{精选肉块我收八瓶盖。}
+{128}{}{精选肉块我收8个瓶盖。}
 #{129}{}{I'll take one of the real ones.}
 {129}{}{我来一份整个的。}
 #{130}{}{Nothing for me right now.  I'm on a diet.}
