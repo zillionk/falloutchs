@@ -70,7 +70,7 @@
 #{133}{}{Fine. The first one of us who says that word dies. Bargain?}
 {133}{}{好吧。我们中谁先说那个词的就得死。怎么样？}
 #{134}{}{Hello, miss. I am Ton, 2,000 pounds of the Master's toughest fighter. I have also been evolved by the FEV into something that you need to check out. Let's get it on, baby.}
-{134}{}{你好，小姐。我是唐，主教的最强战士。我也被FＥV改造成了别的东西，这点你会知道的。我们开搞吧，宝贝。}
+{134}{}{你好，小姐。我是唐，主教的最强战士。我也被FEV改造成了别的东西，这点你会知道的。我们开搞吧，宝贝。}
 #{135}{}{No way in hell.}
 {135}{}{决不可能。}
 #{136}{}{That's a little too fast. Let's get to know each other first.}
