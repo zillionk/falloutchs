@@ -265,7 +265,7 @@
 {185}{}{沙荫镇往北一点。}
 
 #{186}{}{Vault 13.}
-{186}{}{１３号避难所。}
+{186}{}{13号避难所。}
 
 #{187}{}{Here and there. I do odd jobs for places which let me stick around.}
 {187}{}{不定，到处打零工，我很少在一个地方多待。}

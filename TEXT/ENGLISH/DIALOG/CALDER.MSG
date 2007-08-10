@@ -15,7 +15,7 @@
 #{105}{}{You'd better go find a doctor, kid. You've got radiation sickness.}
 {105}{}{你得看看医生了，孩子，你辐射得不轻啊。}
 #{106}{}{You know kid, I don't need some tough guy trying to take me out twenty years down the road. Say good-night, brat.}
-{106}{}{老弟，我不想看到你追着我２０年都杀不了我，洗洗睡吧。}
+{106}{}{老弟，我不想看到你追着我20年都杀不了我，洗洗睡吧。}
 #{107}{}{I heard about you. You run around the Wastes killing kids! Help! Nightkin!}
 {107}{}{我听说过你，你在废土上到处杀小孩！救命啊，夜行团！}
 #{108}{}{You're mistaken, child. I'm a good man.}
