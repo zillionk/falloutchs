@@ -20,7 +20,7 @@
 #{108}{}{My name is Christine, I live here with my husband Michael.}
 {108}{}{我的名字是克里斯廷，我和我丈夫迈克尔住在这里。}
 #{109}{}{Razor keeps track of most things with the Blades, and helps us organize ourselves.}
-{109}{}{剃刀了解利刃帮的大部分事情，并且帮助把我们组织起来。}
+{109}{}{剃刀主管利刃帮的大部分事情，并且把我们团结了起来。}
 #{110}{}{Michael and I just moved here, so I haven't seem much of the area.  I've heard about a large church to the South, but it sounds mostly like rumors.}
 {110}{}{迈克尔和我才来这里，所以我还没搞清这个地区。我听说南边有个大教堂，但这听起来像是谣传。}
 #{111}{}{Is there somthing else I should know?}
