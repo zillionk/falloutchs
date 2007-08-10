@@ -66,7 +66,7 @@
 
 #{116}{}{You gain 800 experience points for your unusual hacking procedures.
 # Blackjack!}
-{116}{}{由于你以非常规的手段破解了程序，你获得了8００点经验值。牛！}
+{116}{}{由于你以非常规的手段破解了程序，你获得了800点经验值。牛！}
 
 #{117}{}{You link the radio into the force field control computer.}
 {117}{}{你将无线电连接到力场控制计算机。}

@@ -151,7 +151,7 @@
 
 #{141}{}{It's a big place built into a mountain far to the west.
 #My people have been there for the last 80 years.}
-{141}{}{那是一个建在遥远西面的一座山中的一个很大的地方。我的人民已经在那里居住了8０年了。}
+{141}{}{那是一个建在遥远西面的一座山中的一个很大的地方。我的人民已经在那里居住了80年了。}
 
 #{142}{}{Why do you want to know?}
 {142}{}{你为什么想知道？}
@@ -474,7 +474,7 @@
 
 #{238}{Ara_41}{Of course, I will reward you. Bring her and you
 # will receive 500 in Hub Script. Will you help me?}
-{238}{Ara_41}{当然，我会给你报酬的。把她带回来，你会获得5００哈勃币。你会帮我吗？}
+{238}{Ara_41}{当然，我会给你报酬的。把她带回来，你会获得500哈勃币。你会帮我吗？}
 
 #{239}{}{Okay. Who could have taken her?}
 {239}{}{好吧。谁可能带走她？}
