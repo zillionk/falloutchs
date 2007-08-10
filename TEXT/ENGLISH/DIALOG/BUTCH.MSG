@@ -484,7 +484,7 @@
 #
 {1099}{}{?}
 
-{1199}{}{我可以告诉你：Decker-亚拉德什、Underground-先知达玛、Maltese-坦蒂、Thieves-拉斯洛、Justin-歹徒、Harold-蝮蛇帮、Merchant-可汗帮、Daren-辐射蝎、Crimson-死亡爪、Demetre-迦克镇、Trader-矛、Butch-小镇的哨所、Beth-巢穴、Rutger-辐射蝎、Water-小镇的了望塔、Missing-赛思、Market-先知达玛、Claw-坦蒂、Glow-拉斯洛、Town-歹徒、Heights-蝮蛇帮、Junktown-可汗帮、Killian-辐射蝎、Brotherhood-死亡爪、Elder-迦克镇、Angel's-矛、Adytum-小镇的哨所、Jon-巢穴、Cathedral-辐射蝎、Morpheus-小镇的了望塔、Jain-赛思、Master-先知达玛、Weapon-坦蒂、Bob's-拉斯洛、All-In-One-歹徒、Followers-蝮蛇帮、Harris-可汗帮、Falcon-辐射蝎、Nightclub-死亡爪、Merchant-迦克镇、Hightower-矛、Greene-小镇的哨所、Caravan-巢穴、Romara-辐射蝎、Traders-小镇的了望塔、Tower-赛思、Caravans-先知达玛、Darkwater-坦蒂、Steel-拉斯洛、Angels-歹徒、Boneyard-蝮蛇帮、Zimmerman-可汗帮、Weapons-辐射蝎、Store-死亡爪、guns-迦克镇、Bobs-矛、Iguana-小镇的哨所、Apocalypse-巢穴、Death-辐射蝎、Deathclaw-小镇的了望塔、Hot-赛思、Oldtown-迦克镇、Old-矛、Maxson-小镇的哨所、All-巢穴、Junk-辐射蝎。}
+{1199}{}{我可以告诉你：Decker-德克、Underground-地下组织、Maltese-马耳他猎鹰、Thieves-贼窝、Justin-贾斯廷、Harold-哈罗德、Merchants-纯水商队、Daren-达伦、Crimson-深红商队、Demetre-戴米德、Trader-远行商队、Butch-布奇、Beth-贝斯、Rutger-罗格尔、Water-水源、Missing-失踪、Market-商人市场、Claw-死亡爪、Glow-闪光之地、Town-旧城区、Heights-高地区、Junktown-迦克镇、Killian-基利安、Brotherhood-兄弟会、Elder-最高元老、Angel's-洛杉矶、Adytum-内城区、Jon-琼、Cathedral-大教堂、Morpheus-墨菲斯、Jain-简恩、Master-主教、Weapon-武器、Bob's-鲍勃、All-In-One-百货店、Followers-末世论者、Harris-哈里斯、Falcon-猎鹰、Nightclub-夜总会、Merchant-纯水商队、Hightower-海托、Greene-格林、Caravan-深红商队、Romara-罗玛拉、Traders-远行商队、Tower-海托、Caravans-深红商队、Darkwater-黑水、Steel-钢铁兄弟会、Angels-洛杉矶、Boneyard-晒骨场、Zimmerman-齐默曼、Weapons-武器、Store-商店、guns-枪支、Bobs-鲍勃、Iguana-蜥蜴串、Apocalypse-Apocalypse、Death-死亡爪、Deathclaw-死亡爪、Hot-闪光之地、Oldtown-旧城区、Old-旧城区、Maxson-马克松、All-百货、Junk-迦克镇。}
 
 {1000}{}{Decker}
 {1001}{}{Underground}
@@ -684,7 +684,7 @@
 #{1161}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
 {1161}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
 #{1162}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
-{1162}{BUTCH92}{老城区在东面。瘾君子都在那里出没。}
+{1162}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
 #{1163}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
 {1163}{BUTCH99}{他领导着兄弟会。我就知道这些。}
 #{1164}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
