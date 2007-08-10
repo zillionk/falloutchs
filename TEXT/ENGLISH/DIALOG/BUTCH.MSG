@@ -482,7 +482,9 @@
 #
 # Tell-Me-Abouts
 #
+{1099}{}{?}
 
+{1199}{}{我可以告诉你：Decker-亚拉德什、Underground-先知达玛、Maltese-坦蒂、Thieves-拉斯洛、Justin-歹徒、Harold-蝮蛇帮、Merchant-可汗帮、Daren-辐射蝎、Crimson-死亡爪、Demetre-迦克镇、Trader-矛、Butch-小镇的哨所、Beth-巢穴、Rutger-辐射蝎、Water-小镇的了望塔、Missing-赛思、Market-先知达玛、Claw-坦蒂、Glow-拉斯洛、Town-歹徒、Heights-蝮蛇帮、Junktown-可汗帮、Killian-辐射蝎、Brotherhood-死亡爪、Elder-迦克镇、Angel's-矛、Adytum-小镇的哨所、Jon-巢穴、Cathedral-辐射蝎、Morpheus-小镇的了望塔、Jain-赛思、Master-先知达玛、Weapon-坦蒂、Bob's-拉斯洛、All-In-One-歹徒、Followers-蝮蛇帮、Harris-可汗帮、Falcon-辐射蝎、Nightclub-死亡爪、Merchant-迦克镇、Hightower-矛、Greene-小镇的哨所、Caravan-巢穴、Romara-辐射蝎、Traders-小镇的了望塔、Tower-赛思、Caravans-先知达玛、Darkwater-坦蒂、Steel-拉斯洛、Angels-歹徒、Boneyard-蝮蛇帮、Zimmerman-可汗帮、Weapons-辐射蝎、Store-死亡爪、guns-迦克镇、Bobs-矛、Iguana-小镇的哨所、Apocalypse-巢穴、Death-辐射蝎、Deathclaw-小镇的了望塔、Hot-赛思、Oldtown-迦克镇、Old-矛、Maxson-小镇的哨所、All-巢穴、Junk-辐射蝎。}
 
 {1000}{}{Decker}
 {1001}{}{Underground}
@@ -515,7 +517,7 @@
 {1028}{}{Cathedral}
 {1029}{}{Morpheus}
 {1030}{}{Jain}
-{1031}{}{主教}
+{1031}{}{Master}
 {1032}{}{Weapon}
 {1033}{}{Bob's}
 {1034}{}{All-In-One}

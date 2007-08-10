@@ -6,4 +6,4 @@
 #{102}{}{The explosion just makes the hole larger. It would not be possible to close it now.}
 {102}{}{爆炸把洞口搞得更大了。现在不可能把它封上了。}
 #{103}{}{You earn experience points for using explosives successfully.}
-{103}{}{你因为成功地使用炸药而获得了经验值。}
+{103}{}{你因为成功地使用炸药而获得了经验。}
