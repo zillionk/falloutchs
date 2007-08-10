@@ -1,6 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{You see the Doctor's assistant.}
 {100}{}{你看见医生的助手。}
 #{179}{}{You should see the Doctor.}

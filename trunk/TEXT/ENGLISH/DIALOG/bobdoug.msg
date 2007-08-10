@@ -1,6 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{You see a Knight.}
 {100}{}{你看见一个骑士.}
 #{101}{}{The learning room's right over there if that's what you're looking for.}
