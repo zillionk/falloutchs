@@ -3,35 +3,35 @@
 #{100}{}{You see the Caravan Driver.}
 {100}{}{你看到商队的车夫。}
 #{101}{}{Did you want to return to the Hub? I'll pay you another 400 scripts.}
-{101}{}{你想跟我们返回哈勃城吗？我可以再付你400个瓶盖。}
+{101}{}{你想跟我们返回哈勃城吗？我可以再付你400块。}
 #{102}{}{Rutger should be pleased; we made it without any casualties. Did you
 # want to come back with us? We're almost ready to go. The pay will be
 # another 400 scripts.}
-{102}{}{罗格尔会很高兴的。我们未损一人。你想跟我们回去吗？我们马上就走了。我会再付你400个瓶盖。}
+{102}{}{罗格尔会很高兴的。我们未损一人。你想跟我们回去吗？我们马上就走了。我会再付你400块。}
 #{103}{}{That was easier than I expected. Are you coming back with us?
 # I'm sure another 400 scripts would come in handy.}
-{103}{}{路上比我想像中要简单。你想跟我们回去吗？我会付你400个瓶盖。}
+{103}{}{路上比我想像中要简单。你想跟我们回去吗？我会付你400块。}
 #{104}{}{That wasn't too bad. If you want to come back with us to the Hub,
 # you're welcome to. We'll pay you another 400 scripts.}
-{104}{}{一路上还算顺利。如果你想随我们回哈勃城，我们很欢迎，我会再付你400个瓶盖。}
+{104}{}{一路上还算顺利。如果你想随我们回哈勃城，我们很欢迎，我会再付你400块。}
 #{105}{}{It's always a shame to lose someone. Rutger isn't going to take
 # this well, but we could use your help getting back. Are you interested?
 # Pay's still 400 scripts.}
-{105}{}{路上死了人总让人遗憾。罗格尔可能会不高兴的，但我们回去还用的着你。有兴趣吗？报酬还是400个瓶盖。}
+{105}{}{路上死了人总让人遗憾。罗格尔可能会不高兴的，但我们回去还用的着你。有兴趣吗？报酬还是400块。}
 #{106}{}{Damn! I hate losing good guards. We've got to be more careful
 # on our way back. We've got to cover each other. We can't let this
 # happen again. I'll pay you another 400 scripts. Up for it?}
-{106}{}{他妈的，我最不愿意损失能干的护卫。回去路上我们要小心。要互相掩护，不能再让这种事发生。我会再给你400个瓶盖，有兴趣吗？}
+{106}{}{他妈的，我最不愿意损失能干的护卫。回去路上我们要小心。要互相掩护，不能再让这种事发生。我会再给你400块，有兴趣吗？}
 #{107}{}{Are you able to come back to the Hub with us? I can't risk losing
 # another guard. The pay's 400 scripts. What do you say?}
-{107}{}{你能和我们一起回哈勃城吗？我不能再冒让护卫死的风险了，我给你400个瓶盖，怎么样？}
+{107}{}{你能和我们一起回哈勃城吗？我不能再冒让护卫死的风险了，我给你400块，怎么样？}
 #{108}{}{I really could use your help getting back. Rutger's going to kill
 # me and I don't know if I can make it alone. If you're interested, pay's
 # still 400 scripts. So, what do you say?}
-{108}{}{回途真的需要你的帮助。情况这么糟，罗格尔会杀了我的，我也不清楚这点人能不能走回去。如果你有兴趣，我会付你400个瓶盖，如何？}
+{108}{}{回途真的需要你的帮助。情况这么糟，罗格尔会杀了我的，我也不清楚这点人能不能走回去。如果你有兴趣，我会付你400块，如何？}
 #{109}{}{It's going to be a tough trip back going alone. Would you come
 # back to the Hub with me for another 400 scripts?}
-{109}{}{一个人回去太危险了。你愿意和我一起回去么？我会再付你400个瓶盖。}
+{109}{}{一个人回去太危险了。你愿意和我一起回去么？我会再付你400块。}
 #{110}{}{I can't believe we lost both of the other guards. Rutger and
 # Butch are going to have my ass.}
 {110}{}{我们居然让其他护卫都送了命，罗格尔和布奇会踢烂我的屁股。}
@@ -74,21 +74,21 @@
 {127}{}{很容易挣的钱。你想和我们一起回哈勃城吗？报酬和过来一样，危险也一样。}
 #{128}{}{So, you up for 600 more caps? I've got to head back to the Hub.
 # Hopefully this'll be another easy one.}
-{128}{}{那么，你还想挣600个瓶盖吗？我们正想回哈勃，希望回去的路上不会有麻烦。}
+{128}{}{那么，你还想挣600块吗？我们正想回哈勃，希望回去的路上不会有麻烦。}
 #{129}{}{I knew you'd come back with us. It'll be 600 caps again. You
 # interested?}
-{129}{}{我想你会和我们回去。还是600个瓶盖，有兴趣吗？}
+{129}{}{我想你会和我们回去。还是600块，有兴趣吗？}
 #{130}{}{I hate losing someone like that; that's why we pay the big bucks.
 # This is a dangerous route. Well, Demetre's expecting us back soon. Pay's
 # the same. Do you want to come back with us?}
 {130}{}{我不想像那样死人。所以我们花大钱雇护卫。这条路线很危险。戴米德希望我们早点回去。报酬还是一样，你想跟来吗？}
 #{131}{}{You ready for some more action? This time we won't even get a
 # scratch! I'll give you 600 caps for the trip back to the Hub.}
-{131}{}{你还想找刺激吗？这次我们会毫发不伤的。如果你愿意跟我们回哈勃城，我会付600个瓶盖。}
+{131}{}{你还想找刺激吗？这次我们会毫发不伤的。如果你愿意跟我们回哈勃城，我会付600块。}
 #{132}{}{I know. It's a shame to lose someone, but at least it was in
 # battle. You up for another go at it? We're heading back to the Hub.
 # Give you 600 caps again.}
-{132}{}{我知道，死人总让人遗憾，但毕竟一路上有打仗。你想再保一镖吗？我们回哈勃城，报酬还是600个瓶盖。}
+{132}{}{我知道，死人总让人遗憾，但毕竟一路上有打仗。你想再保一镖吗？我们回哈勃城，报酬还是600块。}
 #{133}{}{Damn, I can't believe we lost both of those guards. Demetre's
 # going to be pissed. The pay will be the same, but I'm heading back
 # soon. So what do you say? You and me kick some butt?}
@@ -96,7 +96,7 @@
 #{134}{}{Now that was a fight, it's a shame about the other two. Demetre
 # won't like these losses but at least we made it. Are you going to be
 # accompanying me back the Hub? It will, of course, pay 600 caps.}
-{134}{}{好一场恶战，很遗憾两个保镖都死了。戴米德不会喜欢这种损失，但至少我们到目的地了。你想送我们回哈勃吗？报酬600个瓶盖。}
+{134}{}{好一场恶战，很遗憾两个保镖都死了。戴米德不会喜欢这种损失，但至少我们到目的地了。你想送我们回哈勃吗？报酬600块。}
 #{135}{}{I love the taste of battle but I hate loosing my troops. Do you
 # think you and I can handle them again? I'm heading out soon -- only
 # down side is that the pay's the same. Sorry, no compensation.}
@@ -115,7 +115,7 @@
 {141}{}{啊。}
 #{142}{}{Why, hello there. Looking for a job? We could use someone to help
 # guard our caravans on the way back to the Hub. The pay's 400 scripts.}
-{142}{}{你好啊，想要工作吗？我们回哈勃需要保镖。单程400个瓶盖。}
+{142}{}{你好啊，想要工作吗？我们回哈勃需要保镖。单程400块。}
 #{143}{}{Okay.}
 {143}{}{好。}
 #{144}{}{No thanks.}
@@ -125,7 +125,7 @@
 #{146}{}{Why, hello there. Looking for a job? We could use someone to help
 # guard our caravans on the way back to the Hub. The pay's 600 caps, but
 # mind you it's normally quite a dangerous trip.}
-{146}{}{你好啊，想要工作吗？我们回哈勃城需要保镖。单程600个瓶盖。要有心里准备，这是很危险的活儿。}
+{146}{}{你好啊，想要工作吗？我们回哈勃城需要保镖。单程600块。要有心里准备，这是很危险的活儿。}
 #{147}{}{Sure.}
 #{148}{}{Yek.}
 #{149}{}{Let me know if you change your mind. We leave at 1400 hours.}
