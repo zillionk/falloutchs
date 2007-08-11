@@ -528,7 +528,7 @@
 {357}{}{茱莉亚娜}                                       #  Julie
 {358}{}{教众}                              #  FolSchol
 {359}{}{教徒}                             #  FolInit
-{360}{}{隐形人侦察兵}                                 #  FlSupMut
+{360}{}{夜行团侦察兵}                                 #  FlSupMut
 {361}{}{大教堂教徒}              #  ChidScol
 {362}{}{大教堂教徒}             #  ChidInit
 {363}{}{教徒侦察兵}                                #  FolScout
@@ -757,8 +757,8 @@
 {466}{}{圆顶机器人}                                      #  MrHandyB
 {467}{}{弗里普}                                           #  Flip
 {468}{}{计算机}                                       #  RobCtrl
-{469}{}{隐形人中士}                              #  VSgTeam9
-{470}{}{隐形人警卫}                                #  VatTeam9
+{469}{}{夜行团中士}                              #  VSgTeam9
+{470}{}{夜行团警卫}                                #  VatTeam9
 {471}{}{计算机}                                       #  VConComp
 {472}{}{勒诺}                                         #  PeasantD
 {473}{}{计算机}                                       #  DemoComp
@@ -813,7 +813,7 @@
 {491}{}{斯拉莫}                                        #Slummer
 {492}{}{扎克}                                           #Zark
 {493}{}{考尔德}                                         # Calder
-{494}{}{隐形人警卫}                                # ChidNite
+{494}{}{夜行团警卫}                                # ChidNite
 {495}{}{装扮奇特的孩子}                         # ChidGAB
 {496}{}{唱诗者}                                        # GenChant
 {497}{}{唐}                                            # Barracus
