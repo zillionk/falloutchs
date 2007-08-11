@@ -80,7 +80,7 @@
 {132}{}{一般人怎样才能加入兄弟会？}
 {133}{}{你们对于我来说真有点不太好理解。}
 {134}{}{我很抱歉你有这样的感受。}
-{135}{}{这是由动力推动的战斗步兵装甲模型T－51b，或者更通俗的说，这是动力装甲。}
+{135}{}{这是由动力推动的战斗步兵装甲模型T-51b，或者更通俗的说，这是动力装甲。}
 #{136}{}{I've been wanderin' the wastes for weeks for weeks now and
 #I've never seen armor like this before.}
 #{137}{}{It looks like it would be cumbersome to wear.}
