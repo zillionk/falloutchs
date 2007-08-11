@@ -50,7 +50,7 @@
 {119}{}{多少钱？}
 #{120}{DECK_6}{
 #Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
-{120}{DECK_6}{噢，棒极了，标准行情是事前付500个瓶盖，事后……再付2500个。}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付500块，事后……再付2500个。}
 #{121}{}{Where can I find this merchant?}
 {121}{}{在哪儿能找到这个商人？}
 #{122}{DECK_7}{
@@ -77,7 +77,7 @@
 {130}{DECK_10}{我必须得承认……对你有点失望。但这种事情我也不是第一次遇见了，你要记住这是秘密，再见。}
 #{131}{DECK_11}{
 #It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
-{131}{DECK_11}{这是标准的行情，事前500个瓶盖，事成后再付2500，你肯做吗？}
+{131}{DECK_11}{这是标准的行情，事前500块，事成后再付2500，你肯做吗？}
 #{132}{}{No, thanks.}
 {132}{}{不，谢谢。}
 #{133}{}{Yeah, I'll do it.}

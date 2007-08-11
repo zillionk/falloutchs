@@ -38,7 +38,7 @@
 #{117}{}{Ugggg uggg!}
 {117}{}{哇！啊！}
 #{118}{}{We pay 600 hub bucks a job! That's each way! Hell, people say we take all the dangerous routes but I say they're the most excitin'! You need a little excitement in your life, am I right? Of course I am!}
-{118}{}{每个任务我们付600个瓶盖！每次都一样！咳，人们总说我们跑着所有危险的路线，但我认为他们有点激动过头了！在你的生活总是需要点小刺激，不是吗？当然我是有的。}
+{118}{}{每个任务我们付600块！每次都一样！咳，人们总说我们跑着所有危险的路线，但我认为他们有点激动过头了！在你的生活总是需要点小刺激，不是吗？当然我是有的。}
 #{119}{}{Hell, I think that's just what I'm lookin' for!}
 {119}{}{是啊，我想这正是我所追求的！}
 #{120}{}{Do you always talk so loud?}
@@ -68,7 +68,7 @@
 #{132}{}{Ha! That's a funny one! Well, if you think you can brave the darkness, come see me.}
 {132}{}{哈！真是个有趣的人！好吧，如果你认为你能勇敢面对黑暗的话，来看看我吧。}
 #{133}{}{Of course it's dangerous -- why else would I fork out 600 bucks?}
-{133}{}{当然这很危险---否则我干嘛要付600个瓶盖呢。}
+{133}{}{当然这很危险---否则我干嘛要付600块呢。}
 #{134}{}{Oh, okay. Bye.}
 {134}{}{噢，好吧。再见。}
 #{135}{}{I'll still take the job.}
