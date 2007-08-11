@@ -1,5 +1,5 @@
 #{100}{}{You see Butch.}
-{100}{}{你看见布奇.}
+{100}{}{你看见布奇。}
 #{101}{}{Tell me about yourself.}
 {101}{}{跟我说说你自己。}
 #{102}{}{Heard any good rumors?}
