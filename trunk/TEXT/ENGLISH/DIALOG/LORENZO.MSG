@@ -237,7 +237,7 @@
 
 #{175}{}{I can't say I'm too impressed. I run an honest, respectable business, and they accuse me of being a
 # thief! The nerve of those people. They think a vow of poverty gives them the right to judge me!}
-{175}{}{我不能说我受到打击。我经营诚实又值得尊重的生意，可他们指责我是窃贼，那些神经病。难道贫穷的誓约就可以赋予他们权利来评判我！}
+{175}{}{我不能说我受到打击。我经营诚实又值得尊重的生意，可他们指责我是窃贼，那些神经病。难道贫穷的宣言就可以赋予他们评判我的权力！？}
 
 #{176}{}{What about those missing caravans?}
 {176}{}{那些失踪的商队怎么样？}
@@ -249,7 +249,7 @@
 {178}{}{地方警察怎么样？}
 
 #{179}{}{Vow of poverty?}
-{179}{}{贫穷的誓约？}
+{179}{}{贫穷的宣言？}
 
 #{180}{}{Tell me about yourself.}
 {180}{}{告诉我关于你自己。}
