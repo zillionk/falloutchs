@@ -1,7 +1,7 @@
 #{100}{}{You see Lasher of the Children.}
 {100}{}{你看见大教堂的教徒之一，拉舍尔。}
 #{101}{}{I know who you are. You are a wicked, evil man and you must be punished.}
-{101}{}{我知道你是谁。你是一个毫无道德的恶徒，你必须受到惩罚。}
+{101}{}{我知道你是谁。你是一个坏事做尽的恶徒，你必须受到惩罚。}
 #{102}{}{}
 {102}{}{ 我知道你是是谁。你是一个藏在女人体内的恶魔，你的外壳是不会拯救你的。}
 #{103}{}{I know who you are. Your wickedness precedes you. You send the souls of children to Hades, before they can be cleansed of their perfidy. It is a black evil that you do, and you must be punished for it.}
@@ -21,7 +21,7 @@
 #{110}{}{}
 {110}{}{你这个棒子很帅啊！这就是别人为什么叫你“拉舍尔”的原因吗？}
 #{111}{}{Is it true that you enjoy abusing children?}
-{111}{}{你真的以虐待大教堂教徒为乐吗？}
+{111}{}{你真的以虐待孩子为乐吗？}
 #{112}{}{}
 {112}{}{你想知道什么是愚蠢？跟我多嘴就是愚蠢，婊子！}
 #{113}{}{Why you talk so funny?}
@@ -33,7 +33,8 @@
 #{116}{}{I seek the guidance of the Cathedral.}
 {116}{}{我寻求大教堂的引导。}
 #{117}{}{I抦 here to talk about your treatment of the Children.}
-{117}{}{我来这是为了和你谈谈大教堂教徒的待遇。}
+#这里的Children应该为小写。原文应该有误。－－seanfx
+{117}{}{我来这是为了和你谈谈虐待孩子的事情。}
 #{118}{}{I just wanted to talk.}
 {118}{}{我只是想谈谈。}
 #{119}{}{Nice rod you've got there! Is that why they call you Lasher?}
@@ -47,39 +48,40 @@
 #{123}{}{Who do you think you are, entering my sanctum with a drawn weapon. Get out!}
 {123}{}{你以为你是谁，居然敢拿着武器进入我的圣地。滚出去！}
 #{124}{}{Forgive me, sir. But the forces of darkness are everywhere, and one never knows when you must defend yourself.}
-{124}{}{原谅我，先生。但是黑暗的原力无处不在，一个人从来不会知道你什么时候必须战胜自己。}
+{124}{}{原谅我，先生。但是黑暗的原力无处不在，一个人从来不会知道什么时候就会遭遇敌人。}
 #{125}{}{I seek the guidance of the Cathedral.}
 {125}{}{我寻求大教堂的引导。}
 #{126}{}{I抦 here to talk about your treatment of the Children.}
-{126}{}{我来这是为了和你谈谈大教堂教徒的待遇。}
+#这里的Children应该为小写。原文应该有误。－－seanfx
+{126}{}{我来这是为了和你谈谈虐待孩子的问题。}
 #{127}{}{I just wanted to talk.}
 {127}{}{我只是想谈谈。}
 #{128}{}{}
 {128}{}{你这个棒子很帅啊！这就是别人为什么叫你拉舍尔的原因吗？}
 #{129}{}{}
-{129}{}{你不喜欢我用武器对着你。你会憎恨我下面将要做的事！}
+{129}{}{你不喜欢我用武器对着你。你会憎恨我将要做的事！}
 #{130}{}{Out? Which way out?}
 {130}{}{出去？从哪出去？}
 #{131}{}{My quarters are not open to those who have not been consecrated. I must ask you to leave at once.}
-{131}{}{我的地方不对那些还没被献给神的人开放。我必须让你马上离开。}
+{131}{}{我的地方不对那些还没向神奉献的人开放。我必须让你马上离开。}
 #{132}{}{Forgive my intrusion, but I have important questions.}
-{132}{}{原谅我的冒失，因为我有重要的问题。}
+{132}{}{原谅我的冒失，但是我有重要的问题。}
 #{133}{}{}
-{133}{}{我来这是为了和你谈谈大教堂教徒的待遇。}
+{133}{}{我来这是为了和你谈谈虐待孩子的问题。}
 #{134}{}{I wanted to ask you about consecration.}
-{134}{}{我想问你关于献祭的事情。}
+{134}{}{我想问你关于向神奉献的事情。}
 #{135}{}{}
 {135}{}{你这个棒子很帅啊！这就是别人为什么叫你拉舍尔的原因吗？}
 #{136}{}{}
 {136}{}{这个地方看起来不够神圣。我还没在这杀过人呢。}
 #{137}{}{}
-{137}{}{你这个蠢货！我已经得到了相当多的献祭！}
+{137}{}{你这个蠢货！我已经得到了相当多的奉献！}
 #{138}{}{That is a privilege reserved for only the most faithful servants. Only baptism is a higher honor.}
 {138}{}{那是一个只为最忠诚的仆人所保留的特权。只有洗礼才是一个更高的荣誉。}
 #{139}{}{And how does one earn baptism?}
 {139}{}{那么一个人怎样才能获得洗礼呢？}
 #{140}{}{I suppose you are teaching the children and preparing them for baptism.}
-{140}{}{我以为你在教育教徒并且为他们准备洗礼呢。}
+{140}{}{你在教育教徒并且为他们准备洗礼？}
 #{141}{}{Can you help me to be baptized?}
 {141}{}{你能帮我让我受洗礼吗？}
 #{142}{}{Wow! You must be special!}
@@ -99,19 +101,19 @@
 #{149}{}{Thank you, sir.}
 {149}{}{谢谢你，先生。}
 #{150}{}{I have ways of getting around these sorts of problems.}
-{150}{}{我有好几个办法解决那些问题。}
+{150}{}{我有办法搞定这个问题。}
 #{151}{}{The rod is a holy instrument, through which I instruct my charges. Pain clears the mind of evil thoughts and allows them to better comprehend the glory of the Master.}
 {151}{}{这个棒是一个神圣的工具，通过它我可以发号施令。痛苦清除头脑中的邪念，并且让头脑充分领悟主教的荣耀。}
 #{152}{}{}
 {152}{}{我明白了。这么说主教是个痛苦喽？}
 #{153}{}{That抯 a horrible thing to do to children!}
-{153}{}{对教徒来说做那件事太可怕了！}
+{153}{}{对孩子们做那件事太可怕了！}
 #{154}{}{Sounds kinky. How about trying some on me?}
 {154}{}{听起来真怪。在我身上试试怎么样？}
 #{155}{}{I instruct the children. It is my duty. All children are wicked beasts. It is my duty to force them into evolve into human beings. Perhaps you have heard that I do not tolerate frivolity. This is true. I want my charges to suffer as much as possible.}
 {155}{}{我教导教徒们。这是我的职责。所有的教徒都是邪恶的野兽。强迫它们进化成人类是我的职责。也许你听说过我不能容忍无聊的琐事。那的确是的。我要我的权力充分地发挥。}
 #{156}{}{And are mutants more evolved than human beings?}
-{156}{}{那么变种人比人类更开化喽？}
+{156}{}{那么变种人比人类更进化喽？}
 #{157}{}{You heartless bastard!}
 {157}{}{你这个残酷的杂种！}
 #{158}{}{You never got laid, did you?}
@@ -217,9 +219,9 @@
 #{208}{}{Hey, I can remove them for you! No one else needs to know!}
 {208}{}{嘿，我能为你改动它们！不必让其他人知道！}
 #{209}{}{You are an evil girl. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{209}{}{你是个邪恶的女人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
+{209}{}{你是个邪恶的女人。你在这里要小心点。夜行团不喜欢抬杠的人。现在，去吧！}
 #{210}{}{You are an evil man. You would do well to tread carefully here. The Nightkin do not enjoy rivals. Now begone!}
-{210}{}{你是个邪恶的人。你要小心地从这走过去。夜行团不喜欢竞争者。现在，去吧！}
+{210}{}{你是个邪恶的人。你在这里要小心点。夜行团不喜欢抬杠的人。现在，去吧！}
 #{211}{}{}
 {211}{}{正义通过挣扎，创伤和恢复获得。我们是动物，我们必须被一直折磨直到我们毫不犹豫地接受主教的真理。现在你已经听到了真理，用你充满经验的肉身去寻找它。离开这里。}
 #{212}{}{Your tongue is a wicked thing that is beyond redemption. Get out of my sight!}
@@ -237,7 +239,7 @@
 #{218}{}{It is said the Master waits below, in the Darkness, for the Light above betrayed Mankind and nearly destroyed us. But many bless the Light, for they say it birthed the Master.}
 {218}{}{据说主教在下面等待，呆在黑暗中，因为上面的光明背叛了人类并且几乎毁灭了我们。但是赞美光明吧，因为人们说是它使主教诞生。}
 #{219}{}{ I do not know these things with certainty, and I have never had the privilege to see him. Now if you will excuse me, I have work to do.}
-{219}{}{ 我不确凿地知道这些事情，而且我从来没有权利去见他。现在，希望得到你的谅解，我要去做我的工作了。}
+{219}{}{ 我不是很清楚，而且我从来没有权利去见他。现在，希望得到你的谅解，我要去做我的工作了。}
 #{220}{}{You were not particularly welcome here in the first place. Good riddance to you.}
 {220}{}{你在这是最不受欢迎的。你离开是件着实的好事。}
 #{221}{}{Once I did, but many of methods were abandoned in favor of the loud noises you hear in the Auditorium amphitheater. It is a source of bitterness for me. Fortunately, I can still instruct the children. Now if you will excuse me, I have to prepare for their lessons.}
