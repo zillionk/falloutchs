@@ -29,7 +29,7 @@
 {108}{}{太晚了，小流氓。你死定了。}
 
 #{109}{}{Uh?yeah?runk厎
-{109}{}{哦？是吗？喏咯。}
+{109}{}{哦？是吗？咯咯。}
 
 #{110}{}{I'm not supposed to be talking to you! Scram!}
 {110}{}{我（有任务）,不能和你闲聊！滚开！}
@@ -46,7 +46,7 @@
 # going to take a stand. Yeah, one of these days the common man is going to give you fatcats a knee to the
 # balls like you deserve. One of these days we'll get you real good?I can't wait?By the way, it's not meant
 # personal. I know you're just doing your job. I'll get out of your face while you do your inspection. Bye.}
-{113}{}{你这个哈勃城的官员真让我不舒服！检查我老板的避难所！接下来，还要提高税务？没有你这些官僚管这管那我们就不能遵纪守法的活着吗？总有一天我们会站起来。是的。总有一天我们这些平民会像踢球一样把你们这些人都踢飞，这都是你们应得的。总有一天，我们会要你好看，嗯？我几乎都等不及了？顺便说一下，我不是对你个人有意见。我知道你仅仅是执行公务。在你履行公务的时候，我会躲得远远的，再见。}
+{113}{}{你这个哈勃城的官员真让我不舒服！检查我老板的避难所！接下来，还要提高税务？没有你这些官僚管这管那我们就不能遵纪守法的活着吗？总有一天我们会站起来。是的。总有一天我们这些平民会像踢球一样把你们这些人都踢飞，这都是你们应得的。总有一天，我们会要你好看，嗯？我几乎都等不及了？顺便说一下，我不是对你个人有意见。我知道你仅仅是执行公务。在你履行公务的时候，我才不鸟你们呢，再见。}
 
 #{114}{}{Don't give me this crap! Get outta here now or I'll have to shoot you!}
 {114}{}{别跟我说这种废话！现在就闪开，不然我真要开枪打你了！}
@@ -66,10 +66,10 @@
 {118}{}{嗯……是……}
 
 #{119}{}{Uh?no.}
-{119}{}{嗯？喏咯？}
+{119}{}{嗯？不？}
 
 #{120}{}{Runk! Runk!}
-{120}{}{喏咯！喏咯！}
+{120}{}{吼吼！吼吼！}
 
 #{121}{}{Man, I can't do it! It'd be like shooting a dumb animal. Just get outta here, okay?}
 {121}{}{伙计，我不能这么干！这就好比打死一个没脑子的畜牲。现在快从这里离开，成不成？}
@@ -79,16 +79,16 @@
 
 #{123}{}{Maybe one runk means "yes" and two runks mean "no". Okay, "runk" means I kill you. "Runk, runk" means
 # you leave. Okay?}
-{123}{}{也许一个喏咯的意思是“是的”而两个喏咯的意思是“不是”。好，“喏咯”的意思是我杀了你。“喏咯，喏咯”的意思是你可以离开。怎么样？}
+{123}{}{也许一个吼吼的意思是“是的”而两个吼吼的意思是“不是”。好，“吼吼”的意思是我杀了你。“吼吼，吼吼”的意思是你可以离开。怎么样？}
 
 #{124}{}{Runk}
-{124}{}{喏咯}
+{124}{}{吼吼}
 
 #{125}{}{Runk, runk.}
-{125}{}{喏咯，喏咯。}
+{125}{}{吼吼，吼吼。}
 
 #{126}{}{Runk, runk, runk!}
-{126}{}{喏咯，喏咯，喏咯！}
+{126}{}{吼吼，吼吼，吼吼！}
 
 #{127}{}{Three runks. Shit, this isn't working. Maybe I'll just ignore you and you'll wander off.}
-{127}{}{三个“喏咯”。狗屎，这根本就不起作用。也许我应该当你不存在，由你自生自灭。}
+{127}{}{三个“吼吼”。狗屎，这是他们的什么破事。也许我应该当你不存在，快滚蛋。}
