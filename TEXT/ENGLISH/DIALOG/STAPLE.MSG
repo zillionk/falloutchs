@@ -24,7 +24,7 @@
 {106}{}{没事，谢谢。}
 
 #{107}{}{Well, let me show you my selection.}
-{107}{}{来看看我的精选吧。}
+{107}{}{来看看我的精选书籍吧。}
 
 #{108}{}{Well, in my studies I have come across some references to such things.  Actually
 # I have in my posession a Holodisk that contains a certain amount of information that you
