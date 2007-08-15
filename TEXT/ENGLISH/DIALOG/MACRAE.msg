@@ -32,14 +32,13 @@
 
 #{108}{}{Well, I'm MacRae.  I help the Blades some against the Deathclaws and that Regulator bunch.
 #  Teach'em a bit about protectin 'emselves against those nasties.}
-{108}{}{嗯，我是麦克雷。我帮助利刃帮对抗死亡爪和那些管理者。教他们如何在那些下流胚面前保护他们自己。}
+{108}{}{嗯，我是麦克雷。我帮助利刃帮对抗死亡爪和那些管理者。教他们如何在那些坏蛋面前保护他们自己。}
 
 #{109}{}{What kind of stuff do you teach them?}
 {109}{}{你教他们什么东西？}
 
 #{110}{}{Have you seen the Deathclaws?}
-{110}{}{你曾经看到死亡爪吗？}
-
+{110}{}{你见到过死亡爪吗？}
 
 #{111}{}{What's the deal with the Regulators}
 {111}{}{管理者有什么问题？}
@@ -80,13 +79,13 @@
 
 #{122}{}{I was thinkin the Deathclaws were the spawn of an unnatural act, but 'em Regulators are evil.  
 #Come once a month or so and they shows their ugly faces and drag a father away from is wee ones.}
-{122}{}{我以前一直认为死亡爪是一些有不正常举动的动物，但是管理者，作为人类，他们却是一帮邪恶的混蛋。他们差不多每月来一次，到这里寻衅滋事，杀人害命，让弱小的孩子们失去父亲的保护。}
+{122}{}{我之前一直认为死亡爪是非自然事件产生的物种，但是管理者，作为人类，他们却是一帮邪恶的混蛋。他们差不多每月来一次，到这里寻衅滋事，杀人害命，让弱小的孩子们失去父亲的保护。}
 
 #{123}{}{Anything I could do to help?}
 {123}{}{我可以帮你做什么？}
 
 #{124}{}{Sounds bad, could I ask you another question?}
-{124}{}{听起来不好，我能问你别的问题吗？}
+{124}{}{听起来是很坏，我能问你别的问题吗？}
 
 #{125}{}{Thanks for the info.}
 {125}{}{谢谢你的信息。}
@@ -96,7 +95,7 @@
 
 #{127}{}{A good group of people is what the Blades are.  Stuck ere between the damn Regulators and the 
 #Deathclaws ain't meant the happiest life for em, but they survive.}
-{127}{}{利刃帮可是一群好人。周旋于那些混蛋管理者和死亡爪之间，对利刃帮来说这并不意所谓着是他们最好的生活，但是他们还是顽强的生活着。}
+{127}{}{利刃帮可是一群好人。周旋于那些混蛋管理者和死亡爪之间，对利刃帮来说这并不意味着是他们最好的生活，但是他们还是顽强的生活着。}
 
 #{128}{}{【MacRae claps you on the back】 Thanks to you, the Blades are going to live a better life.  So, 
 #what can an old Scotsman do for ya?}
