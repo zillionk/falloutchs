@@ -12,7 +12,7 @@
 {102}{}{硬件没有问题，它必须安装软件。}
 
 #{103}{}{You cannot access the robot's functions, as it is disabled.}
-{103}{}{你不能访问机器人的系统，因为它没有被启动。}
+{103}{}{你不能访问机器人的系统，因为它被禁用了。}
 
 #{104}{}{You tinker with the malfunctioning components, but need more time to make
 # the fix.}
@@ -28,13 +28,13 @@
 
 #{107}{}{Unit #462 online. Self-test. Adjusting unit location data. Fixed.
 # Rebuilding memory file. Fixed. Error - task incomplete.}
-{107}{}{462号单位在线。测试。调整单元位置数据。修复。重新建立存储文件。修复。错误－任务不完善。}
+{107}{}{462号单位在线。测试。调整单元位置数据。修复。重新建立存储文件。修复。错误－任务未完成。}
 
 #{108}{}{Rogga.}
 {108}{}{诺嘎。}
 
 #{109}{}{What is your incomplete task?}
-{109}{}{什么是任务不完善？}
+{109}{}{什么是任务未完成？}
 
 #{110}{}{Well, just do it and get out of my way!}
 {110}{}{很好，该干什么干什么，别妨碍我！}
