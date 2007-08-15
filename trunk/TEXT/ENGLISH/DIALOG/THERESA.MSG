@@ -47,7 +47,7 @@
 {115}{}{而我想他选择了你出去是因为他知道你在他的手掌心里！他确实不愿意放弃对我们的控制。}
  
 #{116}{}{I resent that remark!}
-{116}{}{我恨那条注释！}
+{116}{}{我恨这句话！}
 
 #{117}{}{Actually, I think he believes that there's no reason to risk survival outside while it's still safe in here.}
 {117}{}{事实上，我认为他相信在这里还安全的时候没有必要让幸存者出去冒险。}
@@ -89,7 +89,7 @@
 {129}{}{我们很多人是这么想的。这就是为什么我们正在计划搞些补给，准备出去几天看看，你能给我们出些主意吗？}
  
 #{130}{}{Sorry, I haven't really found much out there.}
-{130}{}{抱歉，我并没有在外面找到很多东西。}
+{130}{}{抱歉，我并没有在外面找到什么。}
 
 #{131}{}{You could head to this little village called Shady Sands, a few days east. They might help.}
 {131}{}{你可以到一个叫做沙荫镇的村庄去看看，向东几天路程。他们说不定会有所帮助。}
@@ -128,7 +128,7 @@
 {142}{}{真的？考虑到我们的情况，净水的缺乏以及这避难所最初修建的目的，你觉得我们有什么理由留在这里？}
  
 #{143}{}{It's just a bad idea, is all.}
-{143}{}{这是个坏主意，这就是我想说的。}
+{143}{}{这是个坏主意，完全的坏主意。}
 
 #{144}{}{The outside world is too dangerous to the unprepared. It's best to have time to make proper preparations before going. The Overseer is trying to give the Vault that needed time.}
 {144}{}{外面的世界对于全无准备的人来说太过危险。在出发之前最好做好合适的准备。所长就是在试着给避难所的人们所需要的时间。}
@@ -149,7 +149,7 @@
 {149}{}{抱歉，各位，我不能让你们这么做。}
 
 #{150}{}{Very well. It's your choice.}
-{150}{}{很好。这是你自找的。}
+{150}{}{很好。这是你的选择。}
 
 #{151}{}{It's only a matter of time before we run out of water here. But the Vault was never meant to keep people inside forever! We have the people and the supplies to move outside now. We have a better chance.}
 {151}{}{我们停水只不过是时间问题了。而避难所并不意味着让里面的居民永远停留其中！我们现在有人员和给养转移到外界。我们的有更好的生存机会。}
