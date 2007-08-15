@@ -35,13 +35,13 @@
 {110}{}{呜～哇！}
 
 #{111}{}{I'm sorry，but I don't understand what you want。If you need supplies，you need to have authorization。}
-{111}{}{我很抱歉，但我不知道你需要什么。如果你需要补给，你必须有授权书。}
+{111}{}{我很抱歉，但我不知道你需要什么。如果你需要补给，你必须有授权。}
 
 #{112}{}{Taga ma。}
-{112}{}{喔。}
+{112}{}{塔嘛～}
 
 #{113}{}{Caroo！}
-{113}{}{噢！}
+{113}{}{卡拉～}
 
 #{114}{}{I still don't understand you。Maybe you need to see the Doctor   She's on level two。}
 {114}{}{我还是不明白。你也许需要去看医生，她在第二层。}
@@ -50,7 +50,7 @@
 {115}{}{你应该去看医生。她在第二层。}
 
 #{116}{}{Oh，nothing quite as glorious as our Paladins。I just run the supply room，checking equipment and other supplies out to people。}
-{116}{}{哦，没有什么工作比得上我们的游侠光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
+{116}{}{哦，没有什么工作比得上游侠光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
 
 #{117}{}{I was sent here by ……Bob。He wanted me to get him ……that new high tech weapon-thingy。He said to bring it right away。}
 {117}{}{派我到这里来的人是……鲍勃。他让我帮他取……那个新的高科技武器单元。让我马上拿过去。}
@@ -62,7 +62,7 @@
 {119}{}{哦，那好吧。再见。}
 
 #{120}{}{【Failed Lie】 Bob？Bob who？What are you talking about？What new high tech weapon-thingy？I need more specifics than that，and you must have the who ever it is get me the proper authorization。I cannot give anything without authorization。}
-{120}{}{【说谎失败】鲍勃？鲍勃是谁？你说什么啊？什么新的高科技武器单元？我需要比这更详细的解释，任何时候你必须让那个人给我正确的授权书。没有授权书我不能给你任何东西。}
+{120}{}{【说谎失败】鲍勃？鲍勃是谁？你说什么啊？什么新的高科技武器单元？我需要比这更详细的解释，任何时候你必须让想要的人给我正确的授权。没有授权我不能给你任何东西。}
 
 #{121}{}{【Successful Lie】 Oh，you mean the laser pistol？Okay，hold on a second please。I don't have any authorization from a Bob to give anyone a laser。Oh，wait a second。I get it。Those girls downstairs think they are really funny don't they。I wish they would stop bothering me。}
 {121}{}{【说谎成功】哦，你是说镭射手枪吗？好的，等等……我没有从鲍勃那里得到给任何人一支镭射手枪的授权。哦，等一下。我明白了。楼下那些女孩以为她们真的很会搞笑，不是吗？我希望她们别要再骚扰我。}
@@ -136,16 +136,16 @@
 {143}{}{不，那不太可能。你们女人有时候真让我糊涂。对于男人在我面前作出暗示我都能看出和理解; 但对于女人的暗示，我毫无感觉。无论如何谢谢你。}
 
 #{144}{}{You need to have the proper authorization。only specific people can give authorization to check out items from the supply room。}
-{144}{}{你需要有正确的授权书。只有特定的人有权签发从补给室领用物品的授权书。}
+{144}{}{你需要有正确的授权。只有特定的人有权签发从补给室领用物品的授权。}
 
 #{145}{}{Oh。Okay，thanks。Who do I need to talk to then？}
 {145}{}{哦。好的，谢谢。那我需要找谁谈谈呢？}
 
 #{146}{}{I have been given authorization to check something out。Could you check the terminal to see if it went through yet？}
-{146}{}{我获得了授权书来领些东西。你能检查一下终端，看它是否通过审查了吗？}
+{146}{}{我获得了授权来领些东西。你能检查一下终端，看它是否通过审查了吗？}
 
 #{147}{}{Who can give me authorization？}
-{147}{}{谁能给我授权书呢？}
+{147}{}{谁能给我授权呢？}
 
 #{148}{}{Well，there are quite a few people actually; but Talus is the person you should probably talk to。You might also want to check with Mathia，she might be able to help you，too。}
 {148}{}{嗯，事实上有相当多的人；但塔鲁斯大概是你应该去谈谈的人。或者你找马蒂雅协商一下，她也可能会帮助你。}
@@ -189,7 +189,7 @@
 #{161}{}{Well，here's the drug you had authorization for。Be careful with that。They can become addictive if you use 
 # them too often。Detoxing and withdrawals are not much fun，but I guess they're pretty much the same thing。
 # Use at your own risk。Is there anything else I can do for you？}
-{161}{}{嗯，这是你的授权书上的药品。小心使用那些东西。如果你太频繁使用它们就会上瘾。停止服药和戒除药瘾都不是好玩的，不过，我想它们差不多也就是一回事。使用它还是有风险的。我还能为你做点别的什么吗？}
+{161}{}{嗯，这是你的授权可以获得的药品。小心使用那些东西。如果你太频繁使用它们就会上瘾。停止服药和戒除药瘾都不是好玩的，不过，我想它们差不多也就是一回事。使用它还是有风险的。我还能为你做点别的什么吗？}
 
 #{162}{}{No，that's it。Thanks。}
 {162}{}{不，就这样吧。谢谢。}
@@ -267,13 +267,13 @@
 {186}{}{没什么，再见。}
 
 #{187}{}{Could you ever possibly help me？I don't think so。Get out of my way。}
-{187}{}{你以曾经帮过我吗？没有，你根本没帮过我什么。别挡路，滚！。}
+{187}{}{你以曾经帮过我吗？没有，你根本没帮过我什么。滚！}
 
 #{188}{}{Okay，let me see here。}
 {188}{}{好的，让我看看。}
 
 #{189}{}{Ah，yes。You do have authorization to check something out。}
-{189}{}{哦，是的。你有领用一些物品的授权书。}
+{189}{}{哦，是的。你有领用一些物品的授权。}
 
 #{190}{}{Well actually。Sophia has been in need of some Pulse grenades but I haven't had a chance to run them down to her yet。 Do you think you could run them down for me？}
 {190}{}{嗯，说实话，索菲娅需要一些脉冲手榴弹，但我还没有机会把它们交给她。你替我送过去，如何？}
@@ -429,7 +429,7 @@
 {240}{}{我在找一个动力装甲驱动器。}
 
 #{241}{}{Do you have the proper authorization？}
-{241}{}{你有正确的授权书吗？}
+{241}{}{你有正确的授权吗？}
 
 #{242}{}{Yes。I was sent up here to get a Systolic Motivator。}
 {242}{}{是的。有人派我来这里取一个动力装甲驱动器。}
@@ -459,7 +459,7 @@
 {250}{}{你不能？指令昨天应该就下达了。你看能帮我想个办法吗？如果我取不到这个部件，我的屁股就要挨板子。我向你保证那个表格今天晚些时候就会到这里。}
 
 #{251}{}{OK。Here you go。Just don't tell anyone that I gave this to you。 Rhombus would have my head if he knew I had given the parts out without proper authorization。}
-{251}{}{好的，你拿去吧。你不要告诉任何人我给了你这个。隆伯斯要是知道我没有正确的授权书就给你这个部件，他会要我的脑袋。}
+{251}{}{好的，你拿去吧。你不要告诉任何人我给了你这个。隆伯斯要是知道我没有正确的授权就给你这个部件，他会要我的脑袋。}
 
 #{252}{}{Thank you。Bye。}
 {252}{}{谢谢你。再见。}
@@ -479,7 +479,7 @@
 {256}{}{只管把它给我。}
 
 #{257}{}{If you don't have authorization you can not get replacement parts。} 
-{257}{}{如果你没有授权书，你不能领走零部件。} 
+{257}{}{如果你没有授权，你不能领走零部件。} 
 
 #{258}{}{Come on？Please。I really need this part。}
 {258}{}{快点吧？拜托。我真的需要这个部件。}
@@ -497,7 +497,7 @@
 {262}{}{不。}
 
 #{263}{}{You can tell him that when he gets that unit back to its original glory，then and only then will he get the authorization he needs。Good Bye。}
-{263}{}{你可以告诉他，只有当他把那件动力装甲修好恢复它原先的光彩后，他才会获得需要的授权书。再见。}
+{263}{}{你可以告诉他，只有当他把那件动力装甲修好恢复它原先的光彩后，他才会获得需要的授权。再见。}
 
 #{264}{}{You don't。First Kyle needs to see the Unit in need of repair。
  # If he feels the repair is warranted he then puts in a parts request。
