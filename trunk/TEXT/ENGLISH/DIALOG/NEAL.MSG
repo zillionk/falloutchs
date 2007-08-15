@@ -20,7 +20,7 @@
 {105}{}{打鼾声}
 
 #{106}{}{Welcome to the Skum Pitt. What can I do ya for?}
-{106}{}{欢迎来到萨姆·匹特。我能为你做些什么？}
+{106}{}{欢迎来到斯卡姆·匹特。我能为你做些什么？}
 
 #{107}{}{Uh, I'll have a drink.}
 {107}{}{呃，我要来一杯。}
@@ -59,12 +59,12 @@
 {118}{}{那角落里凶神恶煞的人是谁？}
 
 #{119}{}{Who're the jerks?}
-{119}{}{那个性情古怪的家伙是谁？}
+{119}{}{这帮孙子是谁？}
 
 #{120}{}{【Neal looks at you quizzically for a moment.】 Haven't you ever seen a bar
 # before, stranger? This is my place, the Skum Pitt. You buy drinks here. And you
 # tip me.}
-{120}{}{【尼尔上下打量了你一阵子。】你从没来过酒吧吗，我没见过你？这是我的地盘，萨姆·匹特。买饮料的话，要收小费。}
+{120}{}{【尼尔上下打量了你一阵子。】你从没来过酒吧吗，我没见过你？这是我的地盘，斯卡·匹特。买饮料的话，要收小费。}
 
 #{121}{}{Uh, right. I knew that. So, can I get a drink?}
 {121}{}{啊，好的。我知道了。那么，给我来一杯？}
@@ -97,7 +97,7 @@
 
 #{129}{}{Fella's called Tycho. Apparently a ranger from back east or something.
 # Pretty nasty fighter, from what I hear, but a straight-up character.}
-{129}{}{小伙子被称为提可。显然是从东方来的一个守林人。我听说他是一个相当野蛮的斗士。}
+{129}{}{小伙子被称为提可。显然是从东方来的一个流浪者。我听说他是一个相当野蛮的斗士。}
 
 #{130}{}{Mind if I ask some other questions?}
 {130}{}{是否介意我问些别的问题？}
@@ -110,11 +110,11 @@
 {132}{}{这是你的。享受吧。}
 
 #{133}{}{Hey! You stole my urn!}
-{133}{}{嘿！你偷了我老婆！}
+{133}{}{嘿！你偷了我的瓮！}
 
 #{134}{}{That's not a trophy, it's an urn. It contains my wife's ashes -
 # besides this bar, it is the most important thing in my life.}
-{134}{}{那并不是缸子，而是个骨灰盒。里面盛着我老婆的骨灰－是有这个酒吧之外我生命中最重要的东西了。}
+{134}{}{那并不是装饰物，而是个骨灰盒。里面盛着我老婆的骨灰－是有这个酒吧之外我生命中最重要的东西了。}
 
 #{135}{}{Anything else?}
 {135}{}{还有别的事吗？}
@@ -148,7 +148,7 @@
 {144}{}{我把你的“老婆”找回来了。}
 
 #{145}{}{Some slime stole it. It wasn't a trophy, it was an urn. It contained my wife's ashes - besides this bar, it was the most important thing in my life.}
-{145}{}{哪些个杂碎偷走了它。那并不是个玩意儿，那是个骨灰盒。我老婆住在里面－除了这个酒吧那是我生命中最重要的东西了。}
+{145}{}{哪些个杂碎偷走了它。那并不是个装饰品，那是个骨灰盒。我老婆住在里面－除了这个酒吧那是我生命中最重要的东西了。}
 
 #{146}{}{Get the hell outta here you goddamn punks! If any of ya ever touch her
 # again I'll kill the whole lot o' ya!}
