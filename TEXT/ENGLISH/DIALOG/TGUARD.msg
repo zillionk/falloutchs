@@ -6,7 +6,7 @@
 #{101}{}{Hey, I think you'd better be leaving. We don't want your kind here.}
 {101}{}{嘿！我认为你最好离开这儿。我们不希望有你这样的人在这里。}
 #{102}{}{I can't believe that Tandi has disappeared. I hope you are going to find her. It would really hurt Aradesh if something bad happened to her.}
-{102}{}{我不相信坦蒂失踪了。我希望你能找找她。如果有什么不好的事发生在亚拉德什身上，她会很受打击的。}
+{102}{}{难以相信，坦蒂居然失踪了。我希望你能找找她。如果有什么不好的事发生在她身上，亚拉德什会很受打击的。}
 #{103}{}{Thanks for returning Tandi. It's a good sign for the future, don't you think?}
 {103}{}{谢谢你送回了坦蒂。这是个好兆头，对吧？}
 #{104}{}{That's a damn shame about Tandi. I hope Aradesh will be ok.}
@@ -48,7 +48,7 @@
 #{122}{}{We don't want your kind here. Go back to wherever you came from.}
 {122}{}{我们不想让你这样的人呆在这里。哪儿来的就回哪儿去！}
 #{123}{}{Hey, no need for weapons. We don't look too kindly on those around here.}
-{123}{}{嘿！别拿武器，要不我们在当地人眼中不够友善。}
+{123}{}{嘿！别拿武器，我们当地人对外面来的人也不会太友善的。}
 #{124}{}{Hey, you didn't turn out to be such a bad person after all. Have a nice day.}
 {124}{}{嘿！事实证明你并不是个坏人。祝你过得愉快。}
 #{125}{}{I really wish you would just leave town.}

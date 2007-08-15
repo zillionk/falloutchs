@@ -32,7 +32,7 @@
 #{114}{}{Great doin' business with you. Come again.}
 {114}{}{跟你做交易真不错。欢迎在再来。}
 #{115}{}{Whatever.}
-{115}{}{随便吧。}
+{115}{}{随你。}
 #{116}{}{Keep in touch!}
 {116}{}{保持联系！}
 #{117}{}{What?}
