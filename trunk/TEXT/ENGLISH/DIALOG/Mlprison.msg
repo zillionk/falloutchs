@@ -15,10 +15,10 @@
 {103}{}{囚犯根本没有理会你和他说话。}
 
 #{104}{}{He looks wildly at you for a moment, and then turns away.}
-{104}{}{他用野蛮的眼神看了你一会，然后扭头回去了。}
+{104}{}{他用毫无顾忌的眼神看了你一会，然后扭头回去了。}
 
 #{105}{}{She looks at you for a moment, and then drools.}
-{105}{}{她看了你一会，然后开始流口水。}
+{105}{}{她看了你一会，然后开始流口水说胡话。}
 
 #{106}{}{You get no response.}
 {106}{}{你没有得到回应。}
@@ -61,7 +61,7 @@
 {118}{}{你不记得上周骗我的小手段了吗？上次我没有上当，这次也不会。}
 
 #{119}{}{What? No cowl to hind behind? Your traitorous nature is self-evident.}
-{119}{}{什么？没有穿长袍？你被判了自然是自私的。}
+{119}{}{什么？没有穿长袍？你就是坏人！}
 
 #{120}{}{I'm here to free you.}
 {120}{}{我是来让你们获得自由的。}
@@ -77,7 +77,7 @@
 {123}{}{我不会出卖我们的人，你可以要了我的命，但是不能让我违背良心。}
 
 #{124}{}{You really don't get it. I'm a human being, here to rescue here.}
-{124}{}{你真的不用。我是一个人类，到这里来救你们。}
+{124}{}{你真的不明白嘛。我是一个人类，到这里来救你们。}
 
 #{125}{}{I don't even have to force you to rot in hell. You're doing a fine
 # job on your own.}
