@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a technician. He is working diligently for the Unity and the Master.}
-{100}{}{你看见一个技师。他正在勤奋的为主教的团体工作。}
+{100}{}{你看见一个技师。他正在勤奋的为主教的“同一事业”工作。}
 
 #{101}{}{We do the work of the Master.}
 {101}{}{我们为主教而工作。}
@@ -14,7 +14,7 @@
 {103}{}{主教！一个入侵者！}
 
 #{200}{}{You see Viscious, a super mutant leader. He looks mean.}
-{200}{}{你看见一个超级变种人队长。他看起来让人感到恶心。}
+{200}{}{你看见超级变种人队长维舍斯。他看起来让人感到恶心。}
 
 #{201}{}{You see a mean-looking super mutant.}
 {201}{}{你看见一个让人恶心的超级变种人。}
@@ -69,16 +69,16 @@ Master now.}
 {217}{}{中尉没来得及给我一个。}
 
 #{218}{}{Ah, humor, I like that. 【pauses】 I do not have one, obviously. Youneed to go get one from the braindrains on the second level. Unity prevails.}
-{218}{}{啊，有意思，我喜欢。【停顿】很明显我没有。你需要到二层的洗脑室去拿一个。“同一”必胜！}
+{218}{}{啊，幽默，我喜欢。【停顿】很明显我没有。你需要到二层的洗脑室去拿一个。“同一”必胜！}
 
 #{219}{}{Then he was a fool, or you are not who you seem to be. What is it?}
-{219}{}{要么他是个笨蛋，要么你可能另有阴谋，你到底是怎么回事？}
+{219}{}{要么他是个笨蛋，要么你有问题，你到底是怎么回事？}
 
 #{220}{}{Obviously, he is a fool.}
 {220}{}{很明显，他是个白痴。}
 
 #{221}{}{The second part.}
-{221}{}{第二层。}
+{221}{}{第二个可能。}
 
 #{222}{}{Move alone and continue your mission. I haven't the time for you.}
 {222}{}{快走，继续你的任务。我没时间和你耗了。}
