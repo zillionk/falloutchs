@@ -5,7 +5,7 @@
 {100}{}{你看见山谬，内城区中拾荒者的一员。}
 
 #{101}{}{You see a grungy man in dark blue clothes.}
-{101}{}{你看见一个穿着暗蓝色衣服的猥琐男。}
+{101}{}{你看见一个穿着暗蓝色衣服的邋遢男人。}
 
 #{102}{}{Hey, I don't believe we've met. You are?}
 {102}{}{嘿，我不认为我见过你。你是？}
@@ -36,7 +36,7 @@
 
 #{111}{}{I'm a Scav -- a scavenger. My job is to search out all of
 # the Boneyard for useful items and information. Dangerous work.}
-{111}{}{我是一个拾荒者——一个捡垃圾的。我的工作是找出大墓地中那些还利用价值的东西。这是很危险的工作。}
+{111}{}{我是一个拾荒者——一个捡垃圾的。我的工作是找出晒骨场中那些还利用价值的东西。这是很危险的工作。}
 
 #{112}{}{Why is it dangerous?}
 {112}{}{为什么危险？}
@@ -115,13 +115,13 @@
 
 #{133}{}{The Followers preach peace and tolerance. Nice idea, but
 # impractical. They live in a big library to the north-west of us.}
-{133}{}{那些信徒鼓吹和平与宽容。虽然主意不错，不过不可能实行。他们住在西北方向的一个大图书馆里。}
+{133}{}{那些末世论者鼓吹和平与宽容。虽然主意不错，不过不可能实行。他们住在西北方向的一个大图书馆里。}
 
 #{134}{}{The Children of the Cathedral are based out of a big church
 # a ways to the south of here. There are some strange things
 # going on there. I've seen creatures that can't be human
 # coming in and out of there.}
-{134}{}{教徒的基地在从这里向南一段路的一个大教堂里。那里在进行一些奇怪的事。我看到一些非人类的生物在那里出出进进的。}
+{134}{}{大教堂教徒的基地在从这里向南一段路的一个大教堂里。那里在进行一些奇怪的事。我看到一些非人类的生物在那里出出进进的。}
 
 #{135}{}{And if the stories are right, the church is built over
 # an old Vault, which Adytum's predecessors lived in.}
