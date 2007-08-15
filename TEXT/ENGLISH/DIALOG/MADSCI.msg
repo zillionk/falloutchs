@@ -204,7 +204,7 @@
 {302}{}{哼！什么？【擦眼睛】文森特，把这个野蛮人从我们的房间弄走！}
 
 #{303}{}{Huh? 【snort】 ...zzzzzzzzz}
-{303}{}{哼？【打鼾】……zzzzzz}
+{303}{}{哼？【打鼾】……Zzzzzz}
 
 #{400}{}{You see Vincent. He is guarding the sleeping mads.}
 {400}{}{你看见文森特．他正在守护着疯狂的科学家。}

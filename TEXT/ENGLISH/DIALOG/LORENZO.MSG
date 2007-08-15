@@ -20,10 +20,10 @@
 {105}{}{请再给我一些时间！}
 
 #{106}{}{I want to pay off my loan of }
-{106}{}{我想要还清我的贷款}
+{106}{}{我想要还清我}
 
 #{107}{}{ bucks.}
-{107}{}{ 瓶盖。}
+{107}{}{块的贷款。}
 
 #{108}{}{I don't have it with me.}
 {108}{}{我身上没有钱。}
@@ -305,19 +305,19 @@
 {196}{}{忘了它，你的信用度太低。从我眼前消失，别再回来了。}
 
 #{197}{}{Fine. One thousand bucks.  You've got 10 days to repay it.}
-{197}{}{好。一千元。你有10天时间偿还它。}
+{197}{}{好。一千块。你有10天时间偿还它。}
 
 #{198}{}{Fine. Eight hundred bucks.  You've got 10 days to repay it.}
-{198}{}{好。八百元。你有10天时间偿还它。}
+{198}{}{好。八百块。你有10天时间偿还它。}
 
 #{199}{}{Fine. Six hundred bucks.  You've got 10 days to repay it.}
-{199}{}{好。六百元。你有10天时间偿还它。}
+{199}{}{好。六百块。你有10天时间偿还它。}
 
 #{200}{}{Fine. Four hundred bucks.  You've got 10 days to repay it.}
-{200}{}{好。四百元。你有10天时间偿还它。}
+{200}{}{好。四百块。你有10天时间偿还它。}
 
 #{201}{}{Fine. Two hundred bucks.  You've got 10 days to repay it.}
-{201}{}{好。二百元。你有10天时间偿还它。}
+{201}{}{好。二百块。你有10天时间偿还它。}
 
 #{202}{}{Too bad. Feel free to employ our services at a later time.}
 {202}{}{太糟糕了。这么晚才来接受我们的服务。}
@@ -453,7 +453,7 @@
 {245}{}{再见，朋友！}
 
 #{246}{}{Hey, hey, hey... take your hands off that door, freak!}
-{246}{}{嘿，嘿，嘿．．．把你的脏手从门上拿开，变态！}
+{246}{}{嘿，嘿，嘿……把你的脏手从门上拿开，变态！}
 
 #{247}{}{That's it, freak! You will pay for that!}
 {247}{}{是的，变态！你会为此付出代价！}

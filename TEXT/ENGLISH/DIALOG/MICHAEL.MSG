@@ -494,7 +494,7 @@
 {261}{}{是的。}
 
 #{262}{}{No。}
-{262}{}{不。}
+{262}{}{没有。}
 
 #{263}{}{You can tell him that when he gets that unit back to its original glory，then and only then will he get the authorization he needs。Good Bye。}
 {263}{}{你可以告诉他，只有当他把那件动力装甲修好恢复它原先的光彩后，他才会获得需要的授权。再见。}
