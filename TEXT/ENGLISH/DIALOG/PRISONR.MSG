@@ -45,7 +45,7 @@
  # in the cell next door that leads to the old vault. This is
  # the source of the water. If it wasn't for those
  # ones below, we would be a lot better off.}
-{119}{}{他们从下面的井里把水抽出来。在隔壁的牢房里有一个人能通过的小洞，通向旧避难所。这就是水的来源。如果水源不是被下面的家伙使用，我们的境况会好多了。}
+{119}{}{他们从下面的井里把水抽出来。在隔壁的牢房里有一个人能通过的小洞，通向旧避难所。这就是水的来源。如果不是下面的那些家伙，我们的境况会好多了。}
 #{120}{}{What do you mean?}
 {120}{}{你是什么意思？}
 #{121}{}{Thanks.}
