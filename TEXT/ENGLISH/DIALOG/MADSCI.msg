@@ -18,12 +18,10 @@
 
 #{105}{}{What?! You dare question me? How about I experiment on your brain,
 # you twisted skag?!}
-{105}{}{什么？！你胆敢质问我？你这个废物！让我拿你的脑子做做实验怎么样？}
-
+{105}{}{什么？！你胆敢质问我？你这个坏家伙！让我拿你的脑子做做实验怎么样？}
 
 #{106}{}{Gack.}
 {106}{}{咯咯。}
-
 
 #{107}{}{You, again? And why are you disturbing the Master's glorious
 # future this time?}
@@ -31,7 +29,7 @@
 
 #{108}{}{The Master grows impatient with your failures, and I with your
 # impudence!}
-{108}{}{主教对你的失败越来越不耐烦了，而我也对你的二皮脸越来越讨厌了！}
+{108}{}{主教对你的失败越来越不耐烦了，而我也对你的厚颜无耻越来越讨厌了！}
 
 #{109}{}{I want to know what's happening with your experiments.}
 {109}{}{我想要知道你的实验怎么样了。}
@@ -40,11 +38,11 @@
 {110}{}{没错儿，我此时此刻就是要给你的人生画上一个句号的，你这个笨蛋！}
 
 #{111}{}{Oofah!}
-{111}{}{啊哈！}
+{111}{}{啊！}
 
 #{112}{}{It's not going well. I've been injecting the FEV directly into the
 # pineal gland, but I'm not getting the results I'd hoped for.}
-{112}{}{进展并不顺利。我曾经把FEV病毒直接注射到松果体，但是没有得到我所期待的结果。}
+{112}{}{进展并不顺利。我一直在把FEV病毒直接注射到松果体，但是没有得到我所期待的结果。}
 
 #{113}{}{Why don't you try injecting it  into the Amygdala?}
 {113}{}{你为什么不试试把它注射到扁桃腺？}
@@ -72,7 +70,7 @@
 # ability. 【shakes his head】 But the poor souls become terminally insane and
 # must be sequestered and nullified to keep them from harming themselves or
 # others.}
-{120}{}{主教真理被揭示了, 造成了精神能力的增强。【摇头】但是那些可怜的灵魂变得极端的狂暴，所以他们必须被隔离，被废掉，这样才会保证他们不伤害自己或其它人。}
+{120}{}{主教真理被揭示了，精神能力会增强。【摇头】但是那些可怜的灵魂会变得极端的狂暴，所以他们必须被隔离，被销毁，这样才会保证他们不伤害自己或其它人。}
 
 #{121}{}{Oh, how thoughtful of you...}
 {121}{}{哦，你想的真周到啊……}
@@ -82,7 +80,7 @@
 
 #{123}{}{You heartless butcher! I think I'll nullify your brain and sequester
 # it from the rest of your body! Die, you bastard!}
-{123}{}{你这个无情的刽子手! 我倒是要把你的脑子从你的身体里隔离出来然后废掉!去死，你这个杂种！}
+{123}{}{你这个无情的刽子手! 我倒是要把你的脑子从你的身体里隔离出来然后销毁!去死，你这个王八操的！}
 
 
 #{124}{}{In a room northwest of here. Is there anything else I can help you with?}
@@ -171,7 +169,7 @@
 #{150}{}{【shakes his head】 Alas, the poor souls become terminally insane and
 # must be sequestered and nullified to keep them from harming themselves or
 # others.}
-{150}{}{【摇头】哎，那些可怜的灵魂变得极端的狂暴，所以他们必须被隔离，被废掉，这样才会保证他们不伤害自己或其它人。}
+{150}{}{【摇头】哎，那些可怜的灵魂会变得极端的狂暴，所以他们必须被隔离，被废掉，这样才会保证他们不伤害自己或其它人。}
 
 #{151}{}{Oh, how thoughtful of you...}
 {151}{}{噢，你想的真周到啊……}
