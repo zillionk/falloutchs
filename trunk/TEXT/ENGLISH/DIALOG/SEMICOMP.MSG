@@ -27,6 +27,6 @@
 {109}{}{随机数正在通过一个连接到这个系统的屏幕显示出来。}
 #{110}{}{This computer is making the worst noise you have ever heard. The
 # word 'Jared' is displayed on the monitor.}
-{110}{}{这台电脑正在发出你曾听过的最糟糕的噪声。文字“冲突”被显示在监视器上。}
+{110}{}{这台电脑正在发出你曾听过的最糟糕的噪声。文字“加雷德”被显示在监视器上。}
 #{111}{}{Half of this computer is black and charred from an old fire.}
 {111}{}{这台电脑的一半是黑的，是被过去的一场火烧焦的。}
