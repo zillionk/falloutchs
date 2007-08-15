@@ -11,6 +11,7 @@
 # {107}{}{Aargh!}
 # {200}{}{You gain }
 # {201}{}{ experience points for finding the secret door.}
+
 {100}{}{你在门框里找到一个简单的爆破装置。}
 {101}{}{你关闭了这个爆破陷阱。}
 {102}{}{你解除了陷阱。}
