@@ -43,7 +43,7 @@
 
 #{112}{}{Now that I've been outside, are there any laws that
 # apply specifically to me?}
-{112}{}{我现在在外面，法律能把我怎么样？}
+{112}{}{我现在在外面，有什么特别的法律管我？}
 
 #{113}{}{I've seen some places on the outside world that suffer
 # because they have no laws.}
