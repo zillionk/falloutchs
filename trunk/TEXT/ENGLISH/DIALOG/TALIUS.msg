@@ -17,10 +17,10 @@
 {104}{}{哼？}
 
 #{105}{}{Me }
-{105}{}{我}
+{105}{}{我系}
 
 #{106}{}{. Me }
-{106}{}{。我}
+{106}{}{。我系}
 
 #{107}{}{.}
 {107}{}{。}
@@ -64,7 +64,7 @@
 {119}{}{呀。是你！}
 
 #{120}{}{You hep. You hep!}
-{120}{}{你消息很灵通。你消息很灵通！}
+{120}{}{你啊。你啊！}
 
 #{121}{}{Here. Take these pretty pills. Make you smarter.}
 {121}{}{这里。吃下这些漂亮的药丸，可以使你更聪明。}
@@ -80,11 +80,11 @@
 {124}{}{唔？}
 
 #{125}{}{Brain hurt. Me kill you. Take brain.}
-{125}{}{大脑受伤。我杀你。拿大脑。}
+{125}{}{大脑痛痛。我杀你。拿大脑。}
 
 #{126}{}{I am here to assist these good people in understanding the workings
 # of the Children of the Cathedral.}
-{126}{}{我在这里协助这些好人了解大教堂教徒的工作。}
+{126}{}{我在这里协助这些好人理解大教堂教徒的所作所为。}
 
 #{127}{}{So you are a spy for the Children?}
 {127}{}{因此你是教徒的间谍？}
@@ -270,11 +270,11 @@
 
 #{182}{}{That is good news indeed to hear. I am overjoyed to hear the destruction
 # of one evil and a town set free. Please, take this.}
-{182}{}{那的确是个好消息。我很高兴听到了破坏邪恶和解放城镇。请收下这个。}
+{182}{}{那的确是个好消息。我很高兴听到邪恶势力被摧毁，城镇被解放。请收下这个。}
 
 #{183}{}{Sarcasm and slights shall not deter me my benevolent disposition.
 # The time has come for you to depart. Good day.}
-{183}{}{挖苦和轻蔑阻止不了我善良的性格。时间到了请你离开，再见。}
+{183}{}{挖苦和轻蔑阻止不了我善良的性格。时间到了，请你离开，再见。}
 
 #{184}{}{My vault had no name. It was merely numbered 13.}
 {184}{}{我的避难所没有名字。它就是第13号。}
@@ -343,7 +343,7 @@
 
 #{203}{}{All I know of the Children is that they are in league with these
 # Nightkin, super mutants.}
-{203}{}{我只知道全部大教堂教徒与夜行团和超级变种人是同盟。}
+{203}{}{我只知道大教堂教徒与夜行团和超级变种人是同盟。}
 
 #{204}{}{It is they who transformed me from my original state of being in Necropolis.}
 {204}{}{是他们在大墓地把我变成现在这个样子。}
@@ -358,7 +358,7 @@
 {207}{}{你最初从哪来的？}
 
 #{208}{}{And now I will transform you once more. Rest in pieces.}
-{208}{}{现在我要再次修理你，让你死无全尸。}
+{208}{}{现在我要再次修理你，让你彻底安息。}
 
 #{209}{}{Though I am different in appearance, I have much knowledge to impart
 # upon those who will listen.}
@@ -373,13 +373,13 @@
 #{212}{}{Those whom the Followers and Children call Nightkin are not what they
 # seem. They have been created by one called the Lieutenant. I believe he may
 # follow another.}
-{212}{}{那些夜行团似乎原本是一些末世论者的信徒和孩子。他们是由一个自称中尉的家伙创造的。我相信他或许追随另一个人。}
+{212}{}{那些夜行团似乎原本是一些末世论者的信徒和孩子。他们是由一个自称副官的家伙创造的。我相信他或许追随另一个幕后者。}
 
 #{213}{}{Some information. Well, I will be off.}
 {213}{}{不错的信息。我要走了。}
 
 #{214}{}{What can you tell me about this Lieutenant?}
-{214}{}{关于这个中尉你能告诉我什么？}
+{214}{}{关于这个副官你能告诉我什么？}
 
 #{215}{}{There isn't much that I know about him. Last I saw him, before my
 # untimely transformation, he was searching for pure humans.}
@@ -399,7 +399,7 @@
 {219}{}{谢谢你。再见。}
 
 #{220}{}{I regret that I cannot tolerate insolence. Be gone.}
-{220}{}{我很遗憾我不能容忍傲慢。永别。}
+{220}{}{我很遗憾我不能容忍傲慢。走开。}
 
 #{221}{}{My entrance into the Followers was quite simple really. It was the
 # Followers who rescued me from the full effects of the transformation into
