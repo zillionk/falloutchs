@@ -32,7 +32,7 @@
 {106}{}{你没能取下净水芯片，或许你应该再更小心的试试。}
 
 #{107}{}{You are too far away to carefully examine the water computer.}
-{107}{}{你观察水控制计算机时离的太远。你太小心谨慎了。}
+{107}{}{你观察水控制计算机时离的太远了，没能看仔细。}
 
 #{108}{}{You fail to repair the computer.}
 {108}{}{你修理电脑失败了。}
