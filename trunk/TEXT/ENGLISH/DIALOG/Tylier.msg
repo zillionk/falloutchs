@@ -41,7 +41,7 @@
 
 #{113}{}{I have been programmed to keep the systems armed until
 # authorized personnel have entered the correct voice code.}
-{113}{}{我已经被设定为防御系统直到有工作人员输入声音认证。}
+{113}{}{我已经被设定为防御状态，直到有授权工作人员输入声音代码。}
 
 #{114}{}{Will you disarm the systems for me?}
 {114}{}{你会为我接触防御系统吗？}
