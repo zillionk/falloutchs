@@ -24,15 +24,15 @@
 #{109}{}{My name's }
 {109}{}{我的名字是}
 #{110}{}{. Just taking a look around.}
-{110}{}{。只是四周环顾。}
+{110}{}{。只是随便观光的。}
 #{111}{}{【Saul laughs heartily.】 Why, I am a boxer!}
-{111}{}{【索尔满怀激情地笑着。】为什么，我是一个拳手！}
+{111}{}{【索尔满怀激情地笑着。】我是一个拳手！}
 #{112}{}{Ah, I could kick your ass.}
 {112}{}{哈，我能踢你的屁股。}
 #{113}{}{Hmm. What's the deal?}
-{113}{}{哼呒。什么交易？}
+{113}{}{哼呒。有什么交易？}
 #{114}{}{Uh, no thanks.}
-{114}{}{啊，别管闲事。}
+{114}{}{啊，算了，谢谢。}
 #{115}{}{Saul is unconscious.}
 {115}{}{索尔失去知觉了。}
 {116}{}{}
@@ -50,14 +50,14 @@
 #{126}{}{All right. This should be quick.}
 {126}{}{好的。这应该很快。}
 #{127}{}{Put up or shut up.}
-{127}{}{进行或者闭嘴。}
+{127}{}{要么来，要么闭嘴。}
 #{128}{}{Well, you're in the right place if you're looking for someone to pound
 # that ugly mug of yours into a better shape.}
  {128}{}{好，如果你在找某人来把你那丑脸痛揍成一个较好的造型，你算是来对地方了。}
 #{129}{}{I'm Saul.}
 {129}{}{我是索尔。}
 #{130}{}{Uh, no thanks. Can I ask you some questions?}
-{130}{}{嗯，别管闲事。我能问你些问题吗？}
+{130}{}{嗯，算了。我能问你些问题吗？}
 #{131}{}{So, you been living in Junktown long?}
 {131}{}{所以，你长时间来住在迦克镇？}
 #{132}{}{Well, nice to meet ya. Later.}
@@ -96,7 +96,7 @@
 # store, off southeast of here. You can also get a night's sleep at the Crash
 # House near here. If you are planning to stay a while, you might want to get
 # a drink over at the Skum Pitt, but watch out for the Skulz.}
-{145}{}{如果你只是在找补给，你应该去基利安·达克沃特的店，这儿东南边的远处。你也能在这儿附近的破屋区睡上一晚。如果你准备待一阵子的话，你该想去对面的萨姆·匹特的酒吧喝上一杯，但是留神骷髅党。}
+{145}{}{如果你只是在找补给，你应该去基利安·黑水的店，这儿东南边的远处。你也能在这儿附近的破屋区睡上一晚。如果你准备待一阵子的话，你该想去对面的斯卡姆·匹特的酒吧喝上一杯，但是留神骷髅党。}
 #{146}{}{Who're the Skulz?}
 {146}{}{骷髅党是哪路神仙？}
 #{147}{}{So, tell me more about the casino.}
@@ -145,13 +145,13 @@
 {165}{}{闲谈受益匪浅。别处见。}
 #{166}{}{The Skulz are a bad bunch who hang out in the back of the Crash House and
 # at the Skum Pitt. Watch out for them; they like playing with knives.}
- {166}{}{骷髅党是一帮在迦克镇破屋区后边和萨姆·匹特酒吧游荡的坏蛋。留神他们；他们喜欢玩弄刀子。}
+{166}{}{骷髅党是一帮在迦克镇破屋区后边和斯卡姆·匹特酒吧游荡的坏蛋。留神他们；他们喜欢玩弄刀子。}
 #{167}{}{Thanks for the tip. I'll watch my step.}
-{167}{}{感谢你的提示。我会当心自己的脚步。}
+{167}{}{感谢你的提示。我会当心的。}
 #{168}{}{I see. Anything else you can tell me about?}
 {168}{}{我明白了。还有什么你能告诉我的吗？}
 #{169}{}{Well, be sure to keep your hands off, eh?}
-{169}{}{好，切记不要动手，嗯？}
+{169}{}{好，切记不要乱摸，嗯？}
 #{170}{}{She's very important to me.}
 {170}{}{她对我很重要。}
 #{171}{}{ 【Saul frowns.】 But she doesn't like my boxing. She doesn't seem to
@@ -190,7 +190,7 @@
 # supposed to be far, far to the south, but I don't know where. Stories say that
 # it's inhabited by all sorts of mutant freaks who guard the technology from before
 # the War.}
- {185}{}{从我所打听到的来说，闪光之地是一个晚上发光的大凹陷。它被认为在南边很远很远的地方，但是我不知道哪里。有消息说它被拥有战前科技的变种畸形人所占据。}
+{185}{}{从我所打听到的来说，闪光之地是一个晚上发光的大凹陷。它被认为在南边很远很远的地方，但是我不知道哪里。有消息说它被拥有战前科技的变种畸形人所占据。}
 #{186}{}{I see. Thanks for the info.}
 {186}{}{我明白了。感谢你的信息。}
 #{187}{}{Interesting. Can you give me any more info?}
