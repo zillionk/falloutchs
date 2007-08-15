@@ -37,7 +37,7 @@
 {110}{}{也许你能。你要多少钱？}
 
 #{111}{}{I wouldn't let my dog touch you.}
-{111}{}{我可不希望我的小姐和你有接触。}
+{111}{}{我的狗都不愿意碰你。}
 
 #{112}{}{Oh, baby, if you got to ask . . . more than you can afford.
 # Maybe next time, sugar. See you around.}
@@ -80,13 +80,13 @@
 #{124}{}{I mean, my boss didn't even send some of his goons to help.
 # You'd think for all the cash I make for that loser, he
 # would at least live up to his part of the bargain.}
-{124}{}{我的意思是，我的老板甚至都不派几个他手下的白痴过来保护我。你想想看，我为那家伙挣了多少钱？没有我挣的那些钱他现在顶多是个卖廉价货的小商人罢了！}
+{124}{}{我的意思是，我的老板甚至都不派几个他手下的白痴过来保护我。你想想看，我为那家伙挣了多少钱？没有我挣的那些钱他现在能做大买卖嘛！}
 
 #{125}{}{Who's your boss?}
 {125}{}{你的老板是谁？}
 
 #{126}{}{What bargain?}
-{126}{}{什么廉价货？}
+{126}{}{什么买卖？}
 
 #{127}{}{Gizmo, of course. He runs all the sin in this town.
 # Killian sure as hell wouldn't put up with me or my kind.
@@ -119,7 +119,7 @@
 # He owns the Casino. He runs me and some of the other
 # gals, even some little kids. I hear he is trying to take
 # over the bar.}
-{134}{}{就是这个城镇中每个人可能做的所有坏事。他是赌场的主人。他管理我还有其他女孩，有些甚至还是幼齿呢。我听说他还试图控制酒吧。}
+{134}{}{就是这个城镇中每个人可能做的所有坏事。他是赌场的主人。他管理我还有其他女孩，有些甚至还是幼女呢。我听说他还试图控制酒吧。}
 
 #{135}{}{You stay away from him, okay? Take it from me, he is not
 # the kind of patron he wants to make you think he is.
@@ -138,7 +138,7 @@
 {138}{}{除了你之外，吉斯莫还控制了什么？}
 
 #{139}{}{You feel like paying another visit to Sinthia.}
-{139}{}{你要不要再付点钱拜访一下辛西娅。}
+{139}{}{你觉得应该再拜访一下辛西娅。}
 
 #{140}{}{Maybe Sinthia would like some company . . .}
 {140}{}{也许辛西娅需要人来陪陪她……}
