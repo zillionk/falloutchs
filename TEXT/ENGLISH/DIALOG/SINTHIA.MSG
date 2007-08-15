@@ -102,7 +102,7 @@
 {129}{}{除了你之外，吉斯莫还控制了什么？}
 
 #{130}{}{You should just hang it up and move on with your life.}
-{130}{}{你还是别想这些了。}
+{130}{}{你还是别想这些了，好好生活下去。}
 
 #{131}{}{You're telling me. But what else can I do? It seems like
 # my life has been designed by someone else. Oh, well. A
@@ -135,7 +135,7 @@
 {137}{}{唉，甜心，我照顾男人，作为报答他们也照顾我。吉斯莫得到我收入的25%，象征性地为我提供保护。你看到他把我保护得有多“好”了吧？}
 
 #{138}{}{What else does Gizmo control?}
-{138}{}{除了你之外，吉斯莫还控制了什么？}
+{138}{}{吉斯莫还控制了什么？}
 
 #{139}{}{You feel like paying another visit to Sinthia.}
 {139}{}{你觉得应该再拜访一下辛西娅。}
@@ -151,7 +151,7 @@
 #{142}{}{You shit! You killed him! Why did you have to kill him?
 # You bitch! I can't believe you killed him. All he wanted was someone to
 # talk to. You don't care about human life, do you?}
-{142}{}{你这肮脏的家伙！你杀了他！你为什么要杀了他？你这婊子养的！我不敢相信你杀了他。他只是想要找个人聊天罢了。你不在意人们的生命吗？}
+{142}{}{你这肮脏的家伙！你杀了他！你为什么要杀了他？你这婊子！我不敢相信你杀了他。他只是想要找个人聊天罢了。你不在意人们的生命吗？}
 
 #{143}{}{Just get the hell out of my room!}
 {143}{}{赶快滚出我的房间！}
@@ -165,7 +165,7 @@
 {145}{}{他没有死。不过他醒来的时候头会有些痛。}
 
 #{146}{}{Hnnn.}
-{146}{}{嗯。}
+{146}{}{哼。}
 
 #{147}{}{Yeah, whatever. Get the hell out of my room!}
 {147}{}{是吗？去你的吧！赶快滚出我的房间！}
@@ -191,14 +191,14 @@
 
 #{154}{}{Ah, honey, I don't think so. Imagine how the children
 # would turn out.}
-{154}{}{啊，甜心，我可不这么想。要是那些孩子醒来了会怎样呢。}
+{154}{}{啊，甜心，我可不这么想。不太好吧。}
 
 #{155}{}{Doing fine, thanks to you, sugar.}
 {155}{}{我很好，谢谢你，甜心。}
 
 #{156}{}{What do you want to know, but make it short, honey, I'm on
 # the clock.}
-{156}{}{你想知道什么呢？但请简短一些，甜心，我还有事情呢。}
+{156}{}{你想知道什么呢？但请说的简短一些，甜心，我还有事情呢。}
 
 #{157}{}{How many guards does he have?}
 {157}{}{他有多少守卫？}
@@ -229,13 +229,13 @@
 {163}{}{只有他自己才认为他没有什么弱点。他是个肥胖的笨蛋，一动都不能动。他甚至得让他的守卫抬着他才能四处走，而且还得用一辆三轮车拉着他。呵呵。}
 
 #{164}{}{Sugar, you got a date.}
-{164}{}{甜心，你应该先约我的。}
+{164}{}{甜心，我们约会吧。}
 
 #{165}{}{Sure, honey, for you.}
 {165}{}{当然，甜心，只为了你。}
 
 #{166}{}{I'll show you a good time.}
-{166}{}{我告诉你一个好的时间。}
+{166}{}{我会让你爽的。}
 
 #{167}{}{Honey, you need some more money. I like you and all,
 # but a girl has to make a living.}
