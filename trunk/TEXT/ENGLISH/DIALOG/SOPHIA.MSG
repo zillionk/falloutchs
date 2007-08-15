@@ -142,7 +142,7 @@
 {317}{}{我的专业涉及的是兄弟会历史方面。你的问题似乎是一个制造方面的问题，也许你该去问弗蕾。}
 
 #{318}{}{I thought the scribes knew this kind of stuff.}
-{318}{}{我以为你们文化人都知道这方面的事情。}
+{318}{}{我以为你们研究员都知道这方面的事情。}
 
 #{319}{}{I'd like to know about the Brotherhood's history.}
 {319}{}{我想了解兄弟会的历史。}
@@ -155,7 +155,7 @@
 
 #{322}{}{You must speak with Vree, the head scribe, about that.  I have more
 # important things to do.}
-{322}{}{关于那件事你必须和文书负责人弗蕾谈。我有更重要的事情要做。}
+{322}{}{关于那件事你必须和研究员负责人弗蕾谈。我有更重要的事情要做。}
 
 #{323}{}{I will go ask Vree.}
 {323}{}{我会去问弗蕾的。}
