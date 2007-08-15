@@ -51,7 +51,7 @@
 {115}{}{啊哈。那么讲讲你的故事？}
 
 #{116}{}{Hmm. Haven't seen one of those before. What seems to be the trouble?}
-{116}{}{哈。我从来没见过那些东西。是用来煮饺子的吗？}
+{116}{}{哈。我从来没见过。有问题？}
 
 #{117}{}{This chip controls water purification for my Vault. It's blown out, though.}
 {117}{}{这是控制我们避难所水处理系统的芯片。但是它坏了。}
@@ -97,7 +97,7 @@
 #{129}{}{Mostly a little electrical and mechanical tinkering. I helped Junktown with
 # their lights and showed the people in Shady Sands a better design for their
 # stoves.}
-{129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，让沙荫镇的人用上更好的炉子之类的。}
+{129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，我让沙荫镇的人用上更好的炉子。}
 
 #{130}{}{Really? Think you could fix a water chip?}
 {130}{}{真的？你能修好水处理芯片吗？}
@@ -169,7 +169,7 @@
 {148}{}{又见面了，我能帮你点什么？}
 
 #{149}{}{Yeah, can you give me some directions?}
-{149}{}{是啊，能给我当向导吗？}
+{149}{}{是啊，能给我指点一些路么？}
 
 #{150}{}{No, never mind, thanks.}
 {150}{}{不，没关系，谢谢了。}
