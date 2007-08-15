@@ -75,7 +75,7 @@
 {122}{}{你那么单纯，我相信你能找出其他聪明人找不出的人来。我们这里有个间谍将我们的机密传给了大教堂教徒。找到这家伙。杀了他。去吧。}
 
 #{123}{}{I thought as much. Be off with you.}
-{123}{}{我想了很久。我得离开你。}
+{123}{}{果然。你走吧。}
 
 #{124}{}{Figures that Jake doesn't think that I can get the job
 # done right. He's the only one who could have sent you.
@@ -110,7 +110,7 @@
 
 #{133}{}{The only thing that we know so far is that the person has
 # to have access to the Children's Cathedral. I think it may be one of our scouts.}
-{133}{}{我们目前所知的唯一线索是此人在大教堂的教徒里。我想他可能是我们的谍报员中的一个。}
+{133}{}{我们目前所知的唯一线索是此人和大教堂有联系。我想他可能是我们的侦查员中的一个。}
 
 #{134}{}{Okay. I will check it out right now.}
 {134}{}{好的。我会马上去核实的。}
@@ -129,7 +129,7 @@
 {138}{}{那我就不知道会是谁了。}
 
 #{139}{}{I'll look into the scouts then.}
-{139}{}{我会去拜访谍报员的。}
+{139}{}{我会去拜访各个侦查员的。}
 
 #{140}{}{I think there is a cover-up here. You die!}
 {140}{}{我认为这里面有鬼。你死定了！}
@@ -148,13 +148,12 @@
 {144}{}{谢谢你。这对于我们来说意义太重大了。}
 
 #{145}{}{Then I must detain you from warning anyone.}
-{145}{}{那我只好拘禁你来警告其他人。}
-
+{145}{}{那我只好拘禁你了，免得你去给奸细报信。}
 
 #{146}{}{How he ever became second in command is beyond me. Since he
 # was so scarce in words, I will fill you in. We have a leak who
 # is feeding the Children some of our movement patterns.}
-{146}{}{他究竟是何时成为我的副手的，这一点我已经记不得了。既然他办事不力，我打算用你替换掉他。我们这里有个内奸把我们的机密泄露给了大教堂教徒。}
+{146}{}{他究竟是何时成为我的副手的，这一点我已经记不得了。既然他不善言谈，我打算启用你。我们这里有个内奸把我们的机密泄露给了大教堂教徒。}
 
 #{147}{}{Have any leads?}
 {147}{}{有线索了吗？}
@@ -164,7 +163,6 @@
 
 #{149}{}{I think you are the leak. Die!!}
 {149}{}{我认为你就是那奸细。死吧！}
-
 
 #{150}{}{Forget it. I'm nobody's lackey.}
 {150}{}{忘了它吧。我不是任何人的手下。}
