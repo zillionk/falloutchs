@@ -11,22 +11,22 @@
 {104}{}{你看到一个利刃帮的成员。}
 
 #{105}{}{You think that might be Books.}
-{105}{}{你认为那可能是些书。}
+{105}{}{你认为那可能是“书”。}
 
 #{106}{}{You think that might be Scars.}
-{106}{}{你觉得那可能是一些疤痕。}
+{106}{}{你觉得那可能是“疤痕”。}
 
 #{107}{}{You think that might be Gunner.}
-{107}{}{你觉得那可能是些手枪。}
+{107}{}{你觉得那可能是“枪手”。}
 
 #{108}{}{You think that might be Twitch.}
-{108}{}{你觉得那可能是抽筋。}
+{108}{}{你觉得那可能是“抽筋”。}
 
 #{109}{}{You think that might be Hammer.}
-{109}{}{你觉得那可能是个锤子。}
+{109}{}{你觉得那可能是个“锤子”。}
 
 #{110}{}{You think that might be Razor.}
-{110}{}{你认为那可能是剃刀。}
+{110}{}{你认为那可能是“剃刀”。}
 
 #{111}{}{Stand down!}
 {111}{}{别动！}
@@ -118,7 +118,7 @@
 {138}{}{继续。}
 
 #{139}{}{Tough break.}
-{139}{}{该死。}
+{139}{}{听够了。}
 
 #{140}{}{If you take this locket to Julianna, I would be in your debt.}
 {140}{}{如果你能把这个小盒子带给茱莉亚娜，我会欠你一份人情。}
@@ -137,19 +137,19 @@
 {144}{}{我想她也爱我，但是我不确定。利刃帮不敢冒险让我冲进内城区。}
 
 #{145}{}{Tough break.}
-{145}{}{该死。}
+{145}{}{听够了。}
 
 #{146}{}{Okay, I'll help.}
 {146}{}{好，我会帮忙。}
 
 #{147}{}{Thank you! She sent me a note. We are going to meet at
 # the Follower's place and get married.}
-{147}{}{谢谢你！}
+{147}{}{谢谢你！她给我递纸条来说，我们要在末世论者的地盘重聚并结婚！}
 
 #{148}{}{Welcome back.}
 {148}{}{欢迎回来。}
 
 #{149}{}{Thank you so much. We will stay here with the Followers now,
 # where we can be happily married.}
-{149}{}{非常感谢你，我将会和末世论者一起住在这里，然后幸福的结婚。}
+{149}{}{非常感谢你，我们将会和末世论者一起住在这里，然后幸福的结婚。}
 
