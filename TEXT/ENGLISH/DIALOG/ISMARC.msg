@@ -18,13 +18,13 @@
 #{107}{}{Hoo!}
 {107}{}{呼！}
 #{108}{}{Oh, great. You don't know how gratified that makes me. Go away.}
-{108}{}{喔，太棒了。你不知道那多么让我满足，别傻了。}
+{108}{}{喔，太棒了。你不知道那多么让我满足，走开。}
 #{109}{}{Thanks. What can I do for ya?}
 {109}{}{谢谢。我能为你做些什么？}
 #{110}{}{Do you do music anywhere else?}
 {110}{}{你也在其他什么地方演出吗？}
 #{111}{}{Just felt like tossing some money in the hat, so to speak.}
-{111}{}{那种感觉就像摇动帽子里的钱币，可以这么说。}
+{111}{}{可以这么说，那种感觉就像摇动帽子里的钱币。}
 #{112}{}{Where did you learn to sing?}
 {112}{}{你从哪里学习的演唱技巧？}
 #{113}{}{Thanks for your time.}
@@ -56,19 +56,19 @@
 #{126}{}{There is a man singing raucously in the corner.}
 {126}{}{角落里一个男人在用沙哑的声音唱歌。}
 #{127}{}{Your head is a bowl!}
-{127}{}{你的脑袋像圆球}
+{127}{}{你的脑袋像木碗}
 #{128}{}{It's round like a mole!}
-{128}{}{鼹鼠一般转不停}
+{128}{}{和小鼹鼠一样圆}
 #{129}{}{I'd rather fry!}
-{129}{}{我情愿倍受煎熬}
+{129}{}{我情愿去下油锅}
 #{130}{}{Than pay you the toll!}
-{130}{}{也不为你把钱出}
+{130}{}{也不给你买路钱}
 #{131}{}{I know your mind}
 {131}{}{我了解你的想法}
 #{132}{}{It's a steel cage}
-{132}{}{它是个钢铁囚笼}
+{132}{}{它是个钢铁篱樊}
 #{133}{}{Raging inside is . . .}
-{133}{}{愤恨的深处是……}
+{133}{}{在里面咆哮的是}
 #{134}{}{The DeathClaw}
 {134}{}{死亡爪}
 #{135}{}{I need you}
@@ -78,4 +78,4 @@
 #{137}{}{I need you}
 {137}{}{我需要你}
 #{138}{}{Like a rad scorpion strike}
-{138}{}{就像蝎子反扑}
+{138}{}{就像蝎子毒针}
