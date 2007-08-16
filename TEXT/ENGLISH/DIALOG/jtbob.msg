@@ -42,10 +42,10 @@
 {112}{}{我有点紧张。}
 
 #{113}{}{Thanks. I just got a little nervous when you walked in here with a }
-{113}{}{谢谢，你进来的时候手里拿着}
+{113}{}{谢谢，我只是看到你进来的时候手里拿着}
 
 #{114}{}{ in your hand.}
-{114}{}{我有点紧张。}
+{114}{}{时有点紧张。}
 
 #{115}{}{Geez, I thought you were from the Casino. Sure as sand in the
 # desert, I owe them a lot of money.}
