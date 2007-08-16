@@ -4,7 +4,7 @@
 #{100}{}{You see a Crypt.}
 {100}{}{你看见一个土窟人。}
 #{101}{}{You see a ganger.}
-{101}{}{你看见一个歹徒。}
+{101}{}{你看见一个领头的。}
 #{102}{}{Welcome to the gang, man.}
 {102}{}{嘿，欢迎来到黑帮。}
 #{103}{}{We Crypts will bury those Fools.}

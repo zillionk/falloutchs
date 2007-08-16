@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader－远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。}
+{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。}
 
 #{100}{}{Decker has no wish to talk to you any more.}
 {100}{}{德克不想再和你说话。}
@@ -10,7 +10,7 @@
  {102}{}{德克没空和你说话。干你的活呆会儿再来。}
 #{103}{DECK_1}{
 #So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
-{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}
+{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，请教尊姓大名？}
 #{104}{}{I am }
 {104}{}{我是}
 
@@ -32,7 +32,7 @@
 {111}{}{工作呢？}
 #{112}{DECK_4}{
 #Quite simple.  Hunt down the merchant and his wife and exterminate them. }
-{112}{DECK_4}{很简单，找到商人和他的妻子并了结他们。}
+{112}{DECK_4}{很简单，找到那个商人和他的妻子并了结他们。}
 #{113}{}{You mean kill them?}
 {113}{}{你是说杀了他们？}
 #{114}{}{How much for the job?}
@@ -50,7 +50,7 @@
 {119}{}{多少钱？}
 #{120}{DECK_6}{
 #Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
-{120}{DECK_6}{噢，棒极了，标准行情是事前付500块，事后……再付2500个。}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付500个瓶盖，事后……再付2500个。}
 #{121}{}{Where can I find this merchant?}
 {121}{}{在哪儿能找到这个商人？}
 #{122}{DECK_7}{
@@ -60,7 +60,7 @@
 {123}{}{好吧，我会做的。}
 
 #{124}{}{How will you know I killed them?}
-{124}{}{我有没有杀了他们，你到时候怎么知道？}
+{124}{}{你到时候怎么知道我到底有没有杀了他们，？}
 #{125}{}{I don't think so.}
 {125}{}{我不干了。}
 #{126}{DECK_8}{
@@ -77,7 +77,7 @@
 {130}{DECK_10}{我必须得承认……对你有点失望。但这种事情我也不是第一次遇见了，你要记住这是秘密，再见。}
 #{131}{DECK_11}{
 #It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
-{131}{DECK_11}{这是标准的行情，事前500块，事成后再付2500，你肯做吗？}
+{131}{DECK_11}{这是标准的行情，事前500个瓶盖，事成后再付2500，你肯做吗？}
 #{132}{}{No, thanks.}
 {132}{}{不，谢谢。}
 #{133}{}{Yeah, I'll do it.}
@@ -149,7 +149,7 @@
 #{166}{}{You're a cranky guy.}
 {166}{}{你可真是块爆炭。}
 #{167}{DECK_25}{Someone appears to be stealing whole caravans from the Far Go Traders.  And the Thieves' Circle is causing their normal minor difficulties.}
-{167}{DECK_25}{远行商队的整个商队都失踪了。还有，那些小贼不断在制造麻烦。}
+{167}{DECK_25}{不知什么人把远行商队的整个商队刮走了了。还有，那些贼帮们还在一如既往地制造麻烦。}
 # Line 168 has been changed due to gender issues. See lines 232-233.
 {168}{}{}
 #{169}{}{Sure.}
@@ -173,19 +173,19 @@
 #{178}{}{But that would be immoral!}
 {178}{}{但是这样很不道德！}
 #{179}{DECK_30}{I believe I'm beginning to like you.  The pay is 1000 up front and 4000 upon completion.  And trust me, I'll know when it's done.}
-{179}{DECK_30}{我觉得我开始喜欢你了。报酬提高到事前1000，完事后4000。相信我，事情进展如何，我都是知道的！}
+{179}{DECK_30}{我觉得我开始喜欢你了。报酬提高到事前1000，完事后4000。相信我，任务完成时，我会知道的！}
 #{180}{}{Okay.}
 {180}{}{好的。}
 #{181}{DECK_31}{Talk to Kane on your way out.  He'll provide you with details.}
 {181}{DECK_31}{当你走时和凯恩谈谈，他会告诉你细节。}
 #{182}{DECK_32}{And killing the merchant wasn't?}
-{182}{DECK_32}{又当婊子又立贞节牌坊？你不是还杀了商人了吗？}
+{182}{DECK_32}{不是去杀商人吗？？}
 #{183}{}{Well, all right, I'll do it.}
 {183}{}{好吧，我会去做。}
 #{184}{}{I don't care. I won't do it.}
 {184}{}{我不管，我不会做的。}
 #{185}{DECK_33}{The pay is 1000 in advance and 4000 upon . . . execution.  And trust me, I'll know when it's over.}
-{185}{DECK_33}{报酬是事前1000，完事后4000。相信我，事情进展如何，我都是知道的！}
+{185}{DECK_33}{报酬是事前1000，完事后4000。相信我，事情完成时，我会知道的！}
 #{186}{}{Okay.}
 {186}{}{好吧。}
 # Line 187 has been changed due to gender issues. See 234-235.
@@ -199,7 +199,7 @@
 #{191}{DECK_36}{Then we have nothing more to discuss.}
 {191}{DECK_36}{那么我们没什么好说的了。}
 #{192}{DECK_37}{Exceptional job.  I believe the religious faction shall not interfere anymore.  Speak with Kane for your reward.  My thanks -- and I will certainly keep you in mind in the future.}
-{192}{DECK_37}{干的不错，我相信这些小宗教团体不会再打扰我了。去和凯恩拿你的报酬。谢谢你--我会记住你的。}
+{192}{DECK_37}{干的不错，我相信这个教团不会再打扰我了。去和凯恩拿你的报酬。谢谢你--我不会忘了你的。}
 #{193}{DECK_38}{Put that down.}
 {193}{DECK_38}{把它放下。}
 #{194}{DECK_39}{I am quite a patient man, but even I have limits.  Kane, teach this simpleton a lesson.}
@@ -227,11 +227,11 @@
 #{205}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
 {205}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
 #{206}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
-{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
 #{207}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {207}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{208}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
-{208}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些特定的信息他是个不错的消息源。}
+{208}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些消息他是个不错的消息源。}
 #{209}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
 {209}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
 #{210}{DECK_56}{He's the head of the Water Merchants.}
@@ -254,12 +254,12 @@
 {218}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
 #{219}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
 {219}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
-#{220}{DECK_66}{Most merchants live there.  Simply go west from here.}
+#{220}{DECK_66}{chants live there.  Simply go west from here.}
 {220}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
 #{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {221}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
-{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
+{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在曝骨场。}
 #{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
 {223}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
@@ -280,7 +280,7 @@
 {231}{}{贾斯丁·格林，见到你很高兴！我猜你是来道别的。}
 
 #
-# TRANSLATION NOTE: The following groups of  lines are identical in English,
+# TRANSLATIONMost mer NOTE: The following groups of  lines are identical in English,
 # but they differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
@@ -388,7 +388,7 @@
 #{1002}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
 {1002}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
 #{1003}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
-{1003}{DECK_52}{他们去偷商人的钱然后分给穷人，或者像这样一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+{1003}{DECK_52}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
 #{1004}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
 {1004}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
 #{1005}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}

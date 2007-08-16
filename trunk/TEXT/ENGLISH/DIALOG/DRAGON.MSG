@@ -12,7 +12,7 @@
 #{105}{}{You think that might be Books.}
 {105}{}{你以为那可能是书。}
 #{106}{}{You think that might be Scars.}
-{106}{}{你以为那可能是疤痕。}
+{106}{}{你以为那可能是伤疤。}
 #{107}{}{You think that might be Gunner.}
 {107}{}{你以为那可能是枪手。}
 #{108}{}{You think that might be Twitch.}
@@ -30,19 +30,19 @@
 #{114}{}{Out looking for you.}
 {114}{}{出去找你了。}
 #{115}{}{Hunting.}
-{115}{}{狩猎。}
+{115}{}{打猎。}
 #{116}{}{Your looking's cost you dearly. What's the story? Tell me the truth, and you may live.}
-{116}{}{你样子看起来还不坏。怎么了？告诉我实情，你就能活着。}
+{116}{}{你这样子可会让你吃不了兜着走。到底怎么回事？想活命，就说实话。}
 #{117}{}{I'm really here to kill you.}
 {117}{}{我一定要干掉你。}
 #{118}{}{I want to end the gang wars.}
-{118}{}{我要终结匪帮的战争。}
+{118}{}{我要结束黑帮战争。}
 #{119}{}{Just looking for home. It's right there. The moon.}
-{119}{}{尽管找到家，就在那儿，月亮。}
+{119}{}{我在找家，就在那儿，月亮。}
 #{120}{}{I think I'd be sorry about that, but I don't pay heed to dead people.}
 {120}{}{我想该对此说声对不起，但我不会留意死人的。}
 #{121}{}{Fat chance. Now, get out of here before I send the night guard after you.}
-{121}{}{微小的机会，现在，在我派出夜间守卫对付你之前滚出去。}
+{121}{}{你根本没有机会，现在，在我派出夜间守卫对付你之前滚出去。}
 #{122}{}{My, you don't enjoy life much. I'll help you end it.}
 {122}{}{嘿，你不珍惜自己的性命，我来帮你结束它。}
 #{123}{}{You found me. Now, walk or die!}

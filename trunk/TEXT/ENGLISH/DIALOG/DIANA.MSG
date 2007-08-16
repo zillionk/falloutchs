@@ -2,11 +2,11 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see Diana, a desert raider.}
-{100}{}{你看见戴安娜，一个沙漠歹徒。}
+{100}{}{你看见戴安娜，一个沙漠强盗。}
 #{101}{}{I am Diana. How might I help you today?}
 {101}{}{我是戴安娜，要我帮忙吗？}
 #{102}{}{I'm looking for a woman named Tandi. Have you seen her?}
-{102}{}{我在找一个叫坦蒂的女子，你见过她吗？}
+{102}{}{我在找一个叫坦蒂的女人，你见过她吗？}
 #{103}{}{Never mind, thanks.}
 {103}{}{没什么，谢谢。}
 #{104}{}{How about a date?}
@@ -24,17 +24,17 @@
 #{110}{}{Can you fix my equipment for me?}
 {110}{}{你能修理我的装备吗？}
 #{111}{}{As you can see, I am much too busy at the moment to grant you your request.}
-{111}{}{你看，我现在太忙了，没时间回应你的要求。}
+{111}{}{你看，我现在太忙了，没功夫答应你。}
 #{112}{}{Garl has me fixing the camp equipment at the moment. I do not have time to fix our gear and that of every stranger who walks in. Sorry.}
-{112}{}{伽尔叫我修理营地的装备，我都没时间修复我们的设备，更别提陌生人的东西了，抱歉。}
+{112}{}{伽尔叫我修理营地的装备，我都没时间修复我们的装备，更别提陌生人的东西了，抱歉。}
 #{113}{}{I am the armorer for this encampment. I am the only one with the necessary skills to repair and maintain the weapons and equipment of Garl's men.}
-{113}{}{我是营地的军械维护员，只有我才有专业技能修理和维护伽尔的武器装备。}
+{113}{}{我是营地的军械整备，只有我才有技术为伽尔的人修理维护武器装备。}
 #{114}{}{Can you fix my equipment for me?}
 {114}{}{你能修理我的装备吗？}
 #{115}{}{What can you tell me about this camp?}
 {115}{}{关于这个营地你能告诉我些什么？}
 #{116}{}{It is run by Garl Death-Hand. He is a fearsome and remorseless leader. He makes sure that we all survive the harsh reality of the desert.}
-{116}{}{这儿由死亡之手伽尔控制，他是个可怕和冷酷的首领。他能确保我们能在沙漠这个不毛之地活下来。}
+{116}{}{这儿由死亡之手伽尔控制，他是个可怕冷酷的首领。他能保证我们能在沙漠这个不毛之地活下来。}
 #{117}{}{I'm looking for a woman named Tandi. Have you seen her?}
 {117}{}{我在找一个叫坦蒂的女子，你见过她吗？}
 #{118}{}{Can you fix my equipment for me?}
