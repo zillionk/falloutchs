@@ -4,7 +4,7 @@
 #{100}{}{A Junktown guard.}
 {100}{}{一个迦克镇卫兵。}
 #{101}{}{This is Junktown. Nice place to live, as long as you stay on our good side}
-{101}{}{这里是迦克镇。如果你站在我们这边，这里就是一个适合居住的地方。}
+{101}{}{这里是迦克镇。如果你规矩点，这里就是一个很好的地方。}
 #{102}{}{Watch out for Gizmo and his cronies.}
 {102}{}{小心吉斯莫和他的人。}
 #{103}{}{I like my boss.}
@@ -15,7 +15,7 @@
 #{105}{}{Put what away?}
 {105}{}{把什么收起来？}
 #{106}{}{Don't tell me what to do, loser boy.}
-{106}{}{别让我动手，流浪儿。}
+{106}{}{别让我动手，白痴。}
 #{107}{}{Sounds fair. By the way, what is the local law regarding weapons?}
 {107}{}{听起来挺合理。顺便问问，这儿关于武器的法律是什么？}
 #{108}{}{Uh oh.}
@@ -33,9 +33,9 @@
 #{114}{}{Disobey the law, and we will return you to the lawless wasteland - dead or alive.}
 {114}{}{违犯法律的话，我们就把你扔到没有法律的废土上去。是死是活你自己看着办。}
 #{115}{}{Sure, since you put it that way.}
-{115}{}{是的，就那么做。}
+{115}{}{你既然这么说，好吧。}
 #{116}{}{Bite your laws!}
-{116}{}{去你的法律！}
+{116}{}{滚你娘的法律！}
 #{117}{}{Well, uh, fine with me. But you'd better be careful.}
 {117}{}{好吧，呃，我同意。但是你最好小心点。}
 #{118}{}{Fine, then. Heh.}
@@ -47,6 +47,6 @@
 #{121}{}{Hey you, no weapons! And I don't care if your momma dropped you on your head as a kid. No weapons.}
 {121}{}{嘿，你！收起武器！我不管你妈会不会像教训小孩一样敲你的脑袋。收起你的武器！}
 #{122}{}{Dorf!}
-{122}{}{哈!}
+{122}{}{呸!}
 #{123}{}{You earn 150 experience points for killing the guard.}
 {123}{}{因为杀死卫兵你得到150点经验值。}
