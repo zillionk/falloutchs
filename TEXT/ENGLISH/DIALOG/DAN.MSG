@@ -27,28 +27,28 @@
 #{110}{}{Why, I manage the care for perddy much all of the Caravan's wagons
 # and Brahmin in these parts. If they ever need anything for their caravans,
 # I'm the one they talk to. Hell, the Big Three deal with me exclusively.}
-{110}{}{这样说吧，这些地方大多数的商队的马车啊，双头牛什么的，都是归我来照管的。要是他们想为他们的商队里添点什么东西的话，他们只能来找我。可是，妈的，三巨头他们不带我玩。}
+{110}{}{这样说吧，这些地方大多数的商队的马车啊，双头牛什么的，都是归我来照管的。要是他们想为他们的商队里添点什么东西的话，也会和我打交道。可是，妈的，三巨头他们不带我玩。}
 #{111}{}{Who are the Big Three?}
 {111}{}{三巨头是谁？}
 #{112}{}{Well aren't you important.}
-{112}{}{看来你是个挺特殊的人嘛。}
+{112}{}{看来你是个重要的人嘛。}
 #{113}{}{Really? That's nice. I want to join a caravan.}
 {113}{}{真的？太棒了？我也要加入商队。}
 #{114}{}{Well, I got to go. Bye.}
 {114}{}{嗯，我得走了，拜拜。}
 #{115}{}{What?  Get the hell out of here ya damn Skag! Ta think I was about
 # to waist m'time on a low-life like yerself.}
-{115}{}{什么？赶快给我滚出去吧，你这个婊子！我可不想在你这个低能儿身上浪费时间。}
+{115}{}{什么？赶快给我滚出去吧，你这个瘾君子！我可不想在你这个低能儿身上浪费时间。}
 #{118}{}{Damn, son.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
 # Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
 # 'bout as far as yer eye can see.}
-{118}{}{该死，小子，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，嗯，也许不是全世界，但是绝对是你能想象到的最大的那么一大块地方上最大的三个商队。}
+{118}{}{该死，小子，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界上最大的三个商队，我操，也许不是全世界，但他们肯定是你看到过所有地方里最大的。}
 #{119}{}{Damn, honey.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
 # Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
 # 'bout as far as yer eye can see.}
-{119}{}{该死，亲爱的，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，嗯，也许不是全世界，但是绝对是你能想象到的最大的那么一大块地方上最大的三个商队。}
+{119}{}{该死，亲爱的，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，我操，也许不是全世界，但他们肯定是你看到过所有地方里最大的。}
 #{120}{}{Damn yourself, you brahmin freak.}
-{120}{}{你才该死，你这个双头牛怪物。}
+{120}{}{你才该死，你这个双头牛怪。}
 #{121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
 {121}{}{哦，是他们啊。我还以为你在说别的什么东西呐。我怎么才能加入一支商队？}
 #{122}{}{Okay, thanks. Bye.}
@@ -56,17 +56,17 @@
 #{123}{}{Bramin freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet,
 # stranger. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to
 # slit yer throat if ya look at'm wrong.}
-{123}{}{双头牛怪物？你不是在侮辱我吧？告诉你吧，陌生人，我会比你要见到的人更懂礼貌。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割咯。}
+{123}{}{双头牛怪？这是在侮辱我吧？陌生人，我会比你要见到的人更懂礼貌。我可以不计较，可是在这个城里，到处都是看你不爽，二话不说就会把你的喉咙割掉的家伙。}
 #{124}{}{Damn, you're one ugly son of a bitch!}
-{124}{}{混蛋，你这个丑陋的狗娘养的家伙！}
+{124}{}{混蛋，你这个丑八怪杂种！}
 #{125}{}{I'm scared. See ya.}
 {125}{}{我好怕哦。回见。}
 #{126}{}{Special, no. Lucky, yes; and unless ya want to be unlucky you'll be a little more polite to the people ya'
 # meet. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit
 # yer throat if ya' look at'm wrong.}
-{126}{}{特别，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割了。}
+{126}{}{特别是，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是在这个城里，到处都是看你不爽，二话不说就会把你的喉咙割掉的家伙。}
 #{127}{}{Damn, you're one ugly son of a bitch!}
-{127}{}{放屁！你个王八操的！}
+{127}{}{混蛋，你这个丑八怪杂种！}
 #{128}{}{If you say so.}
 {128}{}{要是你这样说的话……}
 #{129}{}{Well at least I don't have a mutated hind for a face.  Yer mother must have been a brahmin and yer
@@ -78,10 +78,10 @@
 {131}{}{嗯，不错。看来我有地方去了，还能找人打一架。走啦，丹。}
 #{132}{}{Yeah right, that's an okay line, but everyone uses it. Yer kiddin' right?
 # Ya' wouldn't lay a hand on poor ol' Dan.}
-{132}{}{好好好，台词说的不错，但是人人都这样说。你在开玩笑是吧，你不会对可怜的老丹动手的吧。}
+{132}{}{好好好，说话总要有个分寸，但每个人都会探探底线。你在开玩笑是吧，你不会对可怜的老丹动手的吧。}
 #{133}{}{Line? Hand? You wish. I'll lay much more than my hand on your soon
 # to be dead carcass.}
-{133}{}{台词？手？你想哦。我对你动的可不止是手！你马上就要成为一具死尸了。}
+{133}{}{分寸？动手？你想哦。我对你动的可不止是手！你马上就要成为一具死尸了。}
 #{134}{}{Ha!  Had you going though, didn't I?}
 {134}{}{哈！我跟你开玩笑的，这你都信啊？}
 #{135}{}{Yeah, a little maybe. You're not too bad, kid. But just remember to
@@ -96,10 +96,10 @@
 #{139}{}{Bye. And stay away from my brahmin, you dirty little bitch.}
 {139}{}{滚蛋。离我的双头牛远一点，恶心小婊子。}
 #{141}{}{Guards! Police! There's a Mad Man trying to kill me!}
-{141}{}{保安！警察！这有个疯子要杀我！救命呀！}
+{141}{}{卫兵！警察！这有个疯子要杀我！救命呀！}
 #{142}{}{Well, I don't have any openings but ya' might wanna check with the Big Three.  There's a job post in
 # the Merchant Market that might be of some help ta ya'. That's where they, and others, get their men.}
-{142}{}{我没什么路子，不过你可以去“三巨头”那碰碰运气，那的工作机会比较多。小伙子应该很受欢迎的。}
+{142}{}{我没什么路子，不过你可以去“三巨头”那碰碰运气，商队市场那里有个招募广告牌大概对你有点用，他们既是靠这个招人的。}
 #{143}{}{Oh, sorry . . . and women of course.}
 {143}{}{喔，抱歉……当然，还有女人…}
 #{144}{}{You don't have any openings?  Are you a merchant, too?}
@@ -155,14 +155,14 @@
 {171}{}{哦，那就另当别论了！好好教训他！}
 #{172}{}{Are ya' daft? That's a quick way to rot away in a cell or get exiled without any food, clothing, or
 # weapons.}
-{172}{}{你傻啊，我有个好办法，就是把他关到牢里让他慢慢烂掉，或者干脆放逐他，不给吃的，不给穿的，更不给武器。}
+{172}{}{你傻啊，我有个好办法，就是把他关到牢里让他慢慢烂掉，或者干脆流放，不给吃，不给穿，更不给武器。}
 #{173}{}{That still doesn't justify the way you're treating him!}
 {173}{}{就是这样的话，你也不能这样对他。}
 #{174}{}{Oh, okay.}
 {174}{}{噢，好的。}
 #{175}{}{I may not be the best role model in this damn city, but I'm the only
 # one who cares and is willing ta try to help.  What have ya' done to improve society?}
-{175}{}{我也许不是这城里最好的家伙，但我是这儿唯一一个愿意提供帮助的人。你有为这个社会做过什么事没？}
+{175}{}{我也许不是这遭瘟的城里最好的家伙，但我是这儿唯一一个会关心别人而且愿意提供帮助的人。你有为这个社会做过什么事没？}
 #{176}{}{I've killed lots of things!}
 {176}{}{我杀了好多好多东西！}
 #{177}{}{I'm sorry, I've misjudged you.}
@@ -186,7 +186,7 @@
 #{186}{}{You disappoint me. You seemed to have a good head on your shoulders.
 # Killing them might get rid of the problem temporarily, but you've got to
 # get at the root of the problem to really make a difference.}
-{186}{}{你让我失望了。你肩膀上的脑袋看上去倒是挺聪明。杀人，也许可以解决一时的问题，但是却让这个问题变得完全不同了。}
+{186}{}{你让我失望了。你肩膀上的脑袋看上去倒是挺聪明。杀人，也许可以解决一时的问题，但是却让这个问题从本质上变得完全不同了。}
 #{187}{}{Yeah, whatever.}
 {187}{}{是啊，随便啦。}
 #{188}{}{Uh, okay. Bye.}

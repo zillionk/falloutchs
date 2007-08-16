@@ -26,7 +26,7 @@
 #{112}{}{Ow! Oooo! Hnnh!}
 {112}{}{噢！噢！啊啊！}
 #{113}{}{What do you want?! Will you assholes never learn? I'm tired of using my talents on losers. Shoot straight next time! Don't let them shoot you.}
-{113}{}{你想要什么？你这个笨蛋还不了解吗？我已经厌倦了用我的才能来帮助白痴。下次射准点！别让他们打到你。}
+{113}{}{你想要什么？你这个笨蛋还不懂吗？我已经厌倦了用我的能力来帮残兵败将。下次射准点！别让他们打到你。}
 #{114}{}{I was outnumbered!}
 {114}{}{我在数量上被压过了！}
 #{115}{}{What are you, a doctor of assholes?}
@@ -36,7 +36,7 @@
 #{117}{}{Incompetent son of a bitch! You need healing AGAIN! I hope they kill you next time!}
 {117}{}{该死的婊子养的！你又受伤了！我希望他们下次能干掉你！}
 #{118}{}{Thanks for the moral support, doc.}
-{118}{}{谢谢你的人道援助，医生。}
+{118}{}{谢谢你仁慈相助，医生。}
 #{119}{}{I hope they get you, too . . .}
 {119}{}{我也希望他们干掉你……}
 #{120}{}{If they do, you'll go down first.}
@@ -50,7 +50,7 @@
 #{124}{}{I snooze, you lose, asshole!}
 {124}{}{我要打个盹，你这个混蛋！}
 #{125}{}{The Cause is not helped by morons! Why are you bothering me? I'm a very busy doctor, asshole! You need me or not?}
-{125}{}{白痴对这个伤口没用！你为什么还来烦我？我是个很忙的医生，笨蛋！你还要我帮忙吗？}
+{125}{}{这理由对笨蛋没用！你为什么还来烦我？我是个很忙的医生，笨蛋！你还要我帮忙吗？}
 #{126}{}{What's keeping you busy?}
 {126}{}{什么使你这么忙？}
 #{127}{}{Sure, doc.}
@@ -106,13 +106,13 @@
 #{152}{}{Aaaaagh!}
 {152}{}{啊啊！}
 #{153}{}{You screamed like a castrated pig! Ha ha ha!}
-{153}{}{你叫的就像是头被阉割的猪！哈哈哈！}
+{153}{}{你叫的就像是头被骟掉的猪！哈哈哈！}
 #{154}{}{You are an idiot! Quality, not quantity! You think the Nightkin care when they're outnumbered? Go cry to your mother, you little baby! Now, do you want to get better or not?}
-{154}{}{你这个白痴！质量，不是数量！你认为当隐行人数量上超出时他们会在乎吗？去你妈的怀里哭吧，小朋友！现在，你想不想更好点？}
+{154}{}{你这个白痴！质量，不是数量！你认为当夜行团会在乎他们人数太多吗？去你妈的怀里哭吧，小朋友！现在，你想不想更好点？}
 #{155}{}{Be quiet or I'll take out your vocal cords! Debark you like dog! Ha ha ha! Now you wanna get well or not?}
 {155}{}{安静点！否则我拔掉你的舌头！叫得像条狗一样！哈哈哈！现在你想要更好点吗？}
 #{156}{}{I'm a doctor, not a cheerleader! You need healing or not?}
-{156}{}{我是医生，不是拉拉队长！你还想医治吗？}
+{156}{}{我是医生，不是拉拉队长！你还想治病吗？}
 #{157}{}{I'm shaking, asshole! Now, you wanna get well or not?}
 {157}{}{我的手抖了，笨蛋！现在你想要更好点吗？}
 #{158}{}{Do it. Just don't screw with me!}
@@ -140,9 +140,9 @@
 #{169}{}{Asshole! Shithead! I'm very busy, and you have to bother me! Screw you! Get out of here, you puke! Now!}
 {169}{}{蠢货！猪头！我很忙，你又来烦我了！该死！滚出去，立刻！}
 #{170}{}{You are healthy as a brahmin, but not as bright! Get out of here, you hypochondriac asshole!}
-{170}{}{你像正常人一样健康了，但还不够聪明！滚出去，你这个白痴。}
+{170}{}{你像双头牛一样健康了，但还不够聪明！滚出去，你这个白痴。}
 #{171}{}{You have taken some wounds. I can fix that, dickhead, if you stay very still!}
-{171}{}{你受伤了，我能医好它，白痴，如果你能安静些的话！}
+{171}{}{你受伤了，白痴，如果你能安静些的话，我能医好它！}
 #{172}{}{You treat your body like shit. You must be a real idiot. I could put you out of your misery, or I could fix you up.}
 {172}{}{你对自己的身体一点都不在乎，你真是个蠢蛋。我可以永远“结束”你的痛苦，或者，我也可以医好你。}
 #{173}{}{Not right now.}

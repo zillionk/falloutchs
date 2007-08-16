@@ -1,5 +1,5 @@
 #{100}{}{You see Butch.}
-{100}{}{你看见布奇。}
+{100}{}{你看见布奇.}
 #{101}{}{Tell me about yourself.}
 {101}{}{跟我说说你自己。}
 #{102}{}{Heard any good rumors?}
@@ -482,9 +482,7 @@
 #
 # Tell-Me-Abouts
 #
-{1099}{}{?}
 
-{1199}{}{我可以告诉你：Decker-德克、Underground-地下组织、Maltese-马耳他猎鹰、Thieves-贼窝、Justin-贾斯廷、Harold-哈罗德、Merchants-纯水商队、Daren-达伦、Crimson-深红商队、Demetre-戴米德、Trader-远行商队、Butch-布奇、Beth-贝斯、Rutger-罗格尔、Water-水源、Missing-失踪、Market-商人市场、Claw-死亡爪、Glow-闪光之地、Town-旧城区、Heights-高地区、Junktown-迦克镇、Killian-基利安、Brotherhood-兄弟会、Elder-最高元老、Angel's-洛杉矶、Adytum-内城区、Jon-琼、Cathedral-大教堂、Morpheus-墨菲斯、Jain-简恩、Master-主教、Weapon-武器、Bob's-鲍勃、All-In-One-百货店、Followers-末世论者、Harris-哈里斯、Falcon-猎鹰、Nightclub-夜总会、Merchant-纯水商队、Hightower-海托、Greene-格林、Caravan-深红商队、Romara-罗玛拉、Traders-远行商队、Tower-海托、Caravans-深红商队、Darkwater-黑水、Steel-钢铁兄弟会、Angels-洛杉矶、Boneyard-晒骨场、Zimmerman-齐默曼、Weapons-武器、Store-商店、guns-枪支、Bobs-鲍勃、Iguana-蜥蜴串、Apocalypse-Apocalypse、Death-死亡爪、Deathclaw-死亡爪、Hot-闪光之地、Oldtown-旧城区、Old-旧城区、Maxson-马克松、All-百货、Junk-迦克镇。}
 
 {1000}{}{Decker}
 {1001}{}{Underground}
@@ -517,7 +515,7 @@
 {1028}{}{Cathedral}
 {1029}{}{Morpheus}
 {1030}{}{Jain}
-{1031}{}{Master}
+{1031}{}{主教}
 {1032}{}{Weapon}
 {1033}{}{Bob's}
 {1034}{}{All-In-One}
@@ -608,7 +606,7 @@
 #{1124}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
 {1124}{BUTCH99}{他领导着兄弟会。我就知道这些。}
 #{1125}{butch100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
-{1125}{butch100}{嗯，它是南边的一座废城。大教堂教徒，末世论者和内城区在那里，还有很多帮派和物资。}
+{1125}{butch100}{嗯，它是南边的一座废城。大教堂教徒，末世论者和内城区在那里，到处都是物资和各种各样的帮派分子。}
 #{1126}{butch101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
 {1126}{butch101}{为什么？你听说了什么？我听说它被洗劫了，但没人知道是谁干的。不过，嗯，我并不担心。没人能攻下哈勃城。}
 #{1126}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
@@ -684,7 +682,7 @@
 #{1161}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
 {1161}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
 #{1162}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
-{1162}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
+{1162}{BUTCH92}{老城区在东面。瘾君子都在那里出没。}
 #{1163}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
 {1163}{BUTCH99}{他领导着兄弟会。我就知道这些。}
 #{1164}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}

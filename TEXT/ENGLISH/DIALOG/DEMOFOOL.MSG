@@ -22,7 +22,7 @@
 #{109}{}{Ha ha ha! Ha ha ha ha!}
 {109}{}{嘿嘿嘿！哈哈哈哈！}
 #{110}{}{Fools! Fools! Fools! Yeah!}
-{110}{}{蠢人！蠢人！蠢人！是呀！}
+{110}{}{愚人！愚人！愚人！是呀！}
 #{111}{}{Didja hear the one about the chicken and the foxhole?}
 {111}{}{你听过说小鸡和狐狸洞的事吗？}
 #{112}{}{Be cool.}
@@ -32,7 +32,7 @@
 #{114}{}{Life's a joke, yuk it up.}
 {114}{}{生活就是个玩笑，就一笑而过吧。}
 #{115}{}{If it wasn't for them Crypts, we would rule this town. Or at least kick Lenny in the crotch.}
-{115}{}{如果不是为他们土窟人，我们就能统治这个城镇。或者至少可以踢蓝尼的屁股。}
+{115}{}{如果不是因为他们土窟人，我们就能统治这个城镇。或者至少可以踢蓝尼的屁股。}
 #{116}{}{Be a fool.}
 {116}{}{扮的蠢点。}
 #{117}{}{You think that puny leather will save you from Baka?}

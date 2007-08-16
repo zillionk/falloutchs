@@ -32,7 +32,7 @@
 #{114}{}{Okay, thanks.}
 {114}{}{好的，谢谢。}
 #{115}{}{That's surprising.  It's been pretty rough out there, especially with the missing caravans. But you're safe now, just stay away from the Maltese Falcon. They're a bunch of trouble makers, Decker and his crew.}
-{115}{}{真令人惊讶。外面环境恶劣，特别是和失踪的商队一块。但你现在安全了，只要和马耳他猎鹰保持距离，德克和他的手下总是惹麻烦。}
+{115}{}{真令人惊讶。外面环境恶劣，特别是和失踪的商队一块。但你现在安全了，马耳他猎鹰保持距离，德克和他的手下总是惹麻烦。}
 #{116}{}{Who's Decker?}
 {116}{}{谁是德克？}
 #{117}{}{Missing Caravans?}

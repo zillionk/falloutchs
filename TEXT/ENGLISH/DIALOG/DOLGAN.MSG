@@ -48,6 +48,6 @@
 #{123}{}{Sure thing. Come back when you want more training.}
 {123}{}{好吧。你想接受更多训练时再回来。}
 #{124}{}{Seems like we let in a fool. Well, if you want to get into their place, there is a slight break in their moat. Look for it and run like mad. You may even make it across.}
-{124}{}{看起来我们遇见了个蠢人。好吧，如果你想进入他们的地盘，那么就要想法突破他们的防御。赶快去找出弱点，你也许还能混进去。}
+{124}{}{看起来我们放进来一个白痴。好吧，如果你想进入他们的地盘，那么就要想法突破他们的防御。赶快去找出弱点，你也许还能混进去。}
 #{125}{}{Thanks.}
 {125}{}{谢谢。}

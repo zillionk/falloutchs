@@ -235,7 +235,7 @@
 #{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants# for more protection. The Children 
 #of the Cathedral sacrificed it to their god. The Deathclaw ate it. Rumors# ain't worth nothing. The world's full of rumor and suspicion, and empty of truth.  
 #Look for fact, not# fiction. But why are you asking? You had friends on the caravan?}
-{176}{}{你想知道什么小道消息？有可能是纯水商队在玩把戏，也有可能是德克压榨佣兵，想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，真相却很少。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
+{176}{}{你想知道什么小道消息？有可能是纯水商队在玩把戏，也有可能是德克压榨商队，想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，却查不出多少真相。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
 #{177}{}{I can't talk about my reasons.}
 {177}{}{不能告诉你，我有隐衷。}
 
