@@ -3,8 +3,6 @@
 #	Mountain area random encounter text
 #
 
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You are nearly crushed by a large boulder in an avalanche.}
 #{101}{}{You escape with no damage.}

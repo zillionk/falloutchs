@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{It looks like a small gold trophy, with a clasp and a bronze plaque.}
 {100}{}{看起来是一个小小的金色装饰物，上面有扣环和铜铭牌。}
