@@ -56,7 +56,7 @@
 {117}{}{太感谢你的帮助了。}
 
 #{118}{}{Grunk?}
-{118}{}{欧巴？}
+{118}{}{吼吼？}
 
 #{119}{}{Look, I don't have time for idiots.  Come back when you've got some smarts.}
 {119}{}{你看，我可没时间浪费在傻瓜身上。等你学聪明点再回来吧。}
