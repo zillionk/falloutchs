@@ -92,7 +92,7 @@
 {125}{}{啦呵？}
 
 #{126}{}{I'm sorry, I don't understand you.  Somewhere I have a Holodisk on learning the English language, if you're intersted.}
-{126}{}{对不起，我不明白你说的话。不过我有一个少儿剑桥英语的磁盘。如果你是外国人，也许会对你有用的。}
+{126}{}{对不起，我不明白你说的话。不过我有一个英语学习的磁盘。如果你是外国人，也许会对你有用的。}
 
 #{127}{}{Goodbye.}
 {127}{}{再见。}
