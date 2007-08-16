@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{101}{}{The caravan traders didn't have a chance. They're all dead.}
 {101}{}{那些商队的成员全都死了，无一幸免。}

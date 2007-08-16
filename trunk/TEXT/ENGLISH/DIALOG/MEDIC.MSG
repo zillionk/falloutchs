@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{医生可以告诉你：Medic－13号避难所医生、Healing－治疗}
 
 
 #{100}{}{I can't believe the things that you have done。}
