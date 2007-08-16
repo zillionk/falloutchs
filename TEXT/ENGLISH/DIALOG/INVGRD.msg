@@ -18,23 +18,23 @@
 
 #{105}{}{I wouldn't stick around here if I were you initiate, there's likely
 # to be more bloodshed.}
-{105}{}{如果我是你就绝不会在附近逗留，新兵，那里看起来会发生更多的流血事件。}
+{105}{}{如果我是你就绝不会在附近逗留，新兵，这里看起来会发生更多的流血事件。}
 
 #{106}{}{Keep an eye out for us Initiate.}
 {106}{}{当心点，新兵。}
 
 #{107}{}{I wouldn't stick around here if I were you stranger, there's likely
 # to be more bloodshed.}
-{107}{}{如果我是你就绝不会在附近逗留，新兵，那里看起来会发生更多的流血事件。}
+{107}{}{如果我是你就绝不会在附近逗留，新兵，这里看起来会发生更多的流血事件。}
 
 #{108}{}{Keep an eye out stranger, trouble's brewing.}
-{108}{}{当心点，陌生人, 麻烦就要来了。}
+{108}{}{当心点，陌生人, 麻烦随时出现。}
 
 #{109}{}{Leave.}
 {109}{}{走开。}
 
 #{110}{}{Do not distract me, we're on alert.}
-{110}{}{别打搅我，我们正在警戒中。}
+{110}{}{别让我分神，我们正在警戒中。}
 
 #{111}{}{Keep quite.}
 {111}{}{保持安静。}
@@ -55,16 +55,16 @@
 {116}{}{那是什么？}
 
 #{117}{}{My feet hurt.}
-{117}{}{我受伤了。}
+{117}{}{我的脚受伤了。}
 
 #{118}{}{They will pay for this...}
 {118}{}{他们会为此付出代价……}
 
 #{119}{}{Let them try that again.}
-{119}{}{让他们再试一次。}
+{119}{}{他们再来啊～}
 
 #{120}{}{What the... Oh, it's nothing.}
-{120}{}{这他妈的……哦，没什么。}
+{120}{}{这他妈的是……哦，没什么。}
 
 #{121}{}{Stay alert!}
 {121}{}{保持警惕！}
@@ -100,7 +100,7 @@
 {209}{}{我一直在尝试为电浆来复枪扩展射程。}
 
 #{210}{}{Have you checked out the Gatling laser?}
-{210}{}{你检验过加特林镭射机枪吗？}
+{210}{}{你检查过加特林镭射机枪吗？}
 
 #{211}{}{Yea, I assisted with the first prototype.}
 {211}{}{没错，我参与研制了最初的原型。}
