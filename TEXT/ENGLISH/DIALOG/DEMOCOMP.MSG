@@ -1,6 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{This is a badly worn-out desk with a dusty, cracked computer seated precariously atop it.}
 {100}{}{这是一张非常陈旧的桌子，上面有台布满灰尘的、破旧的电脑。}
 #{101}{}{You plug a loose chip back in and surprisingly the monitor lights up.}
