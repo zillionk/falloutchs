@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{赛特也许可以告诉你：Master主教、Ghouls僵尸、Mutants变种人、Necropolis大墓地城、War大战、Unity“同一”、Hub哈勃城、Brotherhood兄弟会、Shed处理房、Cathedral大教堂、Chip芯片、Hall大厅、Children教徒、Garret盖瑞特、Set赛特、Muties变种儿、Brotherhood of Steel钢铁兄弟会、Water Shed水处理房、Children of the Cathedral大教堂教徒、Children教徒、Watershed水处理房、Water水}
+{1199}{}{赛特也许可以告诉你：Master—主教、Ghouls—僵尸、Mutants—变种人、Necropolis—大墓地城、War—大战、Unity—“同一”、Hub—哈勃城、Brotherhood—兄弟会、Shed—处理房、Cathedral—大教堂、Chip—芯片、Hall—大厅、Children—教徒、Garret—盖瑞特、Set—赛特、Muties—变种儿、Brotherhood of Steel—钢铁兄弟会、Water Shed—水处理房、Children of the Cathedral—大教堂教徒、Children—教徒、Watershed—水处理房、Water—水.}
 
 #{100}{}{You see Set, the Leader of Necropolis.}
 {100}{}{你看见赛特，大墓地的头目。}
