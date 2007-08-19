@@ -48,9 +48,9 @@
 # {122}{}{You look OK to me. All those rumors must be untrue.}
 {122}{}{你看起来挺好。那些传言一定是假的。}
 #{123}{}{Hi }
-{123}{}{嗨}
+{123}{}{嗨，}
 #{124}{}{. Keep up the good work.}
-{124}{}{ 。再接再厉。}
+{124}{}{。再接再厉。}
 #{125}{}{I hope everything is going well out there. We sure could use the water.}
 {125}{}{我希望外面一切正常。我们确定水是可以使用的。}
 #{126}{}{We are starting to run out of water. This is terrible!}
