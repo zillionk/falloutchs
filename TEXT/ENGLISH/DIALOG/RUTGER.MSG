@@ -35,10 +35,10 @@
 {110}{}{哦，我们“可以”运输纯净水，但是那会花你好大一笔钱。你需要多少，要运到哪里？}
 
 #{111}{}{I need enough to supply a vault. It's up north, past Junktown, in the mountains.}
-{111}{}{我需要能够供应一整个避难所的水量。避难所在迦克镇以南，群山之中。}
+{111}{}{我需要能够供应一整个避难所的水量。避难所在迦克镇以北，群山之中。}
 
 #{112}{}{I need enough to supply a vault. It's up north, in the mountains.}
-{112}{}{我需要能够供应一整个避难所的水量。避难所在南边的群山之中。}
+{112}{}{我需要能够供应一整个避难所的水量。避难所在北方的群山之中。}
 
 #{113}{}{I need it all! Some day, I'm going to transform the face of the planet. You'll see!}
 {113}{}{有多少要多少！总有一天我会改变这星球的面貌。你会看到那一天的！}
