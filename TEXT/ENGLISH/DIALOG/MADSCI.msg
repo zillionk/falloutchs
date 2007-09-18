@@ -60,7 +60,7 @@
 {117}{}{我请求您的宽恕，先生。我能帮您做些什么？}
 
 #{118}{}{I beg your forgiveness, ma'am. How may I be of service?}
-{117}{}{我请求您的宽恕，夫人。我能帮您做些什么？}
+{118}{}{我请求您的宽恕，夫人。我能帮您做些什么？}
 
 #{119}{}{You can speak to me with respect next time, or you'll never speak to
 # anyone again!}
