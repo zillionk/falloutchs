@@ -10,7 +10,7 @@
 #{103}{}{Hi again, what can I do for you?}
 {103}{}{嗨，我能为你做什么？}
 #{104}{}{Can you tell me a little bit about the Boneyard?}
-{104}{}{你能告诉我一点有关晒骨场的事吗？}
+{104}{}{你能告诉我一点有关曝骨场的事吗？}
 #{105}{}{Who are you?}
 {105}{}{你是谁？}
 #{106}{}{Why do you all live here?}

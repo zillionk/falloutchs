@@ -23,7 +23,7 @@
 #{105}{}{Hello, Sister, it's good to see there are women of rank in
 # this organization. I didn't know what to expect with a name like
 # the Brotherhood.}
-{105}{}{你好啊，妹妹。很高兴看到我们女同胞也进入了兄弟会。我都不知道以后兄弟会这个名字是不是要改改了。}
+{105}{}{你好啊，姐妹。很高兴看到我们女同胞也进入了兄弟会。我都不知道以后兄弟会这个名字是不是要改改了。}
 
 #{106}{}{Hey there, legs. You are looking mighty fine. What time should
 # I pick you up?}
@@ -39,7 +39,7 @@
 {109}{}{谁是这个破洞的管事？}
 
 #{110}{}{Where's this High Elder guy?}
-{110}{}{最高元老那厮在哪里？}
+{110}{}{最高元老在哪里？}
 
 #{111}{}{Gruk!}
 {111}{}{咕噜！}
@@ -92,7 +92,7 @@
 #{124}{}{Thank you for your help, Sister. It's good to see there are
 # women of rank in this organization. I didn't know what to
 # expect with a name like the Brotherhood.}
-{124}{}{谢谢你，姐姐。很高兴看到我们女同胞也进入了兄弟会。我都不知道以后兄弟会这个名字是不是要改改了。}
+{124}{}{谢谢你，姐妹。很高兴看到我们女同胞也进入了兄弟会。我都不知道以后兄弟会这个名字是不是要改改了。}
 
 #{125}{}{Thanks, Sugar. You know, you're looking mighty fine. What
 # do you say you and me check out each other's 'equipment'
@@ -145,7 +145,7 @@
 #{138}{}{That is strange. I've never really put much thought into it.
 # We've been the Brotherhood of Steel all of my life. Our
 # ancestors must have had a reason for naming it so.}
-{138}{}{是很怪，但我从来没怎么想过。我出生以来他们一直是叫这个名字，先人们起这个名字肯定是有原因的。}
+{138}{}{是很怪，但我从来没怎么想过。我出生以来他们一直是叫这个名字，前人起这个名字肯定是有原因的。}
 
 #{139}{}{But that doesn't mean things can't change.}
 {139}{}{这不代表以后不会改。}
@@ -304,13 +304,13 @@
 
 #{183}{}{Oh, that's just GREAT! Why the hell did I join this stupid
 # group? Where's the door?!}
-{183}{}{我靠，这太好了！那我为什么还要加入这个愚蠢的组织？大门在哪里？！}
+{183}{}{我靠，这太妙了！那我为什么还要加入这个愚蠢的组织？大门在哪里？！}
 
 #{184}{}{There are rumors about some kind of army. I think the Elders
 # want to concentrate their resources on the ones that are already
 # far enough along in their training to make a difference if we
 # do have a big battle on our hands.}
-{184}{}{听说外面有邪恶的大军。元老们想用有限的训练资源使得那些原来基础不错的兄弟的武艺能上个台阶，如果有恶仗要打就能派上用场了。}
+{184}{}{听说外面有邪恶的大军。元老们想用把那些原来就有基础的战士集中训练，让他们能再上个台阶，如果有恶仗要打就能派上用场了。}
 
 #{185}{}{We strongly believe that training a few fighters extremely
 # well is better than giving mediocre training to a bunch of
@@ -320,7 +320,7 @@
 #{186}{}{You could probably get quite a bit out of the training just
 # by watching. Brother Thomas is the best trainer we have ever had
 # at the Brotherhood.}
-{186}{}{你可以旁观，也能学的不少。托马斯兄弟是我们这里最好的训练官。}
+{186}{}{你可以旁听，也能学的不少。托马斯兄弟是我们这里最好的训练官。}
 
 #{187}{}{Well, I'm to be working on the outside of the Brotherhood, right?
 # It's a very hostile world out there and I'll be putting my life

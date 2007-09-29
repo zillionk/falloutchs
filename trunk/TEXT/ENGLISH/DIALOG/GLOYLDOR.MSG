@@ -2,19 +2,19 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The frame of this security door has remnants of blue paint.}
-{100}{}{安全门的架构上残留着蓝色喷涂。}
+{100}{}{安全门的架构上残留着蓝色喷漆。}
 
 #{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
 {101}{}{门上的电场发出轻微的电击，你受到一点伤害}
 
 #{102}{}{You get a strong shock from the electric field on the door. You sustain }
-{102}{}{门上的电场的强电击震荡击中了你。你受到}
+{102}{}{门上的电场的强电震荡击中了你。你受到}
 
 #{103}{}{ points of damage.}
 {103}{}{点伤害。}
 
 #{104}{}{You force the door open.}
-{104}{}{你用强力使门打开。}
+{104}{}{你用蛮力把门打开。}
 
 #{105}{}{The door is locked.}
 {105}{}{这扇门被锁上了。}
@@ -35,7 +35,7 @@
 {110}{}{似乎这扇门上有某种安全度量器。}
 
 #{111}{}{You failed to pick the lock on the door.}
-{111}{}{你撬开门锁的尝试失败了。}
+{111}{}{你撬门锁失败了。}
 
 #{112}{}{This skill has no effect on the door.}
 {112}{}{这个技能对门没有效果。}
@@ -68,7 +68,7 @@
 {121}{}{你开锁的尝试彻底失败，工具被损坏。}
 
 #{122}{}{You fail to pick this lock.}
-{122}{}{你开锁的尝试失败了。}
+{122}{}{你开锁失败了。}
 
 #{123}{}{You see a sturdy, rusted door.}
 {123}{}{你见到一扇锈得死死的门。}

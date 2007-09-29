@@ -47,20 +47,20 @@
 {114}{}{我们都有需求，也许我可以帮你呢。你需要什么？}
 
 #{115}{}{Well, I'm really looking for a Water Chip.  I need to get one back to my people.}
-{115}{}{我在找一个净水芯片，我需要它来拯救人民。}
+{115}{}{我在找一个净水芯片，我需要它来拯救我的人民。}
 
 #{116}{}{Needs, huh?  I understand needs, but what might you know about satiating these needs?}
 {116}{}{需求？我知道需求，但是你知道怎么满足需求？}
 
 #{117}{}{I have need of some information.}
-{117}{}{我需要信息。}
+{117}{}{我需要情报。}
 
 #{118}{}{I certainly don't need anything you might be talking about.}
 {118}{}{我不需要你说的任何东西。}
 
 #{119}{}{I do a little bit of this, and a little bit of that.  I get things and information for people,
 # whatever they might need or be lookin' for.}
-{119}{}{我做点这，做点那，我给人们带去信息和想要的东西，什么我都可以找到。}
+{119}{}{我做点这，做点那，我给人们带去消息和想要的东西，什么我都可以找到。}
 
 #{120}{}{Well, I do need some things.}
 {120}{}{嗯，我的确是在找东西。}
@@ -76,7 +76,7 @@
 
 #{124}{}{Water Chip, hmmmm.  Don't think I've heard of one of those things.  If I's was you,
 # I'd try the Water Merchants.  They got a grip on all the water around here.}
-{124}{}{净水芯片，嗯。没听说过，我要是你，就去问纯水商人，他们负责这里的所有水贸易。}
+{124}{}{净水芯片，嗯。没听说过，我要是你，就去问纯水商人，他们负责这里的所有和水有关的交易。}
 
 #{125}{}{So what do you do around here?}
 {125}{}{你在这里做什么？}
@@ -92,7 +92,7 @@
 
 #{129}{}{So, you're lookin' for information, huh?  Being a respectable businessman, I gots overhead, so I'll
 # need a few caps to tell you what you need to know.  Now that we got that straight, whattcha' wanna' know about?}
-{129}{}{你在找信息，对吧？作为一个受人尊敬的生意人，我的开销不小，所以要收取一点信息费。打开天窗说亮话，你想知道什么？}
+{129}{}{你在找情报，对吧？作为一个受人尊敬的生意人，我的开销不小，所以要收取一点信息费。打开天窗说亮话，你想知道什么？}
 
 #{130}{}{So, you think I might know a little more about those Water Chip things, huh?  Well, you might be right.
 #  It's gonna' cost you, though.  I think 500 bottle caps oughta' do it.}
@@ -148,7 +148,7 @@
 {145}{}{你了解德克吗？}
 
 #{146}{}{Do you know anything about the missing caravans?}
-{146}{}{你知道消失的商队吗？}
+{146}{}{你知道失踪的商队吗？}
 
 #{147}{}{Well, I'm looking for a certain commodity, if you know what I mean.}
 {147}{}{我在找一种日用品，你明白吗。}
@@ -166,7 +166,7 @@
 {151}{}{谢了。}
 
 #{152}{}{Missing caravans, huh?  Well, I might be knowin' a bit about those.  It's gonna cost you 300 caps, though.}
-{152}{}{消失的商队？我也许知道些，你要花300瓶盖。}
+{152}{}{失踪的商队？我也许知道些，你要花300瓶盖。}
 
 #{153}{}{Alright, what do you know?}
 {153}{}{好。你知道什么？}
@@ -196,13 +196,13 @@
 
 #{161}{}{Now, you might be insinuating that Lemmy ain't a stand-up guy.  Well, you's right.  But Lemmy
 # is an ALIVE type of guy.}
-{161}{}{听着，你是在嘲笑我不是一个有种的男人。也许没错。但是，我莱米至少是一个不容易死掉的男人。}
+{161}{}{听着，你是在嘲笑我不是一个有种的男人。也许没错。但是，我莱米至少是一个不容易死掉的家伙。}
 
 #{162}{}{Ok, forget about it.  Can I ask you another question?}
 {162}{}{好吧，算了，我再问个问题。}
 
 #{163}{}{Well, I'm going to make you a lying down and not breathing type of guy!}
-{163}{}{好，我就要把你变成一个横躺的、不出气的那种男人！}
+{163}{}{好，我就要把你变成一个横躺着出不了气的家伙！}
 
 #{164}{}{Forget about it.  See ya'.}
 {164}{}{算了，再见。}
@@ -210,7 +210,7 @@
 #{165}{}{Stuff for needs, huh?  Well, I knows a guy over in Old Town that can probably fix you up
 # with some stuff like that.  But you know what?  He needs to know who you are before you show up
 # at his doorstep.}
-{165}{}{需要东西？我知道在旧城区有一个家伙也许能帮你找到你要的东西。但是，他需要有人引荐你。}
+{165}{}{需要东西？我知道在旧城有一个家伙也许能帮你找到你要的东西。但是，他需要有人引荐你。}
 
 #{166}{}{Let me guess.  This "invite" is going to "costs" me?}
 {166}{}{我猜，这种“引荐”是要钞票的咯？}
@@ -220,7 +220,7 @@
 
 #{168}{}{Exactly.  So I'm thinking... only for you of course... 1000 caps so youse can talks to this guy
 # without him blowing your head off first.}
-{168}{}{太对了，我觉得……大概1000块钱就可以让这个人和你好好聊天而不是直接一枪打在你脑袋上。}
+{168}{}{太对了，我觉得……大概1000块钱就可以让这个人和你好好聊天，否则直接一枪打在你脑袋上。}
 
 #{169}{}{Alright, I'll pay your price.}
 {169}{}{很好，我付你这笔钱。}

@@ -1,10 +1,10 @@
 {1099}{}{?}
-{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－晒骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。}
+{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－曝骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。}
 #上述表述字面不准的，乃刻意为之，必有深意，切勿修改。
 
 
 #{100}{}{You see Loxley, leader of the Thieves' Guild.}
-{100}{}{你看到洛克西里，一个盗贼头目。}
+{100}{}{你看到洛克西里，盗贼工会的头。}
 
 #{101}{LOX_0}{It's a little gift from me Da and Mum.  Actually, a few generations before that.  Do you like it?}
 {101}{LOX_0}{这是我爸妈留给我的小礼物。其实是更上一代人留下的。你觉得怎么样？}
@@ -16,7 +16,7 @@
 {103}{}{不，它很刺耳。}
 
 #{104}{LOX_0A}{Why, thank you.  Have to work a bit to keep it with so little refinement about, don't you know.  But enough of that. Loxley's the name.  And yours is?}
-{104}{LOX_0A}{哎呀，谢谢你。虽然我的周围是一圈粗人，可我还是应该表现得端庄一点，对吧？不说这个了。我叫洛克西里。你是？}
+{104}{LOX_0A}{哎呀，谢谢你。装斯文真累，对吧？好，言归正传，我叫洛克西里。你是？}
 
 #{105}{}{I'm }
 {105}{}{我是}
@@ -31,10 +31,10 @@
 {108}{}{这是什么地方？}
 
 #{110}{LOX_1F}{Bloody impressive making it through the defenses like that!  What's your name, luv?}
-{110}{LOX_1F}{如此轻松地通过我们外边的防御系统，真他妈的帅呆了！宝贝儿，你叫什么？}
+{110}{LOX_1F}{你这样通过外面的防御，真他妈的帅呆了！宝贝儿，你叫什么？}
 
 #{109}{LOX_1M}{Bloody fine job making it through the defenses, mate!  I'm rather impressed.  Toss me your name!}
-{109}{LOX_1M}{如此轻松地穿过了外边的防御系统，真他妈的酷毙了，兄弟！真让我印象深刻。报个名儿吧！}
+{109}{LOX_1M}{你这样通过外面的防御，真他妈的酷毙了，兄弟！真让我印象深刻。报个名儿吧！}
 
 #{111}{}{I'm }
 {111}{}{我是}
@@ -55,7 +55,7 @@
 
 
 #{116}{}{You talk like an idiot.}
-{116}{}{你讲话像个猪头三。}
+{116}{}{你讲话像个白痴。}
 
 #{117}{}{Nuhhh?}
 {117}{}{啊哈？}
@@ -73,7 +73,7 @@
 {121}{}{我要把你们统统送班房去！}
 
 #{122}{LOX_3}{Oh, how nice.  A joiner.  Well, you've worked hard enough for a look-see.  But if you really want to join, then you'll have to take the Second Test.}
-{122}{LOX_3}{喔，好极了。一个入伙的。呃，你初步考验完成的不错。但是如果你真的想加入，你还得再完成复试。}
+{122}{LOX_3}{喔，好极了。一个入伙的。呃，你初试完成的不错。但是如果你真的想加入，你还得再完成复试。}
 
 #{123}{}{What's that?}
 {123}{}{什么复试？}
@@ -91,7 +91,7 @@
 {127}{}{测试内容是什么？}
 
 #{128}{}{Do you mean you'll move this whole place if I fail, or try to kill me.}
-{128}{}{你的意思是如果我搞砸了你就会搬家，或者说准备宰了我。}
+{128}{}{你的意思是如果我搞砸了你要么脑袋搬家，要么准备宰了我。}
 
 #{129}{}{Are you threatening me?}
 {129}{}{你在威胁我吗？}
@@ -112,7 +112,7 @@
 {133}{LOX_6M}{就得要这种精气神啊，兄弟！}
 
 #{135}{LOX_6B}{Just talk to Jasmine in the room outside this chamber.  She'll give you details, a map, and a few little goodies to help you on your way.  But remember, if you even think about ratting us out to the cops, we'll be a memory before they arriv#e.  But enough gloom.  Cheerio, good luck, and ta-ta!}
-{135}{LOX_6B}{去问外屋的茉莉就行了。她会告诉你细节，给你一张地图和一些帮你完成任务的工具。不过记着，如果你狗胆包天把我们出卖给条子，在他们抓我们之前，我们就会先让你成为历史。不说这种丧气话了，精神着点！祝你好运，回头见！}
+{135}{LOX_6B}{去问外屋的茉莉就行了。她会告诉你细节，给你一张地图和一些帮你完成任务的工具。不过记着，如果你狗胆包天把我们出卖给条子，我们在他们到之前就会消失得无影无踪。不说丧气话了，精神点！祝你好运，回头见！}
 
 #{136}{LOX_7}{Well, then why the bloody hell are you here?  Sightseeing?  The ambiance?  My handsome face?}
 {136}{LOX_7}{呃，那你他妈的在这搞什么？来这里观光旅游？感受这里的温馨格调？还是因为我长得帅而慕名而来？}
@@ -145,7 +145,7 @@
 {145}{LOX_11}{哦，让人伤心。我们建立友情的机会没了。【叹气】茉莉，送这个老土出去。}
 
 #{146}{LOX_12}{Ooh, a little back and forth.  I like someone who plays the edge.  I think you'll be a great addition to our merry little band.  What say you?}
-{146}{LOX_12}{呵，来来去去的，我喜欢有激情的人。我觉得你会让我们欢乐的小家庭如虎添翼，想入伙吗？}
+{146}{LOX_12}{呵，来来去去，我喜欢有激情的人。我觉得你会让我们欢乐的小家庭如虎添翼，想入伙吗？}
 
 #{147}{}{Okay!}
 {147}{}{当然！}
@@ -157,10 +157,10 @@
 {149}{lox_12b}{好！}
 
 #{150}{LOX_13}{Oh, bosh and bother.  Well, quite sorry to hear that, actually.  You would've made a fine thief.  But the Circle's not for the terminally stupid.  So, Jasmine, show our guest the door, please.}
-{150}{LOX_13}{唉，稀泥糊不上墙。你的话真的很让人失望。你本来可以成为一个优秀的盗贼的，但本质里，你还是脑袋不开窍的人，是进不来行会的。所以，茉莉，送客。}
+{150}{LOX_13}{唉，稀泥糊不上墙。你的话真的很让人失望。你本来可以成为一个优秀的盗贼的，但本质上，你还是那种脑袋不开窍的人，进不来行会的。所以，茉莉，送客。}
 
 #{151}{LOX_14}{Oh, what do you take me for?  If you want cold blooded murder, talk to Decker and his lot.  If you fail, which seems much more likely at this point, we will simple disappear.  Now, then care to try or not?}
-{151}{LOX_14}{哦，你把我当成什么人了？如果你想杀人玩，去找德克和他手下的那帮子家伙吧。我的意思是，如果你搞砸了－－目前而言，我觉得你是不太容易成功的－－我们直接闪人就是了。好了，你到底要不要接受复试？}
+{151}{LOX_14}{哦，你把我当成什么人了？如果你装酷做冷血杀手，去找德克和他手下的那帮子家伙玩。我的意思是，如果你搞砸了－－目前而言，我觉得你是不太容易成功的－－我们直接闪人就是了。好了，你到底要不要接受复试？}
 
 #{152}{}{Sure.}
 {152}{}{当然。}
@@ -169,7 +169,7 @@
 {153}{}{不。}
 
 #{154}{LOX_16}{Oh, no.  I'm so afraid.  Life is so hard. Loxley, I'd rather be a coward for all of my life than to have a single moment of triumph.  Ah, just another wanker, aren't you.  Out!}
-{154}{LOX_16}{啊～不啊～我怕怕～活着不容易啊，洛克西里，我宁愿做一辈子胆小鬼也不愿意出一时的风头。哈，你不就是这种废物吗？滚蛋！}
+{154}{LOX_16}{啊～不啊～我怕怕～活着不容易啊，洛克西里，我宁愿做一辈子胆小鬼也不愿意出一时的风头。哈，你不就是这种小人吗？滚！}
 
 #{155}{LOX_17}{Haven't figured it out yet, have we?  The First Test was just getting here!  That's the only reason I'm considering you.}
 {155}{LOX_17}{还没弄明白，啊？初试就是到达这里！所以我才给你入会的机会。}
@@ -205,7 +205,7 @@
 {165}{}{我给你脸上盖个鞋底印怎么样？}
 
 #{166}{LOX_22}{This is the famous Thieves' Circle!  I thought you would've known this, seeing's how you made it through all the defenses and whatnot.  But no matter.  You're quite promising, and the Circle could use someone like you.}
-{166}{LOX_22}{这儿是著名的盗贼工会！看你穿过防御系统的身手，我还以为你知道的。不过没关系，你很有发展前途，工会需要你这样的人。}
+{166}{LOX_22}{这儿是著名的盗贼工会！看你通过防御的身手，我还以为你知道的。不过没关系，你很有发展前途，工会需要你这样的人。}
 
 #{167}{}{Okay, what do I have to do?}
 {167}{}{好，我需要做什么？}
@@ -214,10 +214,10 @@
 {168}{}{不了，谢谢。我就是想问你几个问题。}
 
 #{169}{}{Not a chance.}
-{169}{}{做你娘的春梦。}
+{169}{}{没门儿。}
 
 #{170}{LOX_23}{Well, you made it through my defenses so you certainly have skills.  What's your name?}
-{170}{LOX_23}{嗯，你通过了我的防御系统，那么你一定身手不凡。你叫什么？}
+{170}{LOX_23}{嗯，你通过了我的防御系统，你一定身手不凡。你叫什么？}
 
 #{171}{}{I'm }
 {171}{}{我是}
@@ -238,7 +238,7 @@
 
 
 #{176}{}{You talk like an idiot.}
-{176}{}{你讲话像个猪头三。}
+{176}{}{你讲话像个白痴。}
 
 #{177}{LOX_24}{What the hell do you want?}
 {177}{LOX_24}{你他妈的想怎么样？}
@@ -262,7 +262,7 @@
 {182}{}{给我个机会吧！}
 
 #{183}{}{Well, you're just an idiot then, aren't you?}
-{183}{}{呃，那你丫就太蠢了，不是吗？}
+{183}{}{呃，那你丫就是个蠢蛋，不是吗？}
 
 #{184}{LOX_26}{Thanks for such a lovely moment.  Jasmine, show our guest out.}
 {184}{LOX_26}{真是感谢你的盛情。茉莉，送客。}
@@ -271,7 +271,7 @@
 {185}{LOX_27}{啊，再次见到你真高兴。你给我带来什么东西了吗？}
 
 #{186}{}{My resignation. I decided not to take your stupid test.}
-{186}{}{我的辞呈。我不想做你的傻逼测试了。}
+{186}{}{我的辞呈。我不想做你的蠢测试了。}
 
 #{187}{}{I didn't get it yet.}
 {187}{}{我还没弄到手。}
@@ -310,7 +310,7 @@
 {198}{}{我在找失踪的商队。有线索吗？}
 
 #{199}{LOX_35}{Well, the whole bloody town's in an uproar, what with the missing caravans and all.  Something of a pain.  Cuts into the Circle's business, don't you know?}
-{199}{LOX_35}{呃，全城都他妈的因为失踪的商队而骚动了。这有点痛苦。断了盗贼工会的财路，知道吗？}
+{199}{LOX_35}{呃，全城都他妈的因为失踪的商队而骚动了。这很不爽。断了盗贼工会的财路，知道吗？}
 
 #{200}{}{Do you know who might be responsible?}
 {200}{}{你知道是谁干得吗？}
@@ -361,7 +361,7 @@
 {215}{}{啊，谢谢。我能再问几个问题吗？}
 
 #{216}{LOX_42}{Oh, just the usual.  The merchant caravans get fat off the poor, while that villain Decker plays off everyone.}
-{216}{LOX_42}{啊，和往常一样。商队靠骗穷人的钱越来越富，恶棍德克挑拨各派互殴从中得利。}
+{216}{LOX_42}{啊，和往常一样。商队靠骗穷人的钱越来越富，恶棍德克挑拨各派互殴从中渔利。}
 
 #{217}{LOX_43}{Well, you've got the usual numbers of shops and things.  Mix in some Children of the Cathedral nut cases.  Add a dollop of Decker and his underground making life hard for us all.  Top it with a sprinkle of greedy merchants and that will jus#t about cover it.}
 {217}{LOX_43}{嗯，商店和铺子已经不少了，大教堂教徒还尽来添乱，外加德克帮和他的地下组织让全城人的日子都不爽。最操蛋的就是那些奸商，这就是大概情况吧。}
@@ -376,7 +376,7 @@
 {220}{LOX_43A}{请进入下一问题。}
 
 #{221}{LOX_44}{Too right!  That's why the Circle was formed, you see.  You got all those rich buggers, feeding off the poor.  And those poor are just waiting for a hero.  Because of the help we give them, they practically bow at our feet.}
-{221}{LOX_44}{太对了！这就是盗贼工会成立的原因，明白吧。这些有钱的蛀虫对穷人敲骨吸髓的。穷人在等待一个英雄。因为我们给予他们帮助，他们对我们毕恭毕敬的。}
+{221}{LOX_44}{太对了！这就是盗贼工会成立的原因，明白吧。这些有钱的蛀虫对穷人敲骨吸髓。穷人在等待一个英雄。因为我们劫富济贫，他们对我们毕恭毕敬的。}
 
 #{222}{}{What's wrong with making money?}
 {222}{}{捞钱有什么不对？}
@@ -388,20 +388,20 @@
 {224}{LOX_47}{有什么不对？！你个……算了，我错看你了，不是吗？茉莉，把这个商人的走狗请出去！}
 
 #{225}{LOX_48}{You know the story!  I knew there was something special about you.  Ah, me granddad told that one a long time ago.  Now there was a thief!  But enough of that.  Anything else you need to ask?}
-{225}{LOX_48}{你知道那个故事的！我知道你比较特殊。啊，那是我爷爷告诉我的，他说很久很久以前，有一个义贼……好了，暂且打住。你还需要问什么？}
+{225}{LOX_48}{你知道那个故事！！我知道你很特别。啊，那是我爷爷告诉我的，他说很久很久以前，有一个义贼……好了，暂且打住。你还需要问什么？}
 
 #{226}{LOX_51}{Other than the missing caravans, not much.  Oh, wait.  One of my lads came back yesterday all a-glow with a touch of radiation poisoning.  Nasty business.  Probably tip-toed a bit too close to the old Hot Spot.}
 {226}{LOX_51}{除了失踪商队的事，没什么了。啊，等下。我有个兄弟昨天全身放光的带着辐射回来了。真恶心。可能是和辐射点离得太近了。}
 
 #{227}{LOX_53}{We steal from the rich, plain and simple.  We give about, oh, ten to twenty percent to the poor folks over in Old Town.  The Circle keeps twenty, which leaves the rest for the thief.  Not a bad deal all round.}
-{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，10%到20%分给旧城区的穷人。组织保留20%，其余留给那个盗贼。还算公平合理。}
+{227}{LOX_53}{简单的说呢，我们偷那些有钱人。我们把大约，呃，10%到20%分给旧城区的穷人。组织保留20%，其余留给那个贼。还算公平合理。}
 
 #{228}{LOX_54}{We're a bunch of crooks!  What did you think we were, a bunch of cooks?}
 {228}{LOX_54}{我们是骗子！你认为我们是什么？厨子？}
 
 #{229}{LOX_55A}{You could check with the merchants, although your time would be better spent sizing them up for some night removal work.  While I think it's absolute bunk, ask around about the Death Claw.  Or even follow a caravan out, if you've totally l#ost your mind.}
 #先这么翻吧
-{229}{LOX_55A}{你可以和商人们谈谈，但那基本上就是浪费时间。你也可以去打听下死亡爪，不过我认为这太扯了。或者，如果你真的脑子进水了就直接跟一队商人出去。}
+{229}{LOX_55A}{你可以和商人们谈谈，但那基本上就是浪费时间，还不如晚上直接去他们家搬家。你也可以去找死亡爪打听下，不过我认为这太扯了。或者，如果你真的脑子进水了就直接跟一队商人出去。}
 
 #{230}{LOX_55B}{Well, how the bloody hell should I know?  Do I look like a merchant?}
 {230}{LOX_55B}{哈，我他妈的怎么会知道？我看起来像个商人吗？}
@@ -437,7 +437,7 @@
 {240}{LOX_65}{唉！没办法。对牛弹琴。}
 
 #{241}{LOX_66}{No.  Decker's a slick one.  He's got the whole town in his pocket, he does.  He gives his 'protection' to the merchants, all the while pitting them against each other.  Not someone you want to mess with, but he can usually be found in the M#altese Falcon.}
-{241}{LOX_66}{不。德克是个老油条。他玩弄全城于鼓掌之间，真的。他罩着商人们，但同时一直叫他们互相争斗。那家伙可不是你能惹得起的，不过你如果真的要见他的话，通常可以在马耳他猎鹰酒吧那里找到他。}
+{241}{LOX_66}{不。德克是个老油条。他玩弄全城于鼓掌之间，真的。他罩着商人们，但同时一直叫他们互相内讧。那家伙可不是你能惹得起的，不过你如果真的要见他的话，通常可以在马耳他猎鹰酒吧那里找到他。}
 
 #{242}{LOX_67}{He's a gun dealer up in the north part of Old Town.  Damn dangerous bloke, some of his hardware's a bit too lethal.}
 {242}{LOX_67}{他是旧城区北部的一个枪商。很他妈危险的家伙，他的一些货可不是闹着玩的。}
@@ -461,13 +461,13 @@
 {248}{LOX_73}{他们是三个商队中还算有点人样的。不过也好不到哪里去。}
 
 #{249}{LOX_74}{Criminals.  Absolute criminals.  They're squeezing the life out of the town.  The Far Go Traders, the Crimson Caravan, and the worst of the bunch, the Water Merchants.  You can have the lot.}
-{249}{LOX_74}{他们是罪犯！绝对是罪犯！它们使这座城镇半死不活。远行商队，深红商队，还有最垃圾的一群，纯水商队。很多很多，都是王八操的。}
+{249}{LOX_74}{他们是罪犯！绝对是罪犯！他们使这座城镇半死不活。远行商队，深红商队，还有最垃圾的一群，纯水商队。很多很多，都是王八操的。}
 
 #{250}{lox_75}{It's down in the middle of town.}
 {250}{lox_75}{它坐落在市中心。}
 
 #{251}{LOX_76}{Not much to tell, really.  Nighttime, scare your children stories about a beastie living up north and feeding on the flesh of bad little children everywhere.}
-{251}{LOX_76}{真没什么好说的。半夜，用来吓小孩的故事－一头住在北边的野兽到处寻觅坏小孩当食物。}
+{251}{LOX_76}{真没什么好说的。半夜，用来吓小孩的故事－一头住在北边的野兽到处找坏小孩吃。}
 
 #{252}{LOX_77}{Seems like every day another one turns up missing.  People are afraid to leave town without protection.  Some even blame it on the Death Claw.}
 {252}{LOX_77}{似乎每天都有人被发现失踪。人们害怕在没有护卫的情况下离开城市。有的人把这归咎于死亡爪。}
@@ -485,7 +485,7 @@
 {256}{LOX_81}{你总能在商业区的市场中心找到鲍勃。如果他还没有死翘翘，他很可能在卖他的蜥蜴串。}
 
 #{257}{LOX_82}{Now there's a scary bunch.  They strut around all day talking about their Night God, as if he's the next best thing since merchant pockets with holes.  They can heal you up pretty cheap.  I'll give'em that.  You can find'em in that hospital# of theirs downtown.}
-{257}{LOX_82}{目前有一伙让人很不安的人。他们整天到处肆意宣扬他们的黑暗上帝，就好像他的出现是比商人们的口袋破了洞都好的事情。他们可以廉价的帮你看病。我都付得起。你可以在他们市中心的医院找到他们。}
+{257}{LOX_82}{目前有一伙让人很不安的人。他们整天到处大肆宣扬他们的黑暗上帝，就好像他的出现是比商人们的口袋破了洞都好的事情。他们可以廉价的帮你看病。我都付得起。你可以在他们市中心的医院找到他们。}
 
 #{258}{LOX_83}{Oh, another bunch of wackos.  They sit up in their big black fortress to the north, just waiting for another war.}
 {258}{LOX_83}{呃，又一群怪人。他们呆在他们北边的阴暗的大堡垒里，就等着下一次战争爆发。}
@@ -494,10 +494,10 @@
 {259}{LOX_84}{在那你最好小心点。电锯党和利刃帮可能为了想找乐就把你剁了。到了内城区，先保住性命要紧。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我对她的回忆，真的。}
 
 #{260}{LOX_85}{They're the scrapheads down in the Boneyard.  They've been fighting for years, and they don't even know what for anymore.  Bloody stupid it is.}
-{260}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{260}{LOX_85}{他们是曝骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
 
 #{261}{LOX_86}{Oh, what a woman!  She used to be a thief here, until she decided to move down south to the Boneyard.  Last I heard she joined up with the Blades.  Ah, well, brains weren't her strongest part.}
-{261}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
+{261}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去曝骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
 
 #{262}{LOX_87}{Hmm, I haven't the foggiest.}
 {262}{LOX_87}{唔，我也不太清楚。}
@@ -509,7 +509,7 @@
 {264}{LOX_89}{唔。没头绪。}
 
 #{265}{LOX_90}{Well, [Derisive sound], how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
-{265}{LOX_90}{啊，【嘲笑声】，像你这样一个彻头彻尾的傻瓜是怎么通过我的防御系统的？抱歉，我们不收留专业白痴，我们喜欢智慧四处对撞的谈话。茉莉，把我们这位流口水的客人领出去。}
+{265}{LOX_90}{啊，【嘲笑声】，像你这样一个彻头彻尾的傻瓜是怎么通过我的防御的？抱歉，我们不收留专业白痴，我们喜欢才华横溢的谈话。茉莉，把我们这位流口水的客人领出去。}
 
 #{266}{LOX_91}{Talk to Jasmine and she'll fill you in on the details.}
 {266}{LOX_91}{和茉莉谈谈，她会告诉你细节。}
@@ -533,7 +533,7 @@
 {982}{LOX_89}{唔。没头绪。}
 
 #{983}{LOX_90}{Well, [Derisive sound], how did a total moron, such as yourself, get past my defenses?  Sorry, no idiot savants allowed, we like good conversation here.  Jasmine, show our drooling friend the door please.}
-{983}{LOX_90}{啊，【嘲笑声】，像你这样一个彻头彻尾的傻瓜是怎么通过我的防御系统的？抱歉，我们不收留专业白痴，我们喜欢智慧四处对撞的谈话。茉莉，把我们这位流口水的客人领出去。}
+{983}{LOX_90}{啊，【嘲笑声】，像你这样一个彻头彻尾的傻瓜是怎么通过我的防御系统的？抱歉，我们不收留专业白痴，我们喜欢才华横溢的谈话。茉莉，把我们这位流口水的客人领出去。}
 
 
 
@@ -631,10 +631,10 @@
 {1118}{LOX_84}{在那你最好小心点。电锯党和利刃帮可能为了想找乐就把你剁了。到了内城区，先保住性命要紧。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我对她的回忆，真的。}
 
 #{1119}{LOX_85}{They're the scrapheads down in the Boneyard.  They've been fighting for years, and they don't even know what for anymore.  Bloody stupid it is.}
-{1119}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{1119}{LOX_85}{他们是曝骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
 
 #{1120}{LOX_86}{Oh, what a woman!  She used to be a thief here, until she decided to move down south to the Boneyard.  Last I heard she joined up with the Blades.  Ah, well, brains weren't her strongest part.}
-{1120}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
+{1120}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去曝骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
 
 #{1121}{LOX_71}{Them.  Sitting high and mighty in their Water Tower south of downtown, charging all us decent folks for any drop of water that springs from the ground.  They should all be bloody shot, they should.}
 {1121}{LOX_71}{他们。牛皮哄哄坐在他们位于市中心南部的水塔里边，为了每一滴从地上冒出来的水向我们收费。他们都该他妈的拖出去枪毙，绝对应该。}

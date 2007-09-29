@@ -65,10 +65,10 @@
 {120}{}{我很抱歉，但是你将不得不自己寻找通向“同一”的道路。}
 
 #{121}{}{You are obviously a heathen! Pay for your sins!}
-{121}{}{很明显你是个异教徒！为你的罪孽付出代价吧！}
+{121}{}{你明显就是个异教徒！为你的罪孽付出代价吧！}
 
 #{122}{}{He resides on Level 3, as he must. Why do you ask such a silly question?}
-{122}{}{他住在第三层，因为他不得不这么做。为什么你问这个傻问题？}
+{122}{}{他住在第三层，因为他必须这么做。为什么你问这个傻问题？}
 
 #{123}{}{Oh, uh, no reason.}
 {123}{}{哦，呃，没理由啊。}
@@ -89,7 +89,7 @@
 {128}{}{你的声音听起来好像你并不相信你自己说的。这难道是真的吗？还是你已经远离了正道？}
 
 #{129}{}{You mistake the tremor in my voice for fear when it is actually a cold of some sort.}
-{129}{}{你把我声音中因为寒冷而发出的战栗误认成源自恐惧的了。}
+{129}{}{你把我声音中因为寒冷而发出的战栗误认成源自恐惧了。}
 
 #{130}{}{I think your kind is doomed, actually. Here, let me prove it with some help from my friends . . .}
 {130}{}{我认为你的种族事实上已经注定灭亡了。来这儿，让我在我朋友的帮助下证明给你看。}
@@ -104,7 +104,7 @@
 {133}{}{妈的！}
 
 #{134}{}{I have little time for your life . . . Die!}
-{134}{}{而我不想给你活命的时间……死吧！}
+{134}{}{我觉得你大限到了……死吧！}
 
 #{135}{}{Nothing, sorry.}
 {135}{}{没什么，抱歉。}

@@ -22,7 +22,7 @@
 #{106}{LIEUT1A}{An insult. How droll. I'd define that word for you,
 # but that would be a waste, wouldn't it. Let's get to your two choices:
 # You can tell me what I want to know. Or I can do it . . . my way.}
-{106}{LIEUT1A}{侮辱。多么滑稽，我会替你解释那个词，不过，那将是浪费，就不用了。我给你两条路: 你说出我想知道的东西。或者我让你说……用我的方式。}
+{106}{LIEUT1A}{侮辱。多滑稽，我会替你解释那个词，不过，那将是浪费，就不用了。我给你两条路: 你说出我想知道的东西。或者我让你说……用我的方式。}
 
 #{107}{}{I'll take 'none of the above.'}
 {107}{}{这两条路，我一个都不要。}
@@ -302,7 +302,7 @@
 {198}{}{那你怎么会知道这些呢？}
 
 #{199}{LIEUT32}{We have done extensive experiments on humans to reach this conclusion. My master has been searching for unopened Vaults to prove his theories. And now you've come along. How thoughtful of you.}
-{199}{LIEUT32}{我们在人类的身上做了大量试验得出了这个结论。我的主教在寻找从未开放过的避难所来验证他的理论。而现在你出现了。你多么体贴人啊。}
+{199}{LIEUT32}{我们在人类的身上做了大量试验得出了这个结论。我的主教在寻找从未开放过的避难所来验证他的理论。而现在你出现了。你还真是体贴人啊。}
 
 #{200}{}{You won't find it.}
 {200}{}{你们不会找到它。}

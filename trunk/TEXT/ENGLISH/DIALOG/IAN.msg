@@ -42,7 +42,7 @@
 # home now. Occasionally, I even get to visit Junktown or the Hub
 # to do some trading, since I'm the only person here who has ever
 # really left town.}
-{112}{}{我原来是哈勃城商人护卫队的一员。可是我在歹徒的一次袭击中受伤了。在伤势复原之前，我得一直待在这里。即便如此，我对外部世界的熟悉和积累的经验让我在这里也能发挥作用。沙荫镇现在就是我的家。有时候，我也会去迦克镇或者哈勃城做些买卖，毕竟我是这儿唯一真正离开过城镇见识过世面的人。}
+{112}{}{我原来是哈勃城商人护卫队的一员。可是我被强盗打中受伤了。既然这里的人能帮我治伤，我就一直待在这里。当然，我对外界的熟悉和积累的经验让我在这里也能发挥作用。沙荫镇现在就是我的家。有时候，我也会去迦克镇或者哈勃城做些买卖，毕竟我是这儿唯一真正离开过城镇见识过世面的人。}
 
 #{113}{}{You see Ian.}
 {113}{}{你看见伊恩。}
@@ -54,7 +54,7 @@
 {115}{}{你说的哈勃城和迦克镇在哪儿？}
 
 #{116}{}{Can you tell me about the bandits?}
-{116}{}{你能告诉我一些关于歹徒的事吗？}
+{116}{}{你能告诉我一些关于强盗的事吗？}
 
 #{117}{}{Shady Sands is a small but self-sufficient community. The only trouble
 # here is with the bandits and the Radscorpions.}
@@ -64,18 +64,18 @@
 {118}{}{为什么那些辐射蝎会惹麻烦？}
 
 #{119}{}{Are there many bandits?}
-{119}{}{这附近有很多歹徒吗？}
+{119}{}{这附近有很多强盗吗？}
 
 #{120}{}{There are several. They come from various groups. They steal
 # our food and occasionally shoot a few people.
 # Seth organized the guards to help fight them off.}
-{120}{}{附近有一些，这些人来自不同的部族。他们偷窃我们的食物有时候甚至会开枪伤人。赛思组织了一支护卫队想击退那些歹徒。}
+{120}{}{附近有一些，这些人来自不同的部族。他们偷我们的食物有时候甚至开枪伤人。赛思组织了一支护卫队想击退强盗。}
 
 #{121}{}{Can you tell me about Seth?}
 {121}{}{你能告诉我赛思是谁吗？}
 
 #{122}{}{There are different groups? Who are they all?}
-{122}{}{不同的部族？它们都是谁？}
+{122}{}{不同的部族？他们都是谁？}
 
 #{123}{}{Radscorpions are very dangerous. They have a poisonous
 # stinger in the tail, and they are very quick.
@@ -107,7 +107,7 @@
 {129}{}{告诉我更多关于沙荫镇的事。}
 
 #{130}{}{He has the confident, relaxed stance of an experienced fighter.}
-{130}{}{他非常自信，摆出一副身经百战的战士常有的轻松姿态。}
+{130}{}{他非常自信，也总摆出一副那种身经百战的战士才有的轻松姿态。}
 
 # TRANSLATION NOTE
 # The player-character's name is inserted by the code in between lines 131 and 132.
@@ -140,7 +140,7 @@
 # Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west.
 # It's smaller, but still a good place to drop in for a drink. It's overseen by a
 # fellow by the name of Killian Darkwater, the local shopkeeper, sheriff, and mayor.}
-{139}{}{哈勃城是位于沙荫镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安·达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
+{139}{}{哈勃城是在沙荫镇南部的一个大型贸易中心。它被掌握在几个不同的商队组织手中：纯水商队、深红商队和远行商队。迦克镇就在西南面不远的地方。它是一座小城，不过同样值得停下来歇歇脚，顺便去酒馆喝上一杯。那里全归一个叫基利安·达克沃特的家伙说了算, 他既是当地的商店业主，也是治安官和镇长。}
 
 #{140}{}{Thanks.}
 {140}{}{谢谢。}
@@ -180,7 +180,7 @@
 
 #{151}{}{This is Killian's, a general store. Killian's a good man, and they
 # have plenty of stock.}
-{151}{}{这是基利安的杂货店。基利安是个不错的家伙，他那里也有足够的货存。}
+{151}{}{这是基利安的杂货店。基利安是个不错的家伙，他那里也有足够的存货。}
 
 #{152}{}{Gizmo's casino. A hive of gambling and underworld activity. Careful; they
 # say the games are rigged.}
@@ -216,7 +216,7 @@
 
 #{162}{}{This is the Weapon Shop. It's run by Beth. She's good for guns, but
 # better for gossip.}
-{162}{}{这里是贝斯的武器店。她精通于枪械，但更擅长闲谈。}
+{162}{}{这里是贝斯的武器店。她精通枪械，但更擅长闲谈。}
 
 #{163}{}{Jake's weapons. High prices, but really good guns.}
 {163}{}{杰克的武器库。高价，相当不错的货色。}
@@ -270,7 +270,7 @@
 #
 
 #{175}{}{I thought the Boneyard was worse.}
-{175}{}{我觉得晒骨场更糟。}
+{175}{}{我觉得曝骨场更糟。}
 
 
 
@@ -294,7 +294,7 @@
 # Ian tell-me-abouts
 #
 {1099}{}{?}
-{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard晒骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
+{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard曝骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
 
 {1000}{}{Water}
 {1001}{}{War}

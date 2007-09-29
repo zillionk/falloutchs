@@ -1,3 +1,4 @@
+
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
@@ -5,7 +6,7 @@
 {100}{}{你看见凯利。}
 
 #{101}{}{Who the hell are you?  If you want a job you'll need to talk to Demetre.}
-{101}{}{你它娘的是谁？找工作去和戴米德说！}
+{101}{}{你它妈的是谁？找工作去和戴米德说！}
 
 #{102}{}{I said to talk to my dad if you want a job, not me.}
 {102}{}{我说过了，找工作的话去和我爸爸说，别烦我。}
@@ -14,13 +15,13 @@
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{103}{}{老杂碎居然同意你来干活了？你他妈的一定是个很耐操的婊子啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
+{103}{}{老不死的居然同意你来干活了？你他妈一定是个悍妇。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和曝骨场。}
 
 #{104}{}{So, that old bastard gave you the okay to work for us, eh?  Well you must have balls of steel.
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{104}{}{老杂碎居然同意你来干活了？你他妈的一定是个很吊的鸟哥啊。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们去四个主要贸易点：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
+{104}{}{老不死的居然同意你来干活了？你他妈一定是个糙哥。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和曝骨场。}
 
 #{105}{}{And the pay?}
 {105}{}{报酬如何？}
@@ -62,7 +63,7 @@
 {117}{}{有兴趣否？}
 
 #{118}{}{I'll still give your sorry ass a job, if you're interested?}
-{118}{}{我还是愿意给你这个衰神一个工作，有兴趣吗？}
+{118}{}{我还是愿意给你这个衰人一个工作，有兴趣吗？}
 
 #{119}{}{Sure.}
 {119}{}{好。}
@@ -81,7 +82,7 @@
 
 #{124}{}{Ha, I thought you were a coward!  Well?if you brave'n up, stop by and I might still give you a job. We
 # leave on the 3rd and 17th, you can just show up that day if you like.  We can always use more guns.}
-{124}{}{哈，我还以为你是个胆小鬼的！那么，如果你够种，下次来找我，我给你工作。我们每个月3号和17号出发，你那天来就是了。我们从来都是需要人才的。}
+{124}{}{哈，我还以为你是个胆小鬼的！那么，如果你够种，下次来找我，我给你工作。我们每个月3号和17号出发，你那天来就是了。我们从来都是缺人手。}
 
 #{125}{}{You just love to waste my time, don't you.}
 {125}{}{你是不是想浪费我时间啊。}
@@ -93,10 +94,10 @@
 {127}{}{嘿！这里的毒品是不赖，但是你要清醒了再来找工作。}
 
 #{128}{}{I said to lay off the drugs, man!}
-{128}{}{醒醒你的毒！}
+{128}{}{醒醒你的瘾！}
 
 #{129}{}{I said to lay off the drugs, bitch!}
-{129}{}{醒醒你的毒！}
+{129}{}{醒醒你的瘾！}
 
 #{130}{}{Well now?I hate to say it but?I've heard of you.  Are you as tough in private as in public?  Let's
 # see?(She leads you around a corner)}
@@ -198,7 +199,7 @@
 
 #{161}{}{I should string you up by your eye lids!  Because of you we lost
 # a whole damn caravan!  Get the hell out of my face! I'm going to catch some serious shit for this one.}
-{161}{}{我要把你的阴户串起来吊死你！就是因为你这个婊子，我们损失了整个商队！从我面前消失！这件破事把我逼疯了。}
+{161}{}{我要把你的眼皮串起来吊死你！就是因为你这个婊子，我们损失了整个商队！从我面前消失！这件破事把我逼疯了。}
 
 #{162}{}{I should string you up by your balls!  Because of you we lost
 # a whole damn caravan!  Get the hell out of my face! I'm going to catch some serious shit for this one.}
@@ -207,7 +208,7 @@
 {163}{}{钢铁兄弟会}
 {164}{}{迦克镇}
 {165}{}{大墓地}
-{166}{}{晒骨场}
+{166}{}{曝骨场}
 
 #{167}{}{Never mind.  I have something I forgot to do. }
 {167}{}{算了，我还有自己的事情要做。}
@@ -225,7 +226,7 @@
 {171}{}{好，再等几分钟，所有疯子就会集合完毕。}
 
 #{172}{}{Brotherhood of Steel, here we come! Well?I'm not going with you, but you know what I mean.}
-{172}{}{钢铁兄弟会！我们来也！虽然我不跟你去，但是你知道我要表达的意思是吧。}
+{172}{}{钢铁兄弟会！我们来了！虽然我不跟你去，但是你知道我要表达的意思是吧。}
 
 #{173}{}{Okay, get out of my face already.  Those Brotherhood fanatics are waiting for you.}
 {173}{}{好，你走吧，那些钢铁兄弟会的变态在等着你呢。}
@@ -252,7 +253,7 @@
 {180}{}{赛特是镇里的领导，至少我上次去的时候还是。}
 
 #{181}{}{That town's full of skags!  Well, I better get you going.}
-{181}{}{城里全是嗑药仔！嗯，你还是准备动身吧。}
+{181}{}{城里全是嗑药的！嗯，你还是准备动身吧。}
 
 #{182}{}{LA's pretty cool.  You'll like it, but just be sure not to leave the caravan until it arrives.  It's
 # not to safe, for the caravans that is.}
@@ -264,7 +265,7 @@
 
 #{184}{}{I'm told the Boneyard used to be a place called LA.  I don't know what the person's initials stand
 # for, but it's a cool place.}
-{184}{}{我知道晒骨场以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
+{184}{}{我知道曝骨场以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
 
 #{185}{}{What the hell do you want?}
 {185}{}{你到底要干什么？}
@@ -304,7 +305,7 @@
 
 #{197}{}{What?  You've never worked a caravan before?  I can't believe my dad hired you in the first place!
 # Get lost!  We only hire experienced personnel!  That's why we pay the big bucks!}
-{197}{}{你以前没干过保镖？我没想到阿爸居然还是你的第一手主顾呢！我们只要有经验的保镖！所以我们开的工资很高！}
+{197}{}{你以前没干过保镖？我没想到阿爸居然还是你的第一任主顾呢！我们只要有经验的保镖！所以我们开的工资很高！}
 
 #{198}{}{You did good on that last job. Are you looking for another one?}
 {198}{}{你上次干得不错，再做一次？}
@@ -338,7 +339,7 @@
 
 #{208}{}{You're a day early. Come back tomorrow if you still want the job.  If not, don't show.  I don't give
 # a crap.}
-{208}{}{你来早了一天，如果还要那个工作，明天再来吧。要是你改主意了，那就不必来了，我也没什么意见的。}
+{208}{}{你来早了一天，如果还要那个工作，明天再来吧。要是你改主意了，那就不必来了，我不会有什么意见。}
 
 #{209}{}{Hey, you're early.  I'm not sending them out until }
 {209}{}{嘿，你来早了。下次出发的时间是}

@@ -8,11 +8,11 @@
 #{102}{}{Good day. How may I be of assistance?}
 {102}{}{你好。我能帮你吗？}
 #{103}{}{I'm looking for Master Scribe Vree.}
-{103}{}{我要找首席研究员弗蕾。}
+{103}{}{我要找首席研究员弗蕾.}
 #{104}{}{I'm looking for General Maxson.}
-{104}{}{我要找马克松将军。}
+{104}{}{我要找马克松将军.}
 #{105}{}{I'm looking for Paladin Rhombus.}
-{105}{}{我要找游侠隆伯斯。}
+{105}{}{我要找游侠隆伯斯.}
 #{106}{}{What're you reading?}
 {106}{}{你在看什么书？}
 #{107}{}{Gaahh.}
@@ -22,7 +22,7 @@
 #{109}{}{Master Scribe Vree is on level three, in the computer lab.}
 {109}{}{首席研究员弗蕾在第三层，在计算机室里。}
 #{110}{}{General Maxson is usually on level four, in the council chambers.}
-{110}{}{马克松将军通常在第四层，在会议室里。}
+{110}{}{马克松将军通常在第四层，在委员会里。}
 #{111}{}{Paladin Rhombus spends most of his time on level one, in the supply room.}
 {111}{}{游侠隆伯斯大部分时间都在第一层，在库房里。}
 #{112}{}{Is there anything else I can help you with?}

@@ -36,7 +36,7 @@
 
 #{111}{}{I'm a Scav -- a scavenger. My job is to search out all of
 # the Boneyard for useful items and information. Dangerous work.}
-{111}{}{我是一个拾荒者——一个捡垃圾的。我的工作是找出晒骨场中那些还利用价值的东西。这是很危险的工作。}
+{111}{}{我是一个拾荒者——一个捡垃圾的。我的工作是找出曝骨场中那些还利用价值的东西。这是很危险的工作。}
 
 #{112}{}{Why is it dangerous?}
 {112}{}{为什么危险？}

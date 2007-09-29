@@ -94,7 +94,7 @@
 # five hours. Well, maybe a little longer. They gave me some markers, and
 # I don't have enough here to cover it. I gotta get back to the Hub and get
 # some cash. I'm afraid they'll beat me up if I try to leave.}
-{128}{}{不多，几千块吧。我也就玩了四五个小时。也许还要长点。他们给了我一些筹码，我这里的钱还不起。我要去哈勃城拿钱，但是我要是走的话会被他们揍死的。}
+{128}{}{不多，两千块吧。我也就玩了四五个小时。也许还要长点。他们给了我一些筹码，我这里的钱还不起。我要去哈勃城拿钱，但是我要是走的话会被他们揍死的。}
 
 #{129}{}{Why do you owe them so much money?}
 {129}{}{你怎么会欠他们那么多？}

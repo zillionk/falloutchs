@@ -2,9 +2,9 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a ghoul gang member.}
-{100}{}{你看到僵尸团伙的一员。}
+{100}{}{你看到僵尸帮的一员。}
 #{101}{}{What are you doing here? Answer wisely - this could be your only chance . . .}
-{101}{}{你在这里干吗？放聪明点——你只有一次机会……}
+{101}{}{你在这里干吗？快回答，这是你唯一的机会……}
 #{102}{}{I'm looking for the boss.}
 {102}{}{我在找老大。}
 #{103}{}{This building is condemned - I've come to serve final notice.}
@@ -29,13 +29,13 @@
 #{112}{}{What are you doing here?}
 {112}{}{你在干吗？}
 #{113}{}{Set keeps at least two guards around him at all times, but he can call on more then ten if he needs it. And when he's in his throne room, those ten guards are seconds away.}
-{113}{}{赛特身边至少有两个守卫，如果他愿意，随时有十个守卫待命，他们就在附近，在赛特的房间附近。}
+{113}{}{赛特身边至少有两个守卫，如果他愿意，随时有十几个守卫待命。当他待在自己的房间，守卫们就在隔壁待命。}
 #{114}{}{So what are you doing here?}
 {114}{}{你又干吗？}
 #{115}{}{I ain't telling ya' that. Whadda ya' think I am, stupid? Now git . . .}
 {115}{}{那我是不会告诉你。你以为我是谁？白痴？给我滚……}
 #{116}{}{I'm supposed to make sure no one goes by. Dis is Zombie house.}
-{116}{}{我的任务是阻止闲杂人等过去. 这里是僵尸的地盘.}
+{116}{}{我的任务是禁止闲杂人等通过. 这里是僵尸的地盘.}
 #{117}{}{What's a Zombie?}
 {117}{}{僵尸是什么东西？}
 #{118}{}{Well, you have a nice day.}

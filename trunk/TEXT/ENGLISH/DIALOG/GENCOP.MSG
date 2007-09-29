@@ -5,10 +5,10 @@
 {100}{}{你看到了一位哈勃城的警官。}
 
 #{101}{}{I wish I was stationed closer to my home.}
-{101}{}{我希望我被配属在离我家更近一点的地方。}
+{101}{}{我希望能分配到离家近一点的地方。}
 
 #{102}{}{I wonder what happened to those caravans.}
-{102}{}{我想知道这些商队身上都发生了什么。}
+{102}{}{我奇怪这些商队都发生了什么。}
 
 #{103}{}{Move along.}
 {103}{}{继续。}
@@ -26,7 +26,7 @@
 {107}{}{别在我的面前挥舞你的武器。}
 
 #{108}{}{Put that away unless you want some jail time.}
-{108}{}{把那个收起来，除非你想在监狱里呆上一段时间。}
+{108}{}{把那个收起来，除非你想在监狱里呆一阵子。}
 
 #{109}{}{Are you aiming that at me?}
 {109}{}{你在用那个指着我吗？}
@@ -41,7 +41,7 @@
 {112}{}{我们镇不允许殴斗，暴徒。}
 
 #{113}{}{We don't like baby killers!}
-{113}{}{我们不喜欢婴儿杀手！}
+{113}{}{我们不喜欢杀小孩儿的人！}
 
 #{114}{}{Lay a hand on a kid and we'll hunt you down.}
 {114}{}{敢动孩子们一根手指头，我们就会追捕你。}
@@ -50,13 +50,13 @@
 {115}{}{我讨厌像你这样的人。}
 
 #{116}{}{Don't call for help if you're in trouble.}
-{116}{}{遇上麻烦的时候别指望寻求帮助。}
+{116}{}{遇上麻烦的时候别指望求救。}
 
 #{117}{}{Hey, thanks for doing our work for us.}
 {117}{}{嘿，谢谢你帮我们代劳了。}
 
 #{118}{}{We don't allow kill'n here, even if it is justified.}
-{118}{}{我们这里不允许杀人，即使有正当的理由。}
+{118}{}{即使有正当的理由，我们这里也不允许杀人。}
 
 #{119}{}{If you're the one that killed the Deathclaw . . . thank you.}
 {119}{}{如果你是那个杀了死亡爪的人……那么谢谢你。}
@@ -65,7 +65,7 @@
 {120}{}{在我们城市的时候安分点。}
 
 #{121}{}{I would keep clear of Decker if I was you.}
-{121}{}{如果我是你的话，我会和德克保持距离的。}
+{121}{}{如果我是你的话，就会和德克保持距离的。}
 
 #{122}{}{Enjoy your stay.}
 {122}{}{住的愉快。}
@@ -89,10 +89,10 @@
 {128}{}{继续。继续。}
 
 #{129}{}{We're here to Prevent and Survey.}
-{129}{}{我们在这儿是为了侦查和预防。}
+{129}{}{我们在这儿是为了调查和预防。}
 
 #{130}{}{Keep that weapon under control while you're in our city.}
-{130}{}{在我们城里时，管好你的武器。}
+{130}{}{在我们城里，管好你的武器。}
 
 #{131}{}{Don't you get into any fights with that.}
 {131}{}{别再挑事了。}
@@ -179,7 +179,7 @@
 {158}{}{你听说了吗？远行商队出事了。}
 
 #{159}{}{The Water Merchants are history. That's a blessing.}
-{159}{}{净水商人已经成为历史了。这真是件幸事。}
+{159}{}{净水商人已经成为历史了。这真是件好事。}
 
 #{160}{}{Someone killed off the Crimson Caravan.}
 {160}{}{有人把深红商队都杀光了。}

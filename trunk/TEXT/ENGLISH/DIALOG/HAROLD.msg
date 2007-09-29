@@ -71,7 +71,7 @@
 {128}{}{那些变种人哪里来的？}
 #{129}{HROLD9}{
 #Course they helped, ya bonehead!  Just too damn many to handle!}
-{129}{HROLD9}{你笨笨啊，当然是有用的了！但是变种人太多了！}
+{129}{HROLD9}{你够笨啊，当然是有用的了！但是变种人太多了！}
 #{130}{}{How did you survive the mutant attacks?}
 {130}{}{你怎么幸免于难的？}
 #{131}{HROLD9A}{
@@ -99,7 +99,7 @@
 {140}{}{你们去哪里？}
 #{141}{HROLD12}{
 #Needed to see what was there.  Maybe stop whatever was churnin them boogers out.  We thought we were prepared.  Were we wrong.}
-{141}{HROLD12}{我们想去看看那里有什么。也许能阻止变种人出来。我们以为自己很有准备。我们错了。}
+{141}{HROLD12}{我们想去看看那里有什么。也许能阻止变种人出来。我们以为自己准备的很周到。我们错了。}
 #{142}{}{What did you do?}
 {142}{}{你们做了什么？}
 #{143}{HROLD13}{
@@ -149,7 +149,7 @@
 {162}{}{你们碰到了什么？}
 #{163}{HROLD19}{
 #Robots and such.  Lot of'em.  Damn surprised they was still running after all this time, what with the war and all.  Whooa boy they tore us a good one.}
-{163}{HROLD19}{机器人之类的。很多。该死的，这些玩意这么多年来还能用。我们当时被打惨了。}
+{163}{HROLD19}{机器人之类的，很多。该死的，这些玩意这么多年来还能用。我们当时被打惨了。}
 #{164}{}{What did you do once you got past the robots?}
 {164}{}{摆平了机器人后你们都做了什么？}
 #{165}{HROLD20}{
@@ -361,7 +361,7 @@
 #{256}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
 {256}{hrold300}{聪明的家伙。是个医生和哲学家。很久以前，他领导了一只探险队，我也是那时候变异的。}
 #{257}{hrold301}{Who?  Is he some sort of sex therapist?  I could use one, you know.}
-{257}{hrold301}{谁？他是个性学医生吗？我需要他的帮助，你知道的。}
+{257}{hrold301}{谁？他是个老军医吗？我需要他的帮助，你知道的。}
 #{258}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
 {258}{hrold302}{变种人。不管他们怎么称呼自己，他们就是变种人。}
 #{259}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. 【cough】 He's alright, I guess.}
@@ -428,7 +428,7 @@
 #{1100}{hrold300}{Brilliant guy.  A doctor and philosopher.  Long ago he lead the expedition where I got changed into a mutant.}
 {1100}{hrold300}{聪明的家伙。是个医生和哲学家。很久以前，他领导了一只探险队，我也是那时候变异的。}
 #{1101}{hrold301}{Who?  Is he some sort of sex therapist?  I could use one, you know.}
-{1101}{hrold301}{谁？他是个性学医生吗？我需要他的帮助，你知道的。}
+{1101}{hrold301}{谁？他是个老军医吗？我需要他的帮助，你知道的。}
 #{1102}{hrold302}{Mutants.  Doesn't matter what they call themselves.}
 {1102}{hrold302}{他们也是变种人。不管他们怎么称呼自己，他们就是变种人。}
 #{1103}{hrold303}{Oh, him.  He leads the Thieves Circle.  Thinks he's Robin Hood. 【cough】 He's alright, I guess.}

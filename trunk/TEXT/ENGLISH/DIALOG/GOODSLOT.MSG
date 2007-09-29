@@ -10,7 +10,7 @@
 # {106}{}{You get three bombs. Winner! $30 drops into the tray and you snatch it up.}
 # {107}{}{Aww shucks! You lose.}
 # {108}{}{You don't have enough money to play.}
-{100}{}{这是一个吃角子老虎机，在它边上有张核爆炸的图片。玩一次花费20元。}
+{100}{}{这是一个吃角子老虎机，在它边上有张核爆炸的图片。玩一次花20元。}
 {101}{}{你把20元放进吃角子老虎机里并拉下那肮脏油腻的手柄。}
 {102}{}{叮！叮！叮！}
 {103}{}{你摇出三个原子弹！太好了！}

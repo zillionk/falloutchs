@@ -11,7 +11,7 @@
 {102}{}{我必须见海托先生。}
 
 #{103}{}{I've come to kill Mr. Hightower.}
-{103}{}{我是专程来杀死海托先生的。}
+{103}{}{我是特地来宰了海托先生的。}
 
 #{104}{}{What business is it of yours?}
 {104}{}{我来干吗关你什么事情？}
@@ -26,7 +26,7 @@
 {107}{}{好……你得盯我紧点。}
 
 #{108}{}{I don't like your attitude.  I'm going to have to ask you to leave.}
-{108}{}{我不喜欢你的态度。我要求你离开。}
+{108}{}{我不喜欢你的态度。请你离开。}
 
 #{109}{}{I'll leave when I'm good and ready, pal!}
 {109}{}{当我准备好时我会离开的，哥们！}
@@ -66,14 +66,14 @@
 
 #{121}{}{Again?  What a fool Decker is.  Well?... I guess he's not as big a fool as the guys he hires for these jobs.  See here,
 # check out my gun.}
-{121}{}{又来了？德克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看我的枪上面。}
+{121}{}{又来了？德克是个笨蛋？好吧……我猜他不会雇一个蠢货来干这个的，看这，看看我的枪。}
 
 #{122}{}{【Leon shows you the side of his gun where 5 deep scratch marks are visible.】}
 {122}{}{【利昂给你看他在枪上的五道划痕。】}
 
 #{123}{}{Each one of these marks is for a past attempt on Hightower's life.  I bagged each and every one of them.  Tell me...
 # do you know what this fool Decker hired looks like?}
-{123}{}{每条划痕都标志着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我……谁还敢听德克的话到这来送死？}
+{123}{}{每条划痕都标明着来找海托先生麻烦的下场。我杀一个人就刻在这上边一条。你告诉我……谁还敢听德克的话到这来送死？}
 
 #{124}{}{No.}
 {124}{}{不。}
@@ -86,7 +86,7 @@
 
 #{127}{}{Thank you for the advance warning, but Mr. Hightower doesn't like strangers hangin' around.  I'm going
 # to have to ask you to leave.}
-{127}{}{感谢你之前的忠告，但是海托先生不喜欢有人在他周围闲逛。我劝你快离开。}
+{127}{}{谢谢你之前的忠告，但是海托先生不喜欢有人在他周围闲逛。我劝你快离开。}
 
 #{128}{}{That's it?  No reward? What the hell is wrong with you people?}
 {128}{}{什么？没有奖金？你就是这样对别人的吗？}
@@ -131,4 +131,4 @@
 {141}{}{你在这干吗？我要换班了。去找其他人吧。}
 
 #{142}{}{I was hoping your sorry hide would wander around here sometime!  Guards!}
-{142}{}{我希望你会后悔这里到处乱跑！守卫！}
+{142}{}{我猜你会后悔在这里到处乱跑！守卫！}

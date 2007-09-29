@@ -5,8 +5,8 @@
 {100}{}{你看见商人。}
 #{101}{}{Do you want to trade?}
 {101}{}{你想交易吗？}
-#{102}{}{Click Barter →}
-{102}{}{点击交易→}
+#{102}{}{Click Barter -->}
+{102}{}{点击交易-->}
 #{103}{}{Nope.}
 {103}{}{不。}
 #{104}{}{We have been plagued by Rad Scorpions for some time now. All who have been sent to destroy these monsters have not returned. I will give you weapons and armor if you will follow my guide to their lair and kill them all.}
@@ -16,7 +16,7 @@
 #{106}{}{No thanks.}
 {106}{}{不，谢了。}
 #{107}{}{That is a shame. Please leave.}
-{107}{}{真懦弱。请你走吧。}
+{107}{}{那真可耻。请你走吧。}
 #{108}{}{Excellent. Sammy here will guide you to the lair. Take these items, they will come in useful. }
 {108}{}{好极了。萨米会带你去它们的窝。拿上这些东西，它们会有用的。}
 #{109}{}{Please help us as soon as possible. Time is wasting.}

@@ -705,7 +705,7 @@
 #{17914}{}{They go outside to get things.}
 {17914}{}{他们出去找东西了。}
 #{17915}{}{This is the Boneyard.}
-{17915}{}{这里是晒骨场。}
+{17915}{}{这里是曝骨场。}
 
 
 # Info level 2 【People who know something】
@@ -758,7 +758,7 @@
 #{18114}{}{They go outside to search for stuff.}
 {18114}{}{他们出去寻找材料。}
 #{18115}{}{We're in the Boneyard.}
-{18115}{}{这里是晒骨场。}
+{18115}{}{这里是曝骨场。}
 
 
 
@@ -823,10 +823,10 @@
 {18313}{}{他们是内城区的保卫力量。他们保护我们不受帮派骚扰。卡勒布是他们的首领。}
 #{18314}{}{The Scavs have the job of searching the Boneyard for valuable
 # equipment. They are led by Sammael.}
-{18314}{}{任务是用贵重的器材探索晒骨场。他们由山谬带队。}
+{18314}{}{任务是用贵重的器材探索曝骨场。他们由山谬带队。}
 #{18315}{}{The Angel's Boneyard is the remains of the old city of Los Angeles.
 #  We're in the middle of the Boneyard.}
-{18315}{}{美丽的晒骨场是古老的城市洛杉矶的遗迹。我们在晒骨场中央。}
+{18315}{}{美丽的曝骨场是古老的城市洛杉矶的遗迹。我们在曝骨场中央。}
 #  ======================================================================
 
 
@@ -870,7 +870,7 @@
 #{18509}{}{She's our leader.}
 {18509}{}{她是我们领袖。}
 #{18510}{}{This is the Boneyard.}
-{18510}{}{这里是晒骨场。}
+{18510}{}{这里是曝骨场。}
 
 # Info level 2 【People who know something】
 {18600}{}{Adytum}
@@ -891,7 +891,7 @@
 {18701}{}{我们是末世论者。我们叫这个名字是因为我们生于战争之后，来抚平战争的伤痛。}
 #{18702}{}{A strange cult south of Adytum and the rest of the Boneyard. Nicole
 # says that they are up to something.}
-{18702}{}{一个奇怪的仪式要在内城区和晒骨场其他的地方举行。妮可尔说他们好像在等什么。}
+{18702}{}{一个奇怪的仪式要在内城区和曝骨场其他的地方举行。妮可尔说他们好像在等什么。}
 #{18703}{}{An ultra-violent gang to our west.}
 {18703}{}{我们西边有一个暴力帮派。}
 #{18704}{}{A gang to the east. They use vibro-knives.}
@@ -908,7 +908,7 @@
 {18709}{}{她是我们的领袖。她的梦想就是恢复这个破碎世界的和平。}
 #{18710}{}{This place is the Angel's Boneyard, the remnants of the old city of
 # Los Angeles.}
-{18710}{}{这个地方就是美丽的晒骨场，古老的城市洛杉矶的遗迹。}
+{18710}{}{这个地方就是美丽的曝骨场，古老的城市洛杉矶的遗迹。}
 
 # Info level 3 【People who know more than something but less than everything】
 {18800}{}{Adytum}
@@ -932,7 +932,7 @@
 #{18902}{}{The Cathedral is a great building south of the Boneyard. The Children
 # are a cult worshipping a dark and evil god. They must be stopped
 # before they spread their religion through violence.}
-{18902}{}{大教堂是晒骨场南边最伟大的建筑。教徒们都在崇拜着黑暗罪恶之神。他们必须在使用暴力推广信仰之前停下来。}
+{18902}{}{大教堂是曝骨场南边最伟大的建筑。教徒们都在崇拜着黑暗罪恶之神。他们必须在使用暴力推广信仰之前停下来。}
 #{18903}{}{Inbreds and jackals. They attack anything in sight that isn't related
 # to them. They live west of here in a fortress surrounded by traps.}
 {18903}{}{天生的豺狼。他们攻击所有他们见到的人。他们住在西面被陷阱环绕的要塞里。}
@@ -957,7 +957,7 @@
 #{18910}{}{This is the heart of the Angel's Boneyard, named for the old city of
 # Los Angeles, and for the skeletons of the dead that littered the place
 # after the Bomb.}
-{18910}{}{这里是美丽的晒骨场的中心，因古老的城市洛杉矶中，充满了核弹袭击后动物的骨架而得名。}
+{18910}{}{这里是美丽的曝骨场的中心，因古老的城市洛杉矶中，充满了核弹袭击后动物的骨架而得名。}
 #======================================================================
 
 
@@ -1483,7 +1483,7 @@
 #{27511}{}{You're kidding, right?}
 {27511}{}{你在开玩笑，不是吗？}
 #{27512}{}{This is the Boneyard.}
-{27512}{}{这里是晒骨场。}
+{27512}{}{这里是曝骨场。}
 
 
 # Info Level 2 【People who know something】
@@ -1528,7 +1528,7 @@
 #{27711}{}{Must be where a nuke hit.}
 {27711}{}{应该是核弹袭击过的地方。}
 #{27712}{}{This is the Boneyard.}
-{27712}{}{这里是晒骨场。}
+{27712}{}{这里是曝骨场。}
 
 
 # Info level 3 【People who know more than something but less than everything】
@@ -1579,7 +1579,7 @@
 # straight-on by a nuke. I think it's way to the south.}
 {27911}{}{可以想象直接被核弹命中的地方会被彻底摧毁。我想那是通向南方的路。}
 #{27912}{}{This is the Boneyard.}
-{27912}{}{这里是晒骨场。}
+{27912}{}{这里是曝骨场。}
 #  ======================================================================
 
 
@@ -1635,7 +1635,7 @@
 #{28708}{}{A what?}
 {28708}{}{什么？}
 #{28709}{}{This is the Boneyard.}
-{28709}{}{这里是晒骨场。}
+{28709}{}{这里是曝骨场。}
 
 # Info Level 2 【People who know something】
 {28800}{}{Adytum}
@@ -1655,7 +1655,7 @@
 {28901}{}{一群和平爱好者隐居在南面。我们只是想摆脱他们。}
 #{28902}{}{Oh yeah, those crazy old monks. They're nuts. Their big church is
 # south of the Boneyard.}
-{28902}{}{哦耶，那些疯狂的老信徒。他们很狂热。他们的大教堂在晒骨场南方。}
+{28902}{}{哦耶，那些疯狂的老信徒。他们很狂热。他们的大教堂在曝骨场南方。}
 #{28903}{}{Hey, they may be stupid, but they sure buy a lot of guns!}
 {28903}{}{嗨，他们真愚蠢，但他们买了很多枪！}
 #{28904}{}{They always use those weird vibro-knives that they make. I'd like to
@@ -1671,7 +1671,7 @@
 #{28908}{}{Never heard of that.}
 {28908}{}{从没听说过。}
 #{28909}{}{We're in the north side of the Boneyard.}
-{28909}{}{我们住在晒骨场北面。}
+{28909}{}{我们住在曝骨场北面。}
 
 # Info Level 3 【People who know more than something but less than everything】
 {29000}{}{Adytum}
@@ -1692,7 +1692,7 @@
 {29101}{}{当他们从南面的图书馆时想利用和平的手段让人们接受我们的信仰。他们不会对商业有帮助的！}
 #{29102}{}{The Cathedral's this big church south of the Boneyard, where some
 # strange cult worships a Dark God. I think they're freaky.}
-{29102}{}{大教堂是晒骨场的一个很大的教堂，在那里一群奇怪的信徒信奉着黑暗神。我认为他们有病。}
+{29102}{}{大教堂是曝骨场的一个很大的教堂，在那里一群奇怪的信徒信奉着黑暗神。我认为他们有病。}
 #{29103}{}{The Rippers are all one big family, literally. They're impossible to
 # deal with if they don't know you, so don't even try. They are in a big
 # booby-trapped fortress southwest of us. Watch out for land mines if
@@ -1718,7 +1718,7 @@
 #{29109}{}{This is the north side of the Boneyard. It's funny, people from
 # outside use it as a curse - if something's bad, they say it 'Bites the
 # Bone'. But it's not too bad once you get used to it.}
-{29109}{}{这里是晒骨场北面。真有趣，外来人把它看作诅咒－如果那些东西不好的话，他们会说“喝凉水都塞牙”。其实你习惯的话你会不认为那有这么糟。}
+{29109}{}{这里是曝骨场北面。真有趣，外来人把它看作诅咒－如果那些东西不好的话，他们会说“喝凉水都塞牙”。其实你习惯的话你会不认为那有这么糟。}
 #  ======================================================================
 
 

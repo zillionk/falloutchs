@@ -14,13 +14,13 @@
 {103}{}{看起来你是唯一惹上麻烦的人。}
 
 #{104}{}{Okay, okay. No reason to yell at me.}
-{104}{}{好吧，好吧。没必要对我吼叫。}
+{104}{}{好吧，好吧。没必要对我乱吼。}
 
 #{105}{}{Hmm... I don't know. It takes a different caliber of hero than you. Listen, why don't you come back when you have a little more experience under your belt?}
-{105}{}{呃……我不知道。它恐怕得需要比你更有实力的强者才能解决。听着，为什么不等你积累更多经验之后再回来呢？}
+{105}{}{呃……我不知道。它恐怕得需要比你更有实力的英雄豪杰才能解决。听着，为什么不等你积累更多经验之后再回来呢？}
 
 #{106}{}{This is a tragedy, believe me. Nothing is the way it used to be. I have a small farm outside town and a few days ago a bunch of Raiders appeared out of nowhere and now use my home as their camp. They killed Pugsley, my donkey and they threatened #to kill me if I ever dare to come back.}
-{106}{}{这是场灾难，相信我。没有什么事会一帆风顺。我在城外有个小农场，几天前一伙歹徒突然在那里出现，并且占据了我的家作为他们的营地。他们已经杀了派斯依，我的驴子，并且威胁说如果敢再回去就一并干掉我。}
+{106}{}{这是场灾难，相信我。没有什么事会一帆风顺。我在城外有个小农场，几天前一伙强盗突然出现在那，把我的家当作他们的营地。他们已经杀了我的驴子派斯依，而且威胁说如果敢再回去就一并干掉我。}
 
 #{107}{}{Just tell me where and I'll take care of the rest.}
 {107}{}{你只需要告诉我他们在哪儿，剩下的就交给我。}
@@ -35,10 +35,10 @@
 {110}{}{仔细听, 我告诉过你让我一个人在这里呆着。那么现在滚吧！}
 
 #{111}{}{I knew you would chicken out. Everyone does when it comes to the Raiders.}
-{111}{}{我知道你会畏缩。每个人听到要对付歹徒的时候都会。}
+{111}{}{我知道你会退缩。每个人听到要对付那帮强盗的时候都这个样。}
 
 #{112}{}{So, have you been able to teach those Raiders a lesson? Is my home safe again?}
-{112}{}{那么，你已经把那些歹徒教训了一顿？我的家现在安全了吗？}
+{112}{}{那么，你已经把那些强盗教训了一顿？我的家现在安全了吗？}
 
 #{113}{}{It sure is, buddy.}
 {113}{}{当然了，我的朋友。}
@@ -47,7 +47,7 @@
 {114}{}{我现在还没时间处理这件事。}
 
 #{115}{}{Oh, thank you so much. I am sorry I don't have any riches to give to you, but here, take this rifle for saving my home.}
-{115}{}{喔，太感谢你了。我很抱歉没有什么财产可以馈赠于你，但是这个，请接受这把枪作为拯救了我的家的报酬。}
+{115}{}{喔，太感谢你了。很抱歉我没什么财产可以报答你，但是这个，但请拿走这把枪当作拯救我家的报酬。}
 
 #{116}{}{You're trying to fool me, right? Please don't play with me. Come back and let me know when it is really safe to get back into my home, will you?}
 {116}{}{你是在开玩笑，对吗？请不要愚弄我。请等我的家真正安全的时候再回来告诉我，好吗？}

@@ -38,7 +38,7 @@
 {112}{Kill1m}{欢迎你来到迦克镇，陌生人。你想要什么？}
 
 #{113}{Kill1f}{Hello, darlin'. What can I get ya?}
-{113}{Kill1f}{你好，小可爱，想要做什么呢？}
+{113}{Kill1f}{你好，亲爱的，想要做什么呢？}
 
 #{114}{Kill1b}{What do you want?}
 {114}{Kill1b}{你要什么？}
@@ -112,7 +112,7 @@
 
 #{137}{}{No, no. It's called a Vault. It protected us
 # from the war. It's been full of people for 80 years!}
-{137}{}{不是锁，是避难所。它可以在战争期间庇护我们，80多年来那里住满了人。}
+{137}{}{不是锁，是避难所。它可以在战争期间保护我们，80多年来那里住满了人。}
 
 #{138}{}{Heh, you got my joke. I actually come from a
 # village not far from Shady Sands.}
@@ -126,7 +126,7 @@
 # Vipers. Another group of yahoos out east called the Khans. Neither
 # one of them likely to invite you to supper as anything but the main course,
 # if you know what I mean.}
-{140}{Kill08}{嗯，旅行者们说，北边还住着一些叫做蝮蛇帮的坏蛋，另外还有一群叫做可汗帮的土匪住在东边。这两拨歹徒都不是善茬，只有死人才能和他们和平相处，你明白吧？}
+{140}{Kill08}{嗯，旅行者们说，北边还住着一些叫做蝮蛇帮的坏蛋，另外还有一群叫做可汗帮的土匪住在东边。这两拨强盗都不是善茬，只有死人才能和他们和平相处，你明白吧？}
 
 #{141}{}{What else is outside Junktown?}
 {141}{}{外边还有什么地方？}
@@ -157,7 +157,7 @@
 #{149}{Kill11}{Well, Junktown's not much, but it's home. Mostly we trade with
 # people or let 'em forget their troubles for a bit.
 # Of course, we have our share of problems.}
-{149}{Kill11}{迦克镇不是很大，但这里是我们的家。我们在这里做买卖，外面惹了麻烦的人也可以在这里休闲一下。当然，我们也有自己的麻烦。}
+{149}{Kill11}{迦克镇不是很大，但这里是我们的家。我们在这里做买卖，外面惹了麻烦的人也可以在这里避避风头。当然，我们也有自己的麻烦。}
 
 #{150}{}{Problems?}
 {150}{}{自己的麻烦？}
@@ -175,7 +175,7 @@
 # they've been pretty quiet lately. Inside, trouble's been from the Skulz.
 # And I hear of some strange things happening down by the Hub, but
 # they haven't affected us yet, knock on my mother-in-law's head.}
-{154}{Kill12}{外部的麻烦呢，我们经常和可汗帮有点事情要处理。最近他们还算老实。内部麻烦主要是骷髅党。我还听说哈勃城出了事，但是还没有影响到这里，至少我丈母娘还没有什么感觉。}
+{154}{Kill12}{对外的麻烦呢，我们经常和可汗帮闹点摩擦。最近他们还算老实。内部麻烦主要是骷髅党。我还听说哈勃城出了事，但是还没有影响到这里，搅到鸡飞狗跳。}
 
 #{155}{Kill13b}{Oh, we got tons to do. The Skum Pitt's on the east side, by the
 # entrance. Great drinkin' place. Gizmo's is near there. And if you're hurtin', Doc
@@ -216,7 +216,7 @@
 
 #{165}{Kill23}{You have to wear a recorder and tape Gizmo confessing, or plant
 # this wire tap in his office. Either way, and we got him.}
-{165}{Kill23}{你要么用录音机把他的话录下来，要么把这个窃听器安到他办公室里，无论哪种办法，我们都可以搞定他。}
+{165}{Kill23}{你要么用录音机把吉斯莫的话录下来，要么把这个窃听器安到他办公室里，无论哪种办法，我们都可以搞定他。}
 
 #{166}{Kill24}{Well, howdy! What can I do for you today?}
 {166}{Kill24}{嗨，你好啊，今天你想要什么？}
@@ -231,14 +231,14 @@
 {169}{Kill28}{你不聪明，一点都不。来人！……}
 
 #{170}{Kill29}{It's obvious your mama didn't teach you manners. Am I gonna have to?}
-{170}{Kill29}{你妈妈没教你礼貌，需不需要我来教教你啊？}
+{170}{Kill29}{你妈妈没教你礼貌，要不要我来教教你啊？}
 
 #{171}{Kill30}{Well, congratulations. You just earned yourself a
 # night in a cell. Boys . . .}
 {171}{Kill30}{很好，恭喜你了，你可以在监狱里蹲一晚上了，来人！}
 
 #{172}{Kill31}{Now what the Uncle Sam-hell do you think you're doing here?}
-{172}{Kill31}{你它娘的到底在这里做什么？}
+{172}{Kill31}{你它娘的到底想在这里做什么？}
 
 #{173}{}{Uh . . . I got lost?}
 {173}{}{呃……我迷路了？}
@@ -270,7 +270,7 @@
 
 #{182}{Kill35}{An honest thief. Hmpf. Well, I'm still gonna have to take you in.
 # Come along quietly and you won't get hurt.}
-{182}{Kill35}{作为一个小偷你还很坦诚呢。但是我还是要拘捕你。老老实实地跟我走，要不然你会吃苦头的。}
+{182}{Kill35}{一个老实的小偷，哼，但是我还是要拘捕你。老老实实地跟我走，要不然你会吃苦头的。}
 
 #{183}{}{All right, I'll come along quietly.}
 {183}{}{好好好，我跟你走。}
@@ -321,7 +321,7 @@
 #{198}{Kill47}{Listen. Thanks for saving my life. It's a mighty brave thing to do.
 # Looks like we got ourselves a situation here. I know Gizmo's behind this,
 # but I need proof.  You interested in helpin'?}
-{198}{Kill47}{我很感谢你救了我的命，你很勇敢。我们的麻烦不小，我知道这是吉斯莫幕后策划的，但是我需要证据，你有兴趣来帮忙吗？}
+{198}{Kill47}{听着。我很感谢你救了我的命。现在我们有大事要做了，既然我们自己走到这一步，就没有退路了。我知道一切都是吉斯莫幕后策划的，但是我需要证据，你有兴趣来帮忙吗？}
 
 #{199}{}{Me? What do you need me for?}
 {199}{}{我？我能做什么呢？}
@@ -377,7 +377,7 @@
 #{214}{Kill51}{I'll tell you what. Anything in the store, even the most expensive,
 # it's yours. No charge. If it's a gun, I'll give you all the ammo you can carry.
 # Does that sound fair?}
-{214}{Kill51}{那我跟你讲清楚吧。这个店里的所有东西，即使是最贵的，都是你的了。免费！如果你要枪，我会给你带足子弹，这个交易划得来吧？}
+{214}{Kill51}{那我跟你讲清楚吧。这个店里的所有东西，即使是最贵的，都是你的了。免费！如果你要枪，我会给你多到你那不下，这个交易划得来吧？}
 
 #{215}{}{Yeah. I'll do it.}
 {215}{}{好，我干了！}
@@ -404,7 +404,7 @@
 
 #{222}{Kill55}{Well, he's not going to come here and confess! You shouldn't even be
 # seen with me until this is done. Now go.}
-{222}{Kill55}{他不会到我这里来自首罪行吧！拿到证据之前，你不要到我这里来乱晃，免得他起疑，赶紧去办事。}
+{222}{Kill55}{他不会到我这里来自首吧！拿到证据之前，你不要到我这里来乱晃，免得他起疑，赶紧去办事。}
 
 #{223}{Kill56}{Which, bug or tape?}
 {223}{Kill56}{窃听器还是录音带？}
@@ -432,7 +432,7 @@
 #{230}{Kill59}{Well, thanks again. Oh, listen, I'm gonna take the guards and run
 # Gizmo and his cronies out of town. I could use another gun. You up for it?
 # Might be good for a laugh.}
-{230}{Kill59}{首先我要谢谢你。还有呢，我要带些守卫去废了吉斯莫和他的跟班，我们的人越多越好，你想不想来，看看好戏去？}
+{230}{Kill59}{我再次谢谢你。还有呢，我要带些守卫去废了吉斯莫和他的跟班，我们的人越多越好，你想不想来，看看好戏去？}
 
 #{231}{}{Sure. It'll be worth it just to see him try to walk more than ten feet.}
 {231}{}{当然了，看他最后的蹦达还是很有趣的。}
@@ -472,7 +472,7 @@
 
 #{242}{Kill64}{Good luck in your travels. Now if you'll excuse me, I have a fat ass
 # to move.}
-{242}{Kill64}{旅途愉快，抱歉，让个道，我要办事去了。}
+{242}{Kill64}{旅途愉快，抱歉，让个道，我要动动我的肥屁股。}
 
 #{243}{Kill65}{Gizmo owns the casino. Named it after himself.
 # Be very careful around him.}
@@ -535,7 +535,7 @@
 #{257}{Kill78}{Well, the Hub's the main place for trade. Anything you don't find
 # here you'll probably find in the Hub. Not sure how safe it is nowadays, with
 # all those strange things going on.}
-{257}{Kill78}{哈勃城是做买卖的集散地。你要的东西如果其他地方找不到，就去哈勃城吧。不过最近闹了很多怪事，也不知道现在安全不安全。}
+{257}{Kill78}{哈勃城是贸易中心。你要的东西如果其他地方找不到，就去哈勃城吧。不过最近闹了很多怪事，也不知道现在安全不安全。}
 
 #{258}{Kill79}{Shady Sands? That's a little place up to the north. I'd like to do
 # more trading with them.}
@@ -559,7 +559,7 @@
 #{262}{Kill83}{Well, there're some rumors coming up from the Hub. Caravans
 # disappearing, people being butchered, even some talk of big green monsters
 # who eat human flesh. All sorts of weird stuff.}
-{262}{Kill83}{最近哈勃城有一些谣言。一些商队莫名消失了，有人被杀了，还有人说看到绿绿的吃人怪物，很多这样七七八八的东西。}
+{262}{Kill83}{最近哈勃城有一些谣言。一些商队凭空就消失了，有人被杀了，还有人说看到绿绿的吃人大怪物，很多这样七七八八的东西。}
 
 #{263}{Kill84}{Nope, I've never heard of anything like that.}
 {263}{Kill84}{不知道，从来没听说过。}

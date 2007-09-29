@@ -37,7 +37,7 @@
 
 #{110}{}{Seth's a very good fighter. He's very determined. A little too much,
 # sometimes. Still, he's devoted to the welfare of our village.}
-{110}{}{赛思是一个优秀的战士。他很顽固。有时候甚至过于顽固，他一直都在为村民的安全着想。}
+{110}{}{赛思是一个优秀的战士。他很有韧性，但有时候有点固执，他一直都在为村民的安全着想。}
 
 #{111}{}{Well, Shady Sands was founded by a great ancestor of our current
 # leader, Aradesh. He could tell you more of the story. We have a

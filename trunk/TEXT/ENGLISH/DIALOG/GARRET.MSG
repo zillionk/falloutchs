@@ -41,13 +41,13 @@
 {112}{}{好吧。}
 
 #{113}{}{You need to leave here . . . immediately.}
-{113}{}{你还是离开吧……马上。}
+{113}{}{你必须离开……马上。}
 
 #{114}{}{Follow me. I'll see to your reward.}
-{114}{}{跟我来。我负责你的酬劳。}
+{114}{}{跟我来。我会给你酬劳。}
 
 #{115}{}{I hope not, for your sake. Set was not too happy to have to use you. It might be a good idea to leave Necropolis . . . soon}
-{115}{}{我希望不是，因为你的缘故。不得不利用你，赛特可不太高兴。离开大墓地是个好主意……最好快点}
+{115}{}{我希望不是，因为你的缘故。赛特可不太高兴我们不得不利用你。离开大墓地是个好主意……最好快点。}
 
 #{116}{}{I told you to leave.}
 {116}{}{我说过让你离开了。}
@@ -65,7 +65,7 @@
 {120}{}{现在离开吧。}
 
 #{121}{}{Hmm. Some things are missing from the fridge. It seems that we have been robbed.}
-{121}{}{呣呣。冰箱里有些东西不见了。看来我们被盗了。}
+{121}{}{呣呣。冰箱里有些东西不见了。看来我们失窃了。}
 
 #{200}{}{Garret ignores you.}
 {200}{}{盖瑞特对你视而不见。}

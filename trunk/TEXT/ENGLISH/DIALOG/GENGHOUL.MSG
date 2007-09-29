@@ -5,7 +5,7 @@
 {100}{}{你要什么？}
 
 #{101}{}{Leave me alone.}
-{101}{}{让我独自呆着。}
+{101}{}{让我一个人呆着。}
 
 #{102}{}{What?}
 {102}{}{什么？}
@@ -35,10 +35,10 @@
 {110}{}{赛特死了。赛特死了。赛特死了……}
 
 #{111}{}{There's enough water to go around for everyone. Set makes sure of that.}
-{111}{}{是赛特确保了有足够的净水分配给每个人。}
+{111}{}{是赛特保证了每个人能分到足够的水！}
 
 #{112}{}{I heard that the mutants got run out of town.}
-{112}{}{我听说变种人已经从镇上退走了。}
+{112}{}{我听说变种人已经从镇上撤走了。}
 
 #{113}{}{Ever since the mutants left, it's been better.}
 {113}{}{自从变种人离开之后，这里就变得越来越好了。}
@@ -56,7 +56,7 @@
 {202}{}{这具类人的躯体看上去被大剂量照射过，但是生理机能仍然在运作。尽管曾经属于人类，它看来似乎已经返祖为更具兽性的生命形态。}
  
 #{203}{}{The body of the humanoid looks to be higly irradiated, and much of the muscle and brain matter seem to have deteriorated. However, genetic indicators lead you to believe that it desceded, like you, from those that entered the Vaults.}
-{203}{}{这具类人的躯体看上去被大剂量照射过，许多肌肉和脑组织看起来似乎已经退化。但是基因指示剂让你相信它就和你一样，是那些进入避难所之人的后裔。}
+{203}{}{这具类人的躯体看上去被大剂量照射过，许多肌肉和脑组织看起来似乎已经退化。但是基因指示剂让你相信它就和你一样，是那些进入避难所居民的后裔。}
 
 #{300}{}{You have been radiated!}
 {300}{}{你已被辐射沾染了！}

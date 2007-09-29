@@ -20,7 +20,7 @@
 {105}{}{我真的很喜欢新型的激光步枪，但是老式激光手枪才是我的最爱。}
 
 #{106}{}{The night perimeter patrols are very dangerous. I wouldn't wander too far at night if I were you.}
-{106}{}{晚班的阵地巡逻队非常危险。如果我是你的话，夜里我绝不会离开太远。}
+{106}{}{晚班的阵地巡逻非常危险。如果我是你的话，夜里我绝不会离开太远。}
 
 #{107}{}{Be careful, it's a deadly world out there.}
 {107}{}{小心，外面的世界非常危险。}

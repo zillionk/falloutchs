@@ -91,7 +91,7 @@
 # that a lot of low level information is getting to the
 # Children. This is not good. Heather thinks it is either
 # Neil or Peter.}
-{126}{}{没什么线索。我只知道很多低层次的机密已经泄露给了教堂，这不是什么好事，希瑟说肯定是尼尔或者彼得两者之一。}
+{126}{}{没什么线索。我只知道很多低层次的机密已经泄露给了教堂，这不是什么好事，希瑟认为不是尼尔就是彼得。}
 
 #{127}{}{Okay. I will go check on it.}
 {127}{}{好，我去查。}

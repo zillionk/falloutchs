@@ -20,7 +20,7 @@
 # with. It's Maxson. We are pretty sure he's gone off the
 # deep end. He keeps babbling about an army massing to the
 # north.}
-{105}{}{我需要你帮助我解决一个紧急的问题。是马克松。我们是相当确信他陷入了困境。他老是胡扯什么北方有支军队正在集结。}
+{105}{}{我需要你帮助我解决一个紧急的问题。我们确信马克松犯了大错。他老是胡扯什么要把军队在北方集结。}
 
 #{106}{}{ I'm not willing to send our troops up there into
 # possibly radiated areas, unless I've got absolute proof
@@ -44,7 +44,7 @@
 #{111}{}{Good. First go talk to Maxson if you haven't already. Report back
 # to me when you've checked the northern territory. After that, we'll decide
 # what to do with Maxson.}
-{111}{}{好的。如果你还没见过马克松，先去和他谈谈。当你检查完北方地区后回来向我汇报。然后呢，我再和马克松确定下一步计划。}
+{111}{}{好的。如果你还没见过马克松，先去和他谈谈。当你侦查完北面后回来向我汇报。然后呢，我再和马克松确定下一步计划。}
 
 #{112}{}{Wish me luck.}
 {112}{}{祝我好运。}
@@ -62,7 +62,7 @@
 {116}{}{你有什么要汇报？}
 
 #{117}{}{I've found a base guarded by heavily armed mutants. It looks pretty bad.}
-{117}{}{我发现了一个由全副武装变种人守卫的基地。它看起来相当不好。}
+{117}{}{我发现了一个由全副武装变种人守卫的基地。情况看起来相当不好。}
 
 #{118}{}{I didn't think so. You weren't gone for very long. Now, get back out there and
 # don't come back until you have a FULL report.}
@@ -91,7 +91,7 @@
 {125}{}{忘了它。我有更重要的事要做。}
 
 #{126}{}{I understand. If you do travel up into that area and find anything, please, let me know.}
-{126}{}{我了解。如果你进入那个区域并且发现了什么，拜托，告诉我。}
+{126}{}{我了解。如果你进入那个地区并且发现了什么，拜托，告诉我。}
 
 #{127}{}{If I find anything that resembles an army up north, I will let you know.}
 {127}{}{如果我发现在北方有类似军队的任何事，我将告诉你。}
@@ -127,7 +127,7 @@
 
 #{137}{}{During my explorations, I found a military installation being used
 # by mutants. It is heavily guarded and patrolled regularly.}
-{137}{}{在我的探险期间，我发现了变种人使用的一座军事设施。它被严密地保护着。}
+{137}{}{在我侦查期间，我发现了变种人使用的一处军事基地，而且防守严密。}
 
 #{138}{}{Norfa?}
 {138}{}{北方？}
@@ -138,7 +138,7 @@
 #{140}{}{They are large humanoids. Their muscle mass is well beyond what a
 # regular human could ever gain. There appear to be several of them guarding the
 # gate in organized troops.}
-{140}{}{他们是巨大的类人动物。他们的肌肉块远远超过一般的人类。那里似乎有些被他们军队保卫的大门。}
+{140}{}{他们是巨大的类人动物。他们的肌肉块远远超过一般的人类。那里他们有人守在大门口，像是有严密组织的军队。}
 
 #{141}{}{They were big, greenish, and carrying weapons.}
 {141}{}{他们是巨大的，绿色的, 并且带着武器。}
@@ -167,7 +167,7 @@
 
 #{148}{}{They are gathering an army. A heavily armed army. They certainly aren't
 # going to just parade around. They intend to use it.}
-{148}{}{他们正在集结军队。一支全副武装的军队。他们不是恰好在附近游行。他们是想要进攻。}
+{148}{}{他们正在集结军队。一支全副武装的军队。他们不是恰好在附近行军。他们是想要进攻。}
 
 #{149}{}{So, by these actions they are taking, it is feasable that they will eventually
 # come here?}
@@ -183,7 +183,7 @@
 
 #{152}{}{If they attack, it will be NOTHING like the occasional attack you get from
 # the raiders. This will be a slaughter.}
-{152}{}{如果他们攻击，他们可不像是你受到的来自歹徒们的骚扰。这将会是一场屠杀。}
+{152}{}{如果他们攻击，那可不会是以前那种强盗的骚扰。这将会是一场屠杀。}
 
 #{153}{}{Since they are coming out of that old military installation, I would imagine
 # that they would have weapons comparable to your own.}
@@ -198,7 +198,7 @@
 
 #{156}{}{That will only take care of one part of the problem. They're being led by a
 # group coming out of the Boneyard Cathedral.}
-{156}{}{这只能说明一部分问题。他们被晒骨场大教堂的另一支小队领导。}
+{156}{}{这只能说明一部分问题。他们被曝骨场大教堂的另一支小队领导。}
 
 #{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
@@ -206,7 +206,7 @@
 
 #{158}{}{If they are being led by a group out of the Boneyard Cathdral, then chances are
 # they have a small army down there as well. }
-{158}{}{如果他们被晒骨场的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
+{158}{}{如果他们被曝骨场的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
 
 #{159}{}{If we take them out in the north, then it leaves our south side vulnerable.
 # I can only spare a few men on this endeavor.}
@@ -220,7 +220,7 @@
 
 #{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard
 # Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，非常感谢你们。祝好运。}
+{162}{}{好吧。你将在曝骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，非常感谢你们。祝好运。}
 
 #{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}

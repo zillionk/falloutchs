@@ -24,7 +24,7 @@
 {106}{}{我也想问你同样的问题。}
 
 #{107}{}{And what, may I ask, are you doing in the Boneyards?}
-{107}{}{你能说说你在晒骨场干什么吗？}
+{107}{}{你能说说你在曝骨场干什么吗？}
 
 #{108}{}{You ask a lot of questions.}
 {108}{}{你的问题很多啊。}
@@ -42,13 +42,13 @@
 {112}{}{你在这里要小心点。你是干什么的？}
 
 #{113}{}{All right, fair enough. I'm called Katja. What's it matter to you?}
-{113}{}{好啦，我叫卡佳，你为什么要知道？}
+{113}{}{好啦，为了公平，我叫卡佳，你为什么要知道？}
 
 #{114}{}{Why so hostile?}
 {114}{}{这么敌意做什么？}
 
 #{115}{}{Hey, if you're going to be rude about it, then I'll see you later.}
-{115}{}{你再这么粗鲁，我可走了。}
+{115}{}{你再这么粗暴，我可走了。}
 
 #{116}{}{I'm looking for information. Can you help?}
 {116}{}{我想打听点消息，你能帮我吗？}
@@ -58,12 +58,12 @@
 {117}{}{随你，你在我的地盘上，而不是我在你的地盘上，所以要么说实话，要么就闭嘴。}
 
 #{118}{}{It's not important, I'm just a traveler. I need some information.}
-{118}{}{我是谁不重要。我只是一个旅行者，我需要信息。}
+{118}{}{我是谁不重要。我只是一个旅行者，我需要情报。}
 
 #{119}{}{A water purification chip? Sorry, don't know anything about that. Don't
 # see much of that kind of tech here in the Boneyards, except maybe the stuff
 # Miles works on.}
-{119}{}{净水芯片？抱歉，我对此一无所知。晒骨场没有什么高科技，除了麦尔斯，他经常捣腾一些高级货。}
+{119}{}{净水芯片？抱歉，我一点都不知道。曝骨场没有什么高科技，除了麦尔斯，他经常捣腾一些高级货。}
 
 #{120}{}{Well, thanks anyhow.}
 {120}{}{哦，谢谢。}
@@ -72,12 +72,12 @@
 {121}{}{麦尔斯？我怎么找到他？他会帮我吗？}
 
 #{122}{}{Can you tell me more about the Boneyards, then?}
-{122}{}{那你再和我说说晒骨场的事情吧。}
+{122}{}{那你再和我说说曝骨场的事情吧。}
 
 #{123}{}{Just a traveler. I've heard that one before. Nobody comes to the
 # Boneyard except those Hub merchants and people looking for a quick death at the
 # hands of the gangs. What are you really here for?}
-{123}{}{只是一个旅行者？这种话我也听过不少了。除了来混黑道想死得快的人和哈勃城的商人，没人愿意来晒骨场。你到底是来做什么的？}
+{123}{}{只是一个旅行者？这种话我也听过不少了。除了来混黑道想死得快的人和哈勃城的商人，没人愿意来曝骨场。你到底是来做什么的？}
 
 #{124}{}{You're right. I'm looking for a water purification chip.}
 {124}{}{你说的不错，我是来找净水芯片的。}
@@ -96,7 +96,7 @@
 {128}{}{我在找净水芯片。}
 
 #{129}{}{I need more information about the Boneyard.}
-{129}{}{我还想知道些晒骨场的事情。}
+{129}{}{我还想知道些曝骨场的事情。}
 
 #{130}{}{I need to know about the area around this city.}
 {130}{}{我想打听城里的一些地方。}
@@ -121,7 +121,7 @@
 
 #{137}{}{Miles lives in Adytum. He's a scientist, mostly working with chemistry.
 # If anyone could scrounge up a water chip or make a replacement, it would be him.}
-{137}{}{麦尔斯住在内城区，他是个钻研化学的科学家。如果城里有人能制造净水芯片，那只有他了。}
+{137}{}{麦尔斯住在内城区，他是个化学家。如果城里有人能制造净水芯片，那只有他了。}
 
 #{138}{}{Thanks very much.}
 {138}{}{太感谢了。}
@@ -129,17 +129,17 @@
 #{139}{}{Adytum is my original home. A little too boring for me, though. It's a
 # fenced-off and self-sufficient town in the south end of the Boneyard, but not as
 # far as the Cathedral. We trade sometimes with the Hub.}
-{139}{}{内城区是我的老家，虽然有点闷。自我隔绝，自给自足，它处在晒骨场的南区，但是要在大教堂北边一点。我们也和哈勃城做些买卖。}
+{139}{}{内城区是我的老家，虽然有点闷。但是自我隔绝，自给自足，它在曝骨场的南区，但是要在大教堂北边一点。我们也和哈勃城做些买卖。}
 
 #{140}{}{I've dealt with them before. They're not too bad, as far as gangs go.
 # They have a hide-out in an old club, with some outposts. If you're careful you
 # might even be able to get some of them to talk.}
-{140}{}{我和他们打过交道。做为一个帮派，他们还不算太坏。他们的总坛在一个旧的夜总会，周围哨所不少。如果你谨慎点，也许还能和他们说上话。}
+{140}{}{我和他们打过交道。做为一个帮派，他们还不算太坏。他们的总坛在一个旧的夜总会，周围哨所不少。如果你当心点，也许还能和他们说上话。}
 
 #{141}{}{The Rippers are just plain ferocious. They're an inbred bunch that
 # delights in torture and murder. I stay away from them, and you should, too.
 # They actually put fuckin' land mines around their fortress.}
-{141}{}{电锯党就是一群混球。他们是热衷于杀戮和折磨的杂种。我尽量会离他们远一点，你也最好别惹他们。他们居然还在总部周围布上了可恶的地雷。}
+{141}{}{电锯党就是一群没人性的禽兽。他们天生就是一帮子杀人狂虐待狂。我尽量离他们远一点，你也最好别惹他们。他们居然还在总部周围布上了可恶的地雷。}
 
 #{142}{}{The Gun Runners used to be a real gang, but they went soft. They started
 # setting up a deal where they trade weapons that they get from their victims or buy
@@ -151,14 +151,14 @@
 # a large library near the heart of the Boneyard. Why they haven't been wiped out
 # yet I can't say. They are lousy combatants and have no understanding of the real
 # world, but other than that they are polite and well-educated.}
-{143}{}{末世论者是一帮和平倡导者，他们住在晒骨场中心区的一所大图书馆里。我不知道为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
+{143}{}{末世论者是一帮和平主义者，他们住在曝骨场中心区的一所大图书馆里。我也说不上为什么一直没有帮派会去铲除他们。他们是无畏的战士，对现实社会没有认同。但是除此之外，他们还算友好，比较有教养。}
 
 #{144}{}{The Boneyard is a pretty hostile place. I've never had the opportunity to
 # leave, though I suppose I'd take it. Let's see . . . just south of here you have
 # the Cathedral. There's some sort of cult there, but I stay away from them.
 # Something sinister is going on there. Also, I've heard about the trading center
 # called the Hub, and caravans occasionally show up, but I've never been there.}
-{144}{}{晒骨场是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众，我宁可离他们远一点。邪恶的东西在那里滋生。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃城。}
+{144}{}{曝骨场是一个充满敌意的地方。我一直没有机会离开这里，大概以后会有机会吧。嗯……再往南走就是大教堂了。那里有一群教众总在祭拜什么，我宁可离他们远一点。而且我觉得那里不干净，不吉利。我还知道贸易中心哈勃城，经常有那里的商队来这里，但我从来没去过哈勃城。}
 
 #{145}{}{I don't plan to stay in this place too much longer, myself.}
 {145}{}{我也不打算一个人在这个城市长呆。}
@@ -193,7 +193,7 @@
 #{154}{}{Look, 90% of the people in this city fall into one or more of three
 # categories - rapists, murderers, or thieves. I'm a thief and you actually seem
 # polite, so that makes me wonder, okay? Call it a survival instinct.}
-{154}{}{要知道，城里百分之九十的人都是属于色情狂、杀人犯和小偷三者之一，甚至是多种行当都干。我是个小偷，你还算比较客气，所以我才会有些想法，明白？这叫做生存直觉。}
+{154}{}{要知道，城里百分之九十的人都逃不了这三种：色情狂、杀人犯和小偷，有些人还是不止一样。我是个小偷，你还算比较客气，所以我才会有些想法，明白？这叫做生存直觉。}
 
 #{155}{}{Sorry to step on your feet then. I guess I'll just go the hell away.}
 {155}{}{抱歉打扰你了，我要走了。}
@@ -267,13 +267,13 @@
 
 #{178}{}{I learned how to be a scrapper from my time in the Boneyard. I'm good with
 # knives and submachine guns. My favorite is throwing knives, of course.}
-{178}{}{我在晒骨场混的时候学习了打拳，我还会用刀和微冲。我最在行的是飞刀。}
+{178}{}{我在曝骨场混的时候学会了打拳，我还会用刀和微冲。我最在行的是飞刀。}
 
 #{179}{}{All right, although I don't feel right without a good knife.}
 {179}{}{好吧，尽管我没了好刀浑身不自在。}
 
 #{180}{}{You gain 200 experience points for picking up Katja, the Boneyard scav.}
-{180}{}{你让晒骨场的盗贼卡佳加入了你的队伍，获得了200点经验值。}
+{180}{}{你让曝骨场的盗贼卡佳加入了你的队伍，获得了200点经验值。}
 
 #{181}{}{What do you want now?}
 {181}{}{你想做什么？}
@@ -324,7 +324,7 @@
 
 
 {1099}{}{?}
-{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard晒骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
+{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard曝骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
 
 
 {1000}{}{Water}
@@ -393,11 +393,11 @@
 {1065}{}{Merchants}
 
 #{1100}{}{I don't know where you could find such a relic of old technology.}
-{1100}{}{我也不知道在哪里找这个古老科技物件。}
+{1100}{}{我也不知道在哪里找这个古代的科技工具。}
 
 #{1101}{}{The Angel's Boneyard is all that's left of the old city of Los Angeles.
 # Mostly divided among warring factions, these days.}
-{1101}{}{晒骨场是洛杉矶旧称的遗址，现在四分五裂的，各自为战。}
+{1101}{}{曝骨场是洛杉矶的遗址，现在四分五裂的，各自为战。}
 
 #{1102}{}{The War brought misery and death all over the world. I sure hope that
 # something like that never happens again. But from what I've seen, there's not
@@ -487,7 +487,7 @@
 
 #{1129}{}{Ugh! The Deathclaws are all over in the Boneyard. I'd rather not even
 # think about them. Huge and aptly named.}
-{1129}{}{恶！这些死亡爪在晒骨场到处都有。我想都不愿意想它们。身形巨大，“人”如其名。}
+{1129}{}{恶！这些死亡爪在曝骨场到处都有。我想都不愿意想它们。身形巨大，“人”如其名。}
 
 #{1130}{}{I don't know any more about that than you do.}
 {1130}{}{我知道的还不如你多。}
@@ -573,7 +573,7 @@
 #{1158}{}{I used to be a scav. We'd go out at night and try to find useful
 # stuff in the ruins of the Boneyard. Very dangerous job. I got sick of Adytum,
 # though.}
-{1158}{}{我以前就是拾荒的，我们晚上出动去晒骨场遗迹翻东西，很危险的。但是我觉得内城区太无聊了。}
+{1158}{}{我以前就是拾荒的，我们晚上出动去曝骨场遗迹翻东西，很危险的。但是我觉得内城区太无聊了。}
 
 #{1159}{}{They're a group of cast-offs who live outside of Adytum.}
 {1159}{}{他们是内城区外面的流放者。}

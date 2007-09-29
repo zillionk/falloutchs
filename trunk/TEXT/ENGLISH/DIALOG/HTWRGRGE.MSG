@@ -10,7 +10,7 @@
 #{103}{}{Yes.  I'm here to see Mr. Hightower.}
 {103}{}{是的。我来见海托先生。}
 #{104}{}{I have an appointment with Mr. Hightower and I'm running very late.}
-{104}{}{我和海托先生有个约会，我要迟到了。}
+{104}{}{我和海托先生约好了，我要迟到了。}
 #{105}{}{Let me in.}
 {105}{}{让我进去。}
 #{106}{}{Mr. Hightower doesn't see just anyone.}
@@ -18,7 +18,7 @@
 #{107}{}{Well, he wants to see me.}
 {107}{}{得了，他想见我。}
 #{108}{}{How do I set up an appointment with him?}
-{108}{}{我是怎么和他订下约会的？}
+{108}{}{我和他约好了，怎么了？}
 #{109}{}{I'm not just anyone, you idiot!}
 {109}{}{我不是什么普通人！你这个呆子！}
 #{110}{}{Oh well.  Goodbye.}
@@ -26,7 +26,7 @@
 #{111}{}{Ok.  Go on in.}
 {111}{}{好。进去吧。}
 #{112}{}{I know all of Mr. Hightower's associates and I've never seen you before, so you'd better leave.  Now.}
-{112}{}{我认识所有海托先生的伙伴，我从来没见过你。所以你现在最好滚蛋。}
+{112}{}{我认识所有海托先生的助手，我从来没见过你。所以你现在最好滚蛋。}
 #{113}{}{Oh, man are you in trouble!  Mr. H hates it when his appointments are late.  I'll let him chew you out himself.
  Go on in.}
 {113}{}{哦，你这家伙有麻烦啦！海托先生讨厌赴约迟到的人！我要让他本人训你一顿。进去吧。}

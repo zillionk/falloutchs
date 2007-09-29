@@ -5,7 +5,7 @@
 {100}{}{你看到茉莉。}
 
 #{101}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
-{101}{}{对不起，先生，这个人是某个商业公会的一员。}
+{101}{}{对不起，先生，这个人是某个商业公会的成员。}
 
 #{102}{}{Let me get this straight; you're shooting my boss and my friends, and you want to talk? Get bent!}
 {102}{}{让我直说吧，你向我的老板和朋友们开枪，还想和我谈谈？见鬼去吧！}
@@ -22,7 +22,7 @@
 #some minor traps, so be careful. Here are some lockpicks and a couple of flares to make your job a little 
 #easier.. And a bottle of Nuka-Cola.  Try not to kill Mr. Hightower.  He's one of our "favorite" people. You 
 #got all that?}
-{105}{}{欢迎来到盗贼工会，我是茉莉。我来是帮你更容易的潜入达伦·海托的宅邸。他的宅邸就座落在山上，至少有2个守卫24小时值勤。项链很可能在保险箱里，上面可能还有几个陷阱。这是个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
+{105}{}{欢迎来到盗贼工会，我是茉莉。我来是帮你更容易的潜入达伦·海托的房子。他的房子就在山上，至少有两个守卫24小时值勤。项链很可能在保险箱里，上面可能还有几个陷阱。这是个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
 
 #{106}{}{What do you mean by "favorite."}
 {106}{}{“最喜爱”？你什么意思？}
@@ -85,7 +85,7 @@
 {127}{}{好吧，我想我可以替洛克西里先生讲几句，我希望永远不要再看见你，滚。}
 
 #{128}{}{Good luck. Diamonds are my second favorite thing in the world!}
-{128}{}{愿你好运，钻石是我在这个肮脏尘世第二喜欢的东西！}
+{128}{}{愿你好运，钻石是我在这个世界上第二喜欢的东西！}
 
 #{129}{}{Right. Runk. Sure.}
 {129}{}{好吧。垃圾，当然。}
@@ -97,7 +97,7 @@
 {131}{}{我想你没通过这个测试，别再来了。}
 
 #{132}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
-{132}{}{对不起，先生，这个人是某个商业公会的一员。}
+{132}{}{对不起，先生，这个人是某个商业公会的成员。}
 
 #{133}{}{We warned you, but you didn't listen. Too bad about that hearing problem.}
 {133}{}{我们警告过你，但你置若罔闻，听到发生这种事真是糟透了。}

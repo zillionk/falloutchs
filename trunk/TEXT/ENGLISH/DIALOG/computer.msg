@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{This is a badly worn-out desk with a dusty, cracked computer
 # seated precariously atop it.}

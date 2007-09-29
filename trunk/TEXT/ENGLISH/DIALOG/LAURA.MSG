@@ -2,10 +2,10 @@
 {100}{}{你看到劳拉。}
 
 #{102}{laura0m}{Hello, my brother. May I be of service this glorious day?}
-{102}{laura0m}{嗨，我的兄弟。在这美好的一天里需要我的服务吗？}
+{102}{laura0m}{嗨，兄弟。在这美好的一天需要我的服务吗？}
 
 #{104}{laura0f}{Hello, my sister. May I be of service this glorious day?}
-{104}{laura0f}{嗨，我的姐妹。在这美好的一天里需要我的服务吗？}
+{104}{laura0f}{嗨，姐妹。在这美好的一天需要我的服务吗？}
 
 #{105}{}{Are you Laura?}
 {105}{}{你是劳拉吗？}
@@ -65,7 +65,7 @@
 
 #{130}{laura14}{Oh, I'm hardly an authority. You should see Morpheus,
 # the High Priest. I'm sure he can help you much more than I.}
-{130}{laura14}{啊，我还算不上是权威。你应该去找神父墨菲斯。我确定他能比我帮你更多。}
+{130}{laura14}{啊，我还算不上是权威。你应该去找神父墨菲斯。我确定他能比我更能帮你。}
 
 #{132}{laura15}{But I only meant . . . oh . . . I have to go now.}
 {132}{laura15}{可我的意思是……呃……我要走了。}
@@ -183,7 +183,7 @@
 # middle of this day in and day out.
 # You have a problem with how I do this,
 # you just keep it to yourself. Ya got it?}
-{182}{laura32}{啊，这是很好笑。听着，我一天到晚提心吊胆忙死累活的。你如果对我的作法觉得不爽，那是你自己的事情，别抬杠，明白了吗？}
+{182}{laura32}{啊，这个真可笑。听着，我一天到晚在这里进进出出。你如果想问我怎么做到的，那是你自己的事情，懂了吗？}
 
 #{183}{}{What are you going to do, whine some more?}
 {183}{}{你想怎么样，哭鼻子？撒撒娇？}
@@ -196,7 +196,7 @@
 
 #{187}{laura33}{Uh, not much. The Children worship him, and sometimes
 # a huge vision of him appears in the main nave of the church.}
-{187}{laura33}{嗯，我所知不多。那些教徒非常崇拜他，有时教堂大殿里会出现他的巨型幻像。}
+{187}{laura33}{嗯，我知道的不多。那些教徒非常崇拜他，有时教堂大殿里会出现他的巨型幻像。}
 
 #{188}{}{So he's real?}
 {188}{}{那么他是真的存在了？}
@@ -260,7 +260,7 @@
 #{210}{laura39}{Now you know, it could be. I mean, they have
 # enough members, and the different hospitals
 # in the towns are stocked full of weapons and explosives.}
-{210}{laura39}{你现在可能也看到了，他们的确有这个能力。我指的是，他们有足够的教众，各个城市的医院都囤积着大量的武器和炸药。}
+{210}{laura39}{你现在可能也看到了，他们的确有这个能力。我指的是，他们有足够的教徒，各个城市的医院都囤积着大量的武器和炸药。}
 
 #{211}{}{We must tell the Followers.}
 {211}{}{我们应该通知末世论者。}
@@ -342,14 +342,14 @@
 #{244}{laura48}{We sent a group to help Adytum,
 # and they were all wiped out. Nicole sent another
 # one to the Hub. I just hope they get there in time.}
-{244}{laura48}{我们派了一队人去帮助内城区，他们都牺牲了。妮可尔派出了另一队去哈勃城了，我只希望他们能及时到达。}
+{244}{laura48}{我们派了一队人去支援内城区，他们都牺牲了。妮可尔派出了另一队去哈勃城了，我只希望他们能及时到达。}
 
 #{245}{}{Damn. What can I do?}
 {245}{}{该死。我能做什么？}
 
 #{247}{laura49}{They've already taken out the Hub and Adytum!
 # I think the Followers are next, so we're preparing our defense.}
-{247}{laura49}{他们已经拿下了哈勃城和内城区！我想末世论者就是下一个，所以我们在准备防御。}
+{247}{laura49}{他们已经拿下了哈勃城和内城区！我想末世论就是下一个，所以我们在准备防御。}
 
 #{248}{}{Why are you here then?}
 {248}{}{你为什么还在这？}
@@ -378,7 +378,7 @@
 
 #{259}{laura52}{Ah, it sure looks that way. I mean, people are flocking to their
 # Church. Can't they see it's a fake?}
-{259}{laura52}{啊，看上去确实管用。我的意思是，人们对教堂趋之若鹜。真可怜，他们难道看不出这是骗局吗？}
+{259}{laura52}{啊，看上去确实管用。我的意思是，人们对大教堂趋之若鹜。真可怜，他们难道看不出这是骗局吗？}
 
 #{260}{}{You sure it is?}
 {260}{}{你确定这是骗局？}
@@ -533,7 +533,7 @@
 {323}{}{哦，我不知道你在说什么。}
 
 #{324}{}{She leads the Followers. Pretty strong-willed. I trust her.}
-{324}{}{她领导着末世论者。相当坚强。我相信她。}
+{324}{}{她领导着末世论者，很坚强。我相信她。}
 
 #{325}{}{The others are all so nice! It's wonderful here.
 # We belong, we do good work . . .}
@@ -556,7 +556,7 @@
 
 #{330}{}{He preaches peace and enlightenment and all that crap,
 # but he's scum. No two ways about it.}
-{330}{}{他总鼓吹和平、启迪等等的废话。他是个渣滓，无可救药。}
+{330}{}{他总鼓吹和平、启蒙等等的废话。他是个渣滓，无可救药。}
 
 #{331}{}{Oh, I can't begin to describe him. Morpheus leads us.
 # He can do justice to your question.}
@@ -571,7 +571,7 @@
 
 #{334}{}{They're the big, ugly enforcers of the Master
 # and Morpheus.}
-{334}{}{他们是主教和墨菲斯手下又大、又丑的执行者。}
+{334}{}{他们是主教和墨菲斯手下又大、又丑，执行命令的人。}
 
 #{335}{}{The what?}
 {335}{}{什么？}

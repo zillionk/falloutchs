@@ -38,7 +38,7 @@
 #{111}{}{Cuz of all the missing caravans. He doesn抰 have any to spare, the use caravans most of them.
 # The others are sold to for food. Well I'd better stop talking, Dan will get mad if he sees me talking
 # to a stranger.}
-{111}{}{因为那些失踪的商队。他现在没有多少富余的了，商队用掉了大部分。剩下的是准备作为食物出售的。嗯，不能再和你聊了，要是丹看见我和陌生人说话可是要生气的。}
+{111}{}{因为那些商队失踪了，他现在没有多少富余的了，商队用掉了大部分。剩下的是准备作为食物出售的。嗯，不能再和你聊了，要是丹看见我和陌生人说话可是要生气的。}
 
 #{112}{}{Oh, okay.}
 {112}{}{喔，好的。}
@@ -83,7 +83,7 @@
 
 #{125}{}{Yea, I think I抦 starting to agree with you.  This job isn抰 so bad really.  It makes me feel
 # good for some reason.  Well, I抳e got to go before I get in trouble.}
-{125}{}{是啊，我想我开始认同你。这个工作还没那么糟，多少感觉还不错。好吧，在惹上麻烦之前我得走了。}
+{125}{}{是啊，我想我开始同意你。这个工作还没那么糟，多少感觉还不错。好吧，在惹上麻烦之前我得走了。}
 
 #{126}{}{Please don抰 hurt me or my Brahmin.}
 {126}{}{请不要伤害我和我的双头牛。}
@@ -122,7 +122,7 @@
 
 #{137}{}{Please don抰 talk to me, Dan is going to yell at me again.  He really gets piss?I mean?mad,
 # when I抦 not paying attention to what I抦 doing.}
-{137}{}{别跟我说话了，不然丹又要骂我了。他看到我不专心干活儿的时候真的像喝了尿似的，我是说，疯了。}
+{137}{}{别跟我说话了，不然丹又要骂我了。他看到我不专心干活儿的时候那表情真的像喝了尿似的，我是说，疯了。}
 
 #{138}{}{He抯 just trying to help.  Work hard and I抦 sure he抣l be nicer.}
 {138}{}{他只是想帮忙。好好干的话我想他肯定会好些。}
@@ -167,10 +167,10 @@
 {151}{}{随你便，老巫婆！}
 
 #{152}{}{WOW! I can live on this for the rest of my life!  Thanks a lot, mister!}
-{152}{}{哇！我可以在有生之年留在此处居住！非常感谢，先生！}
+{152}{}{哇！我可以一辈子住在这里！非常感谢，先生！}
 
 #{153}{}{WOW! I can live on this for the rest of my life. Thanks a lot, ma抋m!}
-{153}{}{哇！我可以在有生之年留在此处居住！非常感谢！}
+{153}{}{哇！我可以一辈子住在这里！非常感谢，女士！}
 
 #{154}{}{WOW!  Thanks?Well??You抮e just trying to get me in trouble again!}
 {154}{}{哇！多谢？只是？？你让我陷入更大的麻烦了！}
@@ -191,7 +191,7 @@
 {159}{}{嗨！}
 
 #{160}{}{Those girls over there sure are dumb.}
-{160}{}{那些女孩在那肯定是沉默寡言的。}
+{160}{}{那些在那边的女孩肯定都是闷瓜。}
 
 #{161}{}{Hi again.}
 {161}{}{嗨又见面了。}
@@ -233,7 +233,7 @@
 {173}{}{我最好回去工作了。}
 
 #{174}{}{Those girls over there sure are dumb.}
-{174}{}{那些女孩在那肯定是沉默寡言的。}
+{174}{}{那些在那里的女孩肯定都是闷瓜。}
 
 #{175}{}{Hi again.}
 {175}{}{嗨又见面了。}
