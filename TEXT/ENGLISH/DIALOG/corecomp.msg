@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{This computer monitors the machines maintaining the Vault.}
 {100}{}{这个电脑监控着避难所所有仪器设施的工作状况。}
@@ -9,7 +11,7 @@
 #{102}{}{This is the Vault 13 Central Computer Core.
 # It controls most of the workstations you
 # find in the Vault.}
-{102}{}{这里是13号避难所的中央计算机核心，多数的工作站都可以在这里找到。}
+{102}{}{这里是１３号避难所的中央计算机核心，多数的工作站都可以在这里找到。}
 
 #{103}{}{You fiddle with the computer but don't really find out anything else
 # about it.}

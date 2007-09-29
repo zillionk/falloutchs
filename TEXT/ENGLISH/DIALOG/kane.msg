@@ -8,7 +8,7 @@
 {101}{}{有工作吗？薪水如何？}
 
 #{102}{}{Work for this dump?  You've got to be joking.}
-{102}{}{为这个鬼公司工作？你开玩笑吧。}
+{102}{}{为这个鬼地方工作？你开玩笑吧。}
 
 #{103}{}{Damn straight, and it looks like I'm going to have to kick your ass, just because.}
 {103}{}{你真是说得太好了，所以我要扁你一顿啊。}
@@ -61,7 +61,7 @@
 
 #{118}{}{I don't think you understood me. Let me clarify. If you don't watch your manners, you will find yourself
 # dead, tough gal.}
-{118}{}{你没听明白我的意思吧，我给你挑明了说，如果你再这么臭屁，你就是死人了，你这个波妹。}
+{118}{}{你没听明白我的意思吧，我给你挑明了说，如果你再这么臭屁，你就是死人了，你这个糙妹。}
 
 #{119}{}{No, let me clarify--if you don't watch it, I'll be wearing your ass for a shoe.}
 {119}{}{我跟你说清楚吧——如果你再这么臭屁，信不信我把你屁股扯下来做鞋面？}
@@ -120,30 +120,30 @@
 
 #{138}{}{I've heard of you.  They say you're one mean son of a bitch.  If you're
 # looking for some work, I might be able to set you up with someone.  Are you interested?}
-{138}{}{我知道你这个人，他们说你是个十足的恶棍。那么，如果你想要工作，我可以帮你联系，有兴趣？}
+{138}{}{我知道你这个人，他们说你是个十足的恶棍。那么，如果你想要工作，我可以帮你联系，有兴趣吗？}
 
 #{139}{}{I've heard of you.  They say you're one mean bitch.  If you're
 # looking for some work, I might be able to set you up with someone.  Are you interested?}
-{139}{}{我知道你这个人，他们说你是个十足的悍妇。那么，如果你想要工作，我可以帮你联系，有兴趣？}
+{139}{}{我知道你这个人，他们说你是个十足的悍妇。那么，如果你想要工作，我可以帮你联系，有兴趣吗？}
 
 #{140}{}{I've heard of you.  You're the one that took out Killian in Junktown, nice going.  Gizmo must have
 # paid you well for that one. What brings you to the Hub, looking for some work?}
-{140}{}{我听说过你，是你杀了伽克镇的基利安，干的漂亮！吉斯莫给你不少好处吧，你怎么来哈勃城了，找工作？}
+{140}{}{我听说过你，是你杀了伽克镇的基利安，干的漂亮！吉斯莫给你不少好处吧，你怎么来哈勃城了，找活儿干？}
 
 #{141}{}{I've heard of you.  You're the one that took out Gizmo over in Junktown.  Killian must have paid you
 # a good sum for that job.  Are you here for some work, maybe?}
-{141}{}{我听说过你，是你杀了伽克镇的吉斯莫，干的漂亮！基利安给你不少好处吧，你怎么来哈勃城了，找工作？}
+{141}{}{我听说过你，是你杀了伽克镇的吉斯莫，干的漂亮！基利安给你不少好处吧，你怎么来哈勃城了，找活儿干？}
 
 #{142}{}{I've heard of you.  You're the bitch that took out Killian and Gizmo.  Now that's the way to
 # solve a problem... So, what brings you to the Maltese Falcon?  Looking for some work?}
-{142}{}{我听说过你，你这个婊子把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他猎鹰酒吧了，找工作？}
+{142}{}{我听说过你，你这个婊子把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他猎鹰酒吧了，找活儿？}
 
 #{143}{}{I've heard of you.  You're the bastard that took out Killian and Gizmo.  Now that's the way to
 # solve a problem... So, what brings you to the Maltese Falcon?  Looking for some work?}
-{143}{}{我听说过你，你这个牛人把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他猎鹰酒吧了，找工作？}
+{143}{}{我听说过你，你这个牛人把伽克镇的基利安和吉斯莫都干掉了，这也是一种解决问题的办法哈……你怎么来马耳他猎鹰酒吧了，找活儿？}
 
 #{144}{}{I've heard of you.  You're making quite a name for yourself. What brings you to the Hub?}
-{144}{}{我听说过你，你也算是打出名号的人了。你怎么来哈勃城了，找工作？}
+{144}{}{我听说过你，你也算是打出名号的人了。什么风把你吹到哈勃来了？}
 
 #{145}{}{I'm looking for a water chip.}
 {145}{}{我来这里找净水芯片。}
@@ -176,7 +176,7 @@
 {154}{}{嘎？}
 
 #{155}{}{Barooka!}
-{155}{}{巴鲁卡！！！}
+{155}{}{巴茹咔！！！}
 
 #{156}{}{A water chip?  Never heard of it, we only sell drinks.  Go see Bob's Iguana Bits, if you're hungry.}
 {156}{}{净水芯片？没听说过，我们只卖酒。你要是饿了，可以去鲍勃的蜥蜴串烧铺。}
@@ -317,7 +317,7 @@
 
 #{200}{}{Cleansing? That's quite nice of you, but 'evil' is very subjective. What or who you might consider to
 # be evil could very well be the opposite to someone else.}
-{200}{}{扫除邪恶？你还是个好淫那，不过“邪恶”是很主观的东西。你觉得是邪恶的人或东西，其他人恰恰很喜欢呢。}
+{200}{}{扫除邪恶？你还是个好人那，不过“邪恶”是很主观的东西。你觉得是邪恶的人或东西，其他人恰恰很喜欢呢。}
 
 #{201}{}{Yes I agree, but does that mean that we sit around and do nothing just because we aren't sure?}
 {201}{}{没错，我同意你的观点。可是，我们能因为不肯定就不肯作为吗？}
@@ -334,7 +334,7 @@
 
 #{205}{}{A pity.  A blind fanatic is a dangerous person indeed.  I hope your stay here in the Hub is not long.
 # We don't take kindly to murders that aren't auth... to murders of any sort.  Good day.}
-{205}{}{你的想法真糟糕。一个盲目的理想主义者是很危险的。我希望你不要在哈勃城呆太久了，我们对乱杀人的凶手可不轻饶。再见。}
+{205}{}{你的想法真糟糕。一个盲目的理想主义者当真危险。我希望你不要在哈勃城呆太久，我们对乱杀人的凶手可不轻饶。再见。}
 
 #{206}{}{No.}
 {206}{}{不。}
@@ -461,7 +461,7 @@
 {244}{}{我同意，那你跟我来，也许你能派上用场，但是你要记住，我们和你说的任何话你都要烂在肚子里，明白？}
 
 #{245}{}{That might be.  Are you a member of their 'Thieves Circle?'}
-{245}{}{也许有门。你是“盗贼圈”的成员？}
+{245}{}{也许有门。你是“盗贼帮”的成员？}
 
 #{246}{}{Yes.}
 {246}{}{是。}
@@ -471,7 +471,7 @@
 
 #{248}{}{Well, I'm sorry, but we don't work with your little friends.  We barely tolerate their existence and
 # we would never work with them.}
-{248}{}{那就抱歉了，我们不愿意和你的那些朋友共事，他们的存在都让我们难受，所以我不和这个圈里的家伙来往。}
+{248}{}{那就抱歉了，我们不愿意和你的那些朋友共事，他们在一天都让我们难受，所以我不和这个圈里的家伙来往。}
 
 #{249}{}{Well then.  You might be useful after all.  Just keep in mind that it would be in your best interest to keep anything that is said to you, to yourself}
 {249}{}{好吧，你可能还是有点用处的。但是你要记住，我们和你说的任何话你都要烂在肚子里。}
@@ -486,7 +486,7 @@
 {252}{}{没什么特别想要的，我也在考虑。}
 
 #{253}{}{Anything.  If it pays well, I'll do it.}
-{253}{}{随便什么活儿。只要工资高，我就干。}
+{253}{}{随便什么活儿。只要报酬高，我就干。}
 
 #{254}{}{Anything that won't get me in trouble with the law.}
 {254}{}{只要不是违法的就行。}
@@ -509,10 +509,10 @@
 {259}{}{没错，再见……对了，以后别和我扯谎，我最讨厌别人扯谎了，我通常不给别人这种衷告的。}
 
 #{260}{}{A man of action. I like that, even if you are screwed up in the head.}
-{260}{}{实干型人才。我喜欢，虽然你脑袋有点糊涂。}
+{260}{}{实干家。我喜欢，虽然你脑袋有点糊涂。}
 
 #{261}{}{A woman of action. I like that. Even if you are screwed up in the head.}
-{261}{}{实干型人才。我喜欢，虽然你脑袋有点糊涂。}
+{261}{}{实干家。我喜欢，虽然你脑袋有点糊涂。}
 
 #{262}{}{Yeah, what do you want?  It better be good.}
 {262}{}{你想要什么？最好是好事。}
@@ -528,11 +528,11 @@
 
 #{266}{}{Not bad, not bad at all, you surprised me.  I didn't think you'd be that tough to beat. I'm normally a
 # good judge in character, maybe you are what we're looking for.  Are you interested in a job?}
-{266}{}{不错不错，你比我预期的还强。我之前没想到你这么能打。我一向看人很准，你应该就是我们需要的人，你想帮我们做事吗？}
+{266}{}{不错不错，你比我预期的还强。我之前没想到你这么能打。我一向看人很准，你应该就是我们需要的人，你想为我们做事吗？}
 
 #{267}{}{Damn!  That was a good fight!  I haven't had a good match in a long time, and I don't remember when
 # I was last bested by someone.  Good job!  How would you like a job?}
-{267}{}{靠！打得不赖嘛！我好久没有这么带劲的对手了，更记不得什么时候被人击败过。好样的！你帮我们做事如何？}
+{267}{}{靠！打得不赖嘛！我好久没有这么带劲的对手了，更记不得什么时候被人击败过。好样的！你为我们做事如何？}
 
 #{268}{}{Sure what's the job?}
 {268}{}{当然，什么活儿？}
@@ -619,7 +619,7 @@
 #{293}{}{I understand that you are responsible for the death of Jain, the High Priestess. I don't know what
 # quarrels you had with her and I don't care, but we're very grateful nevertheless.
 # (Kane gives you 1000 hubbucks)}
-{293}{}{我知道你杀了高级牧师简恩。我不知道你和她有什么过节，但是我们还是很感激你。}
+{293}{}{我知道你杀了高级牧师简恩。我不知道你和她有什么过节，但是我们还是很感激你。（凯恩给了你1000瓶盖）}
 
 #{294}{}{Who told you?}
 {294}{}{谁告诉你的？}
@@ -632,15 +632,15 @@
 
 #{297}{}{That is none of your concern and I'm afraid we can not deal with you.  You've violated our laws but
 # because of the problem you eliminated for us we will not kill you, but I think you should leave.}
-{297}{}{这你就不必过问了。抱歉我不能再和你打交道了，你违反了我们的法律，虽然由于你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
+{297}{}{这你就不必过问了。抱歉我不能再和你打交道了，你违反了我们的法律，虽然你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
 
 #{298}{}{I'm afraid you do, lying can be a very unhealthy habit.  You've violated our laws but because of the
 # problem you eliminated for us we will not kill you, but I think you should leave.}
-{298}{}{就是你干的。撒谎会影响健康的。你违反了我们的法律，虽然由于你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
+{298}{}{恐怕就是你干的。撒谎会影响健康的。你违反了我们的法律，虽然你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
 
 #{299}{}{I don't know what game you're playing, but I'm not amused. You've violated our laws but because of the
 # problem you eliminated for us we will not kill you, but I think you should leave.}
-{299}{}{我不知道你葫芦里卖的什么药，我一点也不觉得好笑。你违反了我们的法律，虽然由于你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
+{299}{}{我不知道你葫芦里卖的什么药，我一点也不觉得好笑。你违反了我们的法律，虽然你实际上帮了我们的忙，我们不会杀你，但你还是应该离开这里。}
 
 #{300}{}{Don't touch that door, if you want to live.  I'm the only one that can open that door.}
 {300}{}{如果你还想活，别碰那个门，我是唯一有权开门的人。}
@@ -1171,7 +1171,7 @@
 
 #{464}{}{Sorry doesn't cut it.  You've put Decker at an unacceptable risk.  You can consider yourself an enemy of the Underground
 # from now on.  I don't ever want to see your face in here again.}
-{464}{}{对不起有个屁用！你让德克冒了多大的险。你以后就是地下社团的敌人了。我不想在这里再看到你这张破脸！}
+{464}{}{对不起有个屁用！你让德克冒了多大的险。你以后就是地下黑社会的敌人了。我不想在这里再看到你这张破脸！}
 
 #{465}{}{You cannot get through the door with Kane here.}
 {465}{}{凯恩挡住了门。}

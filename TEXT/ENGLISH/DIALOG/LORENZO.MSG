@@ -5,10 +5,10 @@
 {100}{}{你看见罗仑佐。}
 
 #{101}{}{Mister, this is a respectable establishment. We don't do business with your kind. Go away.}
-{101}{}{先生，这是正规的机构。我们不与你这样的人作生意。走开。}
+{101}{}{先生，这是正规机构。我们不与你这样的人作生意。走开。}
 
 #{102}{}{Madame, this is a respectable establishment. We don't do business with your kind. Go away.}
-{102}{}{夫人，这是正规的机构。我们不与你这样的人作生意。走开。}
+{102}{}{夫人，这是正规机构。我们不与你这样的人作生意。走开。}
 
 #{103}{}{You're overdue on your loan. Please pay it now or I will become very upset.  I dislike being upset.}
 {103}{}{你的贷款到期了。请现在还钱，否则我会非常生气。我很不喜欢这样。}
@@ -49,7 +49,7 @@
 #{115}{}{Well, if it isn't a potential customer! I'm Lorenzo the Munificent, at your service. I give out loans.
 # Only ten percent daily interest, a maximum of ten days to repay. You won't find a more generous lending
 # institution anywhere in the Hub!}
-{115}{}{很好，也许不是一个好客户！我是慷慨的罗仑佐，听候您的吩附。我提供贷款。每天的利息只有百分之十，只要十天后偿还。你不可能在哈勃城的任何地方再找到一个这么好的借贷机构了！}
+{115}{}{很好，也许你不能发展成客户！我是慷慨的罗仑佐，听候您的吩附。我提供贷款。每天的利息只有百分之十，只要十天后偿还。你不可能在哈勃城的任何地方再找到一个这么好的借贷机构了！}
 
 #{116}{}{I came for a loan.}
 {116}{}{我到这是要贷款。}
@@ -87,7 +87,7 @@
 
 #{127}{}{Sorry pal, but I don't do more than one loan at a time. You want more, you gotta start paying. This
 # is a business, not a charity.}
-{127}{}{对不起朋友，我不做超过一次的贷款。你想要借更多，必须先把上次的还清。这是生意而不是慈善堂。}
+{127}{}{对不起朋友，我每次都不会多笔贷款。你想要借更多，必须先把上次的还清。这是生意而不是慈善堂。}
 
 #{128}{}{Fine. A pleasure doing business. Anything else?}
 {128}{}{很好。生意兴隆。还有别的吗？}
@@ -112,11 +112,11 @@
 
 #{135}{}{Hey, no threats! We're all civilized around here. Guido, Leone, why don't you show this gentleman
 # how civilized we can be.}
-{135}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位绅士看看我们是如何的文明化。}
+{135}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位绅士看看我们是如何的文明。}
 
 #{136}{}{Hey, no threats! We're all civilized around here. Guido, Leone, why don't you show this lady how
 # civilized we can be.}
-{136}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位女士看看我们是如何的文明化。}
+{136}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位女士看看我们是如何的文明。}
 
 #{137}{}{Time's up, pal. Guido, Leone, why don't you boys entertain me for a minute厎
 {137}{}{时间到，朋友。古维多，利昂，你们为什么不去招待招待我的男孩。}
@@ -134,7 +134,7 @@
 {141}{}{迟些再说。}
 
 #{142}{}{You don't have enough! How dare you try to cheat me! Guido, Leone, let's bury this loser.}
-{142}{}{你没有足够钱！你居然敢欺骗我！古维多，利昂，让我们埋葬这个失败者。}
+{142}{}{你没有足够钱！你居然敢欺骗我！古维多，利昂，让我们埋掉这个输家。}
 
 #{143}{}{Fine.  You have no loans outstanding with us. We lend in units of two hundred
 # Hub Bucks, with a maximum of one thousand Hub Bucks.  Remember, though, I'm not gonna lend you the big bucks
@@ -166,7 +166,7 @@
 {151}{}{我最好还是别借了。}
 
 #{152}{}{Guido, Leone, why don't you show him what ripping off really means. Start with his arms.}
-{152}{}{古维多，利昂，你们为什么不让他看看撕掉真正的意思。从他的双臂开始。}
+{152}{}{古维多，利昂，你们为什么不让他看看“撕掉”真正的意思。从他的双臂开始。}
 
 #{153}{}{Sorry pal, but idiots are too big of a credit risk. Get out of here.}
 {153}{}{对不起朋友，但是借钱给白痴的危险性太大了。离开这里。}
@@ -193,7 +193,7 @@
 {160}{}{这地方的人去哪找工作？}
 
 #{161}{}{He's a great guy. A good source of jobs to pay off my loans. Tell him I sent you, you might get a bonus!}
-{161}{}{那家伙不错。一个好的工作来源，能很快还清我的贷款。告诉他我派你来的，你会有好处的！}
+{161}{}{那家伙不错。能介绍不少好工作，很快还清我的贷款。告诉他我派你来的，你会有好处的！}
 
 #{162}{}{What about those missing caravans?}
 {162}{}{那些失踪的商队怎么样？}
@@ -214,8 +214,8 @@
 {167}{}{这地方的人去哪找工作？}
 
 #{168}{}{They're great guys! It's true we have the occasional misunderstanding, but I think they're a credit to
-# their species?【sotto voce】 厀hichever one that is厎
-{168}{}{他们是了不起的家伙！只是我们偶然会有点误会，但是我认为他们值得信任的那种人？【低声】无论哪个都是。}
+# their species?【sotto voce】 厀hichever one that is}
+{168}{}{他们是了不起的家伙！我们确实偶尔会有点误会，但是我认为他们值得信任的那种人。【低声】无论哪个都是。}
 
 #{169}{}{What about those missing caravans?}
 {169}{}{那些失踪的商队怎么样？}
@@ -281,7 +281,7 @@
 
 #{189}{}{You should try Mr. Decker. Exciting work at great prices! The best in town! And he's just across the
 # street! You can't get better convenience than that!}
-{189}{}{你应该去德克先生那里试试。令人兴奋的工作，很棒的价格！在城镇中是最好的! 他在街道对面！你不可能得到比这更好的了！}
+{189}{}{你应该去德克先生那里试试。令人兴奋的工作，很棒的报酬！在城镇中是最好的! 他在街道对面！你不可能得到比这更好的了！}
 
 #{190}{}{What about those missing caravans?}
 {190}{}{那些失踪的商队怎么样？}
@@ -387,13 +387,13 @@
 
 #{224}{}{I'll bet their leader, this Morpheus character, he's not broke! No sir! I'll bet that over in the
 # Boneyard, he's just living it up!}
-{224}{}{我打赌他们的领袖，那个墨菲斯一钱不值，不，先生！我打赌在晒骨场，他们也能过的很快乐！}
+{224}{}{我打赌他们的领袖，那个墨菲斯一钱不值，不，先生！我打赌在曝骨场，他们也能过的很快乐！}
 
 #{225}{}{What about those missing caravans?}
 {225}{}{那些失踪的商队怎么样？}
 
 #{226}{}{Tell me about Decker.}
-{226}{}{告诉我关于德克。}
+{226}{}{告诉我关于德克的事。}
 
 #{227}{}{What about the local police?}
 {227}{}{地方警察怎么样？}
@@ -460,7 +460,7 @@
 
 #{248}{}{I'm sorry, but I don't have the time for this.  If you can't pay the full amount, give me what money
 # you do have and our business relationship will be terminated permanently.}
-{248}{}{抱歉，我没时间废话。如果你不能支付总额，那么给我你身上所有钱，并且我们的生意关系将永久地被终止。}
+{248}{}{抱歉，我没时间废话。如果你不能支付总额，那么给我你身上所有钱，并且我们的生意关系将永久地结束。}
 
 #{249}{}{Well, OK.  You can have all of my caps.}
 {249}{}{很好，好。你可以拿走我所有的瓶盖。}

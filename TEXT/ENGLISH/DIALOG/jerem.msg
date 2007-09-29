@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see Jeremiah, a messenger for the Children.}
-{100}{}{你看见耶利米，一个教徒，他是一名传令官。}
+{100}{}{你看见耶利米，大教堂教徒的传令官。}
 
 #{101}{}{You see a Child. He looks pensive.}
 {101}{}{你看见一名教徒，他似乎在沉思。}
@@ -17,12 +17,12 @@
 {104}{}{你是做什么的？}
 
 #{105}{}{Ah, yes, a super mutant in training. I will return to my tasks.}
-{105}{}{我是正在受训的超级变种人，我要回到自己的岗位。}
+{105}{}{一个超级变种人正在受训，我要回到自己的岗位。}
 
 #{106}{}{If you do not know, it is none of your concern. If you are inquiring
 # about something you should not know, then I will have to report you to our
 # supervisors. You should know better.}
-{106}{}{如果你什么都不知道，那就没你的事。如果你打听你不应该知道的事情，那我可就要向上级汇报了。你最好放明白点。}
+{106}{}{如果你什么都不知道，那你也没必要关心。如果你打听你不应该知道的事情，那我可就要向上级汇报了。你最好放明白点。}
 
 #{107}{}{I am a person of high importance.}
 {107}{}{我是一个很重要的人物。}
@@ -35,7 +35,7 @@
 
 #{110}{}{Who the hell are you to be asking me questions?! You're lucky I don't
 # report you to the holy flame!!}
-{110}{}{你是谁，怎么敢问我的问题？！你应该庆幸我没有向圣火汇报你！}
+{110}{}{你是谁，怎么敢问我问题？！你应该庆幸我没有向圣火汇报你！}
 
 #{111}{}{Transferring the reports, of course.}
 {111}{}{当然，我要递送报告。}
@@ -77,7 +77,7 @@
 {123}{}{多非斯……不对，……是墨菲斯让我来的。}
 
 #{124}{}{I am Loki. An initiate from the south.}
-{124}{}{我是罗基，从南方来的新学员。}
+{124}{}{我是洛基，从南方来的新学员。}
 
 #{125}{}{No, I don't belong here. But I know where this bullet belongs... in
 # your head.}
@@ -109,11 +109,11 @@
 #{133}{}{I am of the High Order. Only the Master and Morpheus know of me in
 # order to ensure my safety on the outside. But I have been called back by
 # order of the Master.}
-{133}{}{我是高层人士。只有主教和墨菲斯知道我，这也是为了保护我在外面时候的安全，我收到命令回来见主教。}
+{133}{}{我是高阶间谍。只有主教和墨菲斯知道我，这也是为了保护我在外面时候的安全，我收到命令回来见主教。}
 
 #{134}{}{Please forgive me. I apologize for questioning you. Please carry on
 # about your business, and if I can be of any service let me know.}
-{134}{}{对不起对不起，我道歉，我不该问您问题的。您轻便吧，如有差遣，小人定当效犬马之劳。}
+{134}{}{对不起对不起，我道歉，我不该问您问题的。您请便吧，如有差遣，在下定当犬马之劳。}
 
 #{135}{}{I do not know who you are, and you do not belong here. Guards!!!}
 {135}{}{我不知道你是谁，你不属于这里。卫兵！！！！}
@@ -173,7 +173,7 @@
 {152}{}{我还想再问几个问题？}
 
 #{153}{}{I'll leave. I'll leave. But not until I blow your brains out.}
-{153}{}{我走，我走，等我先把你脑花敲出来！}
+{153}{}{我走，我走，等我先把你脑浆敲出来！}
 
 #{154}{}{How did you get in here?! What are you doing sneaking around?}
 {154}{}{你是怎么进来的？！你鬼鬼祟祟干什么？}
@@ -268,7 +268,7 @@
 # untainted humans untouched by radiation. I was the one who brought the
 # Master the final news of a possible Lost Vault. It may still have pure-strain
 # humans in it.}
-{182}{}{当然。我随时向主教带来最新的未受辐射的纯种人类。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能有纯种人类存在。}
+{182}{}{嗯？当然。我向主教带来最新的未受辐射的纯种人类的消息。我向主教汇报有关消失避难所的搜寻的最新进展。那里可能有纯种人类存在。}
 
 #{183}{}{Yes, my brother. You do understand. Thank you. That is all.}
 {183}{}{好，看来你是明白的，就这样了。}
@@ -294,9 +294,3 @@
 
 #{189}{}{Hey! I told you were not allowed down here! Guards!}
 {189}{}{嘿！我说过了你不能在这里！卫兵！}
-
-#{190}{}{You ask too many questions. Who are you?}
-{190}{}{你问的太多了，你是谁？}
-
-#{192}{}{Excuse me, sister. You startled me. How may I serve the Master?}
-{192}{}{对不起，教友，你吓着我了。你有什么要我帮忙的？}

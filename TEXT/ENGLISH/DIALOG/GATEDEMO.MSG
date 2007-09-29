@@ -5,10 +5,10 @@
 {100}{}{守卫被激怒并开始攻击。}
 
 #{101}{}{The guard is frightened by your power.}
-{101}{}{守卫被你的力量所威吓。}
+{101}{}{你的力量把守卫吓住了。}
 
 #{102}{}{Only Shadow Sword can intimidate this guard by his very presence. You must do so through words.}
-{102}{}{只有暗影之剑才能以其特有的地位胁迫这守卫。你得用言语达到这样的效果。}
+{102}{}{只有暗影之剑才能以其特有的地位胁迫这守卫。你必须用语言达到这样的效果。}
 
 #{103}{}{You successfully swipe something from the guard.}
 {103}{}{你成功地从守卫身上偷到了东西。}

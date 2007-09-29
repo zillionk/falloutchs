@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{I'm here to kick ass and chew bubble gum. I'm all out of gum.}
-{100}{}{我来这里是来打仗和吃泡泡糖的。现在已经没有泡泡糖吃了。}
+{100}{}{我来这里是来踢你们屁股看你们干活的。我闲得发痒。}
 #{101}{}{The Brotherhood is praying for our success, sir.}
 {101}{}{兄弟会在期待着我们成功，先生。}
 #{102}{}{Let's move out.}
@@ -14,7 +14,7 @@
 #{105}{}{No time to chat, sir.}
 {105}{}{没时间闲聊了，先生。}
 #{106}{}{I'm here to kick ass and chew bubble gum. I'm all out of gum.}
-{106}{}{我来这里是来打仗和吃泡泡糖的。现在已经没有泡泡糖吃了。}
+{106}{}{我来这里是来踢你们屁股看你们干活的。我闲得发痒。}
 #{107}{}{The Brotherhood is praying for our success, ma'am.}
 {107}{}{兄弟会在期待着我们成功，女士。}
 #{108}{}{Let's move out.}

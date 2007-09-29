@@ -62,7 +62,7 @@
 # Put your weapon away, don't draw it unless in self-defense, and
 # you won't have a problem with us guards. Disobey the law, and we
 # will return you to the lawless wasteland - dead or alive.}
-{118}{}{你最好遵照执行，这是法律，我是执法者。把你的武器放起来，除非自卫，不能再拿出来，我们守卫就不会再来麻烦你。如果你想违反法律，那我们就送你回废土去，不管你的死活。}
+{118}{}{你最好遵照执行，这是法律，我是执法者。把你的武器收起来，除非自卫，不能再拿出来，我们守卫就不会再来麻烦你。如果你想违反法律，那我们就送你回废土去，不管你的死活。}
 
 #{119}{}{Sure, since you put it that way.}
 {119}{}{好吧，既然你这么说的话。}

@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a man, he quickly stares intensely into your eyes and then away.}
-{100}{}{你看见一个男人，他狠狠地看了你一眼，紧接着又转移了视线。}
+{100}{}{你看见一个男人，他迅速朝你瞥了撇，紧接着又转移了视线。}
 #{101}{}{You see Greg.}
 {101}{}{你看见格雷格。}
 #{102}{}{What?  Why are you talking to me? They'll hear you know.}

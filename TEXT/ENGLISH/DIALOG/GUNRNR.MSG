@@ -22,9 +22,9 @@
 #{109}{}{We could hold off an army in here.}
 {109}{}{我们在这能打退一支军队。}
 #{110}{}{Some guy fell in the moat once. What a horrible way to go.}
-{110}{}{有家伙掉到沟里了。太可怕了。}
+{110}{}{有家伙掉到沟里了。真他妈惨绝人寰。}
 #{111}{}{Damn that moat, the fumes are making my eyes hurt.}
-{111}{}{该死的沟，这气味害得我眼睛疼死了。}
+{111}{}{该死的沟，这臭气熏得我眼睛疼死了。}
 #{112}{}{I hate this job.}
 {112}{}{我恨这个工作。}
 #{113}{}{Get out of my way!}

@@ -2,10 +2,10 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The Raider is too frightened of Garl to speak to you anymore.}
-{100}{}{歹徒是如此的惧怕伽尔以至于不敢再和你说话了。}
+{100}{}{强盗们因为太惧怕伽尔，所以不再敢和你说话了。}
 
 #{101}{}{You see a tough desert Raider.}
-{101}{}{你看见一名凶恶的沙漠歹徒。}
+{101}{}{你看见一名凶恶的沙漠强盗。}
 
 #{102}{}{It's the Death-Hand. He's returned!}
 {102}{}{那是死亡之手。他回来了！}
@@ -83,7 +83,7 @@
 {126}{}{没什么。只是找我的一位朋友。}
 
 #{127}{}{There is a bounty on her head. If I can kill her, I can get some good cash.}
-{127}{}{她的人头被悬赏着。如果我能杀了她的话，能搞好一笔钱呢。}
+{127}{}{有人在悬赏她的脑袋。如果我能杀了她的话，能搞好一笔钱呢。}
 
 #{128}{}{You're lying. Where is she?}
 {128}{}{你在撒谎。她在哪里？}
@@ -98,7 +98,7 @@
 {131}{}{大约六英尺高。金发碧眼。她从沙荫镇来。}
 
 #{132}{}{Yeah, she's here. She's in the big house. You know, if we tell Garl, then he would want a piece of the bounty. You might want to think about that.}
-{132}{}{是的，她在这儿。她在大房子里。你看，如果我们告诉伽尔，那他就会分走一部分赏金。或许你应该考虑考虑。}
+{132}{}{是的，她在这儿。她在大房子里。你看，如果我们告诉伽尔，那他就会分走一部分赏金。或许你应该考虑考虑这个。}
 
 #{133}{}{You don't sound like you mean it. I think that you are up to something. And if you are telling the truth, then I'll bag the reward for myself.}
 {133}{}{你的声音听起来不太确定。我想你牵扯着什么。如果你说的是实话，那么我就要独吞赏金了。}
@@ -110,7 +110,7 @@
 {135}{}{滚一边去！}
 
 #{136}{}{I don't like your looks. You'd better get away from me.}
-{136}{}{我不喜欢你的眼神。你最好从我面前滚开。}
+{136}{}{我不喜欢你的样子。你最好从我面前滚开。}
 
 #{137}{}{What? Go away!}
 {137}{}{什么？滚开！}

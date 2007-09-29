@@ -26,13 +26,13 @@
 {108}{}{爸爸！}
 
 #{109}{JAIN02}{How dare you speak to me in that manner! You will be punished for your insolence! Guards!}
-{109}{JAIN02}{你怎么能这样和我说话！你会因为你的无礼而被惩罚的，卫兵！}
+{109}{JAIN02}{你怎么能这样和我说话！你会因为你的无礼受到惩罚的，卫兵！}
 
 #{110}{JAIN03}{Perhaps one of our priests will discuss your needed education. Leave now.}
-{110}{JAIN03}{也许我们的低级牧师可以教教你基本的识字说话，你走吧。}
+{110}{JAIN03}{也许我们的低级牧师可以教教你基本的待人接物，你走吧。}
 
 #{111}{JAIN04}{Have you studied the sacraments, child?}
-{111}{JAIN04}{你念过圣经没有，孩子？}
+{111}{JAIN04}{你研习过圣经没有，孩子？}
 
 #{112}{}{Yes.}
 {112}{}{是的。}
@@ -44,13 +44,13 @@
 {114}{JAIN05}{那你就应该明白高级牧师不只是干“施与”祝福的工作，你可以走了。}
 
 #{115}{JAIN07}{Continue to mock me and I will have you thrown out.}
-{115}{JAIN07}{再和我打趣，我就把你扔出去！}
+{115}{JAIN07}{再和我胡闹，我就把你扔出去！}
 
 #{116}{}{But I'm not mocking you, honest.}
-{116}{}{可是我没有打趣您啊，真的。}
+{116}{}{可是我没有和您胡闹啊，真的。}
 
 #{117}{}{Mock you? Now why would I do something like that?!}
-{117}{}{打趣你？那我就换个花样怎么样！？}
+{117}{}{胡闹？那我就换个花样怎么样！？}
 
 #{118}{}{It's obvious that kindness and good temper aren't part of this religion.}
 {118}{}{善良和忍耐显然不是你们宗教的教义。}
@@ -77,13 +77,13 @@
 {125}{}{来随便看看。}
 
 #{126}{JAIN11}{Are you a Child?}
-{126}{JAIN11}{你是我们教徒的一员么？}
+{126}{JAIN11}{你是教徒么？}
 
 #{127}{}{Lady, do I look that young to you?}
 {127}{}{老姐，你看我是那么年轻的人么？}
 
 #{128}{}{Am I one of the Children of the Cathedral? No.}
-{128}{}{我是不是大教堂教徒的一员？不是。}
+{128}{}{我是不是大教堂教徒？不是。}
 
 #{129}{}{I am a devout believer.}
 {129}{}{我是一个虔诚的信徒。}
@@ -98,7 +98,7 @@
 {132}{}{扯你娘的蛋。}
 
 #{133}{JAIN13}{Are you interested in converting to our faith? We can offer you what no one else can...}
-{133}{JAIN13}{你有兴趣改信我们的教义么？我可以给你其他人都不能给你的好处……}
+{133}{JAIN13}{你有兴趣皈依我们么？我可以给你其他人都不能给你的好处……}
 
 #{134}{}{And what's that?}
 {134}{}{是什么？}
@@ -106,14 +106,14 @@
 #{135}{}{No, not interested. I think you're a bunch of kooks.}
 {135}{}{不干，没兴趣，你们就是一帮疯子。}
 
-#{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to rebuild the planet and make a better place for those that follow.}
-{136}{JAIN14}{一辈子的幸福。充实你的知识，努力“实现”星球的重建和信徒的美好未来。}
+#{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to 。}rebuild the planet and make a better place for those that follow.}
+{136}{JAIN14}{满足的生活。充实的知识，让你用来重建这颗星球还有皈依我们之后更高贵的地位。}
 
 #{137}{}{Sounds very interesting, could you tell me more? I seek fulfillment.}
 {137}{}{听起来不错，你能说的仔细一点么？我想“实现”这些梦想。}
 
 #{138}{}{Oh yeah, I bet there's a lot of rebuilding going on and I'm sure your cups are overflowing with fulfillment.}
-{138}{}{好哇，我敢打赌到处都是造人计划，你的奶罩里会充实各种“实现”的。}
+{138}{}{好哇，我敢打赌到处都是重建人类的造人计划，你的奶罩会充实到溢出的，哈。}
 
 #{139}{}{I don't think so. Sounds a little fishy to me.}
 {139}{}{不干，这里面有蹊跷。}
@@ -134,7 +134,7 @@
 {144}{JAIN18}{当我们大教堂教徒在重生之地兴盛时，便是你们这些垃圾消亡的时候，走开！}
 
 #{145}{JAIN19}{I am not completely devoid of humor, but leading the Children is something I take seriously. Please remember that.}
-{145}{JAIN19}{我不是没有幽默感的人，但领导教徒是一个很严肃的事情，你要记住。}
+{145}{JAIN19}{我不是没有幽默感的人，但领导教众是一个很严肃的事情，你要记住。}
 
 #{146}{}{Sorry, I'm not that familiar with the Children.}
 {146}{}{对不起，我对教徒不是很熟悉。}
@@ -167,7 +167,7 @@
 {155}{}{呃，我走了。}
 
 #{156}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
-{156}{JAIN22}{只要有坚定不移的信念，我们教徒就无往不利，我们不会失败的。}
+{156}{JAIN22}{只要有坚定不移的信念，我们教众就无往不利，我们不会失败的。}
 
 #{157}{}{Good. I hope you don't.}
 {157}{}{好，我也希望你们不会失败。}

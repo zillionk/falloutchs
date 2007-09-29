@@ -13,7 +13,7 @@
 #{106}{}{This house is off limits to the likes of you.}
 # "You are not permitted to enter the house."
 {100}{}{你看见一个海托的守卫。}
-{101}{}{你最好离开。达伦海托不许参观。}
+{101}{}{你最好离开。达伦海托不喜欢来访者。}
 {102}{}{我们不需要你。}
 {103}{}{离开！}
 {104}{}{你不允许留在这里。}
@@ -24,8 +24,8 @@
 #{108}{}{You made a big mistake coming in here!}
 #{109}{}{What are you doing here?  You're dead meat.}
 # "You're dead meat" == "i'm going to kill you"
-{107}{}{你干什么？干他！}
-{108}{}{你犯了致命错误！}
+{107}{}{你干什么？捉住他！}
+{108}{}{到这来你犯了大错了！}
 {109}{}{你在这干什么？你死定了。}
 
 #{110}{}{Mmmm, looks good.}
@@ -38,7 +38,7 @@
 
 #{112}{}{Hook it to my veins!}
 # referring to getting more alcohol
-{112}{}{它使我沸腾！}
+{112}{}{把酒直接吊到我静脉去！}
 
 #{113}{}{Anything in the fridge?}
 # fridge == refridgerator

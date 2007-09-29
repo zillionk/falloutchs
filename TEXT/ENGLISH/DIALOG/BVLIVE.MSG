@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see the tip of a key in a crack in the chair.}
 {100}{}{你看见椅子的缝里有个钥匙的尖。}

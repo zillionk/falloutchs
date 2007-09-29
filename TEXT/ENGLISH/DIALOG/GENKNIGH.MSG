@@ -26,7 +26,7 @@
 {107}{}{托马斯是兄弟会里最好的战士。我敢打赌他能打败隆伯斯。}
 
 #{108}{}{I'd like to get my hands on those raiders. Show them what thieves deserve.}
-{108}{}{我想收拾这帮歹徒。让他们知道知道小偷应有的下场。}
+{108}{}{我想收拾这帮强盗。让他们知道知道小偷应有的下场。}
 
 #{109}{}{That's it . . . what? Oh sorry. I can't talk right now.}
 {109}{}{那是什么……什么来着？哦抱歉。我现在不能聊天。}
@@ -38,7 +38,7 @@
 {111}{}{我喜欢按照新原型工作。}
 
 #{112}{}{When our supplies are limited, it can really be a challenge to find a way to use what we've got.}
-{112}{}{当我们的补给有限时，合理使用我们所有的资源确实会是个挑战。}
+{112}{}{当我们的补给有限时，怎样合理使用资源确实是个挑战。}
 
 #{113}{}{I can't figure out why my last prototype didn't work.}
 {113}{}{我不明白为什么我最新的原型无法工作。}

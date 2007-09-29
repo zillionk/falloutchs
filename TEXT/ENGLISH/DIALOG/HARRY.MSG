@@ -4,7 +4,7 @@
 #{100}{}{You see Harry, the Super Mutant.}
 {100}{}{你看见哈里，超级变种人。}
 #{101}{Harry_0}{Hey! You not look like ghoul. How come?}
-{101}{Harry_0}{嗨！你看上去不像僵尸。为何？}
+{101}{Harry_0}{嗨！你看上去不像僵尸。为什么？}
 #{102}{}{That's because I dressed up really snazzy today.}
 {102}{}{那是因为我今天打扮的比较时髦。}
 #{103}{}{But I am a ghoul!}

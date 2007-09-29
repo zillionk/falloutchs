@@ -33,13 +33,13 @@
 
 #{109}{}{Well, thank you. We try our best. It's really tough in a city this size, but we do the best we can with
 # what we've got. It's hard when the thugs have better firepower than you do.}
-{109}{}{谢谢你，我们尽我们的全力。这么大的城市，工作不好开展，但是我们会竭尽所能的。有时候匪徒的火力比我们都大，真的不太好办。}
+{109}{}{谢谢你，我们尽我们的全力。这么大的城市，工作可不好做，但是我们会竭尽所能的。有时候匪徒的火力比我们都大，真的不太好办。}
 
 #{110}{}{Thanks again.}
 {110}{}{谢谢你。}
 
 #{111}{}{It's time for you to leave, child killer.}
-{111}{}{你该走了，儿童杀手。}
+{111}{}{你该走了，杀小孩的人。}
 
 #{112}{}{We couldn't have that. But, if you ever change your mind, please let me know. It's a dangerous
 # place out there and someone has to stand up for what's right.}
@@ -53,7 +53,7 @@
 #{114}{}{You're too late...Damn! I knew he was responsible, I only wish I knew in time to stop him. In any case,
 # you're the final witness I needed to act. We'll have to "take him out." This is going to be rough, and I can
 # use any help I can get. I can pay you 1300 scripts. 300 now, and the rest when we're all done. What do you say?}
-{114}{}{你来的太晚了……妈的。我就知道他是幕后黑手，应该早点阻止他的。不管怎么说，你也算是最后一个目击者了。我要去“拿下他”，还需要人手。我给你1300个瓶盖，现在先付你300个，办完事后再给你剩下的。你去不去？}
+{114}{}{你来的太晚了……妈的。我就知道他是幕后黑手，应该早点阻止他的。不管怎么说，你也算是最后一个目击者了。我要去拿下他，还需要人手。我给你1300个瓶盖，现在先付你300个，办完事后再给你剩下的。你去不去？}
 
 #{115}{}{You're too late...How do I know you're not responsible? Decker's not likely to let someone know about his
 # plans and live.}
@@ -61,7 +61,7 @@
 
 #{116}{}{I just got word that she's already dead...wait a minute. How do I know that you're not the one responsible?
 # Decker's not likely to let someone know about his plans and live.}
-{116}{}{我刚刚听到她的死讯……等一下，我怎么知道是不是你干的？德克一般不让知道他计划的人活着。}
+{116}{}{我刚刚听到她已经死了……等一下，我怎么知道是不是你干的？德克一般不让知道他计划的人活着。}
 
 #{117}{}{It'll be a pleasure.}
 {117}{}{很荣幸。}
@@ -83,7 +83,7 @@
 {122}{}{你自己去吧，警长。}
 
 #{123}{}{Great! Here's the first part of your payment.  【The Sheriff hands you 300 caps】}
-{123}{}{很好！这是你的前期报酬！【警长给了你300个瓶盖】}
+{123}{}{很好！这是你的定金！【警长给了你300个瓶盖】}
 
 #{124}{}{I'm ready.}
 {124}{}{我准备好了。}
@@ -104,7 +104,7 @@
 {129}{}{再见。}
 
 #{130}{}{Great!  Here's the first part of your payment.  【The Sheriff gives you 300 caps】}
-{130}{}{很好！这是你的前期报酬！【警长给了你300个瓶盖】}
+{130}{}{很好！这是你的定金！【警长给了你300个瓶盖】}
 
 #{131}{}{What? Do you expect me to stand around and let him kill innocent people? I've a responsibility to this
 # city, which I don't expect you to understand.}
@@ -114,7 +114,7 @@
 {132}{}{没错，轮到你了。}
 
 #{133}{}{How dare you accuse me!}
-{133}{}{你胆敢指控我！}
+{133}{}{你怎么能诬告我！}
 
 #{134}{}{I don't care what you think.}
 {134}{}{我不管你怎么想。}
@@ -131,7 +131,7 @@
 {137}{}{对不起，德克和我们玩了好多年了。我都不知道该相信谁了。但我真的需要帮忙。仗不好打。我给你1300个瓶盖，先付300，后面1000完事后再补上。}
 
 #{138}{}{I know a rat when I smell one! You're lucky I don't have any proof, and I suggest you leave town before I find some.}
-{138}{}{你藏不住身上的血腥味。算你走运，我没有指控你的证据，我建议你在我搜到证据前滚出这个城市。}
+{138}{}{你藏不住身上的血腥气。算你走运，我没有指控你的证据，我建议你在我搜到证据前滚出这个城市。}
 
 #{139}{}{That's very strange. I've never heard of Decker coming out of his office. He must be getting braver. That
 # damn, murdering...argh! I'll get him yet! I'll tell you what, you help us out, and I'll pay you 1300 scripts--
@@ -141,7 +141,7 @@
 #{140}{}{That's the biggest pile of Brahmin shit I've ever heard. Decker never leaves his office. I knew there was
 # something not right about you. You're lucky I don't have any proof, and I suggest you leave town before I find
 # some!}
-{140}{}{这是我听过的最他娘胡扯的谎言。德克从来不离开自己的办公室。我就知道你这个人不地道。算你走运，我没有指控你的证据，我建议你在我搜到证据前滚出这个城市。}
+{140}{}{这是我听过的最他娘扯的谎话。德克从来不离开自己的办公室。我就知道你这个人不地道。算你走运，我没有指控你的证据，我建议你在我搜到证据前滚出这个城市。}
 
 #{141}{}{Okay, let's go...}
 {141}{}{好，我们走……}

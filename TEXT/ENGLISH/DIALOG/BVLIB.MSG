@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{This is the library. You've seen all this equipment before in your vault library.}
 {100}{}{这是图书馆。你以前在你的避难所图书馆里见过这些设施。}

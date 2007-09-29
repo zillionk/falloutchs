@@ -40,7 +40,7 @@
 
 #{112}{}{We survive, and the Regulators make sure that nothing happens to hurt us.
 # Mostly by not letting us out of here.}
-{112}{}{我们活了下来，管理者们保护我们不受伤害，基本上不让我们离开这里。}
+{112}{}{我们干活，管理者们保护我们，基本上不让我们离开这里。}
 
 #{113}{}{Well, Miles does chemistry, and he makes bullets and things.
 # Smitty is a craftsman who builds things like pots and knives.}

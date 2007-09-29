@@ -34,7 +34,7 @@
 # he can get the farms working, so that we don't have to
 # sell bullets to the Hub. I never thought much about it
 # until Smitty pointed out that the bullets he made were }
-{109}{}{麦尔斯说你替他找到了零件，他可以让农田运作起来了，我们不必再卖子弹给哈勃城了。我以前从来没有考虑过这件事情，后来是施密蒂说他造的子弹被}
+{109}{}{麦尔斯说你替他找到了零件，他可以让农场运作起来了，我们不必再卖子弹给哈勃城了。我以前从来没有考虑过这件事情，后来是施密蒂说他造的子弹被}
 
 #{110}{}{sold to the Hub, who sold them to the gangs. I guess you
 # found a good solution.}
@@ -44,7 +44,7 @@
 # the gangs. My father told me how you got them to promise
 # to leave us alone. You know, I thought I always wanted
 # to go adventuring, but I think that I like . . . well, the }
-{111}{}{我一直也没有办法停止和帮派的战斗。我的父亲对我说必须要让他们离我们远远的。我一直想去冒险，但是我想……呃}
+{111}{}{我从没想能组织黑帮间的战斗。我的父亲对我说必须要让他们离我们远远的。我一直想去冒险，但是我想……呃}
 
 #{112}{}{feeling of security here now. No more worrying about the
 # gangs suddenly attacking and wondering who's going to be killed.}
@@ -56,7 +56,7 @@
 {113}{}{洛林说南边有一个避难所，很多爷爷辈的祖先住在那里，避难所是什么样子的呢？}
 
 #{114}{}{It's pretty boring, actually.}
-{114}{}{很无聊的，实际上。}
+{114}{}{实际上很无聊的。}
 
 #{115}{}{It's very exciting. We have all sorts of technology
 # you wouldn't believe!}
@@ -82,7 +82,7 @@
 {121}{}{实际上，看到的主要都是荒漠。}
 
 #{122}{}{Well, actually, there are all sorts of monsters out there.}
-{122}{}{事实上，外面全是各种怪兽。}
+{122}{}{实际上，外面全是各种怪兽。}
 
 #{123}{}{Really? What kinds of monsters have you fought?}
 {123}{}{是吗？你和哪些怪物干过架？}

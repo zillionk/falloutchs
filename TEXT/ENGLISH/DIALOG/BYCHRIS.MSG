@@ -20,7 +20,7 @@
 #{108}{}{My name is Christine, I live here with my husband Michael.}
 {108}{}{我的名字是克里斯廷，我和我丈夫迈克尔住在这里。}
 #{109}{}{Razor keeps track of most things with the Blades, and helps us organize ourselves.}
-{109}{}{剃刀主管利刃帮的大部分事情，并且把我们团结了起来。}
+{109}{}{剃刀了解利刃帮的大部分事情，并且帮助把我们组织起来。}
 #{110}{}{Michael and I just moved here, so I haven't seem much of the area.  I've heard about a large church to the South, but it sounds mostly like rumors.}
 {110}{}{迈克尔和我才来这里，所以我还没搞清这个地区。我听说南边有个大教堂，但这听起来像是谣传。}
 #{111}{}{Is there somthing else I should know?}
@@ -35,10 +35,11 @@
 #{114}{}{O S M R                                                                   C D E D B D Wings}
 #{115}{}{Y I B M R Ducks}
 
-{112}{}{克暗置呃西椰鸭子}
-{113}{}{五呃集约德不四鸭子}
-{114}{}{俄偶四得特啊么嗯四得                                                        客安特阿么嗯德戏要翅膀}
-{115}{}{和敖博啊斯维呢亦 特啊么恩四鸭子}
+{112}{}{克  暗  这  西  椰  依　阿  紫
+}
+{113}{}{我  急  约  得  不  四  依　阿  紫}
+{114}{}{集  又  四  依　阿  紫  你  可  暗  特  阿  么  恩  的  希　袄　赤  把  昂}
+{115}{}{喝  熬  的  思  维  你  特  阿  么  恩  四  依  阿　紫}
 
 
 #{116}{}{What else can I help you with?}

@@ -8,7 +8,7 @@
 #{102}{}{I have a message from a friend.}
 {102}{}{我从朋友那儿带来了消息。}
 #{103}{}{Your life is in danger, and I need to speak with you.}
-{103}{}{你身处险境，我得跟你谈谈。}
+{103}{}{你的处境很危险，我得跟你谈谈。}
 #{104}{}{My name is }
 {104}{}{我的名字叫}
 #{105}{}{.  Leon let me in.}

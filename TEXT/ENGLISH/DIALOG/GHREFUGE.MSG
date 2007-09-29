@@ -44,10 +44,10 @@
 {113}{}{是的，但是现在我要知道这里发生了什么。}
 
 #{114}{}{The super mutants attacked. We were slaughtered. They had guns and bombs, even some steam trucks. They killed my friends. The mutants just butchered us, like you're probably gonna do to me.}
-{114}{}{超级变种人进攻了。我们被杀戮殆尽。他们有枪有炸弹，甚至还有蒸汽卡车。他们杀了我的朋友。变种人根本就是在屠杀我们，就像你将会杀了我一样。}
+{114}{}{超级变种人进攻了，我们被杀的落花流水。他们有枪有炸弹，甚至还有蒸汽卡车。他们杀了我的朋友。变种人根本就是在屠杀我们，也许你也会这么对我。}
  
 #{115}{}{The super mutants attacked. We were slaughtered. They had guns and bombs, even some steam trucks. They killed my friends. The mutants just butchered us.}
-{115}{}{超级变种人进攻了。我们被杀戮殆尽。他们有枪有炸弹，甚至还有蒸汽卡车。他们杀了我的朋友。变种人根本就是在屠杀我们。}
+{115}{}{超级变种人进攻了。我们被杀的落花流水。他们有枪有炸弹，甚至还有蒸汽卡车。他们杀了我的朋友。变种人根本就是在屠杀我们。}
  
 #{116}{}{What's a steam truck?}
 {116}{}{蒸汽卡车是什么东西？}
@@ -86,7 +86,7 @@
 {127}{}{你没用了。}
 
 #{128}{}{I heard some of the sewer ghouls might have survived, but I don't like it down there.}
-{128}{}{我听说一些下水道里的僵尸可能幸存了下来，但我不喜欢发生在这儿的事。}
+{128}{}{我听说一些下水道里的僵尸可能幸存了下来，但我不喜欢想象接下来发生的事。}
 
 #{129}{}{OK, thanks.}
 {129}{}{好的，谢了。}

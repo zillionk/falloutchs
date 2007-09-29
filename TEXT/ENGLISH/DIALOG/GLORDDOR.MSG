@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The frame of this security door has remnants of red paint.}
-{100}{}{安全门的架构上残留着红色喷涂。}
+{100}{}{安全门的架构上残留着红色喷漆。}
 
 #{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
 {101}{}{门上的电场发出轻微的电击，你受到1点伤害}
@@ -14,7 +14,7 @@
 {103}{}{点伤害。}
 
 #{104}{}{You force the door open.}
-{104}{}{你用强力使门打开。}
+{104}{}{你用蛮力把门打开。}
 
 #{105}{}{The door is locked.}
 {105}{}{这扇门被锁上了。}

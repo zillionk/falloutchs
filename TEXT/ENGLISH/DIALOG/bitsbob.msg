@@ -56,9 +56,9 @@
 #{126}{}{Let's see what I've got in stock.}
 {126}{}{我看看还有什么存货。}
 #{127}{}{I've got a whole iguana for twenty caps.}
-{127}{}{整个的烤蜥蜴我收28个瓶盖。}
+{127}{}{整个的烤蜥蜴我收二十瓶盖。}
 #{128}{}{I've got prime cut choice for eight caps.}
-{128}{}{精选肉块我收8个瓶盖。}
+{128}{}{精选肉块我收八瓶盖。}
 #{129}{}{I'll take one of the real ones.}
 {129}{}{我来一份整个的。}
 #{130}{}{Nothing for me right now.  I'm on a diet.}
@@ -230,15 +230,15 @@
 #{213}{}{I want }
 {213}{}{我想要每五天}
 #{214}{}{50}
-{214}{}{50}
+{214}{}{５０}
 #{215}{}{75}
-{215}{}{75}
+{215}{}{７５}
 #{216}{}{100}
-{216}{}{100}
+{216}{}{１００}
 #{217}{}{150}
-{217}{}{150}
+{217}{}{１５０}
 #{218}{}{200}
-{218}{}{200}
+{218}{}{２００}
 #{219}{}{ bucks every five days.}
 {219}{}{块。}
 #{220}{}{I don't think I'll blackmail you.  Carry on.}
@@ -248,7 +248,7 @@
 #{222}{}{Fine.  It's a deal. }
 {222}{}{好吧。就这样。}
 #{223}{}{ bucks, due every five days.  I guess I'll see you in five...}
-{223}{}{块，每五天。我想我们五天后再见……}
+{223}{}{ 块，每五天。我想我们五天后再见……}
 #{224}{}{No way I'm going for that.  I can't afford more than what I'm paying you now.}
 {224}{}{那没办法。我付不起比现在更多的钱了。}
 #{225}{}{Too bad, Bob.  I'd hate to start singing.}

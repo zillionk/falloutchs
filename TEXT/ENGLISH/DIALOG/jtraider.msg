@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see a raider who seems crazed.}
-{100}{}{你看见一个看起来很疯狂的歹徒。}
+{100}{}{你看见一个看起来很疯狂的强盗。}
 
 #{101}{}{That's it! Don't come any closer. I'll off her. I swear.}
 {101}{}{站住！别过来！我会杀了她的，真的！}
@@ -17,17 +17,17 @@
 {104}{}{如果你不放她走，我就杀了你！}
 
 #{105}{}{There is no need for violence. Let's talk about this.}
-{105}{}{没必要使用暴力，我们可以谈一谈。}
+{105}{}{没必要动粗，我们可以谈一谈。}
 
 #{106}{}{What? You just want to kill me, don't you?
 # Just remember, this is your fault.}
 {106}{}{什么？你想杀我？记住，这是你的错。}
 
 #{107}{}{Any why not? She's just a whore.}
-{107}{}{动手啊？她就是一个妓女嘛。}
+{107}{}{动手啊？她就是一个婊子嘛。}
 
 #{108}{}{She has as much right to live as you do.}
-{108}{}{她和你一样都有生存的权利。}
+{108}{}{她和你一样都有活下去的权利。}
 
 #{109}{}{No. No way. Not this bitch.}
 {109}{}{别，别啊，别杀这一个啊。}
@@ -125,7 +125,7 @@
 
 #{140}{}{You have to hear me out. Your life, and the life of the
 # girl, depend on it.}
-{140}{}{你听我说，你和这个女孩的命都靠我对你说的话了。}
+{140}{}{你听我说，你和这姑娘的命都靠我对你说的话了。}
 
 #{141}{}{Just relax. I won't harm you. I just want to listen
 # to what you have to say.}
@@ -163,7 +163,7 @@
 
 #{151}{}{Ok, but you have to let the girl go first.
 # Show me some trust, and I'll trust you.}
-{151}{}{好，但是你要先放了女孩，你要有点诚意，我才能信任你。}
+{151}{}{好，但是你要先放了姑娘，你要有点诚意，我才能信任你。}
 
 #{152}{}{You lied to me!}
 {152}{}{你撒谎！}
@@ -246,7 +246,7 @@
 {177}{}{滚开，他妈的！}
 
 #{178}{}{The raider, intent upon his business, ignores you.}
-{178}{}{这个歹徒，态度很坚决地不理会你。}
+{178}{}{这个强盗坚决不理会你。}
 
 #{179}{}{Hmmm . . .}
 {179}{}{嗯……}

@@ -1,3 +1,5 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{This is no time to sit down! Get moving!}
 

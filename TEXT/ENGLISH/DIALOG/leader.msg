@@ -2,7 +2,7 @@
 {1199}{}{我可以告诉你：Set-赛特、Master-主教、Water-水、Watershed-水处理室、Hall-亡者大厅、Necropolis-大墓地城、Chip-芯片。}
 
 #{100}{}{You see the ghoul leader.}
-{100}{}{你看见一名僵尸头目。}
+{100}{}{你看见一个僵尸头目。}
 
 #{101}{}{Thank you for not shooting first. Can I help you with anything?}
 {101}{}{谢谢你没直接一枪打过来，我有什么可以效劳的？}
@@ -370,7 +370,7 @@
 {1006}{}{Chip}
 
 #{1100}{}{He tries to control Necropolis, and has forced us underground.}
-{1100}{}{他试图控制整个大墓地城，还把我们赶到地下。}
+{1100}{}{他试图控制整个大墓地，还把我们赶到地下。}
 
 #{1101}{}{He has something to do with the Mutants. I don't know much more.}
 {1101}{}{他和变种人有联系，我也不知道太多。}

@@ -62,7 +62,7 @@
 
 #{119}{}{I'd give ya this power armor right here, but it's missing it's
 # Systolic Motivator. It's useless without it.}
-{119}{}{我这里有一件可以给你，但是它需要一个起搏器，没有的话它就是一个废物。}
+{119}{}{我这里有一件可以给你，但是它需要一个启动器，没有的话它就是一个废物。}
 
 #{120}{}{Where could someone get one of those?}
 {120}{}{谁会有这个呢？}
@@ -73,14 +73,14 @@
 #{122}{}{Well, they've got more than enough up in the supply room, but
 # Michael and his damn forms say that this particular suit isn't up to
 # specs. Damn bureaucrats.}
-{122}{}{在储备室有好多，但迈克尔和他的那些烂表格说这件不符合规格。真是官僚！}
+{122}{}{在储备室有好多，但迈克尔和他的那些烂表格说这件不符合规格。真官僚！}
 
 #{123}{}{What do you mean, not up to specs?}
 {123}{}{什么叫不符合规格？}
 
 #{124}{}{So if I brought you a Systolic Motivator, would you fix it for
 # me?}
-{124}{}{就是说，如果我找到了一个起搏器，你就会帮我把这个修好？}
+{124}{}{就是说，如果我找到了一个起动器，你就会帮我把这个修好？}
 
 #{125}{}{You see this eye-piece right here? I had to re-solder it in
 # place, and it don't look as pretty as it needs to for inspection, I
@@ -108,7 +108,7 @@
 #{131}{}{Heh, well, Rhombus has a couple of 'em. I wouldn't ask him
 # for one, though. Only "the Honored" are supposed to wear these here
 # power suits. Besides, I think he has an unnatural attachment to them.}
-{131}{}{隆伯斯有一些。我从来没问过他。只有“赋予荣誉”的兄弟会成员才能穿能量装甲。另外，我觉得他自己对起搏器也有不正常的需求。}
+{131}{}{隆伯斯有一些。我从来没问过他。只有“赋予荣誉”的兄弟会成员才能穿能量装甲。另外，我觉得他自己对起动器也有不正常的需求。}
 
 #{132}{}{Hmm. Okay, thanks a lot.}
 {132}{}{嗯，好，多谢了。}
@@ -149,7 +149,7 @@
 #{143}{}{Not General Maxson, his grandfather, Roger Maxson. I heard you
 # brought back a disk that told what happened to the guys who rebelled
 # against him and went down there to recover the lost technology.}
-{143}{}{不是马克松将军，是他爷爷鲁格·马克松。我听说你找回了一块磁盘，上面记录了当年那些背叛鲁格·马克松的叛军们去寻找古代科技的事情。}
+{143}{}{不是马克松将军，是他爷爷鲁格·马克松。我听说你找回了一块磁盘，上面记录了当年那些背叛鲁格·马克松的叛军去寻找古代科技的事情。}
 
 #{144}{}{Yeah, I guess I did. I'm }
 {144}{}{没错，是我找到的。我叫}
@@ -198,7 +198,7 @@
 #{158}{}{Wella... I got to give you credit for that. But I think you blew
 # your chances with getting it from the supply room. You'll just have to
 # find another way to get it. Or find yourself Power Armor somewares else.}
-{158}{}{那……我很感谢你。但是似乎从军需储备室取得这个玩艺基本不可能了。你应该想想其他办法。或者直接去搞一件完整的能量装甲。}
+{158}{}{那……我要说我很感激你。但是似乎从军需储备室取得这个玩艺基本不可能了。你应该想想其他办法。或者直接去搞一件完整的能量装甲。}
 
 #{159}{}{OK, see you later.}
 {159}{}{好，待会见。}

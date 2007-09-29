@@ -31,13 +31,13 @@
 #{110}{gizmo_4}{All right, 【Gizmo snorts】 here's the deal. Junktown, it ain't what it used to be. The only reason
 # it's still here is because of my gambling establishment.  Even so, Killian's been breathing down my neck, and I'm starting to take it
 # personal. 【Gizmo snorts】 And that's where you come in, slick.}
-{110}{gizmo_4}{好吧，【吉斯莫喷了下鼻子】有笔生意。迦克镇，不再是以前的面貌了。它还存在着的唯一原因是因为我的赌博产业。即使这样，基利安还是在我背后捅刀子，这已经变成了我和他的私人恩怨了。【吉斯莫喷了下鼻子】而这就是你大显身手的机会，聪明人。}
+{110}{gizmo_4}{好吧，【吉斯莫喷了下鼻子】有笔生意。迦克镇，已经不是以前的迦克镇了。要不是我的赌博产业，它早该完蛋了。即便这样，基利安还是在我背后捅刀子，要和我结梁子。【吉斯莫喷了下鼻子】而这就是你大显身手的机会，聪明人。}
 
 #{111}{}{What do you want me to do?}
 {111}{}{你要我做什么？}
 
 #{112}{}{If you think I'd help you, you're fat and stupid.}
-{112}{}{如果你认为我会帮助你的话，就真是蠢到家了。}
+{112}{}{如果你认为我会帮你的话，就真是蠢到家了。}
 
 #{113}{gizmo_4a}{Funny.}
 {113}{gizmo_4a}{有趣。}
@@ -61,7 +61,7 @@
 {119}{}{你愿意付多少钱？}
 
 #{120}{gizmo_6}{I would, but there must be no connection between me and Killian's unfortunate demise.}
-{120}{gizmo_6}{我当然可以派自己的手下去，但是我和基利安的死不能有任何瓜葛。}
+{120}{gizmo_6}{我当然可以派自己的手下去，但是我和基利安的“不幸”不能有任何瓜葛。}
 
 #{121}{}{Makes sense. Sure, I'll do it.}
 {121}{}{合情合理。好的，我干了。}
@@ -70,7 +70,7 @@
 {122}{}{行，我干！}
 
 #{123}{}{What a coward. Afraid people won't like you? Too late.}
-{123}{}{真是胆小鬼。怕声誉受损，怕别人不喜欢你？平时不烧香，临时抱佛脚。}
+{123}{}{真是胆小鬼。怕身败名裂？太晚了。}
 
 #{124}{}{How much you willing to pay?}
 {124}{}{你愿意付多少钱？}
@@ -83,7 +83,7 @@
 
 #{127}{gizmo_7}{【Gizmo wheezes.】 I knew you'd see it my way. As proof, I want the dog tags Killian
 # wears around his neck. Ya' get them, ya' get your money. Now, just get. And don't cross me. I still got the kneecaps from the last one who tried.}
-{127}{gizmo_7}{【吉斯莫深喘了口气】我就知道你会很识相的。作为证物，我要基利安带在脖子上的狗牌。拿到狗牌，就给你钱。现在去吧。别想在背后阴我。最近一次想这么做的人，他的膝盖骨还在我这里呢。}
+{127}{gizmo_7}{【吉斯莫深喘了口气】我就知道你会很知趣的。作为证物，我要基利安带在脖子上的狗牌。拿到狗牌，就给你钱。现在去吧。别想在背后阴我。最近一次想这么做的人，他的膝盖骨还在我这里呢。}
 
 #{128}{gizmo_8}{Thousand caps. No more, no less.}
 {128}{gizmo_8}{1000个瓶盖。不多不少。}
@@ -95,10 +95,10 @@
 {130}{}{这也叫酬金？要我杀人，这点钱是不够的。}
 
 #{131}{}{Not even close. I don't want any part of this deal.}
-{131}{}{话不投机。我对这笔生意的任何部分都不感兴趣。}
+{131}{}{话不投机。我对这笔生意没一丁点兴趣。}
 
 #{132}{}{I wouldn't trust you as far as two people could throw you. Forget it, slim.}
-{132}{}{除非你这身赘肉两个人就能搬的动，否则我不会相信你的。没门，老滑头。}
+{132}{}{哪怕两个人就能搬动你，我不会相信你的。没门，老滑头。}
 
 #{133}{gizmo_9}{【Gizmo laughs and coughs】 Maybe you're right. I think you're worth more. 1500.}
 {133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。1500。}
