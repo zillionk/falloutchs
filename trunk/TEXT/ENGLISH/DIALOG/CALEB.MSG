@@ -3,7 +3,7 @@
 #{100}{}{This is Caleb, leader of the Regulators.}
 {100}{}{卡勒布，管理者的领导。}
 #{101}{}{You see a stern man in his thirties.}
-{101}{}{你看到一个３０多岁冷峻的人。}
+{101}{}{你看到一个30多岁冷峻的人。}
 #{102}{}{You should know that we don't like strangers here.  What do you want?}
 {102}{}{你知道我们不喜欢陌生人，你想干什么？}
 #{103}{}{Good day. May I be of some assistance?}

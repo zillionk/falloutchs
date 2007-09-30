@@ -474,7 +474,7 @@
 
 #{238}{Ara_41}{Of course, I will reward you. Bring her and you
 # will receive 500 in Hub Script. Will you help me?}
-{238}{Ara_41}{当然，我会给你报酬的。把她带回来，你会获得５００哈勃币。你会帮我吗？}
+{238}{Ara_41}{当然，我会给你报酬的。把她带回来，你会获得500哈勃币。你会帮我吗？}
 
 #{239}{}{Okay. Who could have taken her?}
 {239}{}{好吧。谁可能带走她？}

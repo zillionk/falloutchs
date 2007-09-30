@@ -11410,9 +11410,9 @@
 #{8128}{}{Warning, CPU malfunction registered!}
 #{8129}{}{Warning! CPU damage! Processing impaired!}
 #{8130}{}{Warning! CPU damaged! Rerouting critical system!}
-{8128}{}{警告！ＣPU出现问题！}
-{8129}{}{警告！ＣPU出现问题！无法运算！}
-{8130}{}{警告！ＣPU出现问题！启动备用系统！}
+{8128}{}{警告！CPU出现问题！}
+{8129}{}{警告！CPU出现问题！无法运算！}
+{8130}{}{警告！CPU出现问题！启动备用系统！}
 #
 # target hit in left manipulator
 #

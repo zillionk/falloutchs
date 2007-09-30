@@ -68,7 +68,7 @@
 # you. You will be strong. You become a Nightkin if you are fortunate and
 # worthy of the honor, else you will die the most painful death possible. Soon, I
 # will be honored. I will become strong. Then I will fear no man.}
-{119}{}{你会被神圣之缚包围，然后被浸泡到最最神圣的神血池。ＦＥＶ会改变你的肌体，你会变得更加强壮。如果你受到神的眷顾，就会幸运地成为夜行团的一员，否则就会以最痛苦的形势死去。很快，我就会受到神恩了，我会变壮，我将不再惧怕任何人类！}
+{119}{}{你会被神圣之缚包围，然后被浸泡到最最神圣的神血池。FEV会改变你的肌体，你会变得更加强壮。如果你受到神的眷顾，就会幸运地成为夜行团的一员，否则就会以最痛苦的形势死去。很快，我就会受到神恩了，我会变壮，我将不再惧怕任何人类！}
 
 #{120}{}{You've been around the Nightkin for far too long. Goodbye.}
 {120}{}{你和这些夜行团鬼混了太长时间，再见！}
@@ -77,7 +77,7 @@
 {121}{}{你为什么要告诉我这些？}
 
 #{122}{}{Where did you get the FEV from?}
-{122}{}{你们从哪里得到ＦＥＶ的？}
+{122}{}{你们从哪里得到FEV的？}
 
 #{123}{}{You will only leave here as part of the Unity, or a lost soul in Hell!
 # 【pause】 Besides, I sit down here with a bunch of converts. It felt good to get
@@ -85,7 +85,7 @@
 {123}{}{你要么在这里成为“同一”的成员，要么就会死得很难看！【停了一下】还有，我成天在这里和一帮子皈依者打交道，这些话吐出来真痛快。}
 
 #{124}{}{Where did you get the FEV from?}
-{124}{}{你们从哪里得到ＦＥＶ的？}
+{124}{}{你们从哪里得到FEV的？}
 
 #{125}{}{You killed the Right Hand of god. The Master will be most upset.
 # Now, it has come time for us to join the holy flame!}
