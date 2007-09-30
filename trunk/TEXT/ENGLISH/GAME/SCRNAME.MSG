@@ -959,7 +959,7 @@
 {577}{}{闪光之地}                                       # Glowent.int
 {578}{}{闪光之地}                                       # GlowMap1.int
 {579}{}{闪光之地}                                       # GlowMap2.int
-{580}{}{晒骨场}                                  # LAAdytum.int
+{580}{}{曝骨场}                                  # LAAdytum.int
 # {581}{}{L.A. Boneyard}                                  #LABlades.int
 # {582}{}{L.A. Boneyard}                                  # LAGunRun.int
 # {583}{}{L.A. Boneyard}                                  # LARipper.int
@@ -990,9 +990,9 @@
 # {608}{}{Neal}                                           # Neal.int
 # {609}{}{Floor}                                          # TrapFlor.int
 # {610}{}{Kenji}                                          # Kenji.int
-{581}{}{晒骨场}                                  #LABlades.int
-{582}{}{晒骨场}                                  # LAGunRun.int
-{583}{}{晒骨场}                                  # LARipper.int
+{581}{}{曝骨场}                                  #LABlades.int
+{582}{}{曝骨场}                                  # LAGunRun.int
+{583}{}{曝骨场}                                  # LARipper.int
 {584}{}{哈勃城}                                        # HubEnt.int
 {585}{}{哈勃城}                                        # HubDwnTn.int
 {586}{}{哈勃城}                                        # HubHeigt.int
