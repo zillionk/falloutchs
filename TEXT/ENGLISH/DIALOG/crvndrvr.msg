@@ -260,7 +260,7 @@
 {184}{}{28号}
 
 #{185}{}{. Let me know when you're ready to leave. It pays the standard 400 scripts.}
-{185}{}{，你想出发的时候跟我说，我会付你400个瓶盖。}
+{185}{}{，你想出发的时候跟我说，我会付你400块。}
 
 #{186}{}{Sorry, but I already made a bad mistake about giving you a chance the last time you messed up.}
 {186}{}{抱歉，我上次已经给了你机会，后来被你搞砸了。我不会再犯这种错误了。}
@@ -291,7 +291,7 @@
 {195}{}{18号}
 {196}{}{28号}
 #{197}{}{. Come back then if you're still interested.}
-{197}{}{如果你那时候还有兴趣再来。}
+{197}{}{。如果你那时候还有兴趣再来。}
 
 #{198}{}{I don't want the job.}
 {198}{}{我不干了。}
@@ -300,7 +300,7 @@
 {199}{}{我尽力赶过来吧。}
 
 #{200}{}{Okay. Bye.}
-{200}{}{好，拜拜。}
+{200}{}{好，再见。}
 
 #{201}{}{Da.}
 {201}{}{那。}
@@ -327,7 +327,7 @@
 
 #{209}{}{Great timing, our caravans are leaving today. It pays the standard 400 scripts.  Which caravan route
 # did you want to take?}
-{209}{}{很准时，我们的车队今天就走。工资是标准的400个瓶盖。你想跟哪条线路？}
+{209}{}{很准时，我们的车队今天就走。工资是标准的400块。你想跟哪条线路？}
 
 #{210}{}{Great.  Our next caravan is going out on the }
 {210}{}{很好，我们的商队将在如下时间出发：}
@@ -337,7 +337,7 @@
 {213}{}{28号}
 
 #{214}{}{.  Come back then and we'll assign you to a caravan.  It pays the standard 400 scripts.}
-{214}{}{。到时候来的话，我给你安排商队。报酬是400个瓶盖。}
+{214}{}{。到时候来的话，我给你安排商队。报酬是400块。}
 
 #{215}{}{Okay.}
 {215}{}{好。}
@@ -386,7 +386,7 @@
 # has his reasons.  Our caravans leave here three times a month:  on the 8th, 18th and 28th.  There are three
 # places we go to on a regular basis: the Brotherhood of Steel, Junktown, and the Boneyard. The pay is
 # always 400 scripts, and that's one way.  You can come back with the caravan for another 400 scripts.}
-{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，8号，18号和28号。通常的路线是三条：钢铁兄弟会、迦克镇和曝骨场。工资一样，都是400个瓶盖，单程。你可以保护商队回程，那样又是400个瓶盖。}
+{229}{}{嗨，你好。我知道你在找工作。我很奇怪罗格尔会挑上你，但是我相信他有自己的道理。我们商队每月出行三次，8号，18号和28号。通常的路线是三条：钢铁兄弟会、迦克镇和曝骨场。工资一样，都是400块，单程。你可以保护商队回程，那样又是400块。}
 
 #{230}{}{You've got great timing because they're all heading out today.}
 {230}{}{你来的真巧，三条路线都正准备出发。}
@@ -398,7 +398,7 @@
 {232}{}{他们在}
 
 #{233}{}{ days.}
-{233}{}{ 天后出发。}
+{233}{}{天后出发。}
 
 #{234}{}{Are you interested?}
 {234}{}{有兴趣吗？}
@@ -416,7 +416,7 @@
 {238}{}{他们在}
 
 #{239}{}{ days.}
-{239}{}{ 天后出发。}
+{239}{}{天后出发。}
 
 #{240}{}{I suppose you want a job.  I might give you one.  Are you interested?}
 {240}{}{我猜你在找工作。我可以给你一个。有兴趣吗？}
@@ -452,13 +452,13 @@
 {250}{}{不好意思，我改变主意了。}
 
 #{251}{}{Well, come back on the }
-{251}{}{那么，你要在下列时间回来：}
+{251}{}{那么，你}
 
 {252}{}{8号}
 {253}{}{18号}
-{254}{}{28好}
+{254}{}{28号}
 #{255}{}{ and we'll get the crew together.}
-{255}{}{，我们再给你安排队员。}
+{255}{}{回来，我们再给你安排队员。}
 
 #{256}{}{What's your problem?}
 {256}{}{你有什么问题？}

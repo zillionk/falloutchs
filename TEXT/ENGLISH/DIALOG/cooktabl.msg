@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The table appears to be full of items the cooks are
 # using to make a meal.}
