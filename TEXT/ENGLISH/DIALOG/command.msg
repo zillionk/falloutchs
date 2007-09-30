@@ -39,11 +39,11 @@
 
 #{109}{}{You break the bank in a game of 21 and sneak into
 # the main system through the end game screen.}
-{109}{}{你好不容易打赢了２１点的游戏，并在游戏结束的画面上找到了进入主系统的后门。}
+{109}{}{你好不容易打赢了21点的游戏，并在游戏结束的画面上找到了进入主系统的后门。}
 
 #{110}{}{You play a game of 21 but aren't good enough
 # to break it.}
-{110}{}{你玩了２１点的游戏，但成绩不好，不能突破系统防护。}
+{110}{}{你玩了21点的游戏，但成绩不好，不能突破系统防护。}
 
 #{111}{}{The only folder not protected is the Recreational
 # Games folder, which might be used as a backdoor.}
@@ -66,7 +66,7 @@
 
 #{116}{}{You gain 800 experience points for your unusual hacking procedures.
 # Blackjack!}
-{116}{}{由于你以非常规的手段破解了程序，你获得了８００点经验值。牛！}
+{116}{}{由于你以非常规的手段破解了程序，你获得了800点经验值。牛！}
 
 #{117}{}{You link the radio into the force field control computer.}
 {117}{}{你将无线电连接到力场控制计算机。}

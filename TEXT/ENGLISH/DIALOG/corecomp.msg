@@ -11,7 +11,7 @@
 #{102}{}{This is the Vault 13 Central Computer Core.
 # It controls most of the workstations you
 # find in the Vault.}
-{102}{}{这里是１３号避难所的中央计算机核心，多数的工作站都可以在这里找到。}
+{102}{}{这里是13号避难所的中央计算机核心，多数的工作站都可以在这里找到。}
 
 #{103}{}{You fiddle with the computer but don't really find out anything else
 # about it.}

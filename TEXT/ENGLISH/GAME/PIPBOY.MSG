@@ -290,7 +290,7 @@
 # {805}{}{Fix hydroponic farms in Adytum.}
 # {806}{}{Rescue Jason Zimmerman.}
 # {807}{}{Stop the Gangs from attacking Adytum.}
-{800}{}{曝骨场}
+{800}{}{晒骨场}
 {801}{}{成为一个利刃帮成员。}
 {802}{}{为罗梅罗送纪念品。}
 {803}{}{递送军火商的包裹。}
