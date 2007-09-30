@@ -8,7 +8,7 @@
 #{102}{}{I don't feel so good.}
 {102}{}{我感觉不太好。}
 #{103}{}{Man, I gotta get some work.}
-{103}{}{朋友,我必须有份工作。}
+{103}{}{朋友，我必须有份工作。}
 #{104}{}{Could you pass the peanuts?}
 {104}{}{能帮我把花生递过来吗？}
 #{105}{}{Not drunk enough . . .}
