@@ -75,13 +75,13 @@
 #{137}{}{He's just trying to help. Work hard and I'm sure he'll be nicer.}
 {137}{}{他只是想帮忙。努力工作后我想他会更好的。}
 #{138}{}{Here kid, take 50 bucks and get away from this jerk.}
-{138}{}{这里，孩子，拿上５０个瓶盖，离开这个笨蛋。}
+{138}{}{这里，孩子，拿上50个瓶盖，离开这个笨蛋。}
 #{139}{}{Okay.}
 {139}{}{好吧。}
 #{140}{}{Aaaaaarg!}
-{140}{}{啊啊啊啊!}
+{140}{}{啊啊啊啊！}
 #{141}{}{Rhu?}
-{141}{}{嗯?}
+{141}{}{嗯？}
 #{142}{}{Please don't, I'm already in enough trouble.}
 {142}{}{请别这样，我已经有大麻烦了。}
 #{143}{}{I AM working hard!}
@@ -113,7 +113,7 @@
 #{156}{}{And he should be! You're a terrible kid!}
 {156}{}{他该这样！你是一个可怕的孩子！}
 #{157}{}{Wac.}
-{157}{}{恩.}
+{157}{}{恩。}
 #{158}{}{Hi!}
 {158}{}{嗨！}
 #{159}{}{Those girls over there sure are dumb.}
@@ -139,9 +139,9 @@
 #{169}{}{Just stopping by to see how things are going. Bye.}
 {169}{}{只是过来看看情况怎么样。再见。}
 #{170}{}{Arg!}
-{170}{}{啊!}
+{170}{}{啊！}
 #{171}{}{Ta.}
-{171}{}{哈.}
+{171}{}{哈。}
 #{172}{}{I'd better get back to work.}
 {172}{}{我得回去干活了。}
 #{173}{}{Those girls over there sure are dumb.}
