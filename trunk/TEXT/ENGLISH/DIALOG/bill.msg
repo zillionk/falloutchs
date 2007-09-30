@@ -1,6 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{You see Bill.}
 {100}{}{你看见比尔。}
 #{101}{}{You ain't supposed to be here! Get him!}
