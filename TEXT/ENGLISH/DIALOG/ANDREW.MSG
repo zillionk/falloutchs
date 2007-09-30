@@ -27,7 +27,7 @@
 
 #{108}{}{I'm guarding the jail. I make sure that miscreants don't get
 # in or out.}
-{108}{}{我看守这个牢房。我确保坏人会进来或不进来。}
+{108}{}{我看守这个牢房。我确保坏人不会进来或出去。}
 
 #{109}{}{Why would you keep people from getting in the jail?}
 {109}{}{为什么你不让人们进这个牢房？}
@@ -36,11 +36,11 @@
 {110}{}{哦。}
 
 #{111}{}{You have a good day. And stay out of trouble.}
-{111}{}{祝你愉快，而且不惹麻烦。}
+{111}{}{再见，别惹麻烦。}
 
 #{112}{}{Someone might leave something to help a prisoner escape. Or someone
 # might get locked inside, and stuck until we could get the keys.}
-{112}{}{有人也许会留些东西在这帮助犯人逃跑。也许也有人会被锁在里面，而且会给关到我们能拿到钥匙为止。}
+{112}{}{有人也许会留些东西在这帮助犯人逃跑。也许也有人会被锁在里面，而且会被关到我们能拿到钥匙为止。}
 
 #{113}{}{Eergh!}
 {113}{}{呃！}

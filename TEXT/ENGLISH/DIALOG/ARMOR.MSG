@@ -1,4 +1,3 @@
-
 #{100}{}{You see damaged Power Armor.}
 {100}{}{你看见一具损坏了的能量装甲。}
 
@@ -6,7 +5,7 @@
 {101}{}{你不能使用这套装甲，除非你能修好它。}
 
 #{102}{}{It seems to be missing a part that you can't find.}
-{102}{}{它似乎缺少你没能找到的一个部件。}
+{102}{}{它似乎缺少一个部件，而你还没找到这个部件。}
 
 #{103}{}{It is obvious that you do not yet have the skill to repair this.}
 {103}{}{很显然，你现在还没有这种技能能修好这套装甲。}
