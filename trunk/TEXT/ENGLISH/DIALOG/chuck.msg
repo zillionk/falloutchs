@@ -124,7 +124,7 @@
 
 #{140}{}{Since I wish to stay here, I accept the Regulators as part of that
 # which is Adytum. However, I do what I can to lighten their lives.}
-{140}{}{既然我要在这里生活，我就要接受管理者是内城区一部分的这个事实。再说，我也可以减轻人们的负担。}
+{140}{}{既然我要在这里过活，我就要忍受管理者的存在。再说，我也可以帮助这里的人啊。}
 
 #{141}{}{You do not seem to agree with what they do.}
 {141}{}{你看起来不喜欢他们的行为吧。}
@@ -208,11 +208,11 @@
 {163}{}{我不同意，我在路上遇见很多帮派和强盗，他们就是彻头彻尾的小偷和杀人犯。我们最后都会走上这条路的。}
 
 #{164}{}{Perhaps you're right. Certainly those who survive will be stronger.}
-{164}{}{也许你说的对，但生存下来的人会更强壮。}
+{164}{}{也许你说的对，生存下来的人的确是强壮的。}
 
 #{165}{}{They will eventually destroy themselves. And the people who will be
 # left will be the ones who work together to survive, like us.}
-{165}{}{他们会自取灭亡。最后活下来的一定是那些努力团结活下去的人，就像我们。}
+{165}{}{他们会最后毁掉自己的。最后活下来的一定是团结的人们，就像我们。}
 
 #{166}{}{I'm glad that some of the outsiders, like you, feel that way.
 # We need to find ways to work together to build something new.

@@ -1,5 +1,3 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
 
 #{100}{}{The shelf contains bottles of various items.}
 {100}{}{橱柜上有各种各样的瓶子。}

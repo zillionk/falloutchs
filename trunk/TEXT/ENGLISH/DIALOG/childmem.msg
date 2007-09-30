@@ -39,7 +39,7 @@
 {113}{}{我们需要你捐助}
 
 #{114}{}{ before we can heal you. Is this acceptable?}
-{114}{}{个瓶盖才能给你治伤。可以吗？}
+{114}{}{元才能给你治伤。可以吗？}
 
 #{115}{}{Yes.}
 {115}{}{好。}
@@ -54,7 +54,7 @@
 {118}{}{要不给你}
 
 #{119}{}{?}
-{119}{}{个瓶盖？}
+{119}{}{元？}
 
 #{120}{}{The Children do not haggle. Now, will you accept our price?}
 {120}{}{我们不讨价还价。你到底接不接受这个价格？}
@@ -111,7 +111,7 @@
 #{136}{}{We are the healers and teachers of peace. We heal the body to heal
 # the spirit. All we ask is a small donation to pay for our healing
 # supplies.}
-{136}{}{我们是医生，也是和平的布道者。我们治疗身体的伤痛，也治疗人们的灵魂。我们只要求一点点相当于医疗成本的捐献。}
+{136}{}{我们是医疗师，也是和平的布道者。我们治疗身体的伤痛，也治疗人们的灵魂。我们只要求一点点相当于医疗成本的捐献。}
 
 #{137}{}{Sounds like a good idea to me.}
 {137}{}{听起来很不错。}

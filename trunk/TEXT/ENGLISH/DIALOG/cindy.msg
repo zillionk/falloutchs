@@ -54,7 +54,7 @@
 
 #{116}{}{Some people have been accused and fights have broken out over it, but
 # nobody really knows.}
-{116}{}{有人互相指责，还有人大打出手，但没人知道究竟是谁干。}
+{116}{}{有人互相指责，还有人大打出手，但没人知道谁是元凶。}
 
 #{117}{}{Okay. Thanks.}
 {117}{}{好，多谢。}

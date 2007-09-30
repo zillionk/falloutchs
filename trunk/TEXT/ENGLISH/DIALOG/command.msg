@@ -21,7 +21,7 @@
 
 #{105}{}{You don't understand the computer operating
 # system.}
-{105}{}{你不懂电脑操作系统。}
+{105}{}{你无法理解这台电脑的操作系统。}
 
 #{106}{}{The force field subsystems are not nearly protected
 # well enough against the likes of your talents.
@@ -54,7 +54,7 @@
 {112}{}{唯一没有加密的目录是“娱乐游戏”。}
 
 #{113}{}{You look at the computer in disgust.}
-{113}{}{你白痴般地看着电脑。}
+{113}{}{你呆呆地看着电脑。}
 
 #{114}{}{You think all the folders are protected but you
 # haven't completed your search.}
