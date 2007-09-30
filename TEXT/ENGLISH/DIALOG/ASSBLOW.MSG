@@ -65,7 +65,7 @@
 {118}{}{你最好规矩点，既然这里有法律，并且我执法。把你的武器收起来。除非你要自卫，不然不要拿出你的武器，这样你就不会与我们守卫有什么麻烦。不服从法律的，我们会送你回到无法律的废土上——无论生死。}
 
 #{119}{}{Sure, since you put it that way.}
-{119}{}{好吧，既然你照做了。}
+{119}{}{既然你这么说，那好吧。}
 
 #{120}{}{Bite your laws!}
 {120}{}{你的法律去死吧！}
@@ -77,7 +77,7 @@
 # you start a fight, it's your fault. Other than that, it's your right
 # to go around armed. Just don't pull a knife or gun without just
 # cause. Have a good day.}
-{122}{}{问得好了。除非是自卫，不然不允许亮出武器。如果是你挑起的打斗，那是你的错。除此之外，你有权利带着武器。只要别在无正当理由的情况下把刀或枪拿出来。}
+{122}{}{问得好了。除非是自卫，否则不允许亮出武器。如果是你挑起的打斗，那是你的错。除此之外，你有权利带着武器。只要别在无正当理由的情况下把刀或枪拿出来。}
 
 #{123}{}{Hey you, no weapons! And I don't care if your momma dropped you on
 # your head as a kid. No weapons.}
@@ -108,10 +108,10 @@
 {131}{}{谢谢，再见。 }
 
 #{132}{}{Certainly. I will throw caution to the wind, sir.}
-{132}{}{当然。我会小心谨慎的，先生。}
+{132}{}{当然。我以后不会再警告你的，先生。}
 
 #{133}{}{Certainly. I will throw caution to the wind, ma'am.}
-{133}{}{当然。我会小心谨慎的，女士。}
+{133}{}{当然。我以后不会再警告你的，女士。}
 
 #{134}{}{You'd better watch your step around here, because we'll be watching you.}
 {134}{}{你在这里最好注意你的言行，因为我会盯着你的。}
@@ -163,13 +163,13 @@
 
 #{148}{}{Oh, heck. The place for that is Darkwater's. Killian runs it.
 # It's a little to the north. Killian has the best supplies in town.}
-{148}{}{哦，操。那有叫黑水的地方。基利安开的。往北一点。基利安有全镇最好的补给。}
+{148}{}{哦，肏。那有叫黑水的地方。基利安开的。往北一点。基利安有全镇最好的补给。}
 
 #{149}{}{Thanks. Bye.}
 {149}{}{谢谢。再见。}
 
 #{150}{}{You wanna show me where you keep "your" supplies?}
-{150}{}{你想不想给我看看你收藏“你的”补给的地方吗？}
+{150}{}{你想给我看看你存放“你的”补给的地方吗？}
 
 #{152}{}{Uh, no. Sorry, lady. I got work to do here.}
 {152}{}{呃，不。抱歉，小姐。我在这里还有工作要做。}
@@ -211,10 +211,10 @@
 {163}{}{嗯，我不应该这么做，不过你似乎是个不错的人。进来吧，不过别惹任何麻烦。}
 
 #{164}{}{Hey! It's you! Come on in, }
-{164}{}{嘿！是你！进来吧。}
+{164}{}{嘿！是你！进来吧，}
 
 #{165}{}{. Good to see you again!}
-{165}{}{。很高兴能再见你。}
+{165}{}{。很高兴能再见到你。}
 
 #{166}{}{Hey, you'd better turn right around and walk back out of here.}
 {166}{}{嘿，你最好掉头退回去。}
