@@ -4,9 +4,6 @@
 
 
 
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{The bed looks neatly made despite its tattered nature.}
 #{101}{}{You see a tattered bed.}
 #{102}{}{阿加莎 would not be happy if you messed up her bed.}
