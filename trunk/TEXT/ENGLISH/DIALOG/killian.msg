@@ -472,7 +472,7 @@
 
 #{242}{Kill64}{Good luck in your travels. Now if you'll excuse me, I have a fat ass
 # to move.}
-{242}{Kill64}{旅途愉快，抱歉，让个道，我要动动我的肥屁股。}
+{242}{Kill64}{旅途愉快，抱歉，让个道，我要办事去了。}
 
 #{243}{Kill65}{Gizmo owns the casino. Named it after himself.
 # Be very careful around him.}

@@ -181,8 +181,8 @@
 {125}{}{沙荫镇}                          // SHADYE.MAP
 {126}{}{沙荫镇}                          // SHADYW.MAP
 {127}{}{闪光之地}											 // GLOWENT.MAP
-{128}{}{曝骨场}                             // LAADYTUM.MAP
-{129}{}{曝骨场}                             // LAFOLLWR.MAP
+{128}{}{晒骨场}                             // LAADYTUM.MAP
+{129}{}{晒骨场}                             // LAFOLLWR.MAP
 {130}{}{军事基地}                        // MBENT.MAP
 {131}{}{军事基地}                        // MBSTRG12.MAP
 {132}{}{军事基地}                        // MBVATS12.MAP
@@ -197,9 +197,9 @@
 {141}{}{哈勃城}                                  // HUBWATER.MAP
 {142}{}{闪光之地}											 // GLOW1.MAP
 {143}{}{闪光之地}											 // GLOW2.MAP
-{144}{}{曝骨场}                             // LABLADES.MAP
-{145}{}{曝骨场}                             // LARIPPER.MAP
-{146}{}{曝骨场}                             // LAGUNRUN.MAP
+{144}{}{晒骨场}                             // LABLADES.MAP
+{145}{}{晒骨场}                             // LARIPPER.MAP
+{146}{}{晒骨场}                             // LAGUNRUN.MAP
 {147}{}{大教堂}                            // CHILDEAD.MAP
 {148}{}{军事管理区}                             // MBDEAD.MAP
 {149}{}{悬崖}									 // MOUNTN1.MAP
@@ -780,7 +780,7 @@ Short City names
 {507}{}{钢铁兄弟会}
 {508}{}{军事基地}
 {509}{}{闪光之地}
-{510}{}{曝骨场}
+{510}{}{晒骨场}
 {511}{}{大教堂}
 
 #

@@ -294,3 +294,9 @@
 
 #{189}{}{Hey! I told you were not allowed down here! Guards!}
 {189}{}{嘿！我说过了你不能在这里！卫兵！}
+
+#{190}{}{You ask too many questions. Who are you?}
+{190}{}{你问的太多了，你是谁？}
+
+#{192}{}{Excuse me, sister. You startled me. How may I serve the Master?}
+{192}{}{对不起，教友，你吓着我了。你有什么要我帮忙的？}

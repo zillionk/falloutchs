@@ -106,14 +106,14 @@
 #{135}{}{No, not interested. I think you're a bunch of kooks.}
 {135}{}{不干，没兴趣，你们就是一帮疯子。}
 
-#{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to 。}rebuild the planet and make a better place for those that follow.}
+#{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to rebuild the planet and make a better place for those that follow.}
 {136}{JAIN14}{满足的生活。充实的知识，让你用来重建这颗星球还有皈依我们之后更高贵的地位。}
 
 #{137}{}{Sounds very interesting, could you tell me more? I seek fulfillment.}
 {137}{}{听起来不错，你能说的仔细一点么？我想“实现”这些梦想。}
 
 #{138}{}{Oh yeah, I bet there's a lot of rebuilding going on and I'm sure your cups are overflowing with fulfillment.}
-{138}{}{好哇，我敢打赌到处都是重建人类的造人计划，你的奶罩会充实到溢出的，哈。}
+{138}{}{好哇，我敢打赌到处都是造人计划，你的奶罩里会充实各种“实现”的。}
 
 #{139}{}{I don't think so. Sounds a little fishy to me.}
 {139}{}{不干，这里面有蹊跷。}

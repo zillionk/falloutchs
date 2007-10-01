@@ -44,7 +44,7 @@
 {113}{}{别乱走，别乱说，废人！}
 
 #{114}{}{NO!  You'd better watch it!  I'm gonna' put a bullet in your head!}
-{114}{}{不！你最好看好你的嘴！我会让你脑袋吃铁花生米！}
+{114}{}{不！你最好看好你的嘴！我会请你吃花生米！}
 
 #{115}{}{You're not worth my time.}
 {115}{}{我不能在你身上浪费时间。}

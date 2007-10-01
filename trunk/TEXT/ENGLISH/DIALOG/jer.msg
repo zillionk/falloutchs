@@ -113,7 +113,7 @@
 
 #{134}{}{Please forgive me. I apologize for questioning you. Please carry on
 # about your business, and if I can be of any service let me know.}
-{134}{}{对不起对不起，我道歉，我不该问您问题的。您请便吧，如有差遣，在下定当犬马之劳。}
+{134}{}{对不起对不起，我道歉，我不该问您问题的。您请便吧，如有差遣，在下定效犬马之劳。}
 
 #{135}{}{I do not know who you are, and you do not belong here. Guards!!!}
 {135}{}{我不知道你是谁，你不属于这里。卫兵！！！！}

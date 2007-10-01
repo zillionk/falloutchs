@@ -127,7 +127,7 @@
 
 #{137}{}{During my explorations, I found a military installation being used
 # by mutants. It is heavily guarded and patrolled regularly.}
-{137}{}{在我侦查期间，我发现了变种人使用的一处军事基地，而且防守严密。}
+{137}{}{在我的探险期间，我发现了变种人使用的一座军事设施。它被严密地保护着。}
 
 #{138}{}{Norfa?}
 {138}{}{北方？}
@@ -198,7 +198,7 @@
 
 #{156}{}{That will only take care of one part of the problem. They're being led by a
 # group coming out of the Boneyard Cathedral.}
-{156}{}{这只能说明一部分问题。他们被曝骨场大教堂的另一支小队领导。}
+{156}{}{这只能说明一部分问题。他们被晒骨场大教堂的另一支小队领导。}
 
 #{157}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}
@@ -206,7 +206,7 @@
 
 #{158}{}{If they are being led by a group out of the Boneyard Cathdral, then chances are
 # they have a small army down there as well. }
-{158}{}{如果他们被曝骨场的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
+{158}{}{如果他们被晒骨场的大教堂领导，那么有可能他们也在那里驻扎了一小队人马。}
 
 #{159}{}{If we take them out in the north, then it leaves our south side vulnerable.
 # I can only spare a few men on this endeavor.}
@@ -220,7 +220,7 @@
 
 #{162}{}{So be it. You shall have two Paladins of my choosing to meet you at the Boneyard
 # Cathedral. Elders, thank you for your time. Best of luck to you Initiate.}
-{162}{}{好吧。你将在曝骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，非常感谢你们。祝好运。}
+{162}{}{好吧。你将在晒骨场的大教堂和我为你挑选的两名骑士汇合，他们能帮助你进入。元老，非常感谢你们。祝好运。}
 
 #{163}{}{So be it. You shall have three Paladins of my choosing to meet you at the Military
 # Base to help you get inside. Elders, thank you for your time. Best of luck to you Initiate.}

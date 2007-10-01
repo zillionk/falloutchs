@@ -18,7 +18,7 @@
 #{107}{}{Well, he wants to see me.}
 {107}{}{得了，他想见我。}
 #{108}{}{How do I set up an appointment with him?}
-{108}{}{我和他约好了，怎么了？}
+{108}{}{我怎样与他订约呢？}
 #{109}{}{I'm not just anyone, you idiot!}
 {109}{}{我不是什么普通人！你这个呆子！}
 #{110}{}{Oh well.  Goodbye.}

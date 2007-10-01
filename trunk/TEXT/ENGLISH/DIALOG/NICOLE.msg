@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{妮可儿也许可以告诉你：Morpheus－墨菲斯、Nicole－妮可儿、Laura－劳拉、Jake－杰克、Library－图书馆、God－黑暗上帝、Master－主教、Nightkin－夜行团、Cathedral－大教堂、Adytum－内城区、Angel's－洛杉矶、Followers－末世论者、War－大战、Hub－哈勃城、Brotherhood－兄弟会、Angels－洛杉矶、Boneyard－曝骨场、Steel－铁。}
+{1199}{}{妮可儿也许可以告诉你：Morpheus－墨菲斯、Nicole－妮可儿、Laura－劳拉、Jake－杰克、Library－图书馆、God－黑暗上帝、Master－主教、Nightkin－夜行团、Cathedral－大教堂、Adytum－内城区、Angel's－洛杉矶、Followers－末世论者、War－大战、Hub－哈勃城、Brotherhood－兄弟会、Angels－洛杉矶、Boneyard－晒骨场、Steel－铁。}
 
 #{100}{}{You see Nicole.}
 {100}{}{你看见妮可尔。}
@@ -380,7 +380,7 @@
 {225}{}{很有意思。但我现在得走了。}
 
 #{226}{Nic_42}{Well, the Boneyard is pretty scarce as you can see. Adytum is to the west. The Children of the Cathedral are to the north. I wouldn't advise going too far south into the city, though, the Rippers and the Blades have made it into a battlefield.}
-{226}{Nic_42}{呃，曝骨场的各个地区是很松散的。内城区在西方。大教堂教徒在北方。我要劝你不要往南方的城区走太远了，电锯党和利刃帮在那里恶斗。}
+{226}{Nic_42}{呃，晒骨场的各个地区是很松散的。内城区在西方。大教堂教徒在北方。我要劝你不要往南方的城区走太远了，电锯党和利刃帮在那里恶斗。}
 
 #{227}{Nic_43}{About what?}
 {227}{Nic_43}{关于什么？}
@@ -626,13 +626,13 @@
 {307}{Nic_92}{你大概见过他们的医院了。他们鼓吹和平，但其中有什么不对劲。我们得找出问题的所在。}
 
 #{308}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
-{308}{Nic_93}{那是个小聚居点。你可以在曝骨场西边找到它。}
+{308}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{309}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {309}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了废墟和死寂，几乎什么都没能留下。}
 
 #{310}{Nic_95}{They war with the Blades down south. The Rippers are the most ruthless gang in the Boneyard. When we sent people to convert them, the only thing we got back were their heads.}
-{310}{Nic_95}{他们和利刃帮在南方交火。电锯党是曝骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
+{310}{Nic_95}{他们和利刃帮在南方交火。电锯党是晒骨场里最残忍的帮派。当我们派人去劝说归依时，得到的回信只有使者的头颅。}
 
 #{311}{Nic_96}{The Blades fight the Rippers down south. They're the most agreeable of the two gangs, though that's not saying much. We've converted a few of them.}
 {311}{Nic_96}{利刃帮在南方和电锯党对抗。相比电锯帮，他们可通情达理多了，虽然不能说情况有多好，我们已经感化了他们其中几个人。}
@@ -748,7 +748,7 @@
 {1108}{Nic_92}{你大概见过他们的医院了。他们鼓吹和平，但其中有什么不对劲。我们得找出问题的所在。}
 
 #{1109}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
-{1109}{Nic_93}{那是个小聚居点。你可以在曝骨场西边找到它。}
+{1109}{Nic_93}{那是个小聚居点。你可以在晒骨场西边找到它。}
 
 #{1110}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
 {1110}{Nic_94}{大战之前，这里是座繁荣的大都市。我母亲告诉我的，但现在除了废墟和死寂，几乎什么都没能留下。}

@@ -259,7 +259,7 @@
 #{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {221}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
-{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在曝骨场。}
+{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
 #{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
 {223}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
@@ -420,7 +420,7 @@
 #{1018}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
 {1018}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
 #{1019}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
-{1019}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在曝骨场。}
+{1019}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
 #{1020}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
 {1020}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
 #{1021}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}

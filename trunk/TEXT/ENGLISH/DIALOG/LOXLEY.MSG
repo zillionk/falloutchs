@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－曝骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。}
+{1199}{}{洛克西里可以告诉你：Decker－德克、Jacob－雅各布、Police－警察、Harold－哈罗德、Kane－凯恩、Crimson－深红商会、Traders－远行商会、Caravans－商队、Market－市场、Claw－死亡爪、Missing－失踪的商队、Hot－辐射中心源、Town－旧城区、Heights－高地区、Bob's－鲍勃的店铺、Cathedral－大教堂、Brotherhood－兄弟会、Angel's－洛杉矶、Blades－利刃帮、Razor－剃刀、Merchants－水商会、Spot－辐射中心源、Iguana－蜥蜴、Bits－蜥蜴店铺、Bobs－鲍勃、Steel－钢铁、Angels－洛杉矶、Boneyard－晒骨场、Caravan－商队、Death－死亡爪、Deathclaw－死亡爪、Glow－闪光之地、Oldtown－旧城区、Old－旧城区。}
 #上述表述字面不准的，乃刻意为之，必有深意，切勿修改。
 
 
@@ -494,10 +494,10 @@
 {259}{LOX_84}{在那你最好小心点。电锯党和利刃帮可能为了想找乐就把你剁了。到了内城区，先保住性命要紧。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我对她的回忆，真的。}
 
 #{260}{LOX_85}{They're the scrapheads down in the Boneyard.  They've been fighting for years, and they don't even know what for anymore.  Bloody stupid it is.}
-{260}{LOX_85}{他们是曝骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{260}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
 
 #{261}{LOX_86}{Oh, what a woman!  She used to be a thief here, until she decided to move down south to the Boneyard.  Last I heard she joined up with the Blades.  Ah, well, brains weren't her strongest part.}
-{261}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去曝骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
+{261}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
 
 #{262}{LOX_87}{Hmm, I haven't the foggiest.}
 {262}{LOX_87}{唔，我也不太清楚。}
@@ -631,10 +631,10 @@
 {1118}{LOX_84}{在那你最好小心点。电锯党和利刃帮可能为了想找乐就把你剁了。到了内城区，先保住性命要紧。如果你在那边闲逛正好碰上了利刃帮，别忘了帮我向剃刀问好。这话题勾起了我对她的回忆，真的。}
 
 #{1119}{LOX_85}{They're the scrapheads down in the Boneyard.  They've been fighting for years, and they don't even know what for anymore.  Bloody stupid it is.}
-{1119}{LOX_85}{他们是曝骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
+{1119}{LOX_85}{他们是晒骨场的一群废物。他们打了好几年，不过却不知道为什么要打。真他妈的蠢。}
 
 #{1120}{LOX_86}{Oh, what a woman!  She used to be a thief here, until she decided to move down south to the Boneyard.  Last I heard she joined up with the Blades.  Ah, well, brains weren't her strongest part.}
-{1120}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去曝骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
+{1120}{LOX_86}{哦，那个女人！她过去是我们工会的成员，后来她决定南下去晒骨场。最近听说她加入了利刃帮。没办法，她确实脑子不太灵光。}
 
 #{1121}{LOX_71}{Them.  Sitting high and mighty in their Water Tower south of downtown, charging all us decent folks for any drop of water that springs from the ground.  They should all be bloody shot, they should.}
 {1121}{LOX_71}{他们。牛皮哄哄坐在他们位于市中心南部的水塔里边，为了每一滴从地上冒出来的水向我们收费。他们都该他妈的拖出去枪毙，绝对应该。}
