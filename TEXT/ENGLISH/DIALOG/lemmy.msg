@@ -47,7 +47,7 @@
 {114}{}{我们都有需求，也许我可以帮你呢。你需要什么？}
 
 #{115}{}{Well, I'm really looking for a Water Chip.  I need to get one back to my people.}
-{115}{}{我在找一个净水芯片，我需要它来拯救我的人民。}
+{115}{}{我在找一个净水芯片，我需要它来拯救人民。}
 
 #{116}{}{Needs, huh?  I understand needs, but what might you know about satiating these needs?}
 {116}{}{需求？我知道需求，但是你知道怎么满足需求？}
@@ -220,7 +220,7 @@
 
 #{168}{}{Exactly.  So I'm thinking... only for you of course... 1000 caps so youse can talks to this guy
 # without him blowing your head off first.}
-{168}{}{太对了，我觉得……大概1000块钱就可以让这个人和你好好聊天，否则直接一枪打在你脑袋上。}
+{168}{}{太对了，我觉得……大概1000块钱就可以让这个人和你好好聊天而不是直接一枪打在你脑袋上。}
 
 #{169}{}{Alright, I'll pay your price.}
 {169}{}{很好，我付你这笔钱。}

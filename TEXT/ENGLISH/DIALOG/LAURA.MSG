@@ -571,7 +571,7 @@
 
 #{334}{}{They're the big, ugly enforcers of the Master
 # and Morpheus.}
-{334}{}{他们是主教和墨菲斯手下又大、又丑，执行命令的人。}
+{334}{}{他们是主教和墨菲斯手下又大、又丑的执行者。}
 
 #{335}{}{The what?}
 {335}{}{什么？}
