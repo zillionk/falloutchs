@@ -48,7 +48,7 @@
 # {122}{}{You look OK to me. All those rumors must be untrue.}
 {122}{}{你看起来挺好。那些传言一定是假的。}
 #{123}{}{Hi }
-{123}{}{嗨}
+{123}{}{嗨，}
 #{124}{}{. Keep up the good work.}
 {124}{}{ 。再接再厉。}
 #{125}{}{I hope everything is going well out there. We sure could use the water.}
@@ -72,9 +72,9 @@
 #{134}{}{Hmm. You still look human to me. It can't be all that bad outside.}
 {134}{}{嗯。看起来你仍然是个人。外面的情况没有那么糟糕。}
 #{135}{}{Hi }
-{135}{}{嗨}
+{135}{}{嗨，}
 #{136}{}{.}
-{136}{}{ 。}
+{136}{}{。}
 #{137}{}{I hope you are doing well on your quest.}
 {137}{}{我希望你的任务一帆风顺}
 #{138}{}{See you around.}

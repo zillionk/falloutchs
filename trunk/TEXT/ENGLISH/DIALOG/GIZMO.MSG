@@ -98,7 +98,7 @@
 {131}{}{话不投机。我对这笔生意没一丁点兴趣。}
 
 #{132}{}{I wouldn't trust you as far as two people could throw you. Forget it, slim.}
-{132}{}{哪怕两个人就能搬动你，我不会相信你的。没门，老滑头。}
+{132}{}{除非你这身赘肉两个人就能搬的动，否则我不会相信你的。没门，老滑头。}
 
 #{133}{gizmo_9}{【Gizmo laughs and coughs】 Maybe you're right. I think you're worth more. 1500.}
 {133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。1500。}

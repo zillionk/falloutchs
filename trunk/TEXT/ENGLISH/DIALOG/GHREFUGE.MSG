@@ -86,7 +86,7 @@
 {127}{}{你没用了。}
 
 #{128}{}{I heard some of the sewer ghouls might have survived, but I don't like it down there.}
-{128}{}{我听说一些下水道里的僵尸可能幸存了下来，但我不喜欢想象接下来发生的事。}
+{128}{}{我听说一些下水道里的僵尸可能幸存了下来，但我不喜欢发生在这儿的事。}
 
 #{129}{}{OK, thanks.}
 {129}{}{好的，谢了。}

@@ -71,6 +71,8 @@
 #{134}{}{Thanks.}
 #{135}{}{Well, it's just a rumor. But they say there's an underground fighting ring there where you can pay to watch people fight to the death. Not my kind of fight.}
 #{136}{}{Hmm. Thanks.}
+
+
 {118}{}{抱歉，今天的比赛结束了。}
 {119}{}{恩，好的。不要介意。}
 {120}{}{你想赌谁？索尔还是挑战者？押索尔要25个瓶盖，但能赢50个。压挑战者能赢100个！}

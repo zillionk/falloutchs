@@ -1,7 +1,6 @@
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
-
 # {100}{}{You see Gideon, a normal looking human. He is wearing a crown.}
 # {101}{}{Jason is a living god! Only the nullified may pass!}
 # {102}{}{Nullified? Are they somehow restricting your psychic powers by those
@@ -129,8 +128,8 @@
 {205}{}{有了你的血，就变红了。}
 {206}{}{呃，还是再见吧。}
 {207}{}{啊！}
-{208}{}{我要关掉那个马达，大主教会赐给我力量！}
-{209}{}{好的汉克，我打算见见那个大主教，怎么找他？}
+{208}{}{我要关掉那个马达，主教会赐给我力量！}
+{209}{}{好的汉克，我打算见见那个主教，怎么找他？}
 {210}{}{什么马达？}
 {211}{}{当然！我完全理解……}
 # {211}{}{Of course! I understand completely . . .}
