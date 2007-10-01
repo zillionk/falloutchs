@@ -102,7 +102,7 @@
 {141}{}{一般人怎样才能加入兄弟会？}
 {143}{}{一些野蛮人曾经尝试从我们这儿得到动力装甲，他们失败了。他们不得不杀了一位我们的兄弟以拥有它，如果那样的话，这套装甲将沦落到使它毫无价值的可悲境地。}
 {144}{}{我想我要把它从你冰凉的尸体上扒下来。}
-{145}{}{拜拜！}
+{145}{}{再见！}
 #{146}{}{Do I have to sacrifice a puppie to join?}
 #{147}{}{Cumbersome? Not in the least. The sacred armor is so finely
 #constructed to such exacting specifications that it feels like an

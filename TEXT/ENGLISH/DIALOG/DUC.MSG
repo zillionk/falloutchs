@@ -27,7 +27,7 @@
 {111}{}{只需要花一天左右的时间。走吧！}
 {112}{}{ShadyW.map}
 #{113}{}{Not many people brave the wastes alone. Who are you?}
-{113}{}{没几个人敢一个人在废土上游荡，你是谁？}
+{113}{}{没几个人敢独自在废土上游逛，你是谁？}
 #{114}{}{None of your business.}
 {114}{}{不关你的事。}
 #{115}{}{I'm }
@@ -55,4 +55,4 @@
 #{126}{}{You should be careful if you're traveling alone. Some people went missing from Shady Sands recently.}
 {126}{}{如果你独自旅行的话要小心点。最近沙荫镇有些人失踪了。}
 #{127}{}{Hey, I heard about how you saved that woman from Shady Sands. Good work.}
-{127}{}{嗨，我听说了你如何拯救沙荫镇的那个姑娘，干的不错啊。}
+{127}{}{嗨，我听说了你如何拯救沙荫镇的那个女孩，干的不错。}
