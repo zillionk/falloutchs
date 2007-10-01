@@ -1,4 +1,5 @@
 @echo off
+attrib -s -h -r /s /d .\data
 del .\DATA\art /s/q
 del .\data\premade /s/q
 del .\data\text\ENGLISH /s/q
