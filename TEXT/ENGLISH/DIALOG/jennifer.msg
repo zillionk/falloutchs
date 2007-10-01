@@ -304,7 +304,7 @@
 
 #{183}{}{Oh, that's just GREAT! Why the hell did I join this stupid
 # group? Where's the door?!}
-{183}{}{我靠，这太妙了！那我为什么还要加入这个愚蠢的组织？大门在哪里？！}
+{183}{}{我拷，这太妙了！那我为什么还要加入这个愚蠢的组织？大门在哪里？！}
 
 #{184}{}{There are rumors about some kind of army. I think the Elders
 # want to concentrate their resources on the ones that are already

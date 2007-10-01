@@ -38,7 +38,7 @@
 
 #{112}{}{Hook it to my veins!}
 # referring to getting more alcohol
-{112}{}{把酒直接吊到我静脉去！}
+{112}{}{我需要静脉注射！}
 
 #{113}{}{Anything in the fridge?}
 # fridge == refridgerator
