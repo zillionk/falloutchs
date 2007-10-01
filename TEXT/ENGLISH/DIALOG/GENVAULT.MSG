@@ -80,9 +80,9 @@
 #{138}{}{See you around.}
 {138}{}{回头见。}
 #{139}{}{Have you talked to the Overseer recently?}
-{139}{}{你最近和管理员谈话了吗？}
+{139}{}{你最近和所长谈话了吗？}
 #{140}{}{The Overseer is very concerned about the status of your mission.}
-{140}{}{管理员非常关心你任务的状况。}
+{140}{}{所长非常关心你任务的状况。}
 #{141}{}{You need to hurry. We can't afford any failure on your part.}
 {141}{}{你要快点。你失败我们就完了。}
 #{142}{}{I hope you are doing the best you can.}
