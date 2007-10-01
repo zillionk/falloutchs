@@ -4,7 +4,7 @@
 #{100}{}{The person looks like he may have been from the Brotherhood of Steel.}
 {100}{}{这个人看起来好像来自钢铁兄弟会。}
 #{101}{}{You wonder what could have caused such damage to the Brotherhood member.}
-{101}{}{你感到惊讶是什么东西能对兄弟会的成员造成如此大的伤害。}
+{101}{}{让你感到惊讶的是什么东西能对兄弟会的成员造成如此大的伤害。}
 #{102}{}{Whoever did this does not seem to be around anymore.}
 {102}{}{无论是谁干的现在都不在附近了。}
 #{103}{}{Whoever did this could be lurking lower in the complex. Perhaps you should be

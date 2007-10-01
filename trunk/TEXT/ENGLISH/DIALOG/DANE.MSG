@@ -97,11 +97,15 @@
 {144}{}{所有的一切都是把戏，你知道吗？一出把戏，我不过是其中的一部分。就像一个疯狂的欺骗，一步步的逼近我，一步又一步，一步又一步，一步又一步，最后我崩溃了！}
 {145}{}{也许他们会把我的大脑挖出来！挖出我脑子后把我变成他们的宠物！嘿！达恩！接住骨头，达恩！咬他们，达恩！咬他们，达恩！上啊！咬他们，达恩！把他们全咬死！你这只吃屎的笨狗！}
 {146}{}{你知道别人为什么称呼他主教吗？}
-{147}{}{活着很糟蛋，可是死了更糟蛋，可惜我不能回到出生那一刻，不让我生下来就一了百了。所以这乔重点吗？}
-#{147}{}{Life sucks, but death sucks worse, and we can't go back in time to stop our birth, so what's #the point?}
-#{148}{}{I think they get the point, asshole! They know the Servitor process screws you! They know #this 'baptism machine' just messes . . .}
-#{149}{}{My name is Dane. I am a Viking. I like ducks. I rape and pillage! Will you rape and pillage #with me?}
-#{150}{}{Oh God! Master, not God! At least I remember my own name. At least I still have that. Most #of the other failures didn't, before they shot them. Not pretty corpses either. Nightkin target #practice!}
+{147}{}{活着很肏蛋，可是死了更肏蛋，可惜我不能回到出生那一刻，不让我生下来就一了百了。所以这是重点吗？}
+#{147}{}{Life sucks, but death sucks worse, and we can't go back in time to stop our birth, so what's 
+#the point?}
+#{148}{}{I think they get the point, asshole! They know the Servitor process screws you! They know 
+#this 'baptism machine' just messes . . .}
+#{149}{}{My name is Dane. I am a Viking. I like ducks. I rape and pillage! Will you rape and pillage 
+#with me?}
+#{150}{}{Oh God! Master, not God! At least I remember my own name. At least I still have that. Most 
+#of the other failures didn't, before they shot them. Not pretty corpses either. Nightkin target #practice!}
 #{151}{}{And then there were the ones who lost their minds completely. I wish they were dead.}
 #{152}{}{I think I'll call my first child Fallout. I had a son once, but the radiation ate him in his #mommy's womb.}
 {148}{}{我认为们抓住了重点，混蛋！他们会给你制造一套奴隶程序调教你，他们还会为你做“机械化洗礼”什么之类的……}

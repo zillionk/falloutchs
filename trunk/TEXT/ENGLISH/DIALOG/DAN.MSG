@@ -42,13 +42,13 @@
 #{118}{}{Damn, son.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
 # Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
 # 'bout as far as yer eye can see.}
-{118}{}{该死，小子，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界上最大的三个商队，我操，也许不是全世界，但他们肯定是你看到过所有地方里最大的。}
+{118}{}{该死，小子，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，嗯，也许不是全世界，但是绝对是你能想象到的最大的那么一大块地方上最大的三个商队。}
 #{119}{}{Damn, honey.  Have ya' been locked up all yer life in a cave or somethin'? The Big Three are the three largest
 # Merchant groups in the world. Well, okay, maybe not the world, but they sure as hell cover a large portion;
 # 'bout as far as yer eye can see.}
-{119}{}{该死，亲爱的，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，我操，也许不是全世界，但他们肯定是你看到过所有地方里最大的。}
+{119}{}{该死，亲爱的，你是不是一直生活在个什么洞里面啊？三巨头就是这个世界，嗯，也许不是全世界，但是绝对是你能想象到的最大的那么一大块地方上最大的三个商队。}
 #{120}{}{Damn yourself, you brahmin freak.}
-{120}{}{你才该死，你这个双头牛怪。}
+{120}{}{你才该死，你这个双头牛怪物。}
 #{121}{}{Oh, them. I thought you were talking about something else. So how do I join a caravan?}
 {121}{}{哦，是他们啊。我还以为你在说别的什么东西呐。我怎么才能加入一支商队？}
 #{122}{}{Okay, thanks. Bye.}
@@ -56,7 +56,7 @@
 #{123}{}{Bramin freak? Is that an attempt at insult'n me? I would be a little more polite to the people ya' meet,
 # stranger. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to
 # slit yer throat if ya look at'm wrong.}
-{123}{}{双头牛怪？这是在侮辱我吧？陌生人，我会比你要见到的人更懂礼貌。我可以不计较，可是在这个城里，到处都是看你不爽，二话不说就会把你的喉咙割掉的家伙。}
+{123}{}{双头牛怪物？你不是在侮辱我吧？告诉你吧，陌生人，我会比你要见到的人更懂礼貌。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割咯。}
 #{124}{}{Damn, you're one ugly son of a bitch!}
 {124}{}{混蛋，你这个丑八怪杂种！}
 #{125}{}{I'm scared. See ya.}
@@ -64,9 +64,9 @@
 #{126}{}{Special, no. Lucky, yes; and unless ya want to be unlucky you'll be a little more polite to the people ya'
 # meet. I could care less, but this city is filled with all sorts of cutthroats that wouldn't hesitate to slit
 # yer throat if ya' look at'm wrong.}
-{126}{}{特别是，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是在这个城里，到处都是看你不爽，二话不说就会把你的喉咙割掉的家伙。}
+{126}{}{特别，不。幸运，是的。除非你想自触霉头，你就得对你见到的人表现得礼貌一点。我可以不那么在意，可是，在这个城市里，到处都是些杀手恶汉，他们要是看你不爽，二话不说就会把你的喉咙给割了。}
 #{127}{}{Damn, you're one ugly son of a bitch!}
-{127}{}{混蛋，你这个丑八怪杂种！}
+{127}{}{放屁！你个王八肏的！}
 #{128}{}{If you say so.}
 {128}{}{要是你这样说的话……}
 #{129}{}{Well at least I don't have a mutated hind for a face.  Yer mother must have been a brahmin and yer
@@ -96,7 +96,7 @@
 #{139}{}{Bye. And stay away from my brahmin, you dirty little bitch.}
 {139}{}{滚蛋。离我的双头牛远一点，恶心小婊子。}
 #{141}{}{Guards! Police! There's a Mad Man trying to kill me!}
-{141}{}{卫兵！警察！这有个疯子要杀我！救命呀！}
+{141}{}{保安！警察！这有个疯子要杀我！救命呀！}
 #{142}{}{Well, I don't have any openings but ya' might wanna check with the Big Three.  There's a job post in
 # the Merchant Market that might be of some help ta ya'. That's where they, and others, get their men.}
 {142}{}{我没什么路子，不过你可以去“三巨头”那碰碰运气，商队市场那里有个招募广告牌大概对你有点用，他们既是靠这个招人的。}

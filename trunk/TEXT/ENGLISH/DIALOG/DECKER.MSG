@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。}
+{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader－远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。}
 
 #{100}{}{Decker has no wish to talk to you any more.}
 {100}{}{德克不想再和你说话。}
@@ -10,7 +10,7 @@
  {102}{}{德克没空和你说话。干你的活呆会儿再来。}
 #{103}{DECK_1}{
 #So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
-{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，请教尊姓大名？}
+{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}
 #{104}{}{I am }
 {104}{}{我是}
 
@@ -50,7 +50,7 @@
 {119}{}{多少钱？}
 #{120}{DECK_6}{
 #Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
-{120}{DECK_6}{噢，棒极了，标准行情是事前付500个瓶盖，事后……再付2500个。}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付500块，事后……再付2500块。}
 #{121}{}{Where can I find this merchant?}
 {121}{}{在哪儿能找到这个商人？}
 #{122}{DECK_7}{
@@ -60,7 +60,7 @@
 {123}{}{好吧，我会做的。}
 
 #{124}{}{How will you know I killed them?}
-{124}{}{你到时候怎么知道我到底有没有杀了他们，？}
+{124}{}{你到时候怎么知道我到底有没有杀了他们？}
 #{125}{}{I don't think so.}
 {125}{}{我不干了。}
 #{126}{DECK_8}{
@@ -77,7 +77,7 @@
 {130}{DECK_10}{我必须得承认……对你有点失望。但这种事情我也不是第一次遇见了，你要记住这是秘密，再见。}
 #{131}{DECK_11}{
 #It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
-{131}{DECK_11}{这是标准的行情，事前500个瓶盖，事成后再付2500，你肯做吗？}
+{131}{DECK_11}{这是标准的行情，事前500块，事成后再付2500，你肯做吗？}
 #{132}{}{No, thanks.}
 {132}{}{不，谢谢。}
 #{133}{}{Yeah, I'll do it.}
@@ -149,7 +149,7 @@
 #{166}{}{You're a cranky guy.}
 {166}{}{你可真是块爆炭。}
 #{167}{DECK_25}{Someone appears to be stealing whole caravans from the Far Go Traders.  And the Thieves' Circle is causing their normal minor difficulties.}
-{167}{DECK_25}{不知什么人把远行商队的整个商队刮走了了。还有，那些贼帮们还在一如既往地制造麻烦。}
+{167}{DECK_25}{不知什么人把远行商队的整个商队刮走了。还有，那些贼帮们还在一如既往地制造麻烦。}
 # Line 168 has been changed due to gender issues. See lines 232-233.
 {168}{}{}
 #{169}{}{Sure.}
@@ -280,7 +280,7 @@
 {231}{}{贾斯丁·格林，见到你很高兴！我猜你是来道别的。}
 
 #
-# TRANSLATIONMost mer NOTE: The following groups of  lines are identical in English,
+# TRANSLATION NOTE: The following groups of  lines are identical in English,
 # but they differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
