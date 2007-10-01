@@ -9,7 +9,7 @@
 #{104}{}{I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!}
 {104}{}{我知道你是谁。你是行走的死亡，披着人皮的瘟疫。你的脚踏到哪里，哪里就会血流成河。但是不管你的邪恶多么逆天，它都可以被一个公正的灵魂终结！}
 #{105}{}{}
-{105}{}{你竟敢打扰我！难道你不知道我的位置是多重要吗？滚出去！}
+{105}{}{你竟敢打扰我！难道你不知道我的工作是多重要吗？滚出去！}
 #{106}{}{}
 {106}{}{你愚蠢到了用武器对着我。主教的守护在我身上，除了受惩罚我不可能被触碰！}
 #{107}{}{}
@@ -201,8 +201,7 @@
 #{199}{}{You are a fool if you think petty subterfuge will defeat the Nightkin. Get out of here!}
 {199}{}{如果你认为用粗鄙的借口就能说服夜行团，那你真是个蠢货。滚出去！}
 #{200}{}{Decadence and ease prevents evolution, evolution that is necessary for survival in a harsh world. Fortunately, I am a hard man who cares nothing for seductive pleasures. I see that you disagree with me. I do not care about your opinion. Get out of here!}
-{200}{}{腐败和安乐阻止发展，发展对在严酷的世界中幸存是必要的。幸运的是，我是一个对充满诱惑的事物漠不关心的硬
-汉子。我明白你不同意我的想法。我不在乎你的观点。滚出去吧！}
+{200}{}{腐败和安乐阻止发展，发展对在严酷的世界中幸存是必要的。幸运的是，我是一个对充满诱惑的事物漠不关心的硬汉子。我明白你不同意我的想法。我不在乎你的观点。滚出去吧！}
 #{201}{}{Mutation is nothing to fear. Every birth is a mutation of our parents?DNA. We are all mutants. The only thing that matters is that the mutant is guided on a moral and productive path. This is my job. And this also ends this discussion. Leave me now.}
 {201}{}{变异是不值得害怕的。每个新生儿不都是其双亲的变异吗？DNA。我们都是变种人。唯一有影响的事是在道德上，还有那令其多产的做法。这是我的工作。我说的话应该能结束我们的讨论了。现在离开我吧。}
 #{202}{}{I deal out pain. If the animal is worthy and can learn from it, it evolves into a righteous soul. If it does not, it does not deserve to exist. On rare occasions, the animal is removed the genetic pool, although not as often as I would like. This happens more often with failed grown animals.}

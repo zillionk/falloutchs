@@ -1,9 +1,6 @@
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
-
-
-
 #{100}{}{You see a weary traveler.}
 #{101}{}{You see Lance, one of the guards from Shady Sands' long-range patrols.}
 #{102}{}{Just stay where you are. We've heard about you in Shady Sands and
