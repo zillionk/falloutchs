@@ -245,7 +245,7 @@
 {181}{}{你来到这里是错的，朋友。这里并不是展示力量的场所，这里是展示和平的场所。}
 
 #{182}{}{I hear that our Crusade goes well. Soon we shall bring Peace and Unity to the Boneyard, and all the surrounding communities  Isn't it great? }
-{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和“同一”带至晒骨场以及周围的城市。多么伟大的行动啊！}
+{182}{}{我听说我们的讨伐行动进行得很顺利。我们很快就要将和平和“同一”带至曝骨场以及周围的城市。多么伟大的行动啊！}
 
 #{183}{}{Who's next on the list to receive Peace and Unity? }
 {183}{}{下一个获得和平“同一”的地方是哪里呢？}

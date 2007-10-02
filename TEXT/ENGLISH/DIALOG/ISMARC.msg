@@ -46,13 +46,13 @@
 #{121}{}{The Brotherhood is a couple days west and a little bit north of here. Don't go there, though. They won't let you in unless you're with a caravan. You need anything else?}
 {121}{}{钢铁兄弟会在西面偏北的方向距离这里大约数天的路程。但是，别去那里。除非与商队同行，他们是不会允许你进入的。你还需要别的帮助吗？}
 #{122}{}{Hmm. Head southwest of the Hub. Adytum is part of the Boneyard. It's a small, semi-industrial town. I didn't like it much there. What else do you want?}
-{122}{}{唔。在哈勃城的西南方。内城区是晒骨场的一部分。它是一个工业薄弱的小型城镇。我并不怎么喜欢那里。你还需要些什么？}
+{122}{}{唔。在哈勃城的西南方。内城区是曝骨场的一部分。它是一个工业薄弱的小型城镇。我并不怎么喜欢那里。你还需要些什么？}
 #{123}{}{Hey, thanks. It's hard being a starving artist. You got anything you need to know, you just ask.}
 {123}{}{嗨，谢谢。贫困艺术家的生活总是很艰辛。你会得到你想知道的一切答案，随便你问。}
 #{124}{}{I appreciate the thought and all, but you're strapped worse than I am.}
 {124}{}{我感激你的这些想法，但你显然比我更加一文不名。}
 #{125}{}{Ah, I picked it up here and there. Learned a little from an old singer at the Hub, and got some music from the scavs in Adytum, in the Boneyard. You know. Just takes some practice.}
-{125}{}{呵，我到处寻访收集。从哈勃城的老歌手那里学习到一些歌唱技巧，从晒骨场的内城区搜寻到一些乐曲。你知道的。只需要进行一些练习。}
+{125}{}{呵，我到处寻访收集。从哈勃城的老歌手那里学习到一些歌唱技巧，从曝骨场的内城区搜寻到一些乐曲。你知道的。只需要进行一些练习。}
 #{126}{}{There is a man singing raucously in the corner.}
 {126}{}{角落里一个男人在用沙哑的声音唱歌。}
 #{127}{}{Your head is a bowl!}

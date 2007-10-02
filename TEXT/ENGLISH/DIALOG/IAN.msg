@@ -69,7 +69,7 @@
 #{120}{}{There are several. They come from various groups. They steal
 # our food and occasionally shoot a few people.
 # Seth organized the guards to help fight them off.}
-{120}{}{附近有一些，这些人来自不同的部族。他们偷我们的食物有时候甚至开枪伤人。赛思组织了一支护卫队想击退强盗。}
+{120}{}{附近有一些，这些人来自不同的部族。他们偷我们的食物，有时候甚至开枪伤人。赛思组织了一支护卫队想击退强盗。}
 
 #{121}{}{Can you tell me about Seth?}
 {121}{}{你能告诉我赛思是谁吗？}
@@ -90,7 +90,7 @@
 # the Radscorpion caves to kill a few Radscorpions, but
 # they always wind up coming back. There are just too many
 # for him to fight.}
-{125}{}{赛思是非常勇猛的战士。他有时会孤身一人去洞穴里解决掉一些辐射蝎，但过不了多久它们又会卷土重来。那里有太多的威胁让他应接不暇。}
+{125}{}{赛思是个勇士。他有时会孤身一人去洞穴里解决掉一些辐射蝎，但过不了多久它们又会卷土重来。那里有太多的威胁让他应接不暇。}
 
 #{126}{}{Are the Radscorpions really that dangerous?}
 {126}{}{辐射蝎真的那么危险吗？}
@@ -101,7 +101,7 @@
 #{128}{}{There are three groups: the Khans, the Vipers, and the
 # Jackals. They pretty much hate each other, but they
 # all raid Shady Sands.}
-{128}{}{歹徒有三个部族:可汗，毒蛇和豺狼。他们彼此极端仇视，但共同的袭击目标都是沙荫镇。}
+{128}{}{强盗有三个部族:可汗，毒蛇和豺狼。他们彼此极端仇视，但共同的袭击目标都是沙荫镇。}
 
 #{129}{}{Tell me more about Shady Sands.}
 {129}{}{告诉我更多关于沙荫镇的事。}
@@ -130,7 +130,7 @@
 {136}{}{告诉我关于赛思的事。}
 
 #{137}{}{Can you give me directions to the Hub and Junktown?}
-{137}{}{你能指引我怎么去哈勃城和迦克镇吗？}
+{137}{}{你能告诉我怎么去哈勃城和迦克镇吗？}
 
 #{138}{}{Nothing, thanks.}
 {138}{}{没事，谢谢。}
@@ -270,7 +270,7 @@
 #
 
 #{175}{}{I thought the Boneyard was worse.}
-{175}{}{我觉得晒骨场更糟。}
+{175}{}{我觉得曝骨场更糟。}
 
 
 
@@ -294,7 +294,7 @@
 # Ian tell-me-abouts
 #
 {1099}{}{?}
-{1199}{}{我可以告诉你：Water-水、War-大战、Shady-沙荫镇、Junktown-迦克镇、Hub-哈勃、Raiders-歹徒、Caravans-商队、Chip-芯片、Sands-沙荫镇、Followers-末世论者、Cathedral-大教堂、Garl-伽尔、Master-主教、Unity-“同一”、Set-赛特、Watershed-水处理房、Necropolis-大墓地城、hall-亡者大厅、Library-图书馆、Overseer-所长、Medic-医生、Healing-治疗、Vault-避难所、Vault13-十三号避难所、Killian-基利安、Gizmo-吉斯莫、boneyard-晒骨场、Casino-赌场、Store-店铺、Deathclaw-死亡爪、Exodus-大迁徙、Initiates-新兵、Paladins-游侠、Scribes-研究员、Children-大教堂教徒、Brotherhood-兄弟会、Vats-病毒槽、Military-军事基地、Base-军事基地、Apocalypse-末世论、Mutants-变种人、Morpheus-墨菲斯、Khans-可汗帮、Tandi-坦蒂、Alya-艾丽娅、Diana-戴安娜、Gwen-格温、Petrox-派特拉克斯、Tolya-托利亚、Booze-酒、Drugs-毒品、Seth-赛思、Aradesh-亚拉德什、Razlo-拉斯洛、Zimmerman-齐默曼、Regulators-管理者、Scavs-拾荒者、Blades-利刃帮、Nicole-妮可尔、Lieutenant-主教副官、Psychics-心理、Experiments-试验、Police-警察、Merchants-商人。}
+{1199}{}{我可以告诉你：Water-水、War-大战、Shady-沙荫镇、Junktown-迦克镇、Hub-哈勃、Raiders-歹徒、Caravans-商队、Chip-芯片、Sands-沙荫镇、Followers-末世论者、Cathedral-大教堂、Garl-伽尔、Master-主教、Unity-“同一”、Set-赛特、Watershed-水处理房、Necropolis-大墓地城、hall-亡者大厅、Library-图书馆、Overseer-所长、Medic-医生、Healing-治疗、Vault-避难所、Vault13-十三号避难所、Killian-基利安、Gizmo-吉斯莫、boneyard-曝骨场、Casino-赌场、Store-店铺、Deathclaw-死亡爪、Exodus-大迁徙、Initiates-新兵、Paladins-游侠、Scribes-研究员、Children-大教堂教徒、Brotherhood-兄弟会、Vats-病毒槽、Military-军事基地、Base-军事基地、Apocalypse-末世论、Mutants-变种人、Morpheus-墨菲斯、Khans-可汗帮、Tandi-坦蒂、Alya-艾丽娅、Diana-戴安娜、Gwen-格温、Petrox-派特拉克斯、Tolya-托利亚、Booze-酒、Drugs-毒品、Seth-赛思、Aradesh-亚拉德什、Razlo-拉斯洛、Zimmerman-齐默曼、Regulators-管理者、Scavs-拾荒者、Blades-利刃帮、Nicole-妮可尔、Lieutenant-主教副官、Psychics-心理、Experiments-试验、Police-警察、Merchants-商人。}
 
 {1000}{}{Water}
 {1001}{}{War}
@@ -406,7 +406,7 @@
 
 #{1111}{}{Garl's some dumb-ass who thinks he can take over the world with his
 # crummy raiders. Yeah, whatever.}
-{1111}{}{伽尔是一个笨蛋-他认为他能带着他那些歹徒征服整个世界。}
+{1111}{}{伽尔是一个笨蛋-他认为他能带着他那些强盗征服整个世界。}
 
 #{1112}{}{Sorry, bud. Don't know much.}
 {1112}{}{对不起，小孩子不要知道的太多。}
@@ -460,7 +460,7 @@
 
 #{1128}{}{The casino is Gizmo's big project in Junktown. Brings in a lot of
 # tourists and money, but problems come with it.}
-{1128}{}{迦克镇的赌场是吉斯莫的大计划。为他带来了许多旅游者和钱，但同时也为他带来了一些麻烦。}
+{1128}{}{迦克镇的赌场是吉斯莫的大计划。为他带来了许多游客和钱，但同时也为他带来了一些麻烦。}
 
 #{1129}{}{Killian runs a good general store in Junktown.}
 {1129}{}{基利安经营着迦克镇的一间很好的商店。}

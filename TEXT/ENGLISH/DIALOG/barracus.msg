@@ -152,7 +152,7 @@
 #{174}{}{That's Morpheus. He stays upstairs, except to give sermons. He don't even do that much anymore. He's smart and he's a winner, and that's all that counts. Go see him for yourself.}
 {174}{}{那是墨菲斯。他除了布道，一直呆在楼上。他也不常布道。他很聪明，也是个成功者，这才最关键。你自己去找他吧。}
 #{175}{}{You need to go out into the Boneyard, pal. Ain't no slosh in here, and I've looked!}
-{175}{}{你得去晒骨场，朋友。这里没有，我已经看过了！}
+{175}{}{你得去曝骨场，朋友。这里没有，我已经看过了！}
 #{176}{}{Agree. What can Ton do for you?}
 {176}{}{同意。唐能为你做什么？}
 #{177}{}{Bitch! You don't know what you're missing! Get out!}
