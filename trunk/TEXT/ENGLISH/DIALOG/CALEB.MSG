@@ -15,7 +15,7 @@
 #{106}{}{Can you tell me a little about Adytum?}
 {106}{}{你能告诉我一些内城区的事情吗？}
 #{107}{}{Can you tell me what's going on here in the Boneyard?}
-{107}{}{你能告诉我在晒骨场发生了什么事情？}
+{107}{}{你能告诉我在曝骨场发生了什么事情？}
 #{108}{}{What's the history behind the Regulators?}
 {108}{}{管理者的历史是怎样的？}
 #{109}{}{Tell me more about the Children and the Followers.}

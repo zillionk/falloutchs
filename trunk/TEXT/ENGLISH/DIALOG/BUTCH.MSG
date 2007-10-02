@@ -201,7 +201,7 @@
 #{200}{}{Thanks.}
 {200}{}{多谢。}
 #{201}{BUTCH34}{Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard to the south.}
-{201}{BUTCH34}{好吧，北方有迦克镇，西北方有钢铁兄弟会。当然了，南方还有晒骨场。}
+{201}{BUTCH34}{好吧，北方有迦克镇，西北方有钢铁兄弟会。当然了，南方还有曝骨场。}
 #{202}{}{Anything else?}
 {202}{}{还有别的吗？}
 #{203}{}{Thanks.}
@@ -425,13 +425,13 @@
 #{309}{butch101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
 {309}{butch101}{为什么？你听说了什么？我听说它被洗劫了，但没人知道是谁干的。不过，嗯，我并不担心。没人能攻下哈勃城。}
 #{310}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
-{310}{butch102}{嗯，那是人们都去晒骨场交易的地方。那是唯一一个能够文明交易的地方。}
+{310}{butch102}{嗯，那是人们都去曝骨场交易的地方。那是唯一一个能够文明交易的地方。}
 #{311}{butch103}{Last I heard, he's the mayor of Adytum.}
 {311}{butch103}{我最近听说，他是内城区的总管。}
 #{312}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
 {312}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
 #{313}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
-{313}{butch105}{他领导晒骨场的大教堂教徒。}
+{313}{butch105}{他领导曝骨场的大教堂教徒。}
 #{314}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
 {314}{buth105a}{简恩是大教堂教徒的高级牧师，在哈勃城建了医院。}
 #{504}{buth105b}{I've no idea what you're talking about.}
@@ -484,7 +484,7 @@
 #
 {1099}{}{?}
 
-{1199}{}{我可以告诉你：Decker-德克、Underground-地下组织、Maltese-马耳他猎鹰、Thieves-贼窝、Justin-贾斯廷、Harold-哈罗德、Merchants-纯水商队、Daren-达伦、Crimson-深红商队、Demetre-戴米德、Trader-远行商队、Butch-布奇、Beth-贝斯、Rutger-罗格尔、Water-水源、Missing-失踪、Market-商人市场、Claw-死亡爪、Glow-闪光之地、Town-旧城区、Heights-高地区、Junktown-迦克镇、Killian-基利安、Brotherhood-兄弟会、Elder-最高元老、Angel's-洛杉矶、Adytum-内城区、Jon-琼、Cathedral-大教堂、Morpheus-墨菲斯、Jain-简恩、Master-主教、Weapon-武器、Bob's-鲍勃、All-In-One-百货店、Followers-末世论者、Harris-哈里斯、Falcon-猎鹰、Nightclub-夜总会、Merchant-纯水商队、Hightower-海托、Greene-格林、Caravan-深红商队、Romara-罗玛拉、Traders-远行商队、Tower-海托、Caravans-深红商队、Darkwater-黑水、Steel-钢铁兄弟会、Angels-洛杉矶、Boneyard-晒骨场、Zimmerman-齐默曼、Weapons-武器、Store-商店、guns-枪支、Bobs-鲍勃、Iguana-蜥蜴串、Apocalypse-Apocalypse、Death-死亡爪、Deathclaw-死亡爪、Hot-闪光之地、Oldtown-旧城区、Old-旧城区、Maxson-马克松、All-百货、Junk-迦克镇。}
+{1199}{}{我可以告诉你：Decker-德克、Underground-地下组织、Maltese-马耳他猎鹰、Thieves-贼窝、Justin-贾斯廷、Harold-哈罗德、Merchants-纯水商队、Daren-达伦、Crimson-深红商队、Demetre-戴米德、Trader-远行商队、Butch-布奇、Beth-贝斯、Rutger-罗格尔、Water-水源、Missing-失踪、Market-商人市场、Claw-死亡爪、Glow-闪光之地、Town-旧城区、Heights-高地区、Junktown-迦克镇、Killian-基利安、Brotherhood-兄弟会、Elder-最高元老、Angel's-洛杉矶、Adytum-内城区、Jon-琼、Cathedral-大教堂、Morpheus-墨菲斯、Jain-简恩、Master-主教、Weapon-武器、Bob's-鲍勃、All-In-One-百货店、Followers-末世论者、Harris-哈里斯、Falcon-猎鹰、Nightclub-夜总会、Merchant-纯水商队、Hightower-海托、Greene-格林、Caravan-深红商队、Romara-罗玛拉、Traders-远行商队、Tower-海托、Caravans-深红商队、Darkwater-黑水、Steel-钢铁兄弟会、Angels-洛杉矶、Boneyard-曝骨场、Zimmerman-齐默曼、Weapons-武器、Store-商店、guns-枪支、Bobs-鲍勃、Iguana-蜥蜴串、Apocalypse-Apocalypse、Death-死亡爪、Deathclaw-死亡爪、Hot-闪光之地、Oldtown-旧城区、Old-旧城区、Maxson-马克松、All-百货、Junk-迦克镇。}
 
 {1000}{}{Decker}
 {1001}{}{Underground}
@@ -612,13 +612,13 @@
 #{1126}{butch101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
 {1126}{butch101}{为什么？你听说了什么？我听说它被洗劫了，但没人知道是谁干的。不过，嗯，我并不担心。没人能攻下哈勃城。}
 #{1126}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
-{1126}{butch102}{嗯，那是人们都去晒骨场交易的地方。那是唯一一个能够文明交易的地方。}
+{1126}{butch102}{嗯，那是人们都去曝骨场交易的地方。那是唯一一个能够文明交易的地方。}
 #{1127}{butch103}{Last I heard, he's the mayor of Adytum.}
 {1127}{butch103}{我最近听说，他是内城区的总管。}
 #{1128}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
 {1128}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
 #{1129}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
-{1129}{butch105}{他领导着晒骨场的大教堂教徒。}
+{1129}{butch105}{他领导着曝骨场的大教堂教徒。}
 #{1130}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
 {1130}{buth105a}{简恩是大教堂教徒的高级牧师，在哈勃城建起了医院。}
 #{1131}{butch106}{I uh……heard stories, that's all. No truth to them.}

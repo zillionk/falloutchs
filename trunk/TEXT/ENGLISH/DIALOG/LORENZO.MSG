@@ -387,7 +387,7 @@
 
 #{224}{}{I'll bet their leader, this Morpheus character, he's not broke! No sir! I'll bet that over in the
 # Boneyard, he's just living it up!}
-{224}{}{我打赌他们的领袖，那个墨菲斯一钱不值，不，先生！我打赌在晒骨场，他们也能过的很快乐！}
+{224}{}{我打赌他们的领袖，那个墨菲斯一钱不值，不，先生！我打赌在曝骨场，他们也能过的很快乐！}
 
 #{225}{}{What about those missing caravans?}
 {225}{}{那些失踪的商队怎么样？}
