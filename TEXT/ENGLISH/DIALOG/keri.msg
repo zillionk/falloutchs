@@ -15,13 +15,13 @@
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{103}{}{老不死的居然同意你来干活了？你他妈一定是个悍妇。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和曝骨场。}
+{103}{}{老不死的居然同意你来干活了？你他妈一定是个悍妇。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{104}{}{So, that old bastard gave you the okay to work for us, eh?  Well you must have balls of steel.
 # I'm impressed, but we'll see how you do.  We leave only twice a month, on
 # the 3rd and 17th.  Can you handle that? We go to all the local hot spots:  the Brotherhood of Steel,
 # Junktown, Necropolis, and the Boneyard.}
-{104}{}{老不死的居然同意你来干活了？你他妈一定是个糙哥。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和曝骨场。}
+{104}{}{老不死的居然同意你来干活了？你他妈一定是个糙哥。我很欣赏，但要看你的表现了。我们每个月出发两次，3号和17号，你能来吧。我们主要去四个地方：钢铁兄弟会、迦克镇、大墓地和晒骨场。}
 
 #{105}{}{And the pay?}
 {105}{}{报酬如何？}
@@ -208,7 +208,7 @@
 {163}{}{钢铁兄弟会}
 {164}{}{迦克镇}
 {165}{}{大墓地}
-{166}{}{曝骨场}
+{166}{}{晒骨场}
 
 #{167}{}{Never mind.  I have something I forgot to do. }
 {167}{}{算了，我还有自己的事情要做。}
@@ -265,7 +265,7 @@
 
 #{184}{}{I'm told the Boneyard used to be a place called LA.  I don't know what the person's initials stand
 # for, but it's a cool place.}
-{184}{}{我知道曝骨场以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
+{184}{}{我知道晒骨场以前就是洛杉矶。我也不知道这个“洛杉矶”具体是人名还是什么的，但那里是一个很酷的地方。}
 
 #{185}{}{What the hell do you want?}
 {185}{}{你到底要干什么？}

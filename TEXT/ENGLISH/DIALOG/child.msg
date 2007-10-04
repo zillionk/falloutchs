@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{我可以告诉你：Deathclaw-死亡爪、Raiders-歹徒、Junktown-迦克镇、Brahmin-双头牛、Chip-芯片、Merchants-商人、Khans-可汗帮、Garl-伽尔、Shady Sands-沙荫镇、Hub-哈勃城、Tandi-坦蒂、Aradesh-亚拉德什、Seth-赛思、Razlo-拉斯洛、Police-警察、Caravans-商队、Traders-商人、Children-大教堂教徒、Necropolis-大墓地城、Spot-辐射中心、Brotherhood-兄弟会、Boneyard-曝骨场、Towers-水塔、Town-城里、Downtown-商业区、Heights-高地区。}
+{1199}{}{我可以告诉你：Deathclaw-死亡爪、Raiders-歹徒、Junktown-迦克镇、Brahmin-双头牛、Chip-芯片、Merchants-商人、Khans-可汗帮、Garl-伽尔、Shady Sands-沙荫镇、Hub-哈勃城、Tandi-坦蒂、Aradesh-亚拉德什、Seth-赛思、Razlo-拉斯洛、Police-警察、Caravans-商队、Traders-商人、Children-大教堂教徒、Necropolis-大墓地城、Spot-辐射中心、Brotherhood-兄弟会、Boneyard-晒骨场、Towers-水塔、Town-城里、Downtown-商业区、Heights-高地区。}
 
 #{100}{}{You see a small child.}
 {100}{}{你看见一个孩子。}
