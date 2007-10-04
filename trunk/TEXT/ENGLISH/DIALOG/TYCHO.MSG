@@ -381,7 +381,7 @@
 #
 
 {1099}{}{?}
-{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard曝骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
+{1199}{}{我可以告诉你：Water水、War大战、Shady沙荫镇、Junktown迦克镇、Hub哈勃、Raiders歹徒、Caravans商队、Chip芯片、Sands沙荫镇、Followers末世论者、Cathedral大教堂、Garl伽尔、Master主教、Unity“同一”、Set赛特、Watershed水处理房、Necropolis大墓地城、hall亡者大厅、Library图书馆、Overseer所长、Medic医生、Healing治疗、Vault避难所、Vault13十三号避难所、Killian基利安、Gizmo吉斯莫、boneyard晒骨场、Casino赌场、Store店铺、Deathclaw死亡爪、Exodus大迁徙、Initiates新兵、Paladins游侠、Scribes研究员、Children大教堂教徒、Brotherhood兄弟会、Vats病毒槽、Military军事基地、Base军事基地、Apocalypse末世论、Mutants变种人、Morpheus墨菲斯、Khans可汗帮、Tandi坦蒂、Alya艾丽娅、Diana戴安娜、Gwen格温、Petrox派特拉克斯、Tolya托利亚、Booze酒、Drugs毒品、Seth赛思、Aradesh亚拉德什、Razlo拉斯洛、Zimmerman齐默曼、Regulators管理者、Scavs拾荒者、Blades利刃帮、Nicole妮可尔、Lieutenant主教副官、Psychics心理、Experiments试验、Police警察、Merchants商人。}
 
 
 {1000}{}{Junktown}
@@ -472,7 +472,7 @@
 {1120}{}{我听说过那些地下避难所。可我知道的不多。}
 {1121}{}{基利安是个好人，他的工作可不轻松。}
 {1122}{}{吉斯莫……事实上，他把我当贼打。他会得到报应的。}
-{1123}{}{曝骨场？靠近海边的地方。听说那个地方帮派聚集，生活艰辛。}
+{1123}{}{晒骨场？靠近海边的地方。听说那个地方帮派聚集，生活艰辛。}
 {1124}{}{对不起，这我可帮不上忙。}
 {1125}{}{对不起，这我可帮不上忙。}
 {1126}{}{是哈勃的大商会，在迦克镇南边不远。}

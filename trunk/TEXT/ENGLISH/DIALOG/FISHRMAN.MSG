@@ -103,7 +103,7 @@
 {146}{}{我正在找净水芯片。}
 {147}{}{我正在搜寻变种人军团的线索。}
 {148}{}{你能告诉我关于钢铁兄弟会的事情吗？}
-{149}{}{你能告诉我关于曝骨场的事情吗？}
+{149}{}{你能告诉我关于晒骨场的事情吗？}
 {150}{}{对不起朋友，我想我帮不了你。}
 #{151}{}{'Runk' ain't the same as keeping quiet. Now shut yer yap and get outta here.}
 #{152}{}{Fine. Take what you want and get out.}
