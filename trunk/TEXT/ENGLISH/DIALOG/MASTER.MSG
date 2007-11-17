@@ -43,7 +43,7 @@
 #{121}{}{I hope we won't end up looking like you.}
 {121}{}{我可不希望变成你们这副尊容。}
 #{122}{Mast07}{Of course. Mutants are best equipped to deal with the world today. Who else? The ghouls. Please. Normals. They brought nuclear death to us all. This will be the age of mutants. Mutants.}
-{122}{Mast07}{然也。变种人是最有能力接管这个世界的种族。还能有谁？僵尸？别开玩笑了。人类？是他们造成了全球的核浩劫。未来将是变种人的时代！变种人的时代！}
+{122}{Mast07}{当然。变种人是最有能力接管这个世界的种族。还能有谁？僵尸？别开玩笑了。人类？是他们造成了全球的核浩劫。未来将是变种人的时代！变种人的时代！}
 #{123}{}{You mean to change all the others into mutants, as well.}
 {123}{}{你的意思是把其他种族都变成变种人。}
 #{124}{}{You're such a bigot.}
@@ -53,7 +53,7 @@
 #{126}{Mast08}{All that resist, yes. All those that are required for the Unity as well. The remainder will be allowed to live out their days, but under Unity control and protection. But none shall breed, for they will be the last of their race.}
 {126}{Mast08}{所有反抗者，杀无赦，这也是“同一”事业所必须的程序。幸存的人将会在“同一”事业的控制和保护下苟活至死，但是这些孽族不准生育后代，他们将会是其种族的最后一代。}
 #{127}{}{You've got a problem with your master plan.}
-{127}{}{你的主教计划有个纰漏。}
+{127}{}{你的大计划有个纰漏。}
 #{128}{}{Sounds like you've got it under control.  I'll join up.}
 {128}{}{听起来你已经万事俱备。我要加入。}
 #{129}{}{I think you are, all of you are, nuts and I need to stop you now.}
