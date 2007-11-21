@@ -243,7 +243,7 @@
 # by natural growth or mutations. This leads me to believe in -- I
 # don't really understand it. But it looks like someone's
 # generating new mutants. And at a startling rate.}
-{180}{Over_44}{【叹气】变种人的数量远超过我们按照自然增长和突变率的预期。这使我相信－－我不能理解。但目前看起来是有人在制造新的变种人，而且其速度令人吃惊。王八操的……}
+{180}{Over_44}{【叹气】变种人的数量远超过我们按照自然增长和突变率的预期。这使我相信——我不能理解。但目前看起来是有人在制造新的变种人，而且其速度令人吃惊。王八肏的……}
 
 #{181}{}{Say again? Without the confusion?}
 {181}{}{你再清楚地说一遍？}

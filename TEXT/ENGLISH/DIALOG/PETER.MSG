@@ -1,7 +1,7 @@
 {1099}{}{?}
 {1199}{}{此人不能告诉你什么。}
 
-#{100}{}{You see Peter, leader of the Follower Scouts.}
+#{100}{}{You see , leader of the Follower Scouts.}
 #{101}{}{What are you doing around here? Can't you see we are busy?}
 #{102}{}{Huh?}
 #{103}{}{I am sorry. I will go now.}

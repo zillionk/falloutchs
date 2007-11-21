@@ -1,5 +1,5 @@
 {1099}{}{?}
-{1199}{}{隆勃斯可以告诉你：Vree－弗蕾、Rhombus－隆勃斯、Talus－塔卢斯、Elder－最高元老、Scribes－研究员、Knights－骑士、Hub－哈勃城、Disks－磁盘、Army－军队、Boneyard－晒骨场、Paladins－游侠、Master－主教、War－大战、Exodus－大迁徙、Strange Army－奇怪的军队、Merchants－商人、Missing Caravans－失踪的商队、Children of the Cathedral－大教堂教徒、Initiates－新兵、Chip－芯片。}
+{1199}{}{隆伯斯可以告诉你：Vree－弗蕾、Rhombus－隆勃斯、Talus－塔卢斯、Elder－最高元老、Scribes－研究员、Knights－骑士、Hub－哈勃城、Disks－磁盘、Army－军队、Boneyard－晒骨场、Paladins－游侠、Master－主教、War－大战、Exodus－大迁徙、Strange Army－奇怪的军队、Merchants－商人、Missing Caravans－失踪的商队、Children of the Cathedral－大教堂教徒、Initiates－新兵、Chip－芯片。}
 
 #{100}{}{You see Rhombus.}
 #{101}{}{Tell me about yourself.}
