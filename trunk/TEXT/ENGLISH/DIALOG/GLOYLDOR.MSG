@@ -1,11 +1,8 @@
-{1099}{}{?}
-{1199}{}{此人不能告诉你什么。}
-
 #{100}{}{The frame of this security door has remnants of blue paint.}
 {100}{}{安全门的架构上残留着蓝色喷漆。}
 
 #{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
-{101}{}{门上的电场发出轻微的电击，你受到一点伤害}
+{101}{}{门上的电场发出轻微的电击，你受到1点伤害}
 
 #{102}{}{You get a strong shock from the electric field on the door. You sustain }
 {102}{}{门上的电场的强电震荡击中了你。你受到}

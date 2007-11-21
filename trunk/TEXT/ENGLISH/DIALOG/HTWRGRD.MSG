@@ -13,7 +13,7 @@
 #{106}{}{This house is off limits to the likes of you.}
 # "You are not permitted to enter the house."
 {100}{}{你看见一个海托的守卫。}
-{101}{}{你最好离开。达伦海托不喜欢来访者。}
+{101}{}{你最好离开。达伦·海托不喜欢来访者。}
 {102}{}{我们不需要你。}
 {103}{}{离开！}
 {104}{}{你不允许留在这里。}

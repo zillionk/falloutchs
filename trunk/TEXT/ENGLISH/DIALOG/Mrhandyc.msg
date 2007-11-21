@@ -3,7 +3,7 @@
 
 #{100}{}{The robot is non-functional. The layer of dust on it suggests that it
 # hasn't been active recently.}
-{100}{}{这是个非功能型的机器人。从上边的一层灰尘来看它最近很少活动。}
+{100}{}{这是个失效的机器人。从上边的一层灰尘来看它最近都没动过。}
 
 #{101}{}{The robot has been repaired, but it is still not functioning.}
 {101}{}{这个机器人已经被修好了，但是它仍然没反应。}

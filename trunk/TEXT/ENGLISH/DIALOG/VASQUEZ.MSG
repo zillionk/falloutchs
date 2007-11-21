@@ -2,7 +2,7 @@
 {1199}{}{此人不能告诉你什么。}
 
 #{100}{}{You see Vasquez, the mercenary desperado.}
-{100}{}{你看到法兹克斯，赏金亡命徒。}
+{100}{}{你看到法斯克兹，赏金亡命徒。}
 
 #{101}{}{You see a seedy-looking gunman.}
 {101}{}{你看到一个衣着邋遢的枪手。}
@@ -22,7 +22,7 @@
 #{106}{}{You have not heard of me? I am hurt! My name is Vasquez
 # Villanova Hernandez Ortega. I am a famous desperado,
 # my friend. And, if you have need, I am a gun for hire.}
-{106}{}{你没听说过我？我受打击了！我是法兹克斯·维拉诺瓦·赫尔南德斯·奥特加。我是个有名的雇佣兵，我的朋友。如果你有需要，我愿随时效劳。}
+{106}{}{你没听说过我？我受打击了！我是法斯克兹·维拉诺瓦·赫尔南德斯·奥特加。我是个有名的雇佣兵，我的朋友。如果你有需要，我愿随时效劳。}
 
 #{107}{}{Really? How much do you cost?}
 {107}{}{真的？你出价多少？}

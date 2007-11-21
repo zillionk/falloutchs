@@ -6,7 +6,7 @@
 #{101}{}{Hng!}
 {101}{}{哼！}
 #{102}{}{Tough luck.}
-{102}{}{他命苦。}
+{102}{}{可怜的人。}
 #{103}{}{He was my enemy. I had to kill him.}
 {103}{}{他是我的敌人。我不得不杀了他。}
 #{104}{}{I'm sorry. I didn't know that he was so close to you.}
