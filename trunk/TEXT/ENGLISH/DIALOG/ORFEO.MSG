@@ -9,7 +9,7 @@
 # {105}{}{Then we shall take care of that problem shortly.}
 # {106}{}{We must first cleanse you from the impurities of the wastelands. Come.}
 # {107}{}{We will cleanse you!}
-{100}{}{你看到奥佛，一个资深的大教堂教徒。}
+{100}{}{你看到奥费奥，一个资深的大教堂教徒。}
 {101}{}{噢，一个新的信徒，欢迎！}
 {102}{}{我杀！！！}
 {103}{}{我不是新信徒。}
